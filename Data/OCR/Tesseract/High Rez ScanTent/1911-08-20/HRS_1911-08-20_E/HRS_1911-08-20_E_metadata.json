@@ -1,0 +1,23 @@
+{
+  "source_image": "C:\\Users\\HAL9000\\Desktop\\Thesis\\Pipeline Scans\\High Rez ScanTent\\1911-08-20\\HRS_1911-08-20_E.jpg",
+  "image_size": [
+    6048,
+    8064
+  ],
+  "engine": "tesseract v5.5.3.20260724",
+  "language": "fra",
+  "tessdata_dir": null,
+  "oem": 1,
+  "psm": 3,
+  "dpi_used": 300,
+  "dpi_from_image": null,
+  "scale": 1.0,
+  "config": [
+    "thresholding_method=2"
+  ],
+  "reflowed": true,
+  "words": 3389,
+  "mean_word_confidence": 82.79,
+  "words_below_50_confidence": 370,
+  "seconds": 31.7
+}

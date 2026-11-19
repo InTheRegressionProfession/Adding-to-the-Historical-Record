@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1895-08-04_D.jpg",
+  "num_pages": 1,
+  "total_token_count": 8907,
+  "total_chunks": 90,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3422,
+        4954
+      ],
+      "token_count": 8907,
+      "num_chunks": 90,
+      "num_images": 0
+    }
+  ]
+}

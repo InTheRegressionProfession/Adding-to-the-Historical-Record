@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1912-02-11_E.jpg",
+  "num_pages": 1,
+  "total_token_count": 8961,
+  "total_chunks": 122,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3441,
+        5025
+      ],
+      "token_count": 8961,
+      "num_chunks": 122,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "file_name": "HRS_1911-08-20_C.jpg",
+  "num_pages": 1,
+  "total_token_count": 7618,
+  "total_chunks": 111,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        6048,
+        8064
+      ],
+      "token_count": 7618,
+      "num_chunks": 111,
+      "num_images": 4
+    }
+  ]
+}

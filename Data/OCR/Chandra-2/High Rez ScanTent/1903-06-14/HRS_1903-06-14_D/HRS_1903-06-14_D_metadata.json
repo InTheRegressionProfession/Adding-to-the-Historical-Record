@@ -1,0 +1,21 @@
+{
+  "file_name": "HRS_1903-06-14_D.jpg",
+  "num_pages": 1,
+  "total_token_count": 8986,
+  "total_chunks": 105,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        5421,
+        8009
+      ],
+      "token_count": 8986,
+      "num_chunks": 105,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "file_name": "LRS_1903-12-13_A.jpg",
+  "num_pages": 1,
+  "total_token_count": 985,
+  "total_chunks": 19,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        4284,
+        5712
+      ],
+      "token_count": 985,
+      "num_chunks": 19,
+      "num_images": 1
+    }
+  ]
+}

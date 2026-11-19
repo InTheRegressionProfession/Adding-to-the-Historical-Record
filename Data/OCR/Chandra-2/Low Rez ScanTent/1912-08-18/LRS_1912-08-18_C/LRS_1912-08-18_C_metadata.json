@@ -1,0 +1,21 @@
+{
+  "file_name": "LRS_1912-08-18_C.jpg",
+  "num_pages": 1,
+  "total_token_count": 6727,
+  "total_chunks": 77,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        4284,
+        5712
+      ],
+      "token_count": 6727,
+      "num_chunks": 77,
+      "num_images": 4
+    }
+  ]
+}

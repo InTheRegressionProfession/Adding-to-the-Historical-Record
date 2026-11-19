@@ -1,0 +1,21 @@
+{
+  "file_name": "HRS_1912-02-25_B.jpg",
+  "num_pages": 1,
+  "total_token_count": 7929,
+  "total_chunks": 88,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        6048,
+        8064
+      ],
+      "token_count": 7929,
+      "num_chunks": 88,
+      "num_images": 0
+    }
+  ]
+}

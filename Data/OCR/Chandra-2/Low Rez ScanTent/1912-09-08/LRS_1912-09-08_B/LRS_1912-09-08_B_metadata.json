@@ -1,0 +1,21 @@
+{
+  "file_name": "LRS_1912-09-08_B.jpg",
+  "num_pages": 1,
+  "total_token_count": 7756,
+  "total_chunks": 83,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        4284,
+        5712
+      ],
+      "token_count": 7756,
+      "num_chunks": 83,
+      "num_images": 0
+    }
+  ]
+}

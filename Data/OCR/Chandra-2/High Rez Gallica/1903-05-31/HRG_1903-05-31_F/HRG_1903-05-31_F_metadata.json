@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1903-05-31_F.jpg",
+  "num_pages": 1,
+  "total_token_count": 10079,
+  "total_chunks": 139,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3450,
+        4995
+      ],
+      "token_count": 10079,
+      "num_chunks": 139,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1911-07-16_C.jpg",
+  "num_pages": 1,
+  "total_token_count": 6648,
+  "total_chunks": 81,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3441,
+        5025
+      ],
+      "token_count": 6648,
+      "num_chunks": 81,
+      "num_images": 4
+    }
+  ]
+}

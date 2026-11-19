@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1903-03-22_G.jpg",
+  "num_pages": 1,
+  "total_token_count": 5722,
+  "total_chunks": 31,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3460,
+        4995
+      ],
+      "token_count": 5722,
+      "num_chunks": 31,
+      "num_images": 0
+    }
+  ]
+}

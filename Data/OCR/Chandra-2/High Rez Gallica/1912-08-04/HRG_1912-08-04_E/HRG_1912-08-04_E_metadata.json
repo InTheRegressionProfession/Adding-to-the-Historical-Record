@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1912-08-04_E.jpg",
+  "num_pages": 1,
+  "total_token_count": 8444,
+  "total_chunks": 89,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3439,
+        5076
+      ],
+      "token_count": 8444,
+      "num_chunks": 89,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1911-01-08_G.jpg",
+  "num_pages": 1,
+  "total_token_count": 6953,
+  "total_chunks": 88,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3441,
+        5025
+      ],
+      "token_count": 6953,
+      "num_chunks": 88,
+      "num_images": 1
+    }
+  ]
+}

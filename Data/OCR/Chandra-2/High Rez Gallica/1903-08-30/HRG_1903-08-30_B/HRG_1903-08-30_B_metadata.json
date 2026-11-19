@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1903-08-30_B.jpg",
+  "num_pages": 1,
+  "total_token_count": 9317,
+  "total_chunks": 121,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3461,
+        5006
+      ],
+      "token_count": 9317,
+      "num_chunks": 121,
+      "num_images": 0
+    }
+  ]
+}

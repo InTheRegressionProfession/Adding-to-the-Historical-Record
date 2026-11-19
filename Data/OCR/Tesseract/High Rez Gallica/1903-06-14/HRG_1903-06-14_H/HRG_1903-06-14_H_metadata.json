@@ -1,0 +1,23 @@
+{
+  "source_image": "C:\\Users\\HAL9000\\Desktop\\Thesis\\Pipeline Scans\\High Rez Gallica\\1903-06-14\\HRG_1903-06-14_H.jpg",
+  "image_size": [
+    3469,
+    5005
+  ],
+  "engine": "tesseract v5.5.3.20260724",
+  "language": "fra",
+  "tessdata_dir": null,
+  "oem": 1,
+  "psm": 3,
+  "dpi_used": 300,
+  "dpi_from_image": 300,
+  "scale": 1.0,
+  "config": [
+    "thresholding_method=2"
+  ],
+  "reflowed": true,
+  "words": 16,
+  "mean_word_confidence": 43.74,
+  "words_below_50_confidence": 10,
+  "seconds": 12.6
+}

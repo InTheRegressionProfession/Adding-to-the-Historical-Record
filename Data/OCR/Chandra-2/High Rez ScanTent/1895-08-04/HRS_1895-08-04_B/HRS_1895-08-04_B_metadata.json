@@ -1,0 +1,21 @@
+{
+  "file_name": "HRS_1895-08-04_B.jpg",
+  "num_pages": 1,
+  "total_token_count": 8409,
+  "total_chunks": 104,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        6048,
+        8064
+      ],
+      "token_count": 8409,
+      "num_chunks": 104,
+      "num_images": 0
+    }
+  ]
+}

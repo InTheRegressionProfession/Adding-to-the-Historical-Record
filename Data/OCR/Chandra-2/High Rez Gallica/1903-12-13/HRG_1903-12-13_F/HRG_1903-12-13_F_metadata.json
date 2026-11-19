@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1903-12-13_F.jpg",
+  "num_pages": 1,
+  "total_token_count": 8741,
+  "total_chunks": 118,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3471,
+        5016
+      ],
+      "token_count": 8741,
+      "num_chunks": 118,
+      "num_images": 0
+    }
+  ]
+}

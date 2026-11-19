@@ -1,0 +1,21 @@
+{
+  "file_name": "IMG_029181.JPG",
+  "num_pages": 1,
+  "total_token_count": 6332,
+  "total_chunks": 64,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        5003,
+        7234
+      ],
+      "token_count": 6332,
+      "num_chunks": 64,
+      "num_images": 0
+    }
+  ]
+}

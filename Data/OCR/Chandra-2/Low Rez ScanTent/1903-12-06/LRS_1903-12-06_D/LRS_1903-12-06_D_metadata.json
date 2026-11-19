@@ -1,0 +1,21 @@
+{
+  "file_name": "LRS_1903-12-06_D.jpg",
+  "num_pages": 1,
+  "total_token_count": 9441,
+  "total_chunks": 131,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        4284,
+        5712
+      ],
+      "token_count": 9441,
+      "num_chunks": 131,
+      "num_images": 0
+    }
+  ]
+}

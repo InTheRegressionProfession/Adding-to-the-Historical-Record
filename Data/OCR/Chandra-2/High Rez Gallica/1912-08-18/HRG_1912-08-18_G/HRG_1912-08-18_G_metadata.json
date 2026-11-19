@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1912-08-18_G.jpg",
+  "num_pages": 1,
+  "total_token_count": 8902,
+  "total_chunks": 116,
+  "total_images": 3,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3421,
+        5067
+      ],
+      "token_count": 8902,
+      "num_chunks": 116,
+      "num_images": 3
+    }
+  ]
+}

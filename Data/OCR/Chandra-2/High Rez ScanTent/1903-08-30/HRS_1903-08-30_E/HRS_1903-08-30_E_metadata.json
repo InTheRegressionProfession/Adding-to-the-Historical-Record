@@ -1,0 +1,21 @@
+{
+  "file_name": "HRS_1903-08-30_E.jpg",
+  "num_pages": 1,
+  "total_token_count": 6046,
+  "total_chunks": 82,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        6048,
+        8064
+      ],
+      "token_count": 6046,
+      "num_chunks": 82,
+      "num_images": 4
+    }
+  ]
+}

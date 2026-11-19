@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1903-06-14_E.jpg",
+  "num_pages": 1,
+  "total_token_count": 7090,
+  "total_chunks": 108,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3438,
+        4986
+      ],
+      "token_count": 7090,
+      "num_chunks": 108,
+      "num_images": 2
+    }
+  ]
+}

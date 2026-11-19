@@ -1,0 +1,21 @@
+{
+  "file_name": "IMG_029180.JPG",
+  "num_pages": 1,
+  "total_token_count": 1512,
+  "total_chunks": 19,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        5173,
+        7344
+      ],
+      "token_count": 1512,
+      "num_chunks": 19,
+      "num_images": 0
+    }
+  ]
+}

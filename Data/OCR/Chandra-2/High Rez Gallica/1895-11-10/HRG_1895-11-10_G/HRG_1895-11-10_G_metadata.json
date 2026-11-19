@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1895-11-10_G.jpg",
+  "num_pages": 1,
+  "total_token_count": 9118,
+  "total_chunks": 98,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3431,
+        4944
+      ],
+      "token_count": 9118,
+      "num_chunks": 98,
+      "num_images": 0
+    }
+  ]
+}

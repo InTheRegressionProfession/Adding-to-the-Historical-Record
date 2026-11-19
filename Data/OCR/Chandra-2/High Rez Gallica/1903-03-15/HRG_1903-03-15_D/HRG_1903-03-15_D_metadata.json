@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1903-03-15_D.jpg",
+  "num_pages": 1,
+  "total_token_count": 9164,
+  "total_chunks": 99,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3452,
+        5006
+      ],
+      "token_count": 9164,
+      "num_chunks": 99,
+      "num_images": 0
+    }
+  ]
+}

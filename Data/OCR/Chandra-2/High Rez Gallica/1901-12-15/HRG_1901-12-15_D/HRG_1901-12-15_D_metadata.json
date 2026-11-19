@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1901-12-15_D.jpg",
+  "num_pages": 1,
+  "total_token_count": 9685,
+  "total_chunks": 133,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3455,
+        5006
+      ],
+      "token_count": 9685,
+      "num_chunks": 133,
+      "num_images": 0
+    }
+  ]
+}

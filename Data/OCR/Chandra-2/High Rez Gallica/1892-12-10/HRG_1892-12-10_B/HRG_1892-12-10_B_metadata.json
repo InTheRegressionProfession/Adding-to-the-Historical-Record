@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1892-12-10_B.jpg",
+  "num_pages": 1,
+  "total_token_count": 8394,
+  "total_chunks": 79,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3423,
+        5007
+      ],
+      "token_count": 8394,
+      "num_chunks": 79,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "file_name": "HRS_1911-12-03_F.jpg",
+  "num_pages": 1,
+  "total_token_count": 9254,
+  "total_chunks": 108,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        6048,
+        8064
+      ],
+      "token_count": 9254,
+      "num_chunks": 108,
+      "num_images": 0
+    }
+  ]
+}

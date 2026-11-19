@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1903-10-11_H.jpg",
+  "num_pages": 1,
+  "total_token_count": 332,
+  "total_chunks": 4,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        4986,
+        3471
+      ],
+      "token_count": 332,
+      "num_chunks": 4,
+      "num_images": 1
+    }
+  ]
+}

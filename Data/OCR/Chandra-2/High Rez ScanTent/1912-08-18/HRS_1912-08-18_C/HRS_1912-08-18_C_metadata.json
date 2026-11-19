@@ -1,0 +1,21 @@
+{
+  "file_name": "HRS_1912-08-18_C.jpg",
+  "num_pages": 1,
+  "total_token_count": 6883,
+  "total_chunks": 82,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        4925,
+        7176
+      ],
+      "token_count": 6883,
+      "num_chunks": 82,
+      "num_images": 4
+    }
+  ]
+}

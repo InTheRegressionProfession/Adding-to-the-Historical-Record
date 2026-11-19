@@ -1,0 +1,21 @@
+{
+  "file_name": "HRG_1912-01-07_C.jpg",
+  "num_pages": 1,
+  "total_token_count": 6369,
+  "total_chunks": 77,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3441,
+        5026
+      ],
+      "token_count": 6369,
+      "num_chunks": 77,
+      "num_images": 4
+    }
+  ]
+}

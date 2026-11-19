@@ -1,0 +1,21 @@
+{
+  "file_name": "HRS_1903-10-18_C.jpg",
+  "num_pages": 1,
+  "total_token_count": 9169,
+  "total_chunks": 120,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        6048,
+        8064
+      ],
+      "token_count": 9169,
+      "num_chunks": 120,
+      "num_images": 1
+    }
+  ]
+}
