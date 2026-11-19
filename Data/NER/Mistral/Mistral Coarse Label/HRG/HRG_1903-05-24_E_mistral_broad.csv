@@ -1,0 +1,22 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+M. LÉPINE,Person,Person,0,9,,[M. LÉPINE] connu la douce joie qu'il lui avait donnée sans
+Pierrot,Product,Product,313,320,,"ds votre manuscrit; mais vous avez tort de signer [Pierrot], mettez plutôt Pierrette; vous aurez plus de succ"
+Pierrette,Product,Product,336,345,,"s vous avez tort de signer Pierrot, mettez plutôt [Pierrette]; vous aurez plus de succès, on est au féminisme."
+M. Vidal,Person,Person,630,638,,"si curieusement tourné, Jeanne recevait un mot de [M. Vidal] qui l'invitait à se présenter à son bureau... El"
+M. PUIBARAUD,Person,Person,2213,2225,,se sauver sans rien dire et de laisser le jeune [M. PUIBARAUD] DIRECTEUR DU SERVICE DES RECHERCHES garder plus
+monsieur,Person,Person,2531,2539,,"— Je vais vous expliquer. — Me pardonnez-vous, [monsieur]? S'il lui pardonnait! Elle avait conté si gentim"
+monsieur,Person,Person,2531,2539,,"— Je vais vous expliquer. — Me pardonnez-vous, [monsieur]? S'il lui pardonnait! Elle avait conté si gentim"
+Jeanne,Person,Person,3125,3131,,"ontre... — Vous aviez raison de croire en moi... [Jeanne], je vous aime... Depuis longtemps nos âmes se che"
+Mail,Location,Location,3380,3384,,"ait, et que leurs pas les avaient conduits sur le [Mail], sous les grands arbres ombreux, il murmura: — J"
+Paul ANDRÉ,Person,Person,3881,3891,,"de la jeune fille, le poète mit un long baiser. [Paul ANDRÉ]. LE CRIME DE LA RUE CHALGRIN Arrestation de l'a"
+LE CRIME DE LA RUE CHALGRIN,Product,Product,3894,3921,,"fille, le poète mit un long baiser. Paul ANDRÉ. [LE CRIME DE LA RUE CHALGRIN] Arrestation de l'assassin à Glasgow présente se"
+Glasgow,Location,Location,3951,3958,,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+M. Vidal,Person,Person,4618,4626,,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal]? Cet aussi fit tressaillir la jeune fille. — Ou"
+M. Vidal,Person,Person,5089,5097,,"e importe peu... Être imprimé, cela me suffit... [M. Vidal] passa dans l'antichambre; il s'inclina devant la"
+Mademoiselle,Person,Person,5163,5175,,"tichambre; il s'inclina devant la jeune fille. — [Mademoiselle] Pierrette, voulez-vous me suivre?... Quand ils f"
+Mademoiselle Pierrette,Person,Person,5163,5185,,"tichambre; il s'inclina devant la jeune fille. — [Mademoiselle Pierrette], voulez-vous me suivre?... Quand ils furent dans"
+monsieur,Person,Person,5484,5492,,"c. M'apportez-vous quelque autre chose... — Non, [monsieur], je... — C'est trop de discrétion. Il faudra m'a"
+M. HAMARD,Person,Person,5667,5676,,"us, mademoiselle... Pardonnez-moi de ne pas vous [M. HAMARD] CHEF DE LA SURETÉ M. BERTILLON CHEF DU SERVICE"
+CHEF DE LA SURETÉ,Organization,Organization,5678,5695,,selle... Pardonnez-moi de ne pas vous M. HAMARD [CHEF DE LA SURETÉ] M. BERTILLON CHEF DU SERVICE D'IDENTIFICATION
+M. BERTILLON,Person,Person,5697,5709,,moi de ne pas vous M. HAMARD CHEF DE LA SURETÉ [M. BERTILLON] CHEF DU SERVICE D'IDENTIFICATION
+CHEF DU SERVICE D'IDENTIFICATION,Organization,Organization,5711,5743,,vous M. HAMARD CHEF DE LA SURETÉ M. BERTILLON [CHEF DU SERVICE D'IDENTIFICATION]

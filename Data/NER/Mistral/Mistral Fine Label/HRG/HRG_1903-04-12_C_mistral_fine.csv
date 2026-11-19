@@ -1,0 +1,68 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+général Daumas,pers.ind,Person,pers.ind,19,33,,"diner ainsi que le [général Daumas], qui lui servait d'interprète. Au dessert, il se"
+Napoléon III,pers.ind,Person,pers.ind,121,133,,"sert, il se passa un incident qui gêna un instant [Napoléon III]. Le bey de Tunis tenait sur ses genoux deux écrin"
+bey de Tunis,pers.ind,Person,pers.ind,138,150,,un incident qui gêna un instant Napoléon III. Le [bey de Tunis] tenait sur ses genoux deux écrins qui contenaient
+ordre du Nicham,org.ent,Organization,org.ent,258,273,,"grand-cordon, l'autre la plaque en diamants de l'[ordre du Nicham]. Le général Daumas dit à l'empereur : — Sire, So"
+Légion d'honneur,org.ent,Organization,org.ent,654,670,,"s'il avait apporté en Algérie ses insignes de la [Légion d'honneur] en diamants. Un instant après, je revenais avec"
+Saint-Denis-du-Sig,loc.adm.town,Location,loc.adm.town,1137,1155,,Le séjour à Oran se borna à deux excursions : à [Saint-Denis-du-Sig] et à Sidi-bel-Abbès ; puis on se rendit en poste
+Sidi-bel-Abbès,loc.adm.town,Location,loc.adm.town,1161,1175,,rna à deux excursions : à Saint-Denis-du-Sig et à [Sidi-bel-Abbès] ; puis on se rendit en poste à Mostaganem où l'es
+Mostaganem,loc.adm.town,Location,loc.adm.town,1207,1217,,t à Sidi-bel-Abbès ; puis on se rendit en poste à [Mostaganem] où l'escadre devait rallier deux jours après. Da
+Relizane,loc.adm.town,Location,loc.adm.town,1523,1531,,"récente qui avait eu pour théâtre les environs de [Relizane], à 40 kilomètres environ de Mostaganem, et dans l"
+colonel Beauprêtre,pers.ind,Person,pers.ind,1592,1610,,"mètres environ de Mostaganem, et dans laquelle le [colonel Beauprêtre] avait été surpris dans la nuit et massacré ainsi"
+îles Sainte-Marguerite,loc.phys.geo,Location,loc.phys.geo,1869,1891,,a détention perpétuelle. Ils étaient internés aux [îles Sainte-Marguerite] en France. Comme la région paraissait être en ce
+France,loc.adm.nat,Location,loc.adm.nat,1895,1901,,ls étaient internés aux îles Sainte-Marguerite en [France]. Comme la région paraissait être en ce moment da
+maréchal de Mac-Mahon,pers.ind,Person,pers.ind,2047,2068,,"e désir de la visiter. Mais avant de répondre, le [maréchal de Mac-Mahon] demanda à un chef arabe, qui portait le burnous v"
+Relizane,loc.adm.town,Location,loc.adm.town,2366,2374,,"les esprits. Le lendemain à midi on était devant [Relizane], mais avant d'y entrer on devait traverser une pe"
+Arabes,pers.coll,Person,pers.coll,2472,2478,,petite plaine occupée par une masse grouillante d'[Arabes] dont le nombre pouvait être évalué de quinze à vi
+Khalifat,pers.ind,Person,pers.ind,2641,2649,,ttes de gendarmes à cheval et en avant de tous le [Khalifat] également à cheval. Dès que le cortège parut aux
+Le maréchal,pers.ind,Person,pers.ind,2871,2882,,"s'agitèrent, enfin, le tumulte devint effrayant. [Le maréchal], pâle de colère, se leva brusquement dans la voit"
+El-Kebir,pers.ind,Person,pers.ind,3478,3486,,"onsieur le gouverneur, ces malheureux demandent à [El-Kebir] (le sultan) la grâce de leurs parents prisonniers"
+L'empereur,pers.ind,Person,pers.ind,3629,3639,,"er et d'être fidèles à l'avenir au gouvernement. [L'empereur], en présence de cette situation un peu forcée, n'"
+Mostaganem,loc.adm.town,Location,loc.adm.town,4184,4194,,"ui succédaient aux menaces. Le soir, en dinant à [Mostaganem], l'empereur dit en souriant : — C'est une grâce"
+Constantine,loc.adm.town,Location,loc.adm.town,4427,4438,,"ables ne se renouvellement plus ! Pour arriver à [Constantine], le souverain alla débarquer à Philippeville, pui"
+Philippeville,loc.adm.town,Location,loc.adm.town,4470,4483,,"iver à Constantine, le souverain alla débarquer à [Philippeville], puis, sans s'arrêter, gagna le chef-lieu de la p"
+Biskra,loc.adm.town,Location,loc.adm.town,4605,4611,,"rs après, il poussa une pointe jusqu'au désert, à [Biskra], passait à Batna et revenait à ensuite à Constant"
+Batna,loc.adm.town,Location,loc.adm.town,4623,4628,,"a une pointe jusqu'au désert, à Biskra, passait à [Batna] et revenait à ensuite à Constantine. Enfin, on r"
+Bône,loc.adm.town,Location,loc.adm.town,4755,4759,,"e, pour terminer le voyage, en visitant toutefois [Bône] et Bougie. Dans cette dernière ville, l'empereur"
+Bougie,loc.adm.town,Location,loc.adm.town,4763,4769,,"terminer le voyage, en visitant toutefois Bône et [Bougie]. Dans cette dernière ville, l'empereur apprit qu"
+général Pérégau,pers.ind,Person,pers.ind,4851,4866,,"empereur apprit que la colonne expéditionnaire du [général Pérégau], revenant d'opérer une sévère répression dans les"
+Babors,loc.adm.reg,Location,loc.adm.reg,4917,4923,,"revenant d'opérer une sévère répression dans les [Babors], était campée au bord de la mer avec de nombreux"
+mer,loc.phys.hydro,Location,loc.phys.hydro,4952,4955,,"ssion dans les Babors, était campée au bord de la [mer] avec de nombreux prisonniers. Il alla visiter le"
+Légion d'honneur,org.ent,Organization,org.ent,5050,5066,,"er le camp, nomma le général grand-officier de la [Légion d'honneur] et l'invita à déjeuner à bord de l'Aigle, ainsi q"
+Aigle,prod.media,Product,prod.media,5102,5107,,"gion d'honneur et l'invita à déjeuner à bord de l'[Aigle], ainsi que l'amiral Willaumez qui commandait la f"
+amiral Willaumez,pers.ind,Person,pers.ind,5121,5137,,"'invita à déjeuner à bord de l'Aigle, ainsi que l'[amiral Willaumez] qui commandait la flotte. Au dessert il se passa"
+France,loc.adm.nat,Location,loc.adm.nat,5626,5632,,"ec un bon sourire : — Général, je vous emmène en [France], ainsi que trois mille hommes de votre colonne ex"
+Toulon,loc.adm.town,Location,loc.adm.town,6894,6900,,adre s'ébranlait à son tour et mettait le cap sur [Toulon]... H. BOURSEUL. LA MODE du Petit Journal offre
+H. BOURSEUL,pers.ind.articleauthor,Person,pers.ind.articleauthor,6905,6916,,nlait à son tour et mettait le cap sur Toulon... [H. BOURSEUL]. LA MODE du Petit Journal offre à titre gracieu
+LA MODE du Petit Journal,prod.media,Product,prod.media,6919,6943,,"ur et mettait le cap sur Toulon... H. BOURSEUL. [LA MODE du Petit Journal] offre à titre gracieux, cette semaine, à toutes"
+FARINE DUTAUT,prod.media,Product,prod.media,7425,7438,,"ntuant l'évasement de la jupe. EN VENTE PARTOUT [FARINE DUTAUT], le meilleur aliment des enfants L'AVERTISSEMENT"
+Pierre Lurat,pers.ind,Person,pers.ind,7603,7615,,"ue le temps était doux, le vent tiède son maître, [Pierre Lurat], « le vieux Pierrou », la conduisait le soir au b"
+le vieux Pierrou,pers.ind,Person,pers.ind,7619,7635,,"t doux, le vent tiède son maître, Pierre Lurat, « [le vieux Pierrou] », la conduisait le soir au bord du Gave. Sans m"
+Gave,loc.phys.hydro,Location,loc.phys.hydro,7672,7676,,"vieux Pierrou », la conduisait le soir au bord du [Gave]. Sans mouche, sans inquiétude, la vache passait"
+Léonce,pers.ind,Person,pers.ind,10012,10018,,"humble, renouvez cette créance jusqu'au retour de [Léonce], vous savez combien le garçon est courageux au tr"
+Algérie,loc.adm.nat,Location,loc.adm.nat,10884,10891,,.. ce n'est pas bien long... — Votre fils est en [Algérie]... reviendra-t-il seulement ? Si vous tenez à vot
+Pierrou,pers.ind,Person,pers.ind,11990,11997,,"rande ferme, devant une étable inconnue, le vieux [Pierrou] la laissa aux mains de Moise, sans oser même un r"
+Moise,pers.ind,Person,pers.ind,12021,12026,,"inconnue, le vieux Pierrou la laissa aux mains de [Moise], sans oser même un regard, même une dernière care"
+La Blanche,pers.ind,Person,pers.ind,12183,12193,,re sur lequel eût passé un souffle de tempête. « [La Blanche] » fut conduite par l'homme aux lèvres minces dans
+Damien,pers.ind,Person,pers.ind,12303,12309,,"Il n'y avait point de place; l'homme appela : — [Damien]... Damien !... Au trou du fenil, la tête éveillé"
+Catherine,pers.ind,Person,pers.ind,12581,12590,,"e. Comment, la vache au vieux Pierrou, à la mère [Catherine], la vache aimée par le grand Léonce, le maître l'"
+Léonce,pers.ind,Person,pers.ind,12620,12626,,"à la mère Catherine, la vache aimée par le grand [Léonce], le maître l'amenait ?... L'avait-il achetée de"
+Julie,pers.ind,Person,pers.ind,13138,13143,,"i vite qu'il n'entendit le maître dire à sa femme [Julie] : — J'ai eu la vache pour ce que je voulais, l'a"
+Lurat,pers.coll,Person,pers.coll,13409,13414,,"pourras pas longtemps avec « la Blanche »; et les [Lurat], et moi ! » grondait le petit Damien qui, dans se"
+Pierrou,pers.ind,Person,pers.ind,14012,14019,,"onsulter un sorcier. C'est qu'il aimait le vieux [Pierrou], la mère Catherine et le grand Léonce de toutes s"
+Catherine,pers.ind,Person,pers.ind,14029,14038,,"er. C'est qu'il aimait le vieux Pierrou, la mère [Catherine] et le grand Léonce de toutes ses forces, le pauvr"
+Léonce,pers.ind,Person,pers.ind,14051,14057,,"t le vieux Pierrou, la mère Catherine et le grand [Léonce] de toutes ses forces, le pauvre gars ! Ne l'avait"
+Moise,pers.ind,Person,pers.ind,14259,14264,,", pouvant gagner sa vie, ils l'avaient placé chez [Moise], l'usurier sans entrailles, le gros propriétaire"
+Damien,pers.ind,Person,pers.ind,14324,14330,,"r sans entrailles, le gros propriétaire ? Oh ! si [Damien] avait pu choisir, comme il aurait préféré rester"
+Lurat,pers.coll,Person,pers.coll,14389,14394,,"choisir, comme il aurait préféré rester chez ces [Lurat] que d'avoir un autre maître. Mais il fallait trav"
+la Blanche,loc.fac,Location,loc.fac,15461,15471,,"bon, de la mère Catherine, du grand Léonce, de « [la Blanche] » qui leur avait été enlevée par Moise, un homme"
+Damien,pers.ind,Person,pers.ind,16504,16510,,"de chat tout au fond de la bourse, et la tendit à [Damien]. Puis, à voix basse, il donna des instructions a"
+Moise,pers.ind,Person,pers.ind,16872,16877,,"er, entra comme une bourrasque dans la cuisine où [Moise] et sa femme Julie finissaient de souper. — Maîtr"
+Julie,pers.ind,Person,pers.ind,16890,16895,,e bourrasque dans la cuisine où Moise et sa femme [Julie] finissaient de souper. — Maître !... maître !...
+Pierrou,pers.ind,Person,pers.ind,17242,17249,,e on lui avait répété la dernière parole du vieux [Pierrou] : « Cela ne vous portera point bonheur ! » qu'il
+la Blanche,loc.fac,Location,loc.fac,17493,17503,,"ndes lueurs semblaient courir dans les poils de « [la Blanche] », et comme la bête s'en effrayait, elle tirait s"
+Lurat,pers.coll,Person,pers.coll,17722,17727,,"de même, si c'était pas pour rendre la vache aux [Lurat]... pour leur rendre la vache... Julie appelait l"
+Moise,pers.ind,Person,pers.ind,18823,18828,,"t les démons !... C'est la vache... la vache... [Moise] et sa femme, n'osant rentrer chez eux restèrent d"
+Damien,pers.ind,Person,pers.ind,19082,19088,,'usurier parut prendre une résolution énergique. [Damien] l'entendit déclarer à Julie : — L'avertissement
+Julie,pers.ind,Person,pers.ind,19111,19116,,"solution énergique. Damien l'entendit déclarer à [Julie] : — L'avertissement est trop terrible, femme ! J"
+le creux de vallon,loc.phys.geo,Location,loc.phys.geo,19315,19333,,"atin, le petit pensa qu'il se rendait là-bas dans [le creux de vallon] où vivait le sorcier à barbe blanche. — S'il y v"

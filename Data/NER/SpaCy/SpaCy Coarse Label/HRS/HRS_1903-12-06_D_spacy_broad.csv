@@ -1,0 +1,126 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+olla podrida,Person,PER,81,93,,"de la police et de la justice. A bientôt donc! L'[olla podrida] ne laissait rien à désirer, marquis, et vous avez"
+Eh bien!,Product,MISC,618,626,,"e que je suis de Mar-seille, neveu irrespectueux. [Eh bien!] tu as raison, et le fin mot, le voici: José-Mari"
+Madrid,Location,LOC,715,721,,"José-Maria était un artiste du théâtre royal de [Madrid], avec lequel le marquis avait arrangé la représen"
+jambon,Person,PER,1366,1372,,"on, carré de mouton, tendrons de veau, rouelle de [jambon], poulet normand, pigeons, canard, perdrix, caille"
+"?
+
+Pardieu!",Product,MISC,1558,1569,,"à mon tour, vous avez oublié l'essentiel, je crois[? Pardieu!] dit mon oncle, un peu interrompu, je serais curie"
+THÉÂNO,Product,MISC,1672,1678,,.. Ilé oui! repris-je en riant... les brigands! [THÉÂNO]. LA HERNIE GUÉRIE sans opération et sans souffra
+GUÉRIE,Organization,ORG,1691,1697,,-je en riant... les brigands! THÉÂNO. LA HERNIE [GUÉRIE] sans opération et sans souffrance C'est le docte
+Brunier,Person,PER,1750,1757,,"ns opération et sans souffrance C'est le docteur [Brunier], de Marseille, ancien interne des hôpitaux, qui a"
+Marseille,Location,LOC,1762,1771,,"et sans souffrance C'est le docteur Brunier, de [Marseille], ancien interne des hôpitaux, qui atteste par la"
+M. Claverie,Person,PER,1912,1923,,"icacité du bandage pneumatique et sans ressort de [M. Claverie], le plus grand spécialiste de Paris, et sa supéri"
+Paris,Location,LOC,1954,1959,,"sort de M. Claverie, le plus grand spécialiste de [Paris], et sa supériorité incontestable et mille fois pr"
+CLAVERIE,Organization,ORG,2058,2066,,"rouvée sur tous les autres appareils: « Monsieur [CLAVERIE], à Paris, dans un cas de hernie inguino-scrotale"
+Paris,Location,LOC,2070,2075,,"ous les autres appareils: « Monsieur CLAVERIE, à [Paris], dans un cas de hernie inguino-scrotale volumineu"
+Monsieur Claverie,Person,PER,2544,2561,,"que j'en aurai l'occasion. » « Veuillez agréer, [Monsieur Claverie], l'assurance de ma parfaite considération. » Doct"
+BRUNIER,Person,PER,2615,2622,,"assurance de ma parfaite considération. » Docteur [BRUNIER], « 80, Cours Lieutaud, Marseille. » Après une pr"
+Cours Lieutaud,Person,PER,2630,2644,,"parfaite considération. » Docteur BRUNIER, « 80, [Cours Lieutaud], Marseille. » Après une preuve aussi convaincant"
+Marseille,Location,LOC,2646,2655,,"ération. » Docteur BRUNIER, « 80, Cours Lieutaud, [Marseille]. » Après une preuve aussi convaincante, une atte"
+Traité de la Hernie,Product,MISC,2929,2948,,"ges ni se faire opérer sans avoir lu le magistral [Traité de la Hernie], où cette nouvelle méthode est clairement expliqu"
+M. Claverie,Person,PER,3067,3078,,"é gratis et franco à tous ceux qui le demandent à [M. Claverie], 234, Faubourg Saint-Martin, à Paris. Visites et"
+Faubourg Saint-Martin,Location,LOC,3085,3106,,"à tous ceux qui le demandent à M. Claverie, 234, [Faubourg Saint-Martin], à Paris. Visites et applications tous les jours,"
+Paris,Location,LOC,3110,3115,,"dent à M. Claverie, 234, Faubourg Saint-Martin, à [Paris]. Visites et applications tous les jours, même les"
+h. du soir,Product,MISC,3207,3217,,"même les dimanches et fêtes, de 9 h. du matin à 6 [h. du soir]. MOT POUR RIRE Le docteur X... a la tête près d"
+"MOT POUR RIRE
+
+Le docteur X",Product,MISC,3220,3247,,"nches et fêtes, de 9 h. du matin à 6 h. du soir. [MOT POUR RIRE Le docteur X]... a la tête près du bonnet et supporte mal la co"
+LES,Location,LOC,3582,3585,,un peu brusquement... Comment a-t-on pris cela? [LES] YEUX D'OR IX La porte d'une pièce contiguë étai
+Henriette,Person,PER,3646,3655,,"IX La porte d'une pièce contiguë était ouverte, [Henriette] s'en approcha avec une curiosité vague et vit une"
+Pierre Le Farec,Person,PER,4001,4016,,"e la porte, au fond de la chambre, le portrait de [Pierre Le Farec], en son uniforme de sous-lieutenant, vint rappele"
+Mlle Corbin,Person,PER,4070,4081,,"son uniforme de sous-lieutenant, vint rappeler à [Mlle Corbin] les traits de son sauveur de la veille, à la Brus"
+Brusseière,Location,LOC,4127,4137,,"rbin les traits de son sauveur de la veille, à la [Brusseière], de son soldat-labourer, de son hôte d'aujourd'hu"
+Ah!,Product,MISC,4349,4352,,"s traits où se reflétait une conscience droite... [Ah!] ce n'était point son élégante mine à lui, au trai"
+Henri,Person,PER,4441,4446,,"ui, au trait de là-bas, ce n'était pas la grâce d'[Henri] de la Chevardaye... En Pierre Le Farec rien que d"
+Chevardaye,Product,MISC,4453,4463,,"de là-bas, ce n'était pas la grâce d'Henri de la [Chevardaye]... En Pierre Le Farec rien que de viril... Certes"
+Pierre Le Farec,Person,PER,4470,4485,,"était pas la grâce d'Henri de la Chevardaye... En [Pierre Le Farec] rien que de viril... Certes, on pouvait se repose"
+Farec,Product,MISC,4555,4560,,". Certes, on pouvait se reposer en lui... Mme Le [Farec] était entrée, Henriette ne l'avait pas entendue:"
+Henriette,Person,PER,4575,4584,,"se reposer en lui... Mme Le Farec était entrée, [Henriette] ne l'avait pas entendue: Oh! bien, dit la bourge"
+Oh!,Product,MISC,4611,4614,,"était entrée, Henriette ne l'avait pas entendue: [Oh!] bien, dit la bourgeoise, je vous y Gaiement... M"
+Gaiement,Person,PER,4651,4659,,"ntendue: Oh! bien, dit la bourgeoise, je vous y [Gaiement]... Mme Z... s'est même écriée: « Diable d'homme!"
+Mme Z,Person,PER,4663,4668,,"! bien, dit la bourgeoise, je vous y Gaiement... [Mme Z]... s'est même écriée: « Diable d'homme! il faut t"
+Délicieux Bonbons,Product,MISC,4801,4818,,ue chose... ou quelqu'un. » Parfum de l'Hateine! [Délicieux Bonbons] JOHN TAVERNIER MENTHE-EXCELSIOR Exiger le nom Exc
+Excelsior,Person,PER,4865,4874,,"ons JOHN TAVERNIER MENTHE-EXCELSIOR Exiger le nom [Excelsior], John Tavernier s'échappe bonbons. Chez Conde et"
+John Tavernier,Person,PER,4876,4890,,"VERNIER MENTHE-EXCELSIOR Exiger le nom Excelsior, [John Tavernier] s'échappe bonbons. Chez Conde et Ripiers. LE FÉT"
+Conde,Location,LOC,4915,4920,,"Excelsior, John Tavernier s'échappe bonbons. Chez [Conde] et Ripiers. LE FÉTICHE Un soir de janvier, Loui"
+Ripiers,Location,LOC,4924,4931,,", John Tavernier s'échappe bonbons. Chez Conde et [Ripiers]. LE FÉTICHE Un soir de janvier, Louis Dereims,"
+Louis Dereims,Person,PER,4966,4979,,"onde et Ripiers. LE FÉTICHE Un soir de janvier, [Louis Dereims], tout en s'habillant pour aller dîner chez sa mèr"
+Echelle,Location,LOC,5064,5071,,"ner chez sa mère, songeait. Il habitait rue de l'[Echelle], cela lui était commode pour se rendre aux Beaux-"
+Beaux-Arts,Location,LOC,5115,5125,,"chelle, cela lui était commode pour se rendre aux [Beaux-Arts] où, quoi que son état de fortune ne l'y obligeât"
+obligeât,Location,LOC,5166,5174,,"eaux-Arts où, quoi que son état de fortune ne l'y [obligeât] pas, il suivait un cours de peinture, grand amate"
+Louis,Person,PER,5252,5257,,"peinture, grand amateur qu'il était de cet art. [Louis] avait perdu son père étant enfant, et il adorait"
+Connaîtrait,Product,MISC,5723,5734,,"ement, et il se demandait s'il aurait ce bonheur! [Connaîtrait]-il un jour cette fièvre adorable, cet état d'âme"
+Eden,Product,MISC,5822,5826,,état d'âme qui transforme la vie en un délicieux [Eden] et qui fait si fort vibrer le cœur. Il réfléchis
+Louis Dereims,Person,PER,6091,6104,,"ur lui complaire, engager son bonheur et sa vie! [Louis Dereims] avait vingt-quatre ans; riche, instruit, doué d'u"
+Louis,Person,PER,6345,6350,,"vée; mais tous ces avantages ne faisaient pas que [Louis] se sentît attiré vers elle par ce sentiment fou,"
+Lesta,Person,PER,6699,6704,,"ne pouvait se rendre avant onze heures chez M. de [Lesta], conseiller à la Cour des comptes, qui donnait un"
+Cour des comptes,Organization,ORG,6722,6738,,"ant onze heures chez M. de Lesta, conseiller à la [Cour des comptes], qui donnait un grand bal pour fêter l'entrée dan"
+Madeleine,Person,PER,6811,6820,,"bal pour fêter l'entrée dans le monde de sa fille [Madeleine], la sœur cadette d'Yvonne, celle que Mme Dereims"
+Yvonne,Person,PER,6840,6846,,"le monde de sa fille Madeleine, la sœur cadette d'[Yvonne], celle que Mme Dereims se plaisait à regarder com"
+Mme Dereims,Person,PER,6858,6869,,"le Madeleine, la sœur cadette d'Yvonne, celle que [Mme Dereims] se plaisait à regarder comme la fiancée de son fi"
+Palais-Royal,Location,LOC,7231,7243,,séparait de la rue et se dirigea vers la place du [Palais-Royal]. A partir de six heures il faut littéralement pr
+Métropolitain,Location,LOC,7375,7388,,uit au guichet de la buraliste à cette station du [Métropolitain]. Comme Louis attendait que la bousculade fût un
+Louis,Person,PER,7397,7402,,uraliste à cette station du Métropolitain. Comme [Louis] attendait que la bousculade fût un peu moins inte
+Instinctivement,Location,LOC,7688,7703,,"précipita dans l'escalier conduisant au guichet. [Instinctivement], Louis suivit son sillou. En passant, il ne l'av"
+Louis,Person,PER,7705,7710,,"escalier conduisant au guichet. Instinctivement, [Louis] suivit son sillou. En passant, il ne l'avait qu'"
+sillou,Location,LOC,7722,7728,,"nt au guichet. Instinctivement, Louis suivit son [sillou]. En passant, il ne l'avait qu'entrevue, et il vo"
+Louis Dereims,Person,PER,8151,8164,,"n profil fin suffisaient pour le moment à retenir [Louis Dereims] attaché à ses pas. Mais c'étaient ses yeux, ses"
+Dieu,Product,MISC,8575,8579,,"ans attendre sa monnaie. Heureusement, il y a un [Dieu] pour les amoureux! Louis put, prenant au vol le"
+Louis,Person,PER,8600,8605,,"Heureusement, il y a un Dieu pour les amoureux! [Louis] put, prenant au vol le train qui sifflait, entrer"
+Louis,Person,PER,8826,8831,,"banc sur lequel un vieux monsieur se prélassait. [Louis] bénit les ans de ce septagéniaire qui, ne lui per"
+Louis,Person,PER,9348,9353,,"e et l'artiste un spectacle des plus attachants. [Louis] restait devant la jeune fille comme médusé, foudr"
+L'Etoile!,Product,MISC,9494,9503,,"s rêves, celle qu'il aurait éternellement aimée. [L'Etoile!] cria l'employé. La jeune fille descendit précipi"
+Louis Dereims,Person,PER,9562,9575,,"mployé. La jeune fille descendit précipitamment, [Louis Dereims] derrière elle; tous deux étaient arrivés à destin"
+Abasourdi,Location,LOC,9765,9774,,"calement, l'ayant prise par le bras, l'entraîna. [Abasourdi], Dereims regarda partir les deux femmes, sans ose"
+Dereims,Product,MISC,9776,9783,,"'ayant prise par le bras, l'entraîna. Abasourdi, [Dereims] regarda partir les deux femmes, sans oser les sui"
+avenue Hoche,Location,LOC,9903,9915,,"ard, maintenant, il allait prendre le chemin de l'[avenue Hoche], quand une tache blanche sur l'asphalte du trotto"
+gousset,Location,LOC,10317,10324,,sous l'oiseau nocturne. Il mit l'objet dans son [gousset]. Mme Dereims accueillit son fils avec son affect
+Mme Dereims,Person,PER,10327,10338,,seau nocturne. Il mit l'objet dans son gousset. [Mme Dereims] accueillit son fils avec son affectueuse sollicit
+Qu'as,Product,MISC,10468,10473,,"ble, elle remarqua sa pâleur, son air préoccupé. [Qu'as]-tu donc mon Louis, ta mine est défaite, serais-tu"
+Louis,Person,PER,10486,10491,,"sa pâleur, son air préoccupé. Qu'as-tu donc mon [Louis], ta mine est défaite, serais-tu souffrant? Non,"
+Lesta,Person,PER,10666,10671,,"préféré ne pas l'accompagner ce soir chez les de [Lesta]... Quelle mouche te pique? moi qui voulais, en r"
+Yvonne,Person,PER,10792,10798,,"de cette soirée, que tu entretenies sérieusement [Yvonne] de nos projets... De nos projets... de tes proje"
+le Métropolitain,Product,MISC,11219,11235,,"oduite sur lui par la jolie fille rencontrée dans [le Métropolitain], il ajouta: C'est avec le plus grand plaisir, ma"
+Yvonne,Person,PER,11404,11410,,on expressive de ne m'engager en rien vis-à-vis d'[Yvonne]! Un peu désagréablement surprise et cependant fl
+Mme Dereims,Person,PER,11557,11568,,"ression qui dénotait une grande jeunesse de cœur, [Mme Dereims] souscrivit à son désir et sourit même au coup de"
+Louis,Person,PER,11707,11712,,"que seul, un prodigieux hasard pourrait remettre [Louis] en face de sa belle inconnue. Il ne déplaissait"
+Dieu,Product,MISC,11887,11891,,"e qu'il épouserait, l'amour, cette inspiration de [Dieu], étant, à son avis, indispensable à un vrai bonhe"
+Louis Dereims,Person,PER,11976,11989,,"à un vrai bonheur. A quelques jours de là, comme [Louis Dereims] entrait dans le fumoir de son cercle, il fut accu"
+Ah!,Product,MISC,12106,12109,,"par les vivats de trois amis qui s'y trouvaient. [Ah!] le voilà bien l'heureux mortel, l'homme au fétich"
+Petit Journal,Product,MISC,12292,12305,,à regarder les petites annonces du jeudi dans le [Petit Journal]. Louis prit la feuille et lut: « Il a été perdu
+Louis,Person,PER,12308,12313,,petites annonces du jeudi dans le Petit Journal. [Louis] prit la feuille et lut: « Il a été perdu entre l
+Métropolitain,Location,LOC,12378,12391,,"e et lut: « Il a été perdu entre les stations du [Métropolitain], Palais-Royal-Etoile, une médaille ornée sur laqu"
+Palais-Royal-Etoile,Location,LOC,12393,12412,,"a été perdu entre les stations du Métropolitain, [Palais-Royal-Etoile], une médaille ornée sur laquelle une chauve-souri"
+Mme de Teille,Person,PER,12488,12501,,"aquelle une chauve-souris est gravée. Récompense. [Mme de Teille], 3 bis, rue Marbeuf. » C'est curieux et je crois"
+rue Marbeuf,Location,LOC,12510,12521,,"ris est gravée. Récompense. Mme de Teille, 3 bis, [rue Marbeuf]. » C'est curieux et je crois en effet qu'il s'ag"
+Dereims,Product,MISC,12648,12655,,"du diable si je sais où elle est. Retrouvez-la, [Dereims] et laissez moi rendre cette médaille à sa proprié"
+Labruyère,Person,PER,12862,12871,,"onfiée être très amoureux... Permettez, mon cher [Labruyère], et la récompense promise... elle ne m'indiffère"
+Dereims,Product,MISC,12992,12999,,"es un égoïste. Le lendemain, vers quatre heures, [Dereims] muni de la médaille se présenta rue Marbeuf. On"
+rue Marbeuf,Location,LOC,13032,13043,,"e heures, Dereims muni de la médaille se présenta [rue Marbeuf]. On le fit entrer dans un salon correctement, ma"
+Ah!,Product,MISC,13273,13276,,"jet de sa visite, avec volubilité, elle s'écria: [Ah!] monsieur, quel plaisir, combien heureuse va être"
+Indo-Chine,Location,LOC,13374,13384,,"e mon enfant! Cette médaille lui a été envoyée d'[Indo-Chine] par mon fils, officier d'infanterie de marine. C'"
+Annam,Location,LOC,13489,13494,,"paraît-il, un fétiche, la chauve-souris étant, en [Annam], synonyme de bonheur... Nous avons subi d'immense"
+Jane,Person,PER,13617,13621,,"e angoisses, cela rend superstitieux et ma pauvre [Jane] ne s'est-elle pas imaginée que la perte de ce fét"
+Jane,Person,PER,13777,13781,,permettez que je l'informe de la bonne nouvelle. [Jane] serait désolée de ne pas vous en remercier. Et s
+Mme de Teille,Person,PER,13890,13903,,"re garde au geste de protestation du jeune homme, [Mme de Teille] le quitta. Quelle stupéfaction! La porte du salo"
+Louis,Person,PER,14018,14023,,"'inconnue, l'adorable inconnue parut devant lui! [Louis] profita, naturellement, de l'incident de la médai"
+Teille,Location,LOC,14119,14125,,"édaille pour se faire admettre dans la famille de [Teille], dont il devint un des visiteurs les plus assidus"
+Jane,Person,PER,14212,14216,,"plus assidus. Bientôt, certain que la charmante [Jane] partageait l'amour qu'elle lui avait inspiré, il"
+Mme Dereims,Person,PER,14316,14327,,"la suppliait de consentir à devenir sa femme. Et [Mme Dereims], oubliant le rêve caressé par elle, se rendait au"
+Louis,Person,PER,14412,14417,,", se rendait au désir de son fils. Le mariage de [Louis] avec Jane fut décidé, la date allait en être fixé"
+Jane,Person,PER,14423,14427,,"t au désir de son fils. Le mariage de Louis avec [Jane] fut décidé, la date allait en être fixée. Un soi"
+Louis,Person,PER,14483,14488,,"écidé, la date allait en être fixée. Un soir que [Louis] exprimait à sa mère toute la joie de son futur et"
+Mme Dereims,Person,PER,14609,14620,,"e une ombre de mélancolie errait sur le visage de [Mme Dereims], il l'embrassa tendrement en murmurant: Bannis-t"
+Pierre,Product,MISC,14814,14820,,"tras son cœur, tu ne regretteras rien; visage de [Pierre], le frappant aux yeux, lui arracha un grand éclat"
+Pierre,Product,MISC,14890,14896,,"ux, lui arracha un grand éclat de rire, et, comme [Pierre] décidément, très gauche ce jour-là, parce qu'il s"
+Le Farec,Person,PER,15171,15179,,t: « Ce serait la joie vivante! » La bonne femme [Le Farec] leva les épaules et s'écria: C'est une demoisell
+Paris,Location,LOC,15234,15239,,"les épaules et s'écria: C'est une demoiselle de [Paris], et pourtant c'est une enfant! La bourgeoise, lo"
+Mlle Corbin,Person,PER,15411,15422,,"runs, demanda: Êtes-vous contente, ma mignonne? [Mlle Corbin] répondit vivement qu'elle était très heureuse. Pi"
+Pierre,Product,MISC,15470,15476,,in répondit vivement qu'elle était très heureuse. [Pierre] proposa une promenade sur les grèves en traversan
+Mme Le Farec,Person,PER,15577,15589,,les prairies et la lande; elle battit des mains. [Mme Le Farec] demanda grâce pour ses vieilles jambes qui ne sau
+Dame,Location,LOC,15665,15669,,eilles jambes qui ne sauraient la porter si loin. [Dame]! le poids était d'importance. Henriette ne témoi
+Henriette,Person,PER,15701,15710,,rter si loin. Dame! le poids était d'importance. [Henriette] ne témoigna aucun embarras quand elle apprit qu'e
+Pierre,Product,MISC,15795,15801,,"lle apprit qu'elle ferait la promenade seule avec [Pierre]: Ce sera la deuxième fois que vous me conduirez,"
+Oh!,Product,MISC,15862,15865,,"la deuxième fois que vous me conduirez, dit-elle. [Oh!] je sais que vous êtes un bon guide! J'irais avec"
+PAUL PERRET,Product,MISC,15965,15976,,vous au bout du monde. C'est cela! dit la mère. [PAUL PERRET]. (La suite au prochain numéro.)

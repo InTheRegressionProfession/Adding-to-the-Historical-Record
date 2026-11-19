@@ -1,0 +1,83 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Galilée,Organization,org,49,56,0.5065,EXPLICATION DE NOS GRAVURES Delivrance par le « [Galilée] » des marins français abandonnés par « l'Empereur
+Sahara,Location,loc,110,116,0.4667,"es marins français abandonnés par « l'Empereur du [Sahara] » Avec une quinzaine d'autres matelots, cinq bra"
+Le Picard,Person,pers,202,211,0.7922,"lots, cinq braves gens, mariés, pères de famille, [Le Picard], Bordier, Gegou, Cambrai et Guéguen, furent engag"
+Bordier,Person,pers,213,220,0.9093,"braves gens, mariés, pères de famille, Le Picard, [Bordier], Gegou, Cambrai et Guéguen, furent engagés, il y"
+Gegou,Person,pers,222,227,0.9366,"ns, mariés, pères de famille, Le Picard, Bordier, [Gegou], Cambrai et Guéguen, furent engagés, il y a quelq"
+Cambrai,Person,pers,229,236,0.9288,"iés, pères de famille, Le Picard, Bordier, Gegou, [Cambrai] et Guéguen, furent engagés, il y a quelques semai"
+Guéguen,Person,pers,240,247,0.9505,"de famille, Le Picard, Bordier, Gegou, Cambrai et [Guéguen], furent engagés, il y a quelques semaines, au Hav"
+Havre,Location,loc,294,299,0.9455,"uen, furent engagés, il y a quelques semaines, au [Havre], au nom d'un riche yachtsman, M. Jacques Lebaudy,"
+",",Person,pers,328,329,0.6194,"es semaines, au Havre, au nom d'un riche yachtsman[,] M. Jacques Lebaudy, dans le but déterminé de form"
+M. Jacques Lebaudy,Person,pers,330,348,0.9743,"semaines, au Havre, au nom d'un riche yachtsman, [M. Jacques Lebaudy], dans le but déterminé de former l'équipage d'un"
+Pampas,Location,loc,455,461,0.9085,"à lui appartenant. Embarqués le 20 mai à bord du [Pampas], ils arrivaient le 1er juin à Las Palmas, où ils"
+Las Palmas,Location,loc,492,502,0.9746,"ai à bord du Pampas, ils arrivaient le 1er juin à [Las Palmas], où ils devaient rejoindre le Frasquila. A Las P"
+Frasquila,Location,loc,533,542,0.9548,"r juin à Las Palmas, où ils devaient rejoindre le [Frasquila]. A Las Palmas ils s'étonnèrent de ce que personn"
+Las Palmas,Location,loc,547,557,0.974,"almas, où ils devaient rejoindre le Frasquila. A [Las Palmas] ils s'étonnèrent de ce que personne ne les attend"
+Frasquila,Location,loc,705,714,0.9096,"réservées. Quand, enfin, ils montèrent à bord du [Frasquila], ils y trouvèrent, au milieu d'un formidable arse"
+Sahara,Location,loc,843,849,0.801,eur déclara gravement qu'il était l'« Empereur du [Sahara] » et qu'il comptait sur leur bravoure pour fixer
+docteur Charcot,Person,pers,1226,1241,0.9472,vent de la médecine spéciale où s'illustra feu le [docteur Charcot]. Ces aventures demeurèrent inoffensives jusqu'au
+petit Poucel,Person,pers,1385,1397,0.9382,"la légende, qui abandonna dans la sombre forêt le [petit Poucel] et ses frères, débarqua les cinq matelots avec pr"
+Afrique,Location,loc,1504,1511,0.5998,"s, armes et bagages, sur la côte inhospitalière d'[Afrique], aride et calcinée, et leur déclara tranquillemen"
+Maures,Location,loc,1841,1847,0.4074,"rsque soudain ils furent entourés par une nuée de [Maures] pillards qui leur prirent leurs armes, leurs vête"
+Sahara,Location,loc,2144,2150,0.7865,Et les négociations commencèrent. L'« Empereur du [Sahara] » proposa tout d'abord de racheter le brave Le Pi
+brave Le Picard,Person,pers,2189,2204,0.8296,"r du Sahara » proposa tout d'abord de racheter le [brave Le Picard], mais lui seul. Alors les Maures, enchantés de l"
+Frasquila,Location,loc,2385,2394,0.6801,"r, tandis que l'on discutait, on s'aperçut que le [Frasquila] avait gagné le large et que les pauvres Français,"
+Europe,Location,loc,2585,2591,0.9384,bitement éprouvé le besoin de respirer l'air de l'[Europe]. Le gouvernement français s'émut et décida de fa
+Toulon,Location,loc,2655,2661,0.9482,"ment français s'émut et décida de faire partir de [Toulon] le croiseur cuirassé Galilée, avec mission de ram"
+Galilée,Location,loc,2683,2690,0.9238,"da de faire partir de Toulon le croiseur cuirassé [Galilée], avec mission de ramener coûte que coûte les cinq"
+Galilée,Location,loc,2766,2773,0.5108,"coûte que coûte les cinq matelots abandonnés. Le [Galilée], sous les ordres du commandant Jaurès, réussit da"
+commandant Jaurès,Person,pers,2794,2811,0.9784,"elots abandonnés. Le Galilée, sous les ordres du [commandant Jaurès], réussit dans sa mission, et les cinq matelots, e"
+France,Location,loc,2900,2906,0.9772,"matelots, enfin rapatriés, viennent de rentrer en [France]. Mais il me semble nécessaire de citer, pour l'é"
+commandant Jaurès,Person,pers,3042,3059,0.9798,"s, quelques passages de la première lettre que le [commandant Jaurès] adressa, — avec quelle fraternelle simplicité ! —"
+d'Afrique,Location,loc,3147,3156,0.5448,mplicité ! — aux matelots prisonniers sur la rive [d'Afrique]. On verra avec quelle tendre sollicitude le comm
+commandant Jaurès,Person,pers,3202,3219,0.9809,ique. On verra avec quelle tendre sollicitude le [commandant Jaurès] accomplit sa mission envers ceux qu'il appelle de
+commandant Jaurès,Person,pers,3533,3550,0.9782,". » Dans une seconde lettre que l'on va lire, le [commandant Jaurès] indique aux prisonniers le plan d'évasion qu'il a"
+Mon cher Picard,Person,pers,3612,3627,0.8193,"prisonniers le plan d'évasion qu'il a combiné : [Mon cher Picard], Lundi, 31 août. Les jours se suivent et les aff"
+caïd Ahmido,Person,pers,5120,5131,0.9747,"du corps de garde, à toit rouge, de la maison du [caïd Ahmido]. Dans le Sud, un peu à gauche de la direction de"
+Galilée,Location,loc,5974,5981,0.9521,oid. A ce soir. Vous souperez avec nous à bord du [Galilée] et nous appareillerons pour la France. Jaurès.
+France,Location,loc,6013,6019,0.9498,à bord du Galilée et nous appareillerons pour la [France]. Jaurès. P.-S. — Si pour des raisons connues de
+Jaurès,Person,pers,6022,6028,0.9077,u Galilée et nous appareillerons pour la France. [Jaurès]. P.-S. — Si pour des raisons connues de vous et
+P.-S,Person,pers,6031,6035,0.4843,et nous appareillerons pour la France. Jaurès. [P.-S]. — Si pour des raisons connues de vous et ignorée
+Jaurès,Person,pers,6542,6548,0.8509,N'oubliez pas de capeler vos pantalons blancs. [Jaurès]. Ainsi que le Petit Journal l'annonça à son heur
+Petit Journal,Product,prod,6564,6577,0.7024,"eler vos pantalons blancs. Jaurès. Ainsi que le [Petit Journal] l'annonça à son heure, le plan si sagement conçu"
+France,Location,loc,6767,6773,0.9774,aisie furent déivrés. Ils viennent de rentrer en [France]. Mais ils l'ont échappé belle ! La bataille de V
+Valmy,Location,loc,6822,6827,0.9722,e. Mais ils l'ont échappé belle ! La bataille de [Valmy] (20 septembre 1792) TABLEAU D'HORACE VERNET Le
+20 septembre 1792,Time,time,6829,6846,0.8349,ils l'ont échappé belle ! La bataille de Valmy ([20 septembre 1792]) TABLEAU D'HORACE VERNET Le 20 Septembre 1792 (
+HORACE,Person,pers,6859,6865,0.703,bataille de Valmy (20 septembre 1792) TABLEAU D'[HORACE] VERNET Le 20 Septembre 1792 (dont on célèbre cet
+VERNET,Person,pers,6866,6872,0.3744,le de Valmy (20 septembre 1792) TABLEAU D'HORACE [VERNET] Le 20 Septembre 1792 (dont on célèbre cette sema
+Le 20 Septembre 1792,Time,time,6874,6894,0.8371,"lmy (20 septembre 1792) TABLEAU D'HORACE VERNET [Le 20 Septembre 1792] (dont on célèbre cette semaine l'anniversaire), e"
+France,Location,loc,7022,7028,0.9664,"portantes et les plus glorieuses de l'histoire de [France]. Ce jour-là, l'armée de la jeune République fran"
+République française,Organization,org,7063,7083,0.7828,"toire de France. Ce jour-là, l'armée de la jeune [République française] reçut le baptême du feu. Sur les hauteurs de Valm"
+Valmy,Location,loc,7129,7134,0.9749,"aise reçut le baptême du feu. Sur les hauteurs de [Valmy], elle tint tête, avec une admirable opiniâtreté,"
+Europe,Location,loc,7222,7228,0.9386,"piniâtreté, aux troupes les plus redoutables de l'[Europe]. Elle arrêta la marche des Alliés et sauva notre"
+Alliés,Organization,org,7256,7262,0.4812,edoutables de l'Europe. Elle arrêta la marche des [Alliés] et sauva notre pays de l'invasion. Une des parti
+Valmy,Location,loc,7350,7355,0.9497,ne des particularités curieuses de la bataille de [Valmy] : parmi les jeunes officiers qui entouraient le g
+général républicain Kellermann,Person,pers,7404,7434,0.9775,"y : parmi les jeunes officiers qui entouraient le [général républicain Kellermann] se trouvaient deux princes du sang royal, le duc"
+duc de Chartres,Person,pers,7480,7495,0.5953,"mann se trouvaient deux princes du sang royal, le [duc de Chartres] qui fut roi sous le nom de Louis-Philippe et le d"
+Louis-Philippe,Person,pers,7523,7537,0.9771,"al, le duc de Chartres qui fut roi sous le nom de [Louis-Philippe] et le duc de Montpensier. Ils firent bravement le"
+duc de Montpensier,Person,pers,7544,7562,0.784,"s qui fut roi sous le nom de Louis-Philippe et le [duc de Montpensier]. Ils firent bravement leur devoir, prouvant avant"
+Louis-Philippe,Person,pers,7719,7733,0.9759,une grande indignation et beaucoup d'étonnement. [Louis-Philippe] leur réservait dans l'avenir des surprises plus i
+Horace Vernet,Person,pers,7882,7895,0.9599,"stres et les plus féconds du dix-neuvième siècle, [Horace Vernet], a fixé le souvenir de ce mémorable événement sur"
+musée de Versailles,Location,loc,7979,7998,0.89,"le événement sur une toile célèbre, qui figure au [musée de Versailles]. C'est cette toile que nous reproduisons aujourd'"
+Valmy,Location,loc,8140,8145,0.8969,"ls étonnants. A l'anniversaire de la bataille de [Valmy], nos lecteurs nous sauront gré de leur donner une"
+Dumouriez,Person,pers,8331,8340,0.953,"fameux, que les deux chefs des armées françaises, [Dumouriez] et Kellermann, unirent fraternellement leurs effo"
+Kellermann,Person,pers,8344,8354,0.9463,"es deux chefs des armées françaises, Dumouriez et [Kellermann], unirent fraternellement leurs efforts pour repou"
+Valmy,Location,loc,8463,8468,0.9479,vahisseur; c'est sur les flancs de cette butte de [Valmy] que les masses sombres de l'infanterie prussienne
+République,Organization,org,8803,8813,0.3016,"s, cette clameur de victoire que les armées de la [République] devaient porter à travers l'Europe : « Vive la Na"
+Europe,Location,loc,8842,8848,0.8867,mées de la République devaient porter à travers l'[Europe] : « Vive la Nation ! » L'ardent patriotisme de n
+Nation,Organization,org,8861,8867,0.3793,ue devaient porter à travers l'Europe : « Vive la [Nation] ! » L'ardent patriotisme de nos soldats leur ava
+Kellermann,Person,pers,8979,8989,0.9533,victoire. Et ainsi s'était justifiée la parole de [Kellermann] : « L'ennemi le plus aguerri ne doit pas l'empor
+Liberté,Organization,org,9089,9096,0.5472,ter sur ceux qui se consacrent à la défense de la [Liberté]. » Puissent les belles troupes de France remport
+France,Location,loc,9132,9138,0.9391,de la Liberté. » Puissent les belles troupes de [France] remporter de pareils succès dans les luttes futur
+Valbonne,Location,loc,10083,10091,0.5022,je vous jetterai dans les griffes de ma tante de [Valbonne] et vous assure que vous n'en sortirez pas... seul
+Valbonne,Location,loc,10830,10838,0.9273,"pareille cécité. \\ Vous le savez, ma tante de [Valbonne] est une « marieuse ». Avec en tête la constante"
+château de la Perdriavière,Location,loc,12490,12516,0.9169,isque... Ce dialogue avait lieu sur le perron du [château de la Perdriavière] que ma tante possédait aux environs de Paris. So
+Paris,Location,loc,12556,12561,0.9563,rdriavière que ma tante possédait aux environs de [Paris]. Souvent je venais en auto y passer quelques heu
+Champs-Elysées,Location,loc,13874,13888,0.9598,"erdu, tout au contraire lui faisait descendre les [Champs-Elysées], traverser la place de la Concorde, s'avancer ver"
+place de la Concorde,Location,loc,13903,13923,0.9638,"aisait descendre les Champs-Elysées, traverser la [place de la Concorde], s'avancer vers la rue Royale, vers les boulevard"
+rue Royale,Location,loc,13943,13953,0.9529,"verser la place de la Concorde, s'avancer vers la [rue Royale], vers les boulevards, ma tante se rassurait. Deva"
+Opéra,Location,loc,14008,14013,0.625,"s les boulevards, ma tante se rassurait. Devant l'[Opéra], elle avait retrouvé toute sa sérénité. Tournant"
+rue de la Paix,Location,loc,14072,14086,0.9705,"ait retrouvé toute sa sérénité. Tournant vers la [rue de la Paix], la voiture bientôt s'arrêta. — Mais où me mènes"
+Amérique,Location,loc,17837,17845,0.941,"gare. Je te trouverai la possibilité d'avoir « l'[Amérique] chez toi », le mot n'est pas de moi... et puis tu"
+Perdriavière,Location,loc,18388,18400,0.9609,"» Les Grivois habitent à trente kilomètres de la [Perdriavière] un château princier. Avec ton automobile, nous vo"
+Perdriavière,Location,loc,18796,18808,0.9713,parents... Cela ne lui ressemble pas... J'ai-je à [Perdriavière]?...

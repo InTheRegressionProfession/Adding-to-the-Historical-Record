@@ -1,0 +1,86 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+DANS LES RÉGIONS ANTARCTIQUES,loc.adm.reg,Location,loc.adm.reg,29,58,,EXPLICATION DE NOS GRAVURES [DANS LES RÉGIONS ANTARCTIQUES] Le docteur Otto Nordenskjöld retrouvé Une nouve
+Le docteur Otto Nordenskjöld,pers.ind,Person,pers.ind,60,88,,N DE NOS GRAVURES DANS LES RÉGIONS ANTARCTIQUES [Le docteur Otto Nordenskjöld] retrouvé Une nouvelle est arrivée qui a causé un
+Otto Nordenskjöld,pers.ind,Person,pers.ind,71,88,,AVURES DANS LES RÉGIONS ANTARCTIQUES Le docteur [Otto Nordenskjöld] retrouvé Une nouvelle est arrivée qui a causé un
+M. Otto Nordenskjöld,pers.ind,Person,pers.ind,506,526,,manquait à l'appel; tous les autres sont sauvés. [M. Otto Nordenskjöld] a trente-cinq ans. Il est le père de l'illustre s
+la France,loc.adm.nat,Location,loc.adm.nat,754,763,,"e sa nation bavait les plus basses injures contre [la France] généreuse, affolée, divisée par une affaire polit"
+la Patagonie,loc.adm.reg,Location,loc.adm.reg,966,978,,"il n'avait encore que vingt ans, il visitait déjà [la Patagonie] et la Terre de Feu. Remontant au Nord de l'Améri"
+la Terre de Feu,loc.phys.geo,Location,loc.phys.geo,982,997,,"e que vingt ans, il visitait déjà la Patagonie et [la Terre de Feu]. Remontant au Nord de l'Amérique, on le voyait l"
+le Klondike,loc.adm.reg,Location,loc.adm.reg,1073,1084,,"Amérique, on le voyait l'année suivante parcourir [le Klondike] et la Laponie. De tous ces voyages, Otto Nordensk"
+la Laponie,loc.adm.reg,Location,loc.adm.reg,1088,1098,,"voyait l'année suivante parcourir le Klondike et [la Laponie]. De tous ces voyages, Otto Nordenskjöld rapportai"
+Dumont-d'Urville,pers.ind,Person,pers.ind,1363,1379,,"vait précédé, en 1838, notre illustre compatriote [Dumont-d'Urville] et plus loin encore s'il était possible. Monté s"
+l'Antarctic,org.ent,Organization,org.ent,1442,1453,,"encore s'il était possible. Monté sur le navire [l'Antarctic], en Janvier 1902, il abordait par la côte Sud la"
+la Terre Louis-Philippe,loc.adm.reg,Location,loc.adm.reg,1500,1523,,"tic, en Janvier 1902, il abordait par la côte Sud [la Terre Louis-Philippe] et s'y installait dans une cabane avec cinq de se"
+la Terre Louis-Philippe,loc.adm.reg,Location,loc.adm.reg,1500,1523,,"tic, en Janvier 1902, il abordait par la côte Sud [la Terre Louis-Philippe] et s'y installait dans une cabane avec cinq de se"
+la République argentine,org.adm,Organization,org.adm,1620,1643,,"ses compagnons dont un lieutenant de vaisseau de [la République argentine], qui avait sollicité l'honneur de faire partie de"
+les îles de la Géorgie du Sud,loc.adm.reg,Location,loc.adm.reg,1961,1990,,"ses compagnons, pousserait vers le Nord, visitant [les îles de la Géorgie du Sud] et les Falkland. Rendez-vous était pris en Janvi"
+les Falkland,loc.adm.reg,Location,loc.adm.reg,1994,2006,,"e Nord, visitant les îles de la Géorgie du Sud et [les Falkland]. Rendez-vous était pris en Janvier 1903, à la te"
+l'Amérique du Sud,loc.adm.sup,Location,loc.adm.sup,2162,2179,,"i Nordenskjöld et ses compagnons, cinglerait vers [l'Amérique du Sud]. On y devait arriver vers Mars ou Avril. On n'e"
+Mars,time.date.abs,Time,time.date.abs,2207,2211,,vers l'Amérique du Sud. On y devait arriver vers [Mars] ou Avril. On n'entendit plus parler des hardis e
+Avril,time.date.abs,Time,time.date.abs,2215,2220,,mérique du Sud. On y devait arriver vers Mars ou [Avril]. On n'entendit plus parler des hardis explorateu
+suédoise,loc.adm.nat,Location,loc.adm.nat,2510,2518,,"er, et trois expéditions furent organisées. L'une [suédoise], l'autre française, la troisième argentine. C'es"
+française,loc.adm.nat,Location,loc.adm.nat,2528,2537,,"itions furent organisées. L'une suédoise, l'autre [française], la troisième argentine. C'est cette dernière qu"
+argentine,loc.adm.nat,Location,loc.adm.nat,2552,2561,,". L'une suédoise, l'autre française, la troisième [argentine]. C'est cette dernière qui a eu le bonheur de réu"
+Rio-Gallegos,loc.adm.town,Location,loc.adm.town,2633,2645,,"e qui a eu le bonheur de réussir. Une dépêche de [Rio-Gallegos] nous apprend, en effet, que le navire argentin Ur"
+Uruguay,org.ent,Organization,org.ent,2693,2700,,"os nous apprend, en effet, que le navire argentin [Uruguay] a recueilli le docteur Nordenskjöld avec ses cinq"
+docteur Nordenskjöld,pers.ind,Person,pers.ind,2716,2736,,"et, que le navire argentin Uruguay a recueilli le [docteur Nordenskjöld] avec ses cinq compagnons sur la terre Louis-Phili"
+terre Louis-Philippe,loc.fac,Location,loc.fac,2769,2789,,"teur Nordenskjöld avec ses cinq compagnons sur la [terre Louis-Philippe], et le reste de l'expédition, sauf un matelot, au"
+île Seymour,loc.adm.reg,Location,loc.adm.reg,2861,2872,,"édition, sauf un matelot, au dépôt de vivres de l'[île Seymour]. LE DÉSARMEMENT DE LA FRANCE Les internationali"
+FRANCE,loc.adm.nat,Location,loc.adm.nat,2896,2902,,"de vivres de l'île Seymour. LE DÉSARMEMENT DE LA [FRANCE] Les internationalistes, ceux qui prêchent au nom"
+Chambre des députés,org.adm,Organization,org.adm,3179,3198,,"olitiques, les émeutes sanglantes, ont reçu de la [Chambre des députés] une leçon complète et sévère. C'était à propos d"
+M. de Pressensé,pers.ind,Person,pers.ind,3337,3352,,"jet de la question du désarmement, le rapporteur, [M. de Pressensé], osa déclarer: «qu'aucun Français ne voulait, qu'"
+colonel Rousset,pers.ind,Person,pers.ind,3664,3679,,"mouvement spontané d'indignation patriotique. Le [colonel Rousset], dont la voix puissante dominait le tumulte, s'éc"
+Alsace-Lorraine,loc.adm.reg,Location,loc.adm.reg,3749,3764,,"ante dominait le tumulte, s'écria: « Au nom de l'[Alsace-Lorraine] mutilée et du département frontière que je représ"
+M. Paul Doumer,pers.ind,Person,pers.ind,3943,3957,,"aroles impardonables que vous avez prononcées! » [M. Paul Doumer] s'empressa, hâtions nous de le dire, de répudier,"
+commission du budget,org.adm,Organization,org.adm,4055,4075,,"r, avec la plus patriotique énergie, au nom de la [commission du budget], qu'il préside, le rapporteur qui trahissait avec"
+M. Jaurès,pers.ind,Person,pers.ind,4349,4358,,"de la commission du budget, a réussi à préparer à [M. Jaurès] un double échec et à provoquer, en obligeant la m"
+Prussien,pers.coll,Person,pers.coll,5155,5163,,"présentants en viennent à se coucher aux pieds du [Prussien] vainqueur, pourvu qu'il les fasse vivre et dormir"
+M. Jaurès,pers.ind,Person,pers.ind,5239,5248,,es fasse vivre et dormir en paix. Les paroles de [M. Jaurès] ou de M. de Pressensé ne sont pas seulement honte
+Jaurès,pers.ind,Person,pers.ind,5242,5248,,fasse vivre et dormir en paix. Les paroles de M. [Jaurès] ou de M. de Pressensé ne sont pas seulement honte
+M. de Pressensé,pers.ind,Person,pers.ind,5255,5270,,t dormir en paix. Les paroles de M. Jaurès ou de [M. de Pressensé] ne sont pas seulement honteuses et sacrilèges; el
+M. de Pressensé,pers.ind,Person,pers.ind,5255,5270,,t dormir en paix. Les paroles de M. Jaurès ou de [M. de Pressensé] ne sont pas seulement honteuses et sacrilèges; el
+second Empire,time.date.abs,Time,time.date.abs,5405,5418,,"que l'on entendait déjà au Parlement de la fin du [second Empire], alors qu'une poignée de mystiques de l'antimilit"
+1870,time.date.abs,Time,time.date.abs,5507,5511,,"l'antimilitarisme nous préparait les désastres de [1870]. Ne vous y trompez pas un instant, ajoutez fort"
+Vosges,loc.phys.geo,Location,loc.phys.geo,5741,5747,,"être que fâcheux. D'abord, les gazeliers d'outre-[Vosges] s'en empareront pour dénoncer une fois de plus à"
+Europe,loc.adm.sup,Location,loc.adm.sup,5799,5805,,'en empareront pour dénoncer une fois de plus à l'[Europe] le péril de guerre où la met notre incorrigible c
+de Bülow,pers.ind,Person,pers.ind,5962,5970,,conséquence; mais il se pourrait que l'astucieux [de Bülow] saisit aux cheveux l'occasion qui s'offre de dema
+Reichstag,org.adm,Organization,org.adm,6028,6037,,"aux cheveux l'occasion qui s'offre de demander au [Reichstag] de nouveaux crédits militaires et que, par ainsi,"
+M. Clémenceau,pers.ind,Person,pers.ind,6833,6846,,"moment que les «bêles de paix», comme les appelle [M. Clémenceau], en parlant, on ne pouvait dire que ce qui a été"
+1er décembre,time.date.abs,Time,time.date.abs,7180,7192,,"l'enclume et mettent en œuvre les métaux. Or, le [1er décembre], c'est jour de liesses pour les «Noirs». Dans la"
+France,loc.adm.nat,Location,loc.adm.nat,7277,7283,,"oirs». Dans la plupart des cités industrielles de [France], tous, depuis le forgeron jusqu'à l'orfèvre, chôm"
+France,loc.adm.nat,Location,loc.adm.nat,7277,7283,,"oirs». Dans la plupart des cités industrielles de [France], tous, depuis le forgeron jusqu'à l'orfèvre, chôm"
+Monsieur Saint-Eloi,pers.ind,Person,pers.ind,7606,7625,,". Comme au temps jadis, les ouvriers du «stil de [Monsieur Saint-Eloi]» fêtent leur patron. Sans doute, fort peu de ces"
+Clotaire II,pers.ind,Person,pers.ind,7966,7977,,rône enrichi d'or et de pierreries qu'il fit pour [Clotaire II] et que l'on conserve aujourd'hui dans le trésor d
+Saint-Denis,loc.fac,Location,loc.fac,8045,8056,,rve aujourd'hui dans le trésor de la basilique de [Saint-Denis]. Ils ignorent peut-être qu'avant d'être évêque de
+Noyon,loc.adm.town,Location,loc.adm.town,8107,8112,,Ils ignorent peut-être qu'avant d'être évêque de [Noyon] et de combler de bienfaits tout le Nord de la Fra
+Dagobert,pers.ind,Person,pers.ind,8363,8371,,"aient bien de prendre exemple — et que le bon roi [Dagobert], qui n'était pas si benêt que le dit la légende,"
+Saint-Eloi,pers.ind,Person,pers.ind,9731,9741,,"ns corporatives de ce genre réunies le jour de la [Saint-Eloi]. Certaines d'entre elles, outre le vieux drap d'"
+LACARRE,pers.ind.articleauthor,Person,pers.ind.articleauthor,10935,10942,,"té, sous l'égide du vieux patron de leur métier. [LACARRE]. LA POUDRE AUX YEUX — Alors, mademoiselle, vous"
+LA POUDRE AUX YEUX,prod.media,Product,prod.media,10945,10963,,"'égide du vieux patron de leur métier. LACARRE. [LA POUDRE AUX YEUX] — Alors, mademoiselle, vous quittez Paris? — Mon"
+Lucienne Durieu,pers.ind,Person,pers.ind,11091,11106,,"n va; il faut bien faire comme tout le monde. Et [Lucienne Durieu], en soupirant, choisit un petit four dans la coup"
+Gabriel Augier,pers.ind,Person,pers.ind,11174,11188,,"oisit un petit four dans la coupe que lui tendait [Gabriel Augier]. Autour de la table du lunch, jeunes gens et jeu"
+Mme Durieu,pers.ind,Person,pers.ind,11944,11954,,"taine de visites à faire. — Sans compter, ajouta [Mme Durieu] qui s'était rapprochée, les courses chez les four"
+Lucienne,pers.ind,Person,pers.ind,12164,12172,,"ler s'enterrer à la campagne... Enfin!... Allons, [Lucienne], vite! — Sera-ce indiscret, demanda Gabriel, d'a"
+Gabriel,pers.ind,Person,pers.ind,12210,12217,,"ns, Lucienne, vite! — Sera-ce indiscret, demanda [Gabriel], d'aller vous surprendre aux Oseraies? Un éclair"
+Oseraies,loc.fac,Location,loc.fac,12247,12255,,"ret, demanda Gabriel, d'aller vous surprendre aux [Oseraies]? Un éclair de malice passa dans les yeux de la j"
+mer,loc.phys.hydro,Location,loc.phys.hydro,12572,12575,,"t peut-être mènerai-je cette petite au bord de la [mer]. La vraie campagne, c'est un peu sévère pour la j"
+Gabriel Augier,pers.ind,Person,pers.ind,13342,13356,,"ssière, masquée de verres bleus et de caoutchouc, [Gabriel Augier], sous son accoutrement disgracieux, poursuivait d"
+Paris,loc.adm.town,Location,loc.adm.town,13462,13467,,"es pleins de poésie. Depuis un mois, ayant quitté [Paris] dans des directions opposées, Gabriel Augier et L"
+Lucienne Durieu,pers.ind,Person,pers.ind,13516,13531,,"s dans des directions opposées, Gabriel Augier et [Lucienne Durieu] ne s'étaient point revus. L'absence ... Qui d'or"
+Mme Augier,pers.ind,Person,pers.ind,14379,14389,,"eut gagner un avocat, chose aléatoire, tandis que [Mme Augier], si elle apporte la jolie dot que te permet d'esp"
+Lucienne,pers.ind,Person,pers.ind,14950,14958,,"renait le sentiment, mais puisque nous aimons Mme [Lucienne] il est inutile de chercher ce qui vaudrait mieux."
+Mme Durieu,pers.ind,Person,pers.ind,15041,15051,,"i vaudrait mieux.» — Surtout, écrivez! avait dit [Mme Durieu], lorsque le jeune homme manifestait son intention"
+Oseraies,loc.adm.town,Location,loc.adm.town,15114,15122,,jeune homme manifestait son intention d'aller aux [Oseraies]. En villégiature pour quelques jours chez des am
+Gabriel,pers.ind,Person,pers.ind,15796,15803,,"mmobile près du chauffeur appliqué à sa manœuvre, [Gabriel] évoquait, après l'image gracieuse de Lucienne, ce"
+M. et de Mme Durieu,pers.coll,Person,pers.coll,15879,15898,,"racieuse de Lucienne, celles moins séduisantes de [M. et de Mme Durieu]. Il est fâcheux, songeait-il, que ces excellents"
+Le château,loc.fac,Location,loc.fac,16700,16710,,her le château. Un gamin questionné répondit: — [Le château]? Le chemin à gauche et puis tout droit. C'était
+Augier,pers.ind,Person,pers.ind,16888,16894,,"aux terrasses fleuries. «C'est délicieux, se dit [Augier]. Un cadre digne de Lucienne.» Triomphalement l'a"
+Lucienne,pers.ind,Person,pers.ind,16914,16922,,"C'est délicieux, se dit Augier. Un cadre digne de [Lucienne].» Triomphalement l'auto vira dans la cour. Aussi"
+Gabriel,pers.ind,Person,pers.ind,17182,17189,,"gourmé à la fois, s'avance. «Quel luxe! songeait [Gabriel], de nouveau inquiet et attristé.» — Madame est-e"
+Mme Durieu,pers.ind,Person,pers.ind,17397,17407,,"ugier comme en rêve. N'est-ce pas ici que demeure [Mme Durieu]? — Oh! non, monsieur... C'est plus loin, dans le"
+le village,loc.adm.town,Location,loc.adm.town,17455,17465,,"eu? — Oh! non, monsieur... C'est plus loin, dans [le village]. — Bien. Je vous remercie. Soulagé décidément d"
+M. le maire des Oseraies,pers.ind,Person,pers.ind,17990,18014,,"olets lie de vin et ces tourelles appartenaient à [M. le maire des Oseraies]. — La famille Durieu, monsieur, ça demeure plus"
+La famille Durieu,pers.coll,Person,pers.coll,18019,18036,,"lles appartenaient à M. le maire des Oseraies. — [La famille Durieu], monsieur, ça demeure plus loin sur la droite..."
+Paris,loc.adm.town,Location,loc.adm.town,18954,18959,,Non... non... c'est-à-dire oui. Monsieur vient de [Paris]? — Pas directement. — Non... Mais monsieur en e
+M. Durieu,pers.ind,Person,pers.ind,19739,19748,,"aissait le visage — qui brusquement s'effara — de [M. Durieu] lui-même! Le correct, l'élégant, le raffiné M. Du"
+monsieur Augier,pers.ind,Person,pers.ind,19863,19878,,! par exemple... si je m'attendais... monsieur... [monsieur Augier]... ce cher monsieur Augier! — Je suis indiscret?

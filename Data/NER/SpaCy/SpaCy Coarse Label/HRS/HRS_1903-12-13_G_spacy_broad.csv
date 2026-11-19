@@ -1,0 +1,439 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Heure exacte,Product,MISC,97,109,,"tre et... personne n'est d'accord!! Pour avoir l'[Heure exacte], n'achetez que la Montre ""NE VARIETUR"" et les Mod"
+Montre,Location,LOC,128,134,,"rd!! Pour avoir l'Heure exacte, n'achetez que la [Montre] ""NE VARIETUR"" et les Modèles similaires de la Mai"
+NE VARIETUR,Location,LOC,136,147,,"ur avoir l'Heure exacte, n'achetez que la Montre ""[NE VARIETUR]"" et les Modèles similaires de la Maison J. GIRAR"
+"Modèles similaires de la Maison
+
+J. GIRARD & CIE
+
+Plus de 90",Product,MISC,156,216,,"cte, n'achetez que la Montre ""NE VARIETUR"" et les [Modèles similaires de la Maison J. GIRARD & CIE Plus de 90] Variétés de Montres merveilleuses depuis 20 fr."
+Variétés de Montres merveilleuses,Organization,ORG,217,250,,ilaires de la Maison J. GIRARD & CIE Plus de 90 [Variétés de Montres merveilleuses] depuis 20 fr. jusqu'aux Chronomètres de prix ave
+Chronomètres,Product,MISC,276,288,,de Montres merveilleuses depuis 20 fr. jusqu'aux [Chronomètres] de prix avec Bulletin de marche vendus avec LE C
+Bulletin de marche,Product,MISC,302,320,,depuis 20 fr. jusqu'aux Chronomètres de prix avec [Bulletin de marche] vendus avec LE CATALOGUE de LUXE contenant les R
+LUXE,Organization,ORG,350,354,,c Bulletin de marche vendus avec LE CATALOGUE de [LUXE] contenant les Reproductions photographiques des M
+Reproductions photographiques des Montres,Product,MISC,369,410,,e vendus avec LE CATALOGUE de LUXE contenant les [Reproductions photographiques des Montres] est envoyé FRANCO et GRATIS à toute personne qui
+FRANCO,Organization,ORG,422,428,,roductions photographiques des Montres est envoyé [FRANCO] et GRATIS à toute personne qui en fait la demande
+GRATIS,Product,MISC,432,438,,photographiques des Montres est envoyé FRANCO et [GRATIS] à toute personne qui en fait la demande. 20 MOIS
+"CRÉDIT
+
+RIEN A PAYER D'AVANCE",Product,MISC,492,521,,oute personne qui en fait la demande. 20 MOIS de [CRÉDIT RIEN A PAYER D'AVANCE]. ARÔME PATRELLE Remplacé avec avantage et économ
+Boules,Location,LOC,574,580,,"ARÔME PATRELLE Remplacé avec avantage et économie [Boules] à pot-au-feu, Oignons grillés, Caramél. fl. 50c."
+Oignons grillés,Product,MISC,595,610,,"cé avec avantage et économie Boules à pot-au-feu, [Oignons grillés], Caramél. fl. 50c. et à creuxons en biscuits Exig"
+Caramél,Product,MISC,612,619,,"et économie Boules à pot-au-feu, Oignons grillés, [Caramél]. fl. 50c. et à creuxons en biscuits Exiger la Sig"
+fl,Location,LOC,621,623,,"ie Boules à pot-au-feu, Oignons grillés, Caramél. [fl]. 50c. et à creuxons en biscuits Exiger la Signatu"
+"biscuits
+Exiger la Signature: S. PATRELLE
+
+",Product,MISC,647,690,,"gnons grillés, Caramél. fl. 50c. et à creuxons en [biscuits Exiger la Signature: S. PATRELLE ]L'Avenir L'art de lire les cartes d'après les plus"
+"L'Avenir
+L'art",Organization,ORG,690,704,,ons en biscuits Exiger la Signature: S. PATRELLE [L'Avenir L'art] de lire les cartes d'après les plus grandes écriv
+franco 10c,Person,PER,780,790,,"s les plus grandes écrivains, cartomanciens, etc. [franco 10c]. de 32 cartes oracles, illustrées de joies gravur"
+J. Pierre,Person,PER,890,899,,"es en couleurs avec instructions, contre 75 cent. [J. Pierre], Chimiste à BOUAIN (Aisne) VOULEZ-VOUS RIRE ?? D"
+Chimiste,Person,PER,901,909,,"urs avec instructions, contre 75 cent. J. Pierre, [Chimiste] à BOUAIN (Aisne) VOULEZ-VOUS RIRE ?? Demandez to"
+BOUAIN,Organization,ORG,912,918,,"structions, contre 75 cent. J. Pierre, Chimiste à [BOUAIN] (Aisne) VOULEZ-VOUS RIRE ?? Demandez tous à DONA"
+Aisne,Location,LOC,920,925,,"ns, contre 75 cent. J. Pierre, Chimiste à BOUAIN ([Aisne]) VOULEZ-VOUS RIRE ?? Demandez tous à DONADEY, 53"
+Demandez,Product,MISC,948,956,,"e, Chimiste à BOUAIN (Aisne) VOULEZ-VOUS RIRE ?? [Demandez] tous à DONADEY, 53, R. N.-O.-de-Nazareth, Paris:"
+DONADEY,Location,LOC,964,971,,"UAIN (Aisne) VOULEZ-VOUS RIRE ?? Demandez tous à [DONADEY], 53, R. N.-O.-de-Nazareth, Paris: ses Catalog. il"
+R. N.-O.-de-Nazareth,Person,PER,977,997,,"VOULEZ-VOUS RIRE ?? Demandez tous à DONADEY, 53, [R. N.-O.-de-Nazareth], Paris: ses Catalog. illustr. de farces, attrapes"
+Paris,Location,LOC,999,1004,,"emandez tous à DONADEY, 53, R. N.-O.-de-Nazareth, [Paris]: ses Catalog. illustr. de farces, attrapes, sur-p"
+Catalog,Organization,ORG,1010,1017,,"s à DONADEY, 53, R. N.-O.-de-Nazareth, Paris: ses [Catalog]. illustr. de farces, attrapes, sur-p. diplô., car"
+sur-p,Person,PER,1049,1054,,"Paris: ses Catalog. illustr. de farces, attrapes, [sur-p]. diplô., cartes, lettres comiq., plus-mus., trues"
+diplô,Person,PER,1056,1061,,"ses Catalog. illustr. de farces, attrapes, sur-p. [diplô]., cartes, lettres comiq., plus-mus., trues-sed.,"
+plus-mus,Product,MISC,1088,1096,,"attrapes, sur-p. diplô., cartes, lettres comiq., [plus-mus]., trues-sed., chansons, monol., inst. de musiq.,"
+monol,Product,MISC,1121,1126,,"lettres comiq., plus-mus., trues-sed., chansons, [monol]., inst. de musiq., bijoux, cartes postales illust"
+musiq,Person,PER,1138,1143,,"plus-mus., trues-sed., chansons, monol., inst. de [musiq]., bijoux, cartes postales illustrées couleurs, ar"
+Envoi gratis,Product,MISC,1203,1215,,"cartes postales illustrées couleurs, art utiles. [Envoi gratis]. SEINS PILULES ORIENTALES Croissance, Beauté, Fe"
+"ORIENTALES
+Croissance",Product,MISC,1232,1253,,"ouleurs, art utiles. Envoi gratis. SEINS PILULES [ORIENTALES Croissance], Beauté, Fermeté RATIE (1er m. de 1er cl.), 5, Pa"
+Beauté,Person,PER,1255,1261,,"voi gratis. SEINS PILULES ORIENTALES Croissance, [Beauté], Fermeté RATIE (1er m. de 1er cl.), 5, Passage Ve"
+"Fermeté
+RATIE",Person,PER,1263,1276,,"is. SEINS PILULES ORIENTALES Croissance, Beauté, [Fermeté RATIE] (1er m. de 1er cl.), 5, Passage Verdeau, PARIS P"
+Passage Verdeau,Location,LOC,1301,1316,,"ce, Beauté, Fermeté RATIE (1er m. de 1er cl.), 5, [Passage Verdeau], PARIS PHOTOGRAPHIE SIMPLIFIÉE Le Photo-With est"
+"PARIS
+
+PHOTOGRAPHIE",Product,MISC,1318,1337,,"té RATIE (1er m. de 1er cl.), 5, Passage Verdeau, [PARIS PHOTOGRAPHIE] SIMPLIFIÉE Le Photo-With est un appareil instant,"
+Le Photo-With,Product,MISC,1349,1362,,", Passage Verdeau, PARIS PHOTOGRAPHIE SIMPLIFIÉE [Le Photo-With] est un appareil instant, de poche, photo-graphiqu"
+Photographie merveilleuse,Product,MISC,1460,1485,,"que, apprenant, paysag., groupes, portraits, etc. [Photographie merveilleuse]. Petit saisir vol d'un oiseau fr. 35. 2 produits"
+Instruct,Product,MISC,1546,1554,,"sir vol d'un oiseau fr. 35. 2 produits et access. [Instruct]. facile, prêt à fonctionner. Catalogue illustr. g"
+Catalogue illustr,Product,MISC,1584,1601,,"et access. Instruct. facile, prêt à fonctionner. [Catalogue illustr]. gratuit. Tous genres d'appar. supér. Facilit. fr"
+Facilit,Organization,ORG,1640,1647,,"gue illustr. gratuit. Tous genres d'appar. supér. [Facilit]. franco / dépaiement. RENOM, ing., 23, rue St-Sab"
+RENOM,Product,MISC,1670,1675,,"res d'appar. supér. Facilit. franco / dépaiement. [RENOM], ing., 23, rue St-Sabin, Paris NOTICE Concent le"
+rue St-Sabin,Location,LOC,1687,1699,,"r. Facilit. franco / dépaiement. RENOM, ing., 23, [rue St-Sabin], Paris NOTICE Concent le moyen certain de faire"
+Paris,Location,LOC,1701,1706,,"anco / dépaiement. RENOM, ing., 23, rue St-Sabin, [Paris] NOTICE Concent le moyen certain de faire pousser"
+"NOTICE
+Concent",Product,MISC,1708,1722,,"dépaiement. RENOM, ing., 23, rue St-Sabin, Paris [NOTICE Concent] le moyen certain de faire pousser les plus grands"
+O UFS,Organization,ORG,1778,1783,,"yen certain de faire pousser les plus grands 2500 [O UFS] par 10 poulx et par an, fond de l'hiver. Ecrire à"
+M. le Directeur de comptoir d'aviculture,Person,PER,1834,1874,,"par 10 poulx et par an, fond de l'hiver. Ecrire à [M. le Directeur de comptoir d'aviculture] à PREMONT (Aisne) CADEAU PRIME à TOUT ACHETEUR e"
+PREMONT,Organization,ORG,1877,1884,,rire à M. le Directeur de comptoir d'aviculture à [PREMONT] (Aisne) CADEAU PRIME à TOUT ACHETEUR et Envoi Gr
+Aisne,Location,LOC,1886,1891,,le Directeur de comptoir d'aviculture à PREMONT ([Aisne]) CADEAU PRIME à TOUT ACHETEUR et Envoi Gratis et
+CADEAU PRIME,Location,LOC,1894,1906,,cteur de comptoir d'aviculture à PREMONT (Aisne) [CADEAU PRIME] à TOUT ACHETEUR et Envoi Gratis et Franco du Nouv
+ACHETEUR,Organization,ORG,1914,1922,,aviculture à PREMONT (Aisne) CADEAU PRIME à TOUT [ACHETEUR] et Envoi Gratis et Franco du Nouvel Album Illustr
+Envoi Gratis,Product,MISC,1926,1938,,PREMONT (Aisne) CADEAU PRIME à TOUT ACHETEUR et [Envoi Gratis] et Franco du Nouvel Album Illustré du 1er COMPTOI
+Franco du Nouvel Album Illustré,Organization,ORG,1942,1973,,CADEAU PRIME à TOUT ACHETEUR et Envoi Gratis et [Franco du Nouvel Album Illustré] du 1er COMPTOIR NATIONAL D'ORLOGERIE de BESANCON
+BESANCON,Location,LOC,2014,2022,,"Illustré du 1er COMPTOIR NATIONAL D'ORLOGERIE de [BESANCON] (Doub.) - E. DUPAS, Directeur, la plus importante"
+Doub,Location,LOC,2024,2028,,"du 1er COMPTOIR NATIONAL D'ORLOGERIE de BESANCON ([Doub].) - E. DUPAS, Directeur, la plus importante fabri"
+DUPAS,Person,PER,2036,2041,,"OIR NATIONAL D'ORLOGERIE de BESANCON (Doub.) - E. [DUPAS], Directeur, la plus importante fabrique de Montre"
+Directeur,Person,PER,2043,2052,,"IONAL D'ORLOGERIE de BESANCON (Doub.) - E. DUPAS, [Directeur], la plus importante fabrique de Montres, Pendules"
+Montres,Location,LOC,2085,2092,,"DUPAS, Directeur, la plus importante fabrique de [Montres], Pendules et Bijouterie. Chronomètre ""LA NATIONAL"
+Pendules,Location,LOC,2094,2102,,"irecteur, la plus importante fabrique de Montres, [Pendules] et Bijouterie. Chronomètre ""LA NATIONAL"" 25 fr. P"
+Bijouterie,Location,LOC,2106,2116,,"plus importante fabrique de Montres, Pendules et [Bijouterie]. Chronomètre ""LA NATIONAL"" 25 fr. PRÉCISION ABSOL"
+Chronomètre,Product,MISC,2118,2129,,"ante fabrique de Montres, Pendules et Bijouterie. [Chronomètre] ""LA NATIONAL"" 25 fr. PRÉCISION ABSOLUE. GARANTIE"
+NATIONAL,Product,MISC,2134,2142,,"Montres, Pendules et Bijouterie. Chronomètre ""LA [NATIONAL]"" 25 fr. PRÉCISION ABSOLUE. GARANTIE 10 ANS PRET"
+ABSOLUE,Person,PER,2161,2168,,"terie. Chronomètre ""LA NATIONAL"" 25 fr. PRÉCISION [ABSOLUE]. GARANTIE 10 ANS PRET 83 Argent sur signe. SOCIÉ"
+"GARANTIE 10 ANS
+
+",Product,MISC,2170,2187,,"ronomètre ""LA NATIONAL"" 25 fr. PRÉCISION ABSOLUE. [GARANTIE 10 ANS ]PRET 83 Argent sur signe. SOCIÉTÉ INDUSTRIELLE 83,"
+SOCIÉTÉ,Organization,ORG,2213,2220,,"SOLUE. GARANTIE 10 ANS PRET 83 Argent sur signe. [SOCIÉTÉ] INDUSTRIELLE 83, r. Lafayette, Paris. (25e Année)"
+INDUSTRIELLE 83,Product,MISC,2221,2236,,"ARANTIE 10 ANS PRET 83 Argent sur signe. SOCIÉTÉ [INDUSTRIELLE 83], r. Lafayette, Paris. (25e Année). Pas confondre."
+r. Lafayette,Person,PER,2238,2250,,"RET 83 Argent sur signe. SOCIÉTÉ INDUSTRIELLE 83, [r. Lafayette], Paris. (25e Année). Pas confondre. POILS ou DUV"
+Paris,Location,LOC,2252,2257,,"sur signe. SOCIÉTÉ INDUSTRIELLE 83, r. Lafayette, [Paris]. (25e Année). Pas confondre. POILS ou DUVETS dis"
+DUVETS,Product,MISC,2297,2303,,"tte, Paris. (25e Année). Pas confondre. POILS ou [DUVETS] disgracieux du visage et du corps, disparition co"
+r. Montmartre,Location,LOC,2420,2433,,"n de s'en débarrasser 15c. ACHILLE, chimiste, 75, [r. Montmartre], Paris ANGLAIS ALLEM. ITAL. ESP. RUSS. PORTU. AP"
+Paris,Location,LOC,2435,2440,,"rasser 15c. ACHILLE, chimiste, 75, r. Montmartre, [Paris] ANGLAIS ALLEM. ITAL. ESP. RUSS. PORTU. APRES SEU"
+ALLEM,Product,MISC,2450,2455,,"ILLE, chimiste, 75, r. Montmartre, Paris ANGLAIS [ALLEM]. ITAL. ESP. RUSS. PORTU. APRES SEUL en 4 mois, be"
+ITAL,Product,MISC,2457,2461,,"himiste, 75, r. Montmartre, Paris ANGLAIS ALLEM. [ITAL]. ESP. RUSS. PORTU. APRES SEUL en 4 mois, beaucoup"
+ESP,Product,MISC,2463,2466,,"e, 75, r. Montmartre, Paris ANGLAIS ALLEM. ITAL. [ESP]. RUSS. PORTU. APRES SEUL en 4 mois, beaucoup mieu"
+RUSS,Product,MISC,2468,2472,,", r. Montmartre, Paris ANGLAIS ALLEM. ITAL. ESP. [RUSS]. PORTU. APRES SEUL en 4 mois, beaucoup mieux qu'a"
+PORTU,Product,MISC,2474,2479,,"ontmartre, Paris ANGLAIS ALLEM. ITAL. ESP. RUSS. [PORTU]. APRES SEUL en 4 mois, beaucoup mieux qu'avec pro"
+Méthode parlante-progressive,Product,MISC,2547,2575,,"mois, beaucoup mieux qu'avec profession. Nouvelle [Méthode parlante-progressive], pratique, facile, infallible, donne la prononcia"
+ACCENT,Organization,ORG,2658,2664,,"onne la prononciation exacte du pays même, le PUR [ACCENT]. Prouve-essai, 1. langue, fco. en voyez 90c. (hor"
+fco,Product,MISC,2691,2694,,"ays même, le PUR ACCENT. Prouve-essai, 1. langue, [fco]. en voyez 90c. (hors France 1.30) mandat à 1. lim"
+France,Location,LOC,2716,2722,,"Prouve-essai, 1. langue, fco. en voyez 90c. (hors [France] 1.30) mandat à 1. limb. Poste française à Maître"
+limb,Location,LOC,2741,2745,,"fco. en voyez 90c. (hors France 1.30) mandat à 1. [limb]. Poste française à Maître Populaire, 13-2, r. Mon"
+Maître Populaire,Organization,ORG,2765,2781,,"France 1.30) mandat à 1. limb. Poste française à [Maître Populaire], 13-2, r. Montlhon, Paris. Avec belle écriture,"
+r. Montlhon,Person,PER,2789,2800,,". limb. Poste française à Maître Populaire, 13-2, [r. Montlhon], Paris. Avec belle écriture, l'indig. moyen cert"
+Paris,Location,LOC,2802,2807,,"française à Maître Populaire, 13-2, r. Montlhon, [Paris]. Avec belle écriture, l'indig. moyen certain de"
+fr,Location,LOC,2873,2875,,"riture, l'indig. moyen certain de gagner 60 à 100 [fr]. par mois en 2 h. de trav. p. j. sans quoi emp. e"
+h. de trav,Person,PER,2891,2901,,oyen certain de gagner 60 à 100 fr. par mois en 2 [h. de trav]. p. j. sans quoi emp. en prov. et à l'étr. (Seine
+emp,Person,PER,2919,2922,,100 fr. par mois en 2 h. de trav. p. j. sans quoi [emp]. en prov. et à l'étr. (Seine except.) Ecr. avec 0
+Seine,Location,LOC,2946,2951,,"trav. p. j. sans quoi emp. en prov. et à l'étr. ([Seine] except.) Ecr. avec 0,25 de limb. et réponse. Mme"
+Ecr,Location,LOC,2961,2964,,"ns quoi emp. en prov. et à l'étr. (Seine except.) [Ecr]. avec 0,25 de limb. et réponse. Mme LEZINA, 11, r"
+limb,Location,LOC,2979,2983,,"ov. et à l'étr. (Seine except.) Ecr. avec 0,25 de [limb]. et réponse. Mme LEZINA, 11, r. Eupatoria, Paris"
+Mme LEZINA,Person,PER,2997,3007,,"eine except.) Ecr. avec 0,25 de limb. et réponse. [Mme LEZINA], 11, r. Eupatoria, Paris IVROGNES corripies à ja"
+r. Eupatoria,Location,LOC,3013,3025,,"r. avec 0,25 de limb. et réponse. Mme LEZINA, 11, [r. Eupatoria], Paris IVROGNES corripies à jamais, même à leur"
+Paris,Location,LOC,3027,3032,,"e limb. et réponse. Mme LEZINA, 11, r. Eupatoria, [Paris] IVROGNES corripies à jamais, même à leur insu pa"
+IVROGNES,Product,MISC,3034,3042,,"et réponse. Mme LEZINA, 11, r. Eupatoria, Paris [IVROGNES] corripies à jamais, même à leur insu par la Lupér"
+Lupérine,Location,LOC,3087,3095,,"OGNES corripies à jamais, même à leur insu par la [Lupérine]. Ecr. Luper, 32, r. Boursault, Paris HALTE-LÀ! V"
+Ecr,Location,LOC,3097,3100,,"ipies à jamais, même à leur insu par la Lupérine. [Ecr]. Luper, 32, r. Boursault, Paris HALTE-LÀ! VOUS T"
+Luper,Location,LOC,3102,3107,,"à jamais, même à leur insu par la Lupérine. Ecr. [Luper], 32, r. Boursault, Paris HALTE-LÀ! VOUS TOUS qui"
+r. Boursault,Person,PER,3113,3125,,"même à leur insu par la Lupérine. Ecr. Luper, 32, [r. Boursault], Paris HALTE-LÀ! VOUS TOUS qui voulez RIRE, FAIR"
+Paris,Location,LOC,3127,3132,,"su par la Lupérine. Ecr. Luper, 32, r. Boursault, [Paris] HALTE-LÀ! VOUS TOUS qui voulez RIRE, FAIRE RIRE."
+VOUS TOUS,Organization,ORG,3144,3153,,"e. Ecr. Luper, 32, r. Boursault, Paris HALTE-LÀ! [VOUS TOUS] qui voulez RIRE, FAIRE RIRE. Envoyez votre adress"
+FAIRE RIRE,Organization,ORG,3171,3181,,"ault, Paris HALTE-LÀ! VOUS TOUS qui voulez RIRE, [FAIRE RIRE]. Envoyez votre adresse à la Soc. de la Galette Fr"
+Soc,Location,LOC,3210,3213,,"ulez RIRE, FAIRE RIRE. Envoyez votre adresse à la [Soc]. de la Galette Franco, 65, Rue du Faub. St-Denis,"
+Galette Franco,Location,LOC,3221,3235,,"FAIRE RIRE. Envoyez votre adresse à la Soc. de la [Galette Franco], 65, Rue du Faub. St-Denis, PARIS (1er arr.) vous"
+Rue du Faub,Location,LOC,3241,3252,,"votre adresse à la Soc. de la Galette Franco, 65, [Rue du Faub]. St-Denis, PARIS (1er arr.) vous recevrez gratis"
+PARIS,Organization,ORG,3264,3269,,"de la Galette Franco, 65, Rue du Faub. St-Denis, [PARIS] (1er arr.) vous recevrez gratis curieux catalogue"
+pag,Product,MISC,3325,3328,,"arr.) vous recevrez gratis curieux catalogue, 120 [pag]. illustr. de Farces, Physique, Magie, Spirit, Sor"
+illustr,Person,PER,3330,3337,,"vous recevrez gratis curieux catalogue, 120 pag. [illustr]. de Farces, Physique, Magie, Spirit, Sorcell, Cha"
+Farces,Person,PER,3342,3348,,"ez gratis curieux catalogue, 120 pag. illustr. de [Farces], Physique, Magie, Spirit, Sorcell, Chans. et Mono"
+"Magie, Spirit",Product,MISC,3360,3373,,"catalogue, 120 pag. illustr. de Farces, Physique, [Magie, Spirit], Sorcell, Chans. et Monolog. Invent. nouv. LIBRAI"
+Sorcell,Product,MISC,3375,3382,,"pag. illustr. de Farces, Physique, Magie, Spirit, [Sorcell], Chans. et Monolog. Invent. nouv. LIBRAIRIE SPECI"
+Chans,Product,MISC,3384,3389,,"str. de Farces, Physique, Magie, Spirit, Sorcell, [Chans]. et Monolog. Invent. nouv. LIBRAIRIE SPECIALE, pi"
+Monolog,Person,PER,3394,3401,,"rces, Physique, Magie, Spirit, Sorcell, Chans. et [Monolog]. Invent. nouv. LIBRAIRIE SPECIALE, pieces comiq.,"
+SPECIALE,Organization,ORG,3427,3435,,"rcell, Chans. et Monolog. Invent. nouv. LIBRAIRIE [SPECIALE], pieces comiq., art. utile, etc. LA SEYE CAPILLA"
+pieces comiq,Person,PER,3437,3449,,"ns. et Monolog. Invent. nouv. LIBRAIRIE SPECIALE, [pieces comiq]., art. utile, etc. LA SEYE CAPILLAIRE fait pouss"
+SEYE,Organization,ORG,3473,3477,,"RIE SPECIALE, pieces comiq., art. utile, etc. LA [SEYE] CAPILLAIRE fait pousser la barbe et les moustache"
+Cils,Product,MISC,3590,3594,,"ent, même à 15 ans. Fait repousser les Cheveux et [Cils]. Effets prodigieux (2 méd. d'or, 10.000 lett. fél"
+félicitat,Person,PER,3641,3650,,"ils. Effets prodigieux (2 méd. d'or, 10.000 lett. [félicitat].). Le d'ub. 1er pot valeu. 20 fr. ven. u. fr. 3 f"
+1er pot,Product,MISC,3663,3670,,"(2 méd. d'or, 10.000 lett. félicitat.). Le d'ub. [1er pot] valeu. 20 fr. ven. u. fr. 3 fr. 3. le 2e pot 2 fr"
+fr,Location,LOC,3681,3683,,000 lett. félicitat.). Le d'ub. 1er pot valeu. 20 [fr]. ven. u. fr. 3 fr. 3. le 2e pot 2 fr. le doub. po
+fr,Location,LOC,3699,3701,,"t.). Le d'ub. 1er pot valeu. 20 fr. ven. u. fr. 3 [fr]. 3. le 2e pot 2 fr. le doub. pot d'essai. 0,75 li"
+mand,Person,PER,3758,3762,,"2e pot 2 fr. le doub. pot d'essai. 0,75 limb. ou [mand]. à J. Posel, ch. Bd. Filles-du-Calvaire, 20, Pari"
+J. Posel,Person,PER,3766,3774,,"2 fr. le doub. pot d'essai. 0,75 limb. ou mand. à [J. Posel], ch. Bd. Filles-du-Calvaire, 20, Paris. GRATIS 1"
+Filles-du-Calvaire,Location,LOC,3784,3802,,"d'essai. 0,75 limb. ou mand. à J. Posel, ch. Bd. [Filles-du-Calvaire], 20, Paris. GRATIS 1 chanson avec musique, 4 cha"
+Paris,Location,LOC,3808,3813,,"mand. à J. Posel, ch. Bd. Filles-du-Calvaire, 20, [Paris]. GRATIS 1 chanson avec musique, 4 chansons, 2 mo"
+GRATIS,Product,MISC,3816,3822,,"J. Posel, ch. Bd. Filles-du-Calvaire, 20, Paris. [GRATIS] 1 chanson avec musique, 4 chansons, 2 monol. 2 sc"
+gratis fr,Product,MISC,3898,3907,,"chansons, 2 monol. 2 scènes comiq. sont expédiés [gratis fr]. à tous ceux qui envoient leur adresse à R. Niole"
+R. Niolet,Person,PER,3949,3958,,"ratis fr. à tous ceux qui envoient leur adresse à [R. Niolet], 23, r. St-Sabin, Paris PEIGNE POUR TEINDRE CHEV"
+r. St-Sabin,Person,PER,3964,3975,,"s ceux qui envoient leur adresse à R. Niolet, 23, [r. St-Sabin], Paris PEIGNE POUR TEINDRE CHEVEUX, BARBE, Moust"
+Paris,Location,LOC,3977,3982,,"voient leur adresse à R. Niolet, 23, r. St-Sabin, [Paris] PEIGNE POUR TEINDRE CHEVEUX, BARBE, Moustache, e"
+PEIGNE,Location,LOC,3984,3990,,"leur adresse à R. Niolet, 23, r. St-Sabin, Paris [PEIGNE] POUR TEINDRE CHEVEUX, BARBE, Moustache, en quatre"
+TEINDRE,Organization,ORG,3996,4003,,"à R. Niolet, 23, r. St-Sabin, Paris PEIGNE POUR [TEINDRE] CHEVEUX, BARBE, Moustache, en quatre coups du Pei"
+BARBE,Product,MISC,4013,4018,,"r. St-Sabin, Paris PEIGNE POUR TEINDRE CHEVEUX, [BARBE], Moustache, en quatre coups du Peigne Merveilleux"
+Moustache,Product,MISC,4020,4029,,"Sabin, Paris PEIGNE POUR TEINDRE CHEVEUX, BARBE, [Moustache], en quatre coups du Peigne Merveilleux. — BRUN, B"
+Peigne Merveilleux,Product,MISC,4050,4068,,"DRE CHEVEUX, BARBE, Moustache, en quatre coups du [Peigne Merveilleux]. — BRUN, BLOND, NOIS. Prix: 6 francs. (Envoi disc"
+BLOND,Person,PER,4078,4083,,"e, en quatre coups du Peigne Merveilleux. — BRUN, [BLOND], NOIS. Prix: 6 francs. (Envoi discret.) Indiquer"
+NOIS,Organization,ORG,4085,4089,,"uatre coups du Peigne Merveilleux. — BRUN, BLOND, [NOIS]. Prix: 6 francs. (Envoi discret.) Indiquer la cou"
+Envoi discret,Product,MISC,4108,4121,,"erveilleux. — BRUN, BLOND, NOIS. Prix: 6 francs. ([Envoi discret].) Indiquer la couleur. — Adresser timbres ou mand"
+CLAULA,Location,LOC,4176,4182,,"diquer la couleur. — Adresser timbres ou mandats. [CLAULA], rue Saint-Pantaléon, 3, TOULOUSE BEAUTÉ & JEUNE"
+rue Saint-Pantaléon,Location,LOC,4184,4203,,"a couleur. — Adresser timbres ou mandats. CLAULA, [rue Saint-Pantaléon], 3, TOULOUSE BEAUTÉ & JEUNESSE ÉTERNELLE A TOUS"
+"TOULOUSE
+
+BEAUTÉ & JEUNESSE",Product,MISC,4208,4235,,"mbres ou mandats. CLAULA, rue Saint-Pantaléon, 3, [TOULOUSE BEAUTÉ & JEUNESSE] ÉTERNELLE A TOUS Le rouge du nez, les points noir"
+Crème Loris,Product,MISC,4390,4401,,"tripes-mentons, etc. disparaissent à jamais p. la [Crème Loris], le pot 1.10. HOULE FRISANTINE. Une goutte fait f"
+HOULE,Product,MISC,4416,4421,,"raissent à jamais p. la Crème Loris, le pot 1.10. [HOULE] FRISANTINE. Une goutte fait friser 1.75 les cheve"
+FRISANTINE,Product,MISC,4422,4432,,"nt à jamais p. la Crème Loris, le pot 1.10. HOULE [FRISANTINE]. Une goutte fait friser 1.75 les cheveux pendant"
+Dépense,Product,MISC,4491,4498,,tte fait friser 1.75 les cheveux pendant 8 jours. [Dépense] insignifiante. Le Bac. 3.50 développés reconstit.
+embelis,Location,LOC,4549,4556,,insignifiante. Le Bac. 3.50 développés reconstit. [embelis]. raffermis en 3-5 jours p. la Farine hongroise 1
+3 Duvets,Product,MISC,4729,4737,,", donner cela à l'eau. Lotion végétale. 1 flacon. [3 Duvets] et Barbe la plus dure, détruits p. toujours en un"
+Barbe,Product,MISC,4741,4746,,"a à l'eau. Lotion végétale. 1 flacon. 3 Duvets et [Barbe] la plus dure, détruits p. toujours en une fois. L"
+Posel,Person,PER,4840,4845,,"ois. La boîte trois francs. Mandat ou timbres. J. [Posel], chim., Bd. Filles-du-Calvaire, 20, Paris. Notice"
+Bd,Location,LOC,4854,4856,,"trois francs. Mandat ou timbres. J. Posel, chim., [Bd]. Filles-du-Calvaire, 20, Paris. Notice gratis. P"
+Filles-du-Calvaire,Location,LOC,4858,4876,,"s francs. Mandat ou timbres. J. Posel, chim., Bd. [Filles-du-Calvaire], 20, Paris. Notice gratis. PLUS DE HERNIE Pour c"
+Paris,Location,LOC,4882,4887,,"res. J. Posel, chim., Bd. Filles-du-Calvaire, 20, [Paris]. Notice gratis. PLUS DE HERNIE Pour contenir et"
+Notice gratis,Product,MISC,4889,4902,,"Posel, chim., Bd. Filles-du-Calvaire, 20, Paris. [Notice gratis]. PLUS DE HERNIE Pour contenir et guérir la herni"
+fr,Location,LOC,5006,5008,,"ns être gêné, j'envoie gratis et cacheté contre 0 [fr]. 15 centimes un procédé facile et séduis., plus c"
+M. REVERDY,Person,PER,5109,5119,,"mmode et plus efficace que les bandages. Ecrire à [M. REVERDY], au RAINCY (S-O). PRIX 10 francs LA PUISSANCE EN"
+RAINCY,Location,LOC,5124,5130,,"fficace que les bandages. Ecrire à M. REVERDY, au [RAINCY] (S-O). PRIX 10 francs LA PUISSANCE EN SOI-MEME"
+S-O,Location,LOC,5132,5135,,"que les bandages. Ecrire à M. REVERDY, au RAINCY ([S-O]). PRIX 10 francs LA PUISSANCE EN SOI-MEME Par l"
+PRIX 10 francs,Product,MISC,5139,5153,,"bandages. Ecrire à M. REVERDY, au RAINCY (S-O). [PRIX 10 francs] LA PUISSANCE EN SOI-MEME Par le Magnétisme et l'"
+"Hypnotisme
+
+Chacun peut pratiquer",Product,MISC,5203,5236,,LA PUISSANCE EN SOI-MEME Par le Magnétisme et l'[Hypnotisme Chacun peut pratiquer] et réussir dès maintenant Ce volume: La Puissanc
+La Puissance,Product,MISC,5275,5287,,"t pratiquer et réussir dès maintenant Ce volume: [La Puissance] en soi-même, enseigne à chacun le moyen d'exercer"
+Pouvoir Magnétique,Product,MISC,6158,6176,,"Celui qui aura appris dans ce livre le secret du [Pouvoir Magnétique] pourra se faire aimer d'une personne qui, par ins"
+Rue des Boulets,Location,LOC,6770,6785,,"ndat bon ou timbres-poste adressé à M. TENOR, 90, [Rue des Boulets], PARIS. — Notice gratis. JOYEUX VIVEURS & CHANTE"
+PARIS,Location,LOC,6787,6792,,"es-poste adressé à M. TENOR, 90, Rue des Boulets, [PARIS]. — Notice gratis. JOYEUX VIVEURS & CHANTEURS Vou"
+Notice gratis,Product,MISC,6796,6809,,"adressé à M. TENOR, 90, Rue des Boulets, PARIS. — [Notice gratis]. JOYEUX VIVEURS & CHANTEURS Voulez-vous lire, fa"
+"VIVEURS & CHANTEURS
+",Organization,ORG,6819,6839,,"Rue des Boulets, PARIS. — Notice gratis. JOYEUX [VIVEURS & CHANTEURS ]Voulez-vous lire, faire rire et amuser vos amis? D"
+illust,Person,PER,6910,6916,,"re rire et amuser vos amis? Demandez les 6 catal. [illust]. remis par 190-4. Nouv. trucs, farces, attrapes,"
+sorcell,Product,MISC,6994,7001,,"cs, farces, attrapes, tours de physique, librair. [sorcell]., magie, chansons, art. utiles, etc. Envigragr. M"
+Envigragr,Product,MISC,7039,7048,,"air. sorcell., magie, chansons, art. utiles, etc. [Envigragr]. Maison G. Rigolet, 23, rue St-Sabin, Paris PRIX"
+Maison G. Rigolet,Person,PER,7050,7067,,"l., magie, chansons, art. utiles, etc. Envigragr. [Maison G. Rigolet], 23, rue St-Sabin, Paris PRIX 10 francs LA PUISS"
+rue St-Sabin,Location,LOC,7073,7085,,"t. utiles, etc. Envigragr. Maison G. Rigolet, 23, [rue St-Sabin], Paris PRIX 10 francs LA PUISSANCE EN SOI-MEME"
+"Paris
+
+",Product,MISC,7087,7094,,". Envigragr. Maison G. Rigolet, 23, rue St-Sabin, [Paris ]PRIX 10 francs LA PUISSANCE EN SOI-MEME Par le Ma"
+PRIX 10,Product,MISC,7094,7101,,"ragr. Maison G. Rigolet, 23, rue St-Sabin, Paris [PRIX 10] francs LA PUISSANCE EN SOI-MEME Par le Magnétism"
+"Hypnotisme
+
+Chacun peut pratiquer",Product,MISC,7158,7191,,LA PUISSANCE EN SOI-MEME Par le Magnétisme et l'[Hypnotisme Chacun peut pratiquer] et réussir dès maintenant chose tout à fait mauv
+Rue des Boulets,Location,LOC,8804,8819,,"ndat bon ou timbres-poste adressé à M. TENOR, 90, [Rue des Boulets], PARIS. — Notice gratis. UNE FOURRURE OFFERTE G"
+PARIS,Location,LOC,8821,8826,,"es-poste adressé à M. TENOR, 90, Rue des Boulets, [PARIS]. — Notice gratis. UNE FOURRURE OFFERTE GRATUITE"
+Notice gratis,Product,MISC,8830,8843,,"adressé à M. TENOR, 90, Rue des Boulets, PARIS. — [Notice gratis]. UNE FOURRURE OFFERTE GRATUITEMENT PLAISIR et"
+FOURRURE,Product,MISC,8850,8858,,"90, Rue des Boulets, PARIS. — Notice gratis. UNE [FOURRURE] OFFERTE GRATUITEMENT PLAISIR et CHARME ÉLÉGANC"
+PLAISIR,Product,MISC,8882,8889,,tice gratis. UNE FOURRURE OFFERTE GRATUITEMENT [PLAISIR] et CHARME ÉLÉGANCE et SÉDUCTION Quelles heures
+"SÉDUCTION
+
+Quelles heures plus douces",Product,MISC,8913,8950,,"ERTE GRATUITEMENT PLAISIR et CHARME ÉLÉGANCE et [SÉDUCTION Quelles heures plus douces], quelle charmes plus exquisies que ceux passés au"
+Jules MARY,Person,PER,9593,9603,,"ant les noms les plus glorieux de la littérature: [Jules MARY], MÉMOUVÉ, PAUL VIALA, MONTY, MAHALIN, DEMESSE, GY"
+MÉMOUVÉ,Product,MISC,9605,9612,,"les plus glorieux de la littérature: Jules MARY, [MÉMOUVÉ], PAUL VIALA, MONTY, MAHALIN, DEMESSE, GYP, etc.,"
+PAUL VIALA,Person,PER,9614,9624,,"glorieux de la littérature: Jules MARY, MÉMOUVÉ, [PAUL VIALA], MONTY, MAHALIN, DEMESSE, GYP, etc., etc. Composé"
+MONTY,Product,MISC,9626,9631,,"la littérature: Jules MARY, MÉMOUVÉ, PAUL VIALA, [MONTY], MAHALIN, DEMESSE, GYP, etc., etc. Composée de vi"
+MAHALIN,Product,MISC,9633,9640,,"térature: Jules MARY, MÉMOUVÉ, PAUL VIALA, MONTY, [MAHALIN], DEMESSE, GYP, etc., etc. Composée de vingt ouvra"
+DEMESSE,Product,MISC,9642,9649,,"Jules MARY, MÉMOUVÉ, PAUL VIALA, MONTY, MAHALIN, [DEMESSE], GYP, etc., etc. Composée de vingt ouvrages diffé"
+GYP,Product,MISC,9651,9654,,"RY, MÉMOUVÉ, PAUL VIALA, MONTY, MAHALIN, DEMESSE, [GYP], etc., etc. Composée de vingt ouvrages différents"
+VOLUMES,Product,MISC,9934,9941,,"uvres qui la composent, cette collection de VINGT [VOLUMES] de 4, 5 et 600 pages chacun, édités et vendus en"
+SOIXANTE,Organization,ORG,10084,10092,,ivrée tout de suite au prix extrêmement réduit de [SOIXANTE] FRANCS. C'est une économie réelle de plus de quar
+"MOIS
+
+solt",Product,MISC,10373,10383,,. Indistinctement nous accordons un CRÉDIT de 20 [MOIS solt] la facilité de l'obtenir à raison de 3 francs par
+Prime Gratuite,Product,MISC,10620,10634,,nous offrons absolument pour rien et à titre de [Prime Gratuite] une élégante ÉTOLE de FOURRURE qui fera plaisi
+ÉTOLE,Product,MISC,10650,10655,,rien et à titre de Prime Gratuite une élégante [ÉTOLE] de FOURRURE qui fera plaisir à toutes nos aimabl
+FOURRURE,Product,MISC,10659,10667,,titre de Prime Gratuite une élégante ÉTOLE de [FOURRURE] qui fera plaisir à toutes nos aimables Lectrices
+Lectrices,Location,LOC,10708,10717,,"FOURRURE qui fera plaisir à toutes nos aimables [Lectrices]. Les messieurs, maris ou jeunes gens, souscriront"
+souscriront,Location,LOC,10756,10767,,"s Lectrices. Les messieurs, maris ou jeunes gens, [souscriront] tout de suite à notre offre; ils y trouveront joi"
+Oural,Location,LOC,11260,11265,,"du goût parisien. Elle est toute en martre de l'[Oural], cette belle fourrure, au toucher fin et soyeux,"
+Zibeline,Product,MISC,11350,11358,,"fin et soyeux, qui ressemble à s'y méprendre à la [Zibeline], si recherchée et qui atteint actuellement des pr"
+"Volumes
+
+",Product,MISC,12177,12186,,'elles plairont aux plus délicats. Titres des 20 [Volumes ]- D'AIGREMONT (Paul). Tragique Amour: 1 vol. Père
+Paul,Person,PER,12201,12205,,délicats. Titres des 20 Volumes - D'AIGREMONT ([Paul]). Tragique Amour: 1 vol. Père inconnu. 1 vol. L'H
+Amour: 1 vol,Product,MISC,12217,12229,,es des 20 Volumes - D'AIGREMONT (Paul). Tragique [Amour: 1 vol]. Père inconnu. 1 vol. L'Heure terrible. 1 vol. BO
+L'Heure terrible,Product,MISC,12252,12268,,aul). Tragique Amour: 1 vol. Père inconnu. 1 vol. [L'Heure terrible]. 1 vol. BOUCHOT. Les Elegances du Second Empire.
+BOUCHOT,Product,MISC,12277,12284,,ol. Père inconnu. 1 vol. L'Heure terrible. 1 vol. [BOUCHOT]. Les Elegances du Second Empire. 1 vol. DEMESSE.
+Elegances,Location,LOC,12290,12299,,nnu. 1 vol. L'Heure terrible. 1 vol. BOUCHOT. Les [Elegances] du Second Empire. 1 vol. DEMESSE. La Fleuriste de
+Second Empire,Product,MISC,12303,12316,,'Heure terrible. 1 vol. BOUCHOT. Les Elegances du [Second Empire]. 1 vol. DEMESSE. La Fleuriste des Valles. 1 vol.
+DEMESSE,Product,MISC,12325,12332,,. BOUCHOT. Les Elegances du Second Empire. 1 vol. [DEMESSE]. La Fleuriste des Valles. 1 vol. DAULT. Le Gosse
+Valles,Location,LOC,12351,12357,,u Second Empire. 1 vol. DEMESSE. La Fleuriste des [Valles]. 1 vol. DAULT. Le Gosse au Sergent. Major. 1 vol.
+DAULT,Product,MISC,12366,12371,,. 1 vol. DEMESSE. La Fleuriste des Valles. 1 vol. [DAULT]. Le Gosse au Sergent. Major. 1 vol. GYP. En Balla
+Gosse,Location,LOC,12376,12381,,EMESSE. La Fleuriste des Valles. 1 vol. DAULT. Le [Gosse] au Sergent. Major. 1 vol. GYP. En Ballade. 1 vol.
+Sergent,Person,PER,12385,12392,,a Fleuriste des Valles. 1 vol. DAULT. Le Gosse au [Sergent]. Major. 1 vol. GYP. En Ballade. 1 vol. LECOMTE. V
+Major,Person,PER,12394,12399,,te des Valles. 1 vol. DAULT. Le Gosse au Sergent. [Major]. 1 vol. GYP. En Ballade. 1 vol. LECOMTE. Virginie
+GYP,Product,MISC,12408,12411,,1 vol. DAULT. Le Gosse au Sergent. Major. 1 vol. [GYP]. En Ballade. 1 vol. LECOMTE. Virginie Déjazet. 1
+Ballade,Product,MISC,12416,12423,,DAULT. Le Gosse au Sergent. Major. 1 vol. GYP. En [Ballade]. 1 vol. LECOMTE. Virginie Déjazet. 1 vol. LEPELLE
+Virginie Déjazet,Person,PER,12441,12457,,t. Major. 1 vol. GYP. En Ballade. 1 vol. LECOMTE. [Virginie Déjazet]. 1 vol. LEPELLETIER. La Dernier Napoléon. 2 vol.
+LEPELLETIER,Product,MISC,12466,12477,,Ballade. 1 vol. LECOMTE. Virginie Déjazet. 1 vol. [LEPELLETIER]. La Dernier Napoléon. 2 vol. LEPELLETIER. Les deu
+La Dernier Napoléon,Product,MISC,12479,12498,,l. LECOMTE. Virginie Déjazet. 1 vol. LEPELLETIER. [La Dernier Napoléon]. 2 vol. LEPELLETIER. Les deux Impératrices. 2 vol
+Impératrices,Location,LOC,12529,12541,,La Dernier Napoléon. 2 vol. LEPELLETIER. Les deux [Impératrices]. 2 vol. MAHALIN. La lin de Chicot. 1 vol. MARY (J
+MAHALIN,Product,MISC,12550,12557,,2 vol. LEPELLETIER. Les deux Impératrices. 2 vol. [MAHALIN]. La lin de Chicot. 1 vol. MARY (Jules). La Valse
+Chicot,Person,PER,12569,12575,,Les deux Impératrices. 2 vol. MAHALIN. La lin de [Chicot]. 1 vol. MARY (Jules). La Valse des Maris. 1 vol.
+MARY,Person,PER,12584,12588,,atrices. 2 vol. MAHALIN. La lin de Chicot. 1 vol. [MARY] (Jules). La Valse des Maris. 1 vol. MÉMOUVÉ. La P
+Jules,Person,PER,12590,12595,,s. 2 vol. MAHALIN. La lin de Chicot. 1 vol. MARY ([Jules]). La Valse des Maris. 1 vol. MÉMOUVÉ. La Passerel
+MÉMOUVÉ,Location,LOC,12625,12632,,. 1 vol. MARY (Jules). La Valse des Maris. 1 vol. [MÉMOUVÉ]. La Passerelle. 1 vol. MORIN. Les Carnavales Pari
+La Passerelle,Location,LOC,12634,12647,,MARY (Jules). La Valse des Maris. 1 vol. MÉMOUVÉ. [La Passerelle]. 1 vol. MORIN. Les Carnavales Parisiens. 1 vol. P
+Carnavales Parisiens,Location,LOC,12667,12687,,1 vol. MÉMOUVÉ. La Passerelle. 1 vol. MORIN. Les [Carnavales Parisiens]. 1 vol. POUL-JEST. La Montagne de Saint-Cado. 1 v
+JEST,Person,PER,12701,12705,,vol. MORIN. Les Carnavales Parisiens. 1 vol. POUL-[JEST]. La Montagne de Saint-Cado. 1 vol. RÉGNAUD. Mme P
+Montagne de Saint-Cado,Location,LOC,12710,12732,,N. Les Carnavales Parisiens. 1 vol. POUL-JEST. La [Montagne de Saint-Cado]. 1 vol. RÉGNAUD. Mme Pas d'Amour. 1 vol. DES TOUC
+RÉGNAUD,Product,MISC,12741,12748,,vol. POUL-JEST. La Montagne de Saint-Cado. 1 vol. [RÉGNAUD]. Mme Pas d'Amour. 1 vol. DES TOUCHES. Ad Alra. 1
+Mme Pas d'Amour,Person,PER,12750,12765,,-JEST. La Montagne de Saint-Cado. 1 vol. RÉGNAUD. [Mme Pas d'Amour]. 1 vol. DES TOUCHES. Ad Alra. 1 vol. TURQUAN. Sté
+TOUCHES,Location,LOC,12778,12785,,Cado. 1 vol. RÉGNAUD. Mme Pas d'Amour. 1 vol. DES [TOUCHES]. Ad Alra. 1 vol. TURQUAN. Stéphane de Beauharnais
+Ad Alra,Location,LOC,12787,12794,,ol. RÉGNAUD. Mme Pas d'Amour. 1 vol. DES TOUCHES. [Ad Alra]. 1 vol. TURQUAN. Stéphane de Beauharnais. 1 vol.
+TURQUAN,Organization,ORG,12803,12810,,Pas d'Amour. 1 vol. DES TOUCHES. Ad Alra. 1 vol. [TURQUAN]. Stéphane de Beauharnais. 1 vol. TURQUAN. Une ill
+Stéphane de Beauharnais,Person,PER,12812,12835,,our. 1 vol. DES TOUCHES. Ad Alra. 1 vol. TURQUAN. [Stéphane de Beauharnais]. 1 vol. TURQUAN. Une illuminée au XIXe Siècle. 1
+TURQUAN,Organization,ORG,12844,12851,,. 1 vol. TURQUAN. Stéphane de Beauharnais. 1 vol. [TURQUAN]. Une illuminée au XIXe Siècle. 1 vol. BULLETIN D
+XIXe Siècle,Product,MISC,12870,12881,,"de Beauharnais. 1 vol. TURQUAN. Une illuminée au [XIXe Siècle]. 1 vol. BULLETIN DE SOUSCRIPTION à remplir, sig"
+BULLETIN,Location,LOC,12891,12899,,"l. TURQUAN. Une illuminée au XIXe Siècle. 1 vol. [BULLETIN] DE SOUSCRIPTION à remplir, signer et retourner à"
+Librairie des Connaissances Utiles,Product,MISC,12953,12987,,"SOUSCRIPTION à remplir, signer et retourner à la [Librairie des Connaissances Utiles], 10, rue St-Joseph, Paris. Veuillez m'adresser d"
+rue St-Joseph,Location,LOC,12993,13006,,"rner à la Librairie des Connaissances Utiles, 10, [rue St-Joseph], Paris. Veuillez m'adresser de suite la Collecti"
+Paris,Location,LOC,13008,13013,,"irie des Connaissances Utiles, 10, rue St-Joseph, [Paris]. Veuillez m'adresser de suite la Collection des"
+Collection des 20 Volumes,Product,MISC,13048,13073,,"t-Joseph, Paris. Veuillez m'adresser de suite la [Collection des 20 Volumes] pour le prix de 60 francs par mois, jusqu'à ce qu"
+"Prime
+
+libération",Product,MISC,13189,13206,,"ois, jusqu'à ce que l'envoi sera accompagné de la [Prime libération], et sans frais à ma charge. Gratuite: Étoile de f"
+Étoile,Location,LOC,13245,13251,,"libération, et sans frais à ma charge. Gratuite: [Étoile] de fourrure. Nom et Prénoms. Qualité ou Professio"
+Prénoms,Person,PER,13272,13279,,à ma charge. Gratuite: Étoile de fourrure. Nom et [Prénoms]. Qualité ou Profession. Rue. A. Département. Gare
+Profession,Organization,ORG,13292,13302,,e: Étoile de fourrure. Nom et Prénoms. Qualité ou [Profession]. Rue. A. Département. Gare la plus rapprochée. Le
+Département,Location,LOC,13312,13323,,e. Nom et Prénoms. Qualité ou Profession. Rue. A. [Département]. Gare la plus rapprochée. Le. 190. N. B. — L'ind
+Gare,Location,LOC,13325,13329,,noms. Qualité ou Profession. Rue. A. Département. [Gare] la plus rapprochée. Le. 190. N. B. — L'indicatio
+Qualité,Product,MISC,13384,13391,,lus rapprochée. Le. 190. N. B. — L'indication de [Qualité] ou Profession est de rigueur. Tout bulletin ne la
+Profession est de rigueur,Product,MISC,13395,13420,,hée. Le. 190. N. B. — L'indication de Qualité ou [Profession est de rigueur]. Tout bulletin ne la portant pas sera considéré c
+FAIBLESSE,Product,MISC,13481,13490,,etin ne la portant pas sera considéré comme nul. [FAIBLESSE] Neurasthénie et Ataxie Impuissance NERVEUSE et St
+Neurasthénie,Location,LOC,13491,13503,,portant pas sera considéré comme nul. FAIBLESSE [Neurasthénie] et Ataxie Impuissance NERVEUSE et Stérilité CHEZ
+"Ataxie
+Impuissance NERVEUSE",Person,PER,13507,13534,,a considéré comme nul. FAIBLESSE Neurasthénie et [Ataxie Impuissance NERVEUSE] et Stérilité CHEZ L'HOMME ET LA FEMME MALADIES DE
+Stérilité,Product,MISC,13538,13547,,SE Neurasthénie et Ataxie Impuissance NERVEUSE et [Stérilité] CHEZ L'HOMME ET LA FEMME MALADIES DE L'ESTOMAC De
+ESTOMAC,Organization,ORG,13587,13594,,Stérilité CHEZ L'HOMME ET LA FEMME MALADIES DE L'[ESTOMAC] Demandez aujourd'hui à M. l'Administrateur de l'A
+Demandez,Product,MISC,13595,13603,,té CHEZ L'HOMME ET LA FEMME MALADIES DE L'ESTOMAC [Demandez] aujourd'hui à M. l'Administrateur de l'Académie D
+M. l'Administrateur de l'Académie Dermothérapique,Person,PER,13618,13667,,"EMME MALADIES DE L'ESTOMAC Demandez aujourd'hui à [M. l'Administrateur de l'Académie Dermothérapique], 19, Rue de la Pépinière, à Paris, le Journal de"
+Rue de la Pépinière,Location,LOC,13673,13692,,"Administrateur de l'Académie Dermothérapique, 19, [Rue de la Pépinière], à Paris, le Journal de la Médecine française qui"
+Paris,Location,LOC,13696,13701,,"démie Dermothérapique, 19, Rue de la Pépinière, à [Paris], le Journal de la Médecine française qui est adre"
+Journal de la Médecine française,Organization,ORG,13706,13738,,"othérapique, 19, Rue de la Pépinière, à Paris, le [Journal de la Médecine française] qui est adressé GRATUITEMENT à toutes les personn"
+GRATUITEMENT,Organization,ORG,13755,13767,,Journal de la Médecine française qui est adressé [GRATUITEMENT] à toutes les personnes qui en font la demande et
+Temple de la Santé,Location,LOC,13910,13928,,"r radicalement. Milliers de guérisons exposées au [Temple de la Santé], visible tous les jours. Consultations le matin e"
+Dimanches,Product,MISC,13998,14007,,ours. Consultations le matin et le soir (sauf les [Dimanches]). SOCIÉTÉ GÉNÉRALE Pour favoriser le développeme
+SOCIÉTÉ,Organization,ORG,14011,14018,,ations le matin et le soir (sauf les Dimanches). [SOCIÉTÉ] GÉNÉRALE Pour favoriser le développement du Comme
+GÉNÉRALE,Organization,ORG,14019,14027,,e matin et le soir (sauf les Dimanches). SOCIÉTÉ [GÉNÉRALE] Pour favoriser le développement du Commerce et de
+Commerce et de l'Industrie,Location,LOC,14063,14089,,CIÉTÉ GÉNÉRALE Pour favoriser le développement du [Commerce et de l'Industrie] en France SOCIÉTÉ ANONYME. — CAPITAL: 200 MILLION
+France,Location,LOC,14093,14099,,le développement du Commerce et de l'Industrie en [France] SOCIÉTÉ ANONYME. — CAPITAL: 200 MILLIONS Siège so
+SOCIÉTÉ ANONYME,Organization,ORG,14100,14115,,"loppement du Commerce et de l'Industrie en France [SOCIÉTÉ ANONYME]. — CAPITAL: 200 MILLIONS Siège social: 54 et 56,"
+"MILLIONS
+Siège social",Product,MISC,14132,14153,,"dustrie en France SOCIÉTÉ ANONYME. — CAPITAL: 200 [MILLIONS Siège social]: 54 et 56, rue de Provence Succursales: 134, r. R"
+"rue de Provence
+Succursales",Location,LOC,14165,14192,,". — CAPITAL: 200 MILLIONS Siège social: 54 et 56, [rue de Provence Succursales]: 134, r. Réaumur (place de la Bourse) à Paris, 6,"
+r. Réaumur,Person,PER,14199,14209,,"cial: 54 et 56, rue de Provence Succursales: 134, [r. Réaumur] (place de la Bourse) à Paris, 6, rue de Sèvres."
+place de la Bourse,Location,LOC,14211,14229,,"56, rue de Provence Succursales: 134, r. Réaumur ([place de la Bourse]) à Paris, 6, rue de Sèvres. Dépôts de fonds à in"
+Paris,Location,LOC,14233,14238,,"ccursales: 134, r. Réaumur (place de la Bourse) à [Paris], 6, rue de Sèvres. Dépôts de fonds à intérêts en"
+rue de Sèvres,Location,LOC,14243,14256,,"134, r. Réaumur (place de la Bourse) à Paris, 6, [rue de Sèvres]. Dépôts de fonds à intérêts en compte ou à échéa"
+Dépôts,Product,MISC,14259,14265,,"(place de la Bourse) à Paris, 6, rue de Sèvres. [Dépôts] de fonds à intérêts en compte ou à échéance fixe"
+Ordres de Bourse,Organization,ORG,14381,14397,,à 5 ans: 3 1/2 0/0. net d'impôt et de timbre); — [Ordres de Bourse] (France et Etranger); — Souscriptions sans frais;
+France,Location,LOC,14399,14405,,0. net d'impôt et de timbre); — Ordres de Bourse ([France] et Etranger); — Souscriptions sans frais; — Vente
+Etranger,Product,MISC,14409,14417,,mpôt et de timbre); — Ordres de Bourse (France et [Etranger]); — Souscriptions sans frais; — Vente aux guichet
+Souscriptions,Location,LOC,14422,14435,,mbre); — Ordres de Bourse (France et Etranger); — [Souscriptions] sans frais; — Vente aux guichets de valeurs livré
+Vente,Product,MISC,14450,14455,,rance et Etranger); — Souscriptions sans frais; — [Vente] aux guichets de valeurs livrées immédiatement (Ob
+Obl,Product,MISC,14503,14506,,"te aux guichets de valeurs livrées immédiatement ([Obl]. de Ch. de fer, Obl. et Bons à lots, etc.); — Esc"
+Ch,Location,LOC,14511,14513,,"uichets de valeurs livrées immédiatement (Obl. de [Ch]. de fer, Obl. et Bons à lots, etc.); — Escompte e"
+Obl,Location,LOC,14523,14526,,"aleurs livrées immédiatement (Obl. de Ch. de fer, [Obl]. et Bons à lots, etc.); — Escompte et Encaissemen"
+Bons,Location,LOC,14531,14535,,"ivrées immédiatement (Obl. de Ch. de fer, Obl. et [Bons] à lots, etc.); — Escompte et Encaissement sur tit"
+Escompte et Encaissement,Product,MISC,14553,14577,,"Obl. de Ch. de fer, Obl. et Bons à lots, etc.); — [Escompte et Encaissement] sur titres; — Mise en règle de titres; — Avances"
+Avances de commerce,Location,LOC,14619,14638,,issement sur titres; — Mise en règle de titres; — [Avances de commerce]; — Garde de Titres; — Garantie non-remboursement
+Garde de Titres,Product,MISC,14642,14657,,Mise en règle de titres; — Avances de commerce; — [Garde de Titres]; — Garantie non-remboursement au pair et les risq
+Garantie,Organization,ORG,14661,14669,,tres; — Avances de commerce; — Garde de Titres; — [Garantie] non-remboursement au pair et les risques de fonds
+France,Location,LOC,14721,14727,,on-remboursement au pair et les risques de fonds ([France] et Etranger); — Billets de crédit circulaires; —
+Etranger,Product,MISC,14731,14739,,sement au pair et les risques de fonds (France et [Etranger]); — Billets de crédit circulaires; — Lettres de c
+Billets,Location,LOC,14744,14751,,r et les risques de fonds (France et Etranger); — [Billets] de crédit circulaires; — Lettres de crédit; — Ren
+Renseignements,Organization,ORG,14798,14812,,"ets de crédit circulaires; — Lettres de crédit; — [Renseignements]. — Assurances; — Services de Correspondant, etc."
+Assurances,Organization,ORG,14816,14826,,"ulaires; — Lettres de crédit; — Renseignements. — [Assurances]; — Services de Correspondant, etc. LOCATION DE C"
+Services de Correspondant,Organization,ORG,14830,14855,,"tres de crédit; — Renseignements. — Assurances; — [Services de Correspondant], etc. LOCATION DE COFFRES-FORTS (Compartiments d"
+FORTS,Organization,ORG,14883,14888,,"vices de Correspondant, etc. LOCATION DE COFFRES-[FORTS] (Compartiments depuis 5 fr. par mois; tarif décro"
+Compartiments,Product,MISC,14890,14903,,"e Correspondant, etc. LOCATION DE COFFRES-FORTS ([Compartiments] depuis 5 fr. par mois; tarif décroissant en propo"
+Paris,Location,LOC,15029,15034,,"dimension.) 63 succursales, agences et bureaux à [Paris] et dans la Banlieue, 350 agences en Province, 1 a"
+Banlieue,Location,LOC,15046,15054,,"uccursales, agences et bureaux à Paris et dans la [Banlieue], 350 agences en Province, 1 agence à Londres (55,"
+Province,Location,LOC,15071,15079,,"reaux à Paris et dans la Banlieue, 350 agences en [Province], 1 agence à Londres (55, Old Broad Street), corre"
+Londres,Location,LOC,15092,15099,,"la Banlieue, 350 agences en Province, 1 agence à [Londres] (55, Old Broad Street), correspondants sur toutes"
+Old Broad Street,Location,LOC,15105,15121,,"350 agences en Province, 1 agence à Londres (55, [Old Broad Street]), correspondants sur toutes les places de France"
+de France,Location,LOC,15161,15170,,"oad Street), correspondants sur toutes les places [de France] et de l'Etranger. HEMORRHOIDES Fissures, Maladie"
+Etranger,Location,LOC,15179,15187,,"spondants sur toutes les places de France et de l'[Etranger]. HEMORRHOIDES Fissures, Maladies de l'anus et du"
+"HEMORRHOIDES
+Fissures",Product,MISC,15190,15211,,"ur toutes les places de France et de l'Etranger. [HEMORRHOIDES Fissures], Maladies de l'anus et du Rectum. Traitement immé"
+Maladies de l'anus et du,Product,MISC,15213,15237,,"France et de l'Etranger. HEMORRHOIDES Fissures, [Maladies de l'anus et du] Rectum. Traitement immédiat. Notice franco: 3 fr."
+Rectum,Location,LOC,15238,15244,,"HEMORRHOIDES Fissures, Maladies de l'anus et du [Rectum]. Traitement immédiat. Notice franco: 3 fr. 25. —"
+Notice franco,Person,PER,15267,15280,,"dies de l'anus et du Rectum. Traitement immédiat. [Notice franco]: 3 fr. 25. — Pharmacie A. DUPUY, 225, rue St-Mart"
+fr,Location,LOC,15284,15286,,"du Rectum. Traitement immédiat. Notice franco: 3 [fr]. 25. — Pharmacie A. DUPUY, 225, rue St-Martin, PA"
+PARIS,Organization,ORG,15334,15339,,"fr. 25. — Pharmacie A. DUPUY, 225, rue St-Martin, [PARIS]. (Exiger Timbre Union des Fabricants.) CADEAUX U"
+Union des Fabricants,Organization,ORG,15356,15376,,"DUPUY, 225, rue St-Martin, PARIS. (Exiger Timbre [Union des Fabricants].) CADEAUX UTILES NOUVEAUX ALBUMS DE CARTES POSTA"
+ALBUMS,Product,MISC,15404,15410,,e Union des Fabricants.) CADEAUX UTILES NOUVEAUX [ALBUMS] DE CARTES POSTALES de la Papeterie du Petit Journ
+"Journal
+
+N° 20",Product,MISC,15455,15469,,"LBUMS DE CARTES POSTALES de la Papeterie du Petit [Journal N° 20]. — Album 200 cartes, 2 à la page, format « italie"
+Album 200,Product,MISC,15473,15482,,"STALES de la Papeterie du Petit Journal N° 20. — [Album 200] cartes, 2 à la page, format « italienne », couver"
+60,Location,LOC,15580,15582,,"erture toile, motifs fleurs couleurs. Prix: 3 fr. [60]. N° 21. — Album 300 cartes, 4 à la page, format"
+Album 300,Product,MISC,15594,15603,,"motifs fleurs couleurs. Prix: 3 fr. 60. N° 21. — [Album 300] cartes, 4 à la page, format « italienne », 37 × 2"
+Prix: 6 fr,Product,MISC,15724,15734,,"rocodile, coins amateurs, filets dorés, titre or. [Prix: 6 fr]. 60. N° 22. — Album 500 cartes, 3 à la page, for"
+60,Location,LOC,15736,15738,,"ins amateurs, filets dorés, titre or. Prix: 6 fr. [60]. N° 22. — Album 500 cartes, 3 à la page, format"
+Album 500,Product,MISC,15750,15759,,"filets dorés, titre or. Prix: 6 fr. 60. N° 22. — [Album 500] cartes, 3 à la page, format « à la française », 3"
+60,Location,LOC,15897,15899,,"nements fleurs, tirage couleur et or. Prix: 6 fr. [60]. N° 23. — Album 500 cartes, 4 à la page, format"
+Album 500,Product,MISC,15911,15920,,", tirage couleur et or. Prix: 6 fr. 60. N° 23. — [Album 500] cartes, 4 à la page, format « italienne », couver"
+40,Location,LOC,16033,16035,,"lum, dessins art nouveau en couleurs. Prix: 7 fr. [40]. N° 24. — Album riche 600 cartes, 4 à la page fo"
+Prix: 15 fr,Product,MISC,16193,16204,,"agrinée à biseaux, reliure remarquable, titre or. [Prix: 15 fr]. Tous ces Albums se recommandent par la qualité"
+Albums,Organization,ORG,16216,16222,,"ure remarquable, titre or. Prix: 15 fr. Tous ces [Albums] se recommandent par la qualité du papier intérieu"
+fr,Location,LOC,16347,16349,,"fabrication. Pour les recevoir franco, ajouter 0 [fr]. 85, prix du colis postal à domicile. Tous ces Al"
+Albums,Organization,ORG,16397,16403,,"fr. 85, prix du colis postal à domicile. Tous ces [Albums] marqués PJ sur la couverture, sont en vente chez"
+PJ,Organization,ORG,16412,16414,,"colis postal à domicile. Tous ces Albums marqués [PJ] sur la couverture, sont en vente chez tous les Dé"
+Dépositaires,Product,MISC,16462,16474,,"PJ sur la couverture, sont en vente chez tous les [Dépositaires] du Petit Journal, en province. UN DOCTEUR spirit"
+Petit Journal,Product,MISC,16478,16491,,"ture, sont en vente chez tous les Dépositaires du [Petit Journal], en province. UN DOCTEUR spirituel offre à tous"
+UN,Location,LOC,16507,16509,,"les Dépositaires du Petit Journal, en province. [UN] DOCTEUR spirituel offre à tous le moyen de se gué"
+TENER,Product,MISC,16676,16681,,"ues et morales. Renseignements gratuits. Ecrire à [TENER] 90, rue des Boulets, Paris. La GRANDE FABRIQUE H"
+rue des Boulets,Location,LOC,16686,16701,,"ales. Renseignements gratuits. Ecrire à TENER 90, [rue des Boulets], Paris. La GRANDE FABRIQUE H. SARDÀ, 33, Quai Ve"
+Paris,Location,LOC,16703,16708,,"nts gratuits. Ecrire à TENER 90, rue des Boulets, [Paris]. La GRANDE FABRIQUE H. SARDÀ, 33, Quai Vell-Pica"
+GRANDE FABRIQUE,Product,MISC,16714,16729,,"s. Ecrire à TENER 90, rue des Boulets, Paris. La [GRANDE FABRIQUE] H. SARDÀ, 33, Quai Vell-Picard, BESANCON (Doubs)"
+SARDÀ,Location,LOC,16733,16738,,"0, rue des Boulets, Paris. La GRANDE FABRIQUE H. [SARDÀ], 33, Quai Vell-Picard, BESANCON (Doubs) OFFRE (gr"
+Quai Vell-Picard,Location,LOC,16744,16760,,"Boulets, Paris. La GRANDE FABRIQUE H. SARDÀ, 33, [Quai Vell-Picard], BESANCON (Doubs) OFFRE (gratuit et franco) son n"
+BESANCON,Location,LOC,16762,16770,,"a GRANDE FABRIQUE H. SARDÀ, 33, Quai Vell-Picard, [BESANCON] (Doubs) OFFRE (gratuit et franco) son nouveau Cat"
+Doubs,Location,LOC,16772,16777,,"ABRIQUE H. SARDÀ, 33, Quai Vell-Picard, BESANCON ([Doubs]) OFFRE (gratuit et franco) son nouveau Catalogue"
+Catalogue illustré de Montres,Product,MISC,16817,16846,,"CON (Doubs) OFFRE (gratuit et franco) son nouveau [Catalogue illustré de Montres], Régulateurs et Chronomètres de Précision. Très g"
+Chronomètres de Précision,Organization,ORG,16863,16888,,"eau Catalogue illustré de Montres, Régulateurs et [Chronomètres de Précision]. Très grand choix de Mo très nouvelles, pour Homm"
+Mo,Product,MISC,16910,16912,,"et Chronomètres de Précision. Très grand choix de [Mo] très nouvelles, pour Hommes, Dames et Jeunes gens"
+Hommes,Organization,ORG,16934,16940,,"sion. Très grand choix de Mo très nouvelles, pour [Hommes], Dames et Jeunes gens. — PRIME à chaque Montre. —"
+Dames,Product,MISC,16942,16947,,"ès grand choix de Mo très nouvelles, pour Hommes, [Dames] et Jeunes gens. — PRIME à chaque Montre. — Garant"
+Jeunes,Organization,ORG,16951,16957,,"choix de Mo très nouvelles, pour Hommes, Dames et [Jeunes] gens. — PRIME à chaque Montre. — Garantie 2 à 5 a"
+PRIME,Organization,ORG,16966,16971,,"s nouvelles, pour Hommes, Dames et Jeunes gens. — [PRIME] à chaque Montre. — Garantie 2 à 5 ans. — OURE ILL"
+Montre,Location,LOC,16981,16987,,"ur Hommes, Dames et Jeunes gens. — PRIME à chaque [Montre]. — Garantie 2 à 5 ans. — OURE ILLIMITÉE. Chaines"
+Garantie 2,Product,MISC,16991,17001,,"Dames et Jeunes gens. — PRIME à chaque Montre. — [Garantie 2] à 5 ans. — OURE ILLIMITÉE. Chaines et Sautoirs, o"
+Sautoirs,Product,MISC,17040,17048,,"Garantie 2 à 5 ans. — OURE ILLIMITÉE. Chaines et [Sautoirs], or, argent et doublé or. Catalogues spéciaux: PE"
+PENDULES,Person,PER,17096,17104,,"rs, or, argent et doublé or. Catalogues spéciaux: [PENDULES], REVEILS et BIJOUTERIE. 200 MODÈLES D'ACCORDEONS"
+REVEILS,Product,MISC,17106,17113,,"gent et doublé or. Catalogues spéciaux: PENDULES, [REVEILS] et BIJOUTERIE. 200 MODÈLES D'ACCORDEONS DEPUIS 5"
+BIJOUTERIE,Product,MISC,17117,17127,,"blé or. Catalogues spéciaux: PENDULES, REVEILS et [BIJOUTERIE]. 200 MODÈLES D'ACCORDEONS DEPUIS 5 fr. Français,"
+ACCORDEONS,Product,MISC,17144,17154,,": PENDULES, REVEILS et BIJOUTERIE. 200 MODÈLES D'[ACCORDEONS] DEPUIS 5 fr. Français, Allemands, Italiens, les p"
+Français,Product,MISC,17168,17176,,"IJOUTERIE. 200 MODÈLES D'ACCORDEONS DEPUIS 5 fr. [Français], Allemands, Italiens, les plus beaux, les meilleu"
+Allemands,Location,LOC,17178,17187,,"200 MODÈLES D'ACCORDEONS DEPUIS 5 fr. Français, [Allemands], Italiens, les plus beaux, les meilleurs DEMANDEZ"
+Italiens,Location,LOC,17189,17197,,"ES D'ACCORDEONS DEPUIS 5 fr. Français, Allemands, [Italiens], les plus beaux, les meilleurs DEMANDEZ CATALOGUE"
+CATALOGUE,Organization,ORG,17238,17247,,"Italiens, les plus beaux, les meilleurs DEMANDEZ [CATALOGUE] par Comptoir Universel de France 60, rue de Prove"
+Comptoir Universel de France 60,Organization,ORG,17252,17283,,"plus beaux, les meilleurs DEMANDEZ CATALOGUE par [Comptoir Universel de France 60], rue de Provence, Paris. TUE-SIBIER sans feu, ni"
+rue de Provence,Location,LOC,17285,17300,,"EZ CATALOGUE par Comptoir Universel de France 60, [rue de Provence], Paris. TUE-SIBIER sans feu, ni bruit, ni fumée,"
+Paris,Location,LOC,17302,17307,,"Comptoir Universel de France 60, rue de Provence, [Paris]. TUE-SIBIER sans feu, ni bruit, ni fumée, à 30 m"
+Aunes,Location,LOC,17427,17432,,"u balle, pression forte: 1250. TUE-MOINEAUX A'80 ([Aunes] nouv.) Catalogue: RIGAUT, lav. Fab. 26, Rue du Te"
+Catalogue,Product,MISC,17440,17449,,"sion forte: 1250. TUE-MOINEAUX A'80 (Aunes nouv.) [Catalogue]: RIGAUT, lav. Fab. 26, Rue du Temple, 26, PARIS."
+RIGAUT,Product,MISC,17451,17457,,"1250. TUE-MOINEAUX A'80 (Aunes nouv.) Catalogue: [RIGAUT], lav. Fab. 26, Rue du Temple, 26, PARIS. Tous le"
+lav,Organization,ORG,17459,17462,,"UE-MOINEAUX A'80 (Aunes nouv.) Catalogue: RIGAUT, [lav]. Fab. 26, Rue du Temple, 26, PARIS. Tous les jeu"
+Fab,Location,LOC,17464,17467,,"INEAUX A'80 (Aunes nouv.) Catalogue: RIGAUT, lav. [Fab]. 26, Rue du Temple, 26, PARIS. Tous les jeunes g"
+Rue du Temple,Location,LOC,17473,17486,,"80 (Aunes nouv.) Catalogue: RIGAUT, lav. Fab. 26, [Rue du Temple], 26, PARIS. Tous les jeunes gens de 15 ans et au"
+PARIS,Location,LOC,17492,17497,,"talogue: RIGAUT, lav. Fab. 26, Rue du Temple, 26, [PARIS]. Tous les jeunes gens de 15 ans et au-dessus aur"
+mouschettes,Person,PER,17555,17566,,les jeunes gens de 15 ans et au-dessus auront ses [mouschettes] et barbe très longues en 15 jours avec une seule
+POMMADE EXOTIQUE 1 fr,Person,PER,17629,17650,,s longues en 15 jours avec une seule hâte triple. [POMMADE EXOTIQUE 1 fr]. 50 franco. Grande de 5 fr. vendus 10.000 titres
+J. PIRAUÉ,Product,MISC,17768,17777,,"2 médailles d'or. 4 hostie d'essai 45 c. timbres. [J. PIRAUÉ] chim., 1 BOUAIN (Aisne) GRATIS et FRANCO pour fa"
+BOUAIN,Organization,ORG,17787,17793,,"hostie d'essai 45 c. timbres. J. PIRAUÉ chim., 1 [BOUAIN] (Aisne) GRATIS et FRANCO pour faire MANUEL soi-m"
+Aisne,Location,LOC,17795,17800,,"d'essai 45 c. timbres. J. PIRAUÉ chim., 1 BOUAIN ([Aisne]) GRATIS et FRANCO pour faire MANUEL soi-même VIN"
+GRATIS,Product,MISC,17803,17809,,"45 c. timbres. J. PIRAUÉ chim., 1 BOUAIN (Aisne) [GRATIS] et FRANCO pour faire MANUEL soi-même VIN, BIÈRE,"
+FRANCO,Organization,ORG,17813,17819,,"res. J. PIRAUÉ chim., 1 BOUAIN (Aisne) GRATIS et [FRANCO] pour faire MANUEL soi-même VIN, BIÈRE, CIDRE, LIQ"
+MANUEL,Person,PER,17831,17837,,"m., 1 BOUAIN (Aisne) GRATIS et FRANCO pour faire [MANUEL] soi-même VIN, BIÈRE, CIDRE, LIQUEURS, SPIRITUEUX,"
+VIN,Organization,ORG,17847,17850,,"sne) GRATIS et FRANCO pour faire MANUEL soi-même [VIN], BIÈRE, CIDRE, LIQUEURS, SPIRITUEUX, SIROPS, etc."
+BIÈRE,Organization,ORG,17852,17857,,"GRATIS et FRANCO pour faire MANUEL soi-même VIN, [BIÈRE], CIDRE, LIQUEURS, SPIRITUEUX, SIROPS, etc., etc."
+CIDRE,Organization,ORG,17859,17864,,"et FRANCO pour faire MANUEL soi-même VIN, BIÈRE, [CIDRE], LIQUEURS, SPIRITUEUX, SIROPS, etc., etc. sans ap"
+LIQUEURS,Person,PER,17866,17874,,"NCO pour faire MANUEL soi-même VIN, BIÈRE, CIDRE, [LIQUEURS], SPIRITUEUX, SIROPS, etc., etc. sans appareils sp"
+SPIRITUEUX,Person,PER,17876,17886,,"aire MANUEL soi-même VIN, BIÈRE, CIDRE, LIQUEURS, [SPIRITUEUX], SIROPS, etc., etc. sans appareils spéciaux. Écon"
+SIROPS,Organization,ORG,17888,17894,,"soi-même VIN, BIÈRE, CIDRE, LIQUEURS, SPIRITUEUX, [SIROPS], etc., etc. sans appareils spéciaux. Économie 50%"
+BRIATTE,Product,MISC,17955,17962,,". sans appareils spéciaux. Économie 50%. Ecrire à [BRIATTE] Fils, PREMONT (Aisne). CYCLES MÉRICANT FROB MAIS"
+PREMONT,Organization,ORG,17969,17976,,"ls spéciaux. Économie 50%. Ecrire à BRIATTE Fils, [PREMONT] (Aisne). CYCLES MÉRICANT FROB MAISON DE CONFIANC"
+Aisne,Location,LOC,17978,17983,,"ux. Économie 50%. Ecrire à BRIATTE Fils, PREMONT ([Aisne]). CYCLES MÉRICANT FROB MAISON DE CONFIANCE — 80,"
+CYCLES MÉRICANT,Product,MISC,17987,18002,,"mie 50%. Ecrire à BRIATTE Fils, PREMONT (Aisne). [CYCLES MÉRICANT] FROB MAISON DE CONFIANCE — 80, r. de Passy, Paris"
+FROB,Organization,ORG,18003,18007,,"à BRIATTE Fils, PREMONT (Aisne). CYCLES MÉRICANT [FROB] MAISON DE CONFIANCE — 80, r. de Passy, Paris Cata"
+DE CONFIANCE,Person,PER,18015,18027,,"ls, PREMONT (Aisne). CYCLES MÉRICANT FROB MAISON [DE CONFIANCE] — 80, r. de Passy, Paris Catalogue franco. PRIX d"
+r. de Passy,Person,PER,18034,18045,,". CYCLES MÉRICANT FROB MAISON DE CONFIANCE — 80, [r. de Passy], Paris Catalogue franco. PRIX de GROS aux Intermé"
+"Paris
+Catalogue franco",Organization,ORG,18047,18069,,"ICANT FROB MAISON DE CONFIANCE — 80, r. de Passy, [Paris Catalogue franco]. PRIX de GROS aux Intermédiaires Le GÉRANT: G. L"
+"Intermédiaires
+
+",Product,MISC,18088,18104,,"e Passy, Paris Catalogue franco. PRIX de GROS aux [Intermédiaires ]Le GÉRANT: G. LASSEUR. D. CASSIGNEUL, Imprimeur, 6"
+GÉRANT,Product,MISC,18107,18113,,"logue franco. PRIX de GROS aux Intermédiaires Le [GÉRANT]: G. LASSEUR. D. CASSIGNEUL, Imprimeur, 61, rue La"
+LASSEUR,Organization,ORG,18118,18125,,"o. PRIX de GROS aux Intermédiaires Le GÉRANT: G. [LASSEUR]. D. CASSIGNEUL, Imprimeur, 61, rue Lafayette, Par"
+D. CASSIGNEUL,Person,PER,18127,18140,,"e GROS aux Intermédiaires Le GÉRANT: G. LASSEUR. [D. CASSIGNEUL], Imprimeur, 61, rue Lafayette, Paris Imprimé sur"
+Imprimeur,Product,MISC,18142,18151,,"rmédiaires Le GÉRANT: G. LASSEUR. D. CASSIGNEUL, [Imprimeur], 61, rue Lafayette, Paris Imprimé sur la machine"
+rue Lafayette,Location,LOC,18157,18170,,"GÉRANT: G. LASSEUR. D. CASSIGNEUL, Imprimeur, 61, [rue Lafayette], Paris Imprimé sur la machine rotative chromo-ty"
+"Paris
+
+",Product,MISC,18172,18179,,"EUR. D. CASSIGNEUL, Imprimeur, 61, rue Lafayette, [Paris ]Imprimé sur la machine rotative chromo-typo de MAR"
+MARINONI,Product,MISC,18226,18234,,s Imprimé sur la machine rotative chromo-typo de [MARINONI] (Encrex Lorilleux)
+Encrex Lorilleux,Product,MISC,18236,18252,,sur la machine rotative chromo-typo de MARINONI ([Encrex Lorilleux])

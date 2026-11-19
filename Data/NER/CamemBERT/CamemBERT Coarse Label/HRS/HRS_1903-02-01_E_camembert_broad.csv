@@ -1,0 +1,102 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+l'abbé Coquet,Person,PER,254,267,0.9203,"ttes. - — Les poudettes à moi? - — Vous êtes bien [l'abbé Coquet]? - — Oui, et vous? - — Moi, je suis agent de M. d"
+M. de Sartine,Person,PER,313,326,0.9324,"quet? - — Oui, et vous? - — Moi, je suis agent de [M. de Sartine]. - — Miséricorde! On a beau avoir la conscience"
+Mis,Product,MISC,332,335,0.3942,"ous? - — Moi, je suis agent de M. de Sartine. - — [Mis]éricorde! On a beau avoir la conscience nette, le"
+éri,Person,PER,335,338,0.3806,"? - — Moi, je suis agent de M. de Sartine. - — Mis[éri]corde! On a beau avoir la conscience nette, le no"
+l,Person,PER,472,473,0.6801,"jours son effet, et malgré sa parfaite innocence, [l]'abbé eût peut-être été moins effrayé par celui de"
+abbé,Person,PER,474,478,0.5469,"urs son effet, et malgré sa parfaite innocence, l'[abbé] eût peut-être été moins effrayé par celui de Cart"
+Cartouche,Person,PER,524,533,0.9913,abbé eût peut-être été moins effrayé par celui de [Cartouche] ou de Mandrin. - — Où me conduisez-vous? gémit-i
+Mandrin,Person,PER,540,547,0.9896,re été moins effrayé par celui de Cartouche ou de [Mandrin]. - — Où me conduisez-vous? gémit-il. - — A l'hôt
+M. de Sartine,Person,PER,638,651,0.9046,"— A l'hôtel de monseigneur, selon ses ordres. - — [M. de Sartine] vous a ordonné de m'arrêter? - — En propres terme"
+l'abbé Coquet,Person,PER,719,732,0.898,"m'arrêter? - — En propres termes: « Cherchez-moi [l'abbé Coquet], il me le faut pour demain », m'a-t-il dit hier."
+demain,Time,DATE,753,759,0.9924,"« Cherchez-moi l'abbé Coquet, il me le faut pour [demain] », m'a-t-il dit hier. Ah! ça n'a pas été commode,"
+hier,Time,DATE,776,780,0.9953,"Coquet, il me le faut pour demain », m'a-t-il dit [hier]. Ah! ça n'a pas été commode, j'ai couru toutes le"
+l,Person,PER,959,960,0.6886,"faim et réclame à manger. — Impossible, monsieur [l]'abbé, je n'ai pas la clef; mais mon mari ne saura"
+abbé,Person,PER,961,965,0.5145,"im et réclame à manger. — Impossible, monsieur l'[abbé], je n'ai pas la clef; mais mon mari ne saurait ta"
+l'abbé Coquet,Person,PER,1274,1287,0.929,"u guet. — Pardon, monseigneur, c'est au sujet de [l'abbé Coquet] qui est là dans votre cabinet. — L'abbé Coquet?"
+L'abbé Coquet,Person,PER,1322,1335,0.9642,"e l'abbé Coquet qui est là dans votre cabinet. — [L'abbé Coquet]? Ah! oui, de la besogne pour le bourreau... Le bo"
+Dieu,Person,PER,2259,2263,0.8906,"eux examen de sa conduite : il servait fidèlement [Dieu] et le Roy, honorait ses supérieurs, respectait le"
+Roy,Person,PER,2270,2273,0.9382,"de sa conduite : il servait fidèlement Dieu et le [Roy], honorait ses supérieurs, respectait les gens en"
+la Bastille,Location,LOC,2569,2580,0.9337,"nul ne peut se vanter de ne pas coucher le soir à [la Bastille]. La Bastille! Tout à l'heure, en entrant par la"
+La Bastille,Location,LOC,2583,2594,0.9526,"vanter de ne pas coucher le soir à la Bastille. [La Bastille]! Tout à l'heure, en entrant par la porte Saint-An"
+porte Saint-Antoine,Location,LOC,2630,2649,0.9554,". La Bastille! Tout à l'heure, en entrant par la [porte Saint-Antoine], il avait entrevu sa sombre silhouette, ses haute"
+M. de Sartine,Person,PER,2902,2915,0.9882,"nier abattu, sous bonne garde, l'agent va trouver [M. de Sartine] au salon et lui dit tout bas : - — Monseigneur,"
+l'abbé Coquet,Person,PER,2970,2983,0.8312,"alon et lui dit tout bas : - — Monseigneur, j'ai [l'abbé Coquet]. - — C'est bon! répond le magistrat, occupé à cau"
+M. de Sartine,Person,PER,3162,3175,0.9874,"a rappez. - L'ordre est exécuté ponctuellement et [M. de Sartine], dinant en ville, monte en carrosse et s'éloigne,"
+Boule,Person,PER,3851,3856,0.958,l doré pendu à la muraille au-dessus du bureau de [Boule]. Une heure! deux heures!! trois heures!!! celle
+Une heure! deux heures!! trois heures,Time,DATE,3859,3896,0.9763,endu à la muraille au-dessus du bureau de Boule. [Une heure! deux heures!! trois heures]!!! celle du diner est passée depuis longtemps! L'
+L,Person,PER,3944,3945,0.4985,"es!!! celle du diner est passée depuis longtemps! [L]'abbé, qui n'a rien pris depuis la veille, ressent"
+Mme de Sartine,Person,PER,4322,4336,0.9923,"criant comme un possédé. A ce vacarme insolite, [Mme de Sartine] accourt très étonnée, interroge le prisonnier à t"
+l'Abbé Coquet,Product,MISC,4639,4652,0.8599,uper un livre! Un livre!!! ... Tout s'expliqua : [l'Abbé Coquet] était un petit volume aussi immoral qu'irréligieu
+M. de Sartine,Person,PER,4735,4748,0.9647,"ral qu'irréligieux, publié sous le manteau et que [M. de Sartine] voulait faire saisir et brûler par l'exécuteur de"
+Arthur DOURLIAC,Person,PER,5354,5369,0.9503,"paroisse, où il s'élevait en odeur de sainteté. [Arthur DOURLIAC]. L'ANNEAU Dès que la vente fut annoncée, Lauren"
+L'ANNEAU,Location,LOC,5372,5380,0.608,"'élevait en odeur de sainteté. Arthur DOURLIAC. [L'ANNEAU] Dès que la vente fut annoncée, Laurent Delorme s"
+Laurent Delorme,Person,PER,5413,5428,0.9917,"URLIAC. L'ANNEAU Dès que la vente fut annoncée, [Laurent Delorme] se jura de n'y point aller. La nouvelle de la mo"
+d'Aline Lewis,Person,PER,5508,5521,0.9798,La nouvelle de la mort si brutalement foudroyante [d'Aline Lewis] avait réveillé tout le mal dont il se croyait gué
+après des années,Time,DATE,5575,5591,0.9322,"it réveillé tout le mal dont il se croyait guéri, [après des années] de luttes et de travail acharné, où s'était brisé"
+Aline Lewis,Person,PER,5663,5674,0.9852,"il acharné, où s'était brisée l'obsédante pensée. [Aline Lewis], la fine, l'exquise actrice dont la voix souple e"
+Juliettes,Product,MISC,5787,5796,0.9556,"tour à tour chanté les amours et les douleurs des [Juliettes], des Marguerites, des Manons et des Rosenn! Un d"
+Marguerites,Product,MISC,5802,5813,0.9637,"nté les amours et les douleurs des Juliettes, des [Marguerites], des Manons et des Rosenn! Un dernier triomphe,"
+Manons,Product,MISC,5819,5825,0.9658,"les douleurs des Juliettes, des Marguerites, des [Manons] et des Rosenn! Un dernier triomphe, une salle dé"
+Rosenn,Product,MISC,5833,5839,0.9545,"des Juliettes, des Marguerites, des Manons et des [Rosenn]! Un dernier triomphe, une salle délirante acclam"
+la Presse,Organization,ORG,6151,6160,0.5651,"elle écrase et qu'elle broie... C'était été dans [la Presse] un concert de regrets, une clameur désolée. — Et"
+Laurent Delorme,Person,PER,6225,6240,0.9938,"regrets, une clameur désolée. — Et seul chez lui, [Laurent Delorme] avait lu ce sombre fait divers qui était la sangl"
+Aline Lewis!,Person,PER,6332,6344,0.7188,la sanglante conclusion du roman de sa jeunesse. [Aline Lewis!] — Laurent l'avait connue toute jeune élève au Con
+Laurent,Person,PER,6347,6354,0.9825,nclusion du roman de sa jeunesse. Aline Lewis! — [Laurent] l'avait connue toute jeune élève au Conservatoire
+Conservatoire,Organization,ORG,6391,6404,0.5831,"is! — Laurent l'avait connue toute jeune élève au [Conservatoire]. Timide, hésitante encore sur sa vocation d'art,"
+Laurent,Person,PER,6566,6573,0.9813,"our des leçons qui la feraient vivre. Et c'était [Laurent] qui, pour elle, avait rêvé. Compositeur et poète,"
+l'Espérance,Product,MISC,6680,6691,0.967,"it le créateur déjà célèbre d'œuvres puissantes : [l'Espérance], la Foi dans la vie, la croyance dans les joies"
+Laurent,Person,PER,6873,6880,0.8777,e grisent les âmes jeunes et ardues éblouissaient [Laurent]. Aline et lui étaient seuls tous deux; ils étaien
+Aline,Person,PER,6882,6887,0.9132,les âmes jeunes et ardues éblouissaient Laurent. [Aline] et lui étaient seuls tous deux; ils étaient libre
+Laurent,Person,PER,6972,6979,0.9208,"s étaient libres d'eux-mêmes. Ils se fiancèrent. [Laurent] avait pour la jeune fille une profonde, une respe"
+Prix de Rome,Product,MISC,7105,7117,0.9655,disait: « Nous nous marierons lorsque j'aurai mon [Prix de Rome]. Tu incarnes mes rêves d'artiste comme tu incarne
+Laurent,Person,PER,7384,7391,0.8494,un peu sauvage. Elle accepta l'idée du théâtre. [Laurent] allait partir pour Rome. Avant de quitter son ami
+Rome,Location,LOC,7411,7415,0.9914,ta l'idée du théâtre. Laurent allait partir pour [Rome]. Avant de quitter son amie il lui mit au doigt l'
+d'Aline,Person,PER,7636,7643,0.8435,"ique, un pâle saphir qui rappelait les beaux yeux [d'Aline]. Laurent lut deux fois avant d'en accepter la ré"
+Laurent,Person,PER,7646,7653,0.824,âle saphir qui rappelait les beaux yeux d'Aline. [Laurent] lut deux fois avant d'en accepter la réalité les
+Lewis,Person,PER,7756,7761,0.8449,lques lignes du journal qui relataient la mort de [Lewis]. Quand il fut bien certain qu'il ne rêvait pas ce
+Aline Lewis,Person,PER,8054,8065,0.9925,"nt triomphe qu'avaient été ses débuts au théâtre, [Aline Lewis], révélant sa trahison d'un masque de sagesse, déc"
+l'Art,Product,MISC,8124,8129,0.9524,"t sa trahison d'un masque de sagesse, déclara que [l'Art] seul, tel que Laurent lui-même le lui faisait com"
+Laurent,Person,PER,8144,8151,0.9537,"asque de sagesse, déclara que l'Art seul, tel que [Laurent] lui-même le lui faisait comprendre, suffirait dés"
+Laurent,Person,PER,8345,8352,0.9595,"refusait son amour et elle offrait une amitié que [Laurent] indigné repoussa, voulant l'oubli complet, s'il l"
+l'Art,Product,MISC,8476,8481,0.9615,"se jeta alors dans le travail à cœur perdu; mais [l'Art] devint pour lui, bien réellement, un la-bheur. L'"
+l'Aline,Person,PER,9220,9227,0.9846,"phe et de folie, ne lui rappelait plus qu'à peine [l'Aline] timide et tendre d'autrefois. Pour qu'il comprît"
+salle Drouot,Location,LOC,9599,9611,0.9493,ut l'encombrement bourdonnant des alentours de la [salle Drouot] aux jours de grandes ventes. Une cohue disparate
+Laurent,Person,PER,10047,10054,0.8199,"Bousculé, indifférent aux heurts, les yeux fixes, [Laurent] regardait ces joyaux que soulevaient complaisamme"
+d'Aline,Person,PER,10214,10221,0.6368,"s offrandes, des prières parfois... Et le fiancé [d'Aline] entendait, le cœur brisé, la tête bourdonnante, l"
+Laurent,Person,PER,10649,10656,0.78,"une de ces pierres semblait tomber sur le cœur de [Laurent], lapidait son amour réveillé, meurtrissait, broya"
+Laurent,Person,PER,10812,10819,0.8654,"e commissaire. Et soudain, malgré lui, la voix de [Laurent] s'éleva, si étrange, qu'il se prit à douter que c"
+Laurent,Person,PER,10969,10976,0.8591,"te-cinq! - — Soixante! - — Soixante-dix! Près de [Laurent], une petite actrice dit tout haut : — Je la reco"
+Lewis,Person,PER,11046,11051,0.8985,"dit tout haut : — Je la reconnais, cette bague; [Lewis] ne la quittait jamais... Elle n'est pourtant pas"
+Laurent,Person,PER,11141,11148,0.8706,"rtant pas bien belle!... Alors, plus violemment, [Laurent] cria : — Cent francs! Mais d'autres avaient enten"
+Anglais,Location,LOC,11215,11222,0.7922,"ancs! Mais d'autres avaient entendu l'actrice. Un [Anglais] vociféra, excité par la concurrence : - — Cinq c"
+Laurent,Person,PER,11322,11329,0.8983,ents! - Il y eut un bref silence. - — Adjugé! Et [Laurent] vit disparaître la bague qu'Aline « ne quittait j
+qu'Aline,Person,PER,11355,11363,0.8382,"- — Adjugé! Et Laurent vit disparaître la bague [qu'Aline] « ne quittait jamais », un mince anneau d'or supp"
+Laurent,Person,PER,11550,11557,0.9915,"rouillant la silhouette des choses. Inconscient, [Laurent] s'éloigna de cette salle publique où achevait de"
+d'Aline,Person,PER,11665,11672,0.9381,"ller ce qu'avait charmé la vie, encadré la beauté [d'Aline] Le mari s'est endormi. L'AMIE. — « En effet, je"
+Le mari s'est endormi,Product,MISC,11674,11695,0.6969,"u'avait charmé la vie, encadré la beauté d'Aline [Le mari s'est endormi]. L'AMIE. — « En effet, je vois qu'il a bien le ne"
+L'AMIE,Product,MISC,11697,11703,0.4271,"encadré la beauté d'Aline Le mari s'est endormi. [L'AMIE]. — « En effet, je vois qu'il a bien le nez dans s"
+Laurent Delorme,Person,PER,12006,12021,0.9934,"son existence de luxe, de douceur et de passion. [Laurent Delorme] repoussait la tentation d'assister à cette vente,"
+d'Aline,Person,PER,12278,12285,0.7823,"r affolé le prit de voir ces choses que les mains [d'Aline] avaient touchées, sur lesquelles ses regards s'ét"
+Laurent,Person,PER,12408,12415,0.7208,"journées de lutte avec lui-même, dans le cœur de [Laurent] l'ancienne Aline, l'amie d'autrefois, avait à son"
+Aline,Person,PER,12427,12432,0.8824,"avec lui-même, dans le cœur de Laurent l'ancienne [Aline], l'amie d'autrefois, avait à son tour chassé l'im"
+Laurent,Person,PER,12503,12510,0.7324,"avait à son tour chassé l'image de l'oublieuse. [Laurent] ne songeait plus à la trahison, à l'actrice orgue"
+Aline,Person,PER,12616,12621,0.8167,"e et cruelle; il ne se souvenait que de la petite [Aline] d'autrefois, que de la fiancée lointaine, tout so"
+Mort,Product,MISC,12743,12747,0.6173,"aimant, la pleurant, comme si ce fût à lui que la [Mort] impitoyable l'eût arrachée. Lewis... tout ce don"
+Lewis,Person,PER,12777,12782,0.9784,ût à lui que la Mort impitoyable l'eût arrachée. [Lewis]... tout ce dont ses amis d'un jour avaient payé s
+un jour,Time,DATE,12810,12817,0.9141,"l'eût arrachée. Lewis... tout ce dont ses amis d'[un jour] avaient payé sa jeunesse... et où restait, entre"
+Anglais,Location,LOC,12882,12889,0.8928,"a jeunesse... et où restait, entre les mains d'un [Anglais], d'un collectionneur triomphant, la petite bague"
+Marie THIÉRY,Person,PER,13106,13118,0.9904,"e homme, tout un amour sincère s'étaient donnés. [Marie THIÉRY]. Ulcères, Plaies, Eczéma MALADIES DE LA PEAU L"
+Ulcères,Location,LOC,13121,13128,0.6656,"n amour sincère s'étaient donnés. Marie THIÉRY. [Ulcères], Plaies, Eczéma MALADIES DE LA PEAU Les ulcères"
+Plaies,Location,LOC,13130,13136,0.7351,"incère s'étaient donnés. Marie THIÉRY. Ulcères, [Plaies], Eczéma MALADIES DE LA PEAU Les ulcères dits in"
+Eczéma,Location,LOC,13138,13144,0.6124,"'étaient donnés. Marie THIÉRY. Ulcères, Plaies, [Eczéma] MALADIES DE LA PEAU Les ulcères dits incurables"
+MALADIES DE LA PEAU,Product,MISC,13146,13165,0.9272,"donnés. Marie THIÉRY. Ulcères, Plaies, Eczéma [MALADIES DE LA PEAU] Les ulcères dits incurables, les plaies variqueu"
+des années,Time,DATE,13470,13480,0.7571,"maux de jambes, même ceux qui ont résisté depuis [des années] à tous les remèdes, sont infaillement et radicale"
+Docteur Wolf,Person,PER,13619,13631,0.9718,"travaillant, par le nouveau traitement végétal du [Docteur Wolf], qui est envoyé franco avec le mode d'emploi et m"
+M. Passerieux,Person,PER,13707,13720,0.7764,"ec le mode d'emploi et mandat de 10 fr. adressé à [M. Passerieux], Pharm. 46, rue des Faures, Bordeaux. L'essayer c"
+Pharm,Organization,ORG,13722,13727,0.7379,"ploi et mandat de 10 fr. adressé à M. Passerieux, [Pharm]. 46, rue des Faures, Bordeaux. L'essayer c'est gu"
+rue des Faures,Location,LOC,13733,13747,0.9458,"dat de 10 fr. adressé à M. Passerieux, Pharm. 46, [rue des Faures], Bordeaux. L'essayer c'est guérir. Dépôt à Paris,"
+Bordeaux,Location,LOC,13749,13757,0.9933,"ressé à M. Passerieux, Pharm. 46, rue des Faures, [Bordeaux]. L'essayer c'est guérir. Dépôt à Paris, Pharmacie"
+Paris,Location,LOC,13791,13796,0.992,"Faures, Bordeaux. L'essayer c'est guérir. Dépôt à [Paris], Pharmacie Girard, 217, Rue Lafayette."
+Pharmacie Girard,Location,LOC,13798,13814,0.7478,"Bordeaux. L'essayer c'est guérir. Dépôt à Paris, [Pharmacie Girard], 217, Rue Lafayette."
+Rue Lafayette,Location,LOC,13821,13834,0.9837,"est guérir. Dépôt à Paris, Pharmacie Girard, 217, [Rue Lafayette]."

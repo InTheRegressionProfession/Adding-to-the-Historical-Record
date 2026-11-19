@@ -1,0 +1,137 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Oberland,Location,LOC,88,96,,"ttrapaient... Ils étaient tombés d'accord pour l'[Oberland]. Picot, qui savait un peu d'allemand, avait comb"
+Picot,Person,PER,99,104,,".. Ils étaient tombés d'accord pour l'Oberland. [Picot], qui savait un peu d'allemand, avait combiné les"
+Bâle,Location,LOC,334,338,,"vaient ne faire, à l'aller, qu'une courte halte à [Bâle], gagner tout de suite les lacs en passant par Ber"
+Berne,Location,LOC,385,390,,"âle, gagner tout de suite les lacs en passant par [Berne], Thun, Interlaken et revenir par Lucerne. Sur la"
+Thun,Location,LOC,392,396,,"gner tout de suite les lacs en passant par Berne, [Thun], Interlaken et revenir par Lucerne. Sur la recomm"
+Interlaken,Location,LOC,398,408,,"out de suite les lacs en passant par Berne, Thun, [Interlaken] et revenir par Lucerne. Sur la recommandation d'u"
+Lucerne,Location,LOC,424,431,,"assant par Berne, Thun, Interlaken et revenir par [Lucerne]. Sur la recommandation d'un ami, Bourret avait dr"
+Bourret,Person,PER,465,472,,"enir par Lucerne. Sur la recommandation d'un ami, [Bourret] avait dressé la liste des hôtels à prix abordable"
+Dormeul,Product,MISC,533,540,,"sé la liste des hôtels à prix abordables. Quant à [Dormeul], il était prêt à aller où l'on voudrait, pourvu q"
+Bourret,Person,PER,710,717,,"e franchir la ligne des fortifications que, déjà, [Bourret] tirait de sa poche un jeu de cartes. Avec la grav"
+Picot,Person,PER,810,815,,"la gravité d'un homme qui accomplit une fonction. [Picot] étala un journal sur les genoux, instinctivement"
+Picot,Person,PER,1155,1160,,"s qui en suivaient les péripties avec intérêt. Et [Picot], toujours favorisé par une veine insolente, allai"
+Bourret,Person,PER,1303,1310,,"autant soudain, il s'écria, furieux, en regardant [Bourret] : — Comment ?... Tu coupes un manillon ! Bourret"
+Bourret,Person,PER,1353,1360,,"Bourret : — Comment ?... Tu coupes un manillon ! [Bourret] fut sur le point de reprendre sa carte. Dormeul,"
+Dormeul,Product,MISC,1401,1408,,"! Bourret fut sur le point de reprendre sa carte. [Dormeul], qui perdait déjà plus de quinze francs, s'y oppo"
+Ah !,Product,MISC,1466,1470,,"rdait déjà plus de quinze francs, s'y opposa : — [Ah !] non, mon vieux, c'est joué !... Tant pis !... La"
+Troyes,Location,LOC,1651,1657,,"t de mal finir. Et, en effet, comme on arrivait à [Troyes], Picot, rouge de colère, se leva, roula sa casque"
+Picot,Person,PER,1659,1664,,"finir. Et, en effet, comme on arrivait à Troyes, [Picot], rouge de colère, se leva, roula sa casquette, re"
+Dormeul,Product,MISC,1922,1929,,"des autres voyageurs, témoins de leur déconvenue, [Dormeul] et Bourret ne voulurent pas avoir l'air ému de la"
+Bourret,Person,PER,1933,1940,,"voyageurs, témoins de leur déconvenue, Dormeul et [Bourret] ne voulurent pas avoir l'air ému de la brusque di"
+Paris,Location,LOC,2074,2079,,"ui souhaitèrent même ironiquement un bon retour à [Paris], se déclarant enchantées de poursuivre seuls le v"
+Picot,Person,PER,2181,2186,,"age. En réalité, ces paroles cachaient un dépit. [Picot] n'allait-il pas leur manquer ? Il était le seul d"
+interrogua,Person,PER,2689,2699,,"s à préparer ? — Nous continuons, n'est-ce pas ? [interrogua] timidement Dormeul. Bourret crâna : — Comment do"
+Dormeul,Product,MISC,2711,2718,,"continuons, n'est-ce pas ? interrogua timidement [Dormeul]. Bourret crâna : — Comment donc !... Picot serai"
+Picot,Person,PER,2757,2762,,"ent Dormeul. Bourret crâna : — Comment donc !... [Picot] serait trop content !... Seulement, après le tour"
+Bâle,Location,LOC,2934,2938,,"!... Je ne lui parle plus !... Ils couchèrent à [Bâle] ; puis, le lendemain, livrés à leur propre initia"
+Si,Product,MISC,3170,3172,,"rent de deux jours la durée de ce premier arrêt. [Si] seulement ils avaient été trois, comme ils y aura"
+"Picot !...
+
+",Product,MISC,3271,3283,,aient passé volontiers leurs vacances en oubliant [Picot !... ]Les exigences de leur billet les obligeaient à pou
+Picot,Person,PER,3555,3560,,"table d'hôte, quand soudain ils virent apparaître [Picot] qui, aussi surpris et aussi géné qu'eux de les r"
+Troyes,Location,LOC,3915,3921,,"ses collègues, il avait cru prudent de coucher à [Troyes], afin de leur laisser prendre de l'avance et de n"
+Bâle,Location,LOC,4068,4072,,"Pouvait-il s'imaginer qu'au lieu de ne passer à [Bâle] que quelques heures, suivant les conventions prim"
+Interlaken,Location,LOC,4608,4618,,"ûler plusieurs étapes et filèrent directement sur [Interlaken]. Là, au moins, ils seraient tranquilles ! Quel n"
+Picot,Person,PER,4846,4851,,"terrasse d'un café, ils virent passer... qui ?... [Picot] !... L'éternel Picot !... qui, s'étant tenu le mê"
+Picot,Person,PER,4867,4872,,"ls virent passer... qui ?... Picot !... L'éternel [Picot] !... qui, s'étant tenu le même raisonnement qu'eu"
+Ah !,Product,MISC,4979,4983,,"t aussi, pour les fuir, brûlé les mêmes étapes ! [Ah !] non !... C'en était trop ! Si maintenant il se me"
+Paris,Location,LOC,5245,5250,,"ils reprirent le train, bien résolus à rentrer à [Paris]... Cependant, comme, en arrivant à Lucerne, ils"
+Lucerne,Location,LOC,5287,5294,,"ntrer à Paris... Cependant, comme, en arrivant à [Lucerne], ils avaient entendu, dans leur compartiment, des"
+Righi,Person,PER,5383,5388,,"timent, des voyageurs parler avec enthousiasme du [Righi], Bourret insinua : — Dis donc, Dormeul, maintena"
+Bourret,Person,PER,5390,5397,,"des voyageurs parler avec enthousiasme du Righi, [Bourret] insinua : — Dis donc, Dormeul, maintenant que no"
+Dormeul,Product,MISC,5421,5428,,"ousiasme du Righi, Bourret insinua : — Dis donc, [Dormeul], maintenant que nous avons pris sur Picot tant d'"
+Picot,Person,PER,5465,5470,,"donc, Dormeul, maintenant que nous avons pris sur [Picot] tant d'avance, si nous la faisions, l'ascension d"
+Righi,Person,PER,5522,5527,,"ant d'avance, si nous la faisions, l'ascension du [Righi] ?... pour ne pas retourner sans avoir vu quelque"
+Dormeul,Product,MISC,5586,5593,,r ne pas retourner sans avoir vu quelque chose ? [Dormeul] ne fut pas dur. Il répondit : — Faisons-la ! Ils
+Dormeul,Product,MISC,6466,6473,,"déçu. Or, comme pour la dixième fois peut-être, [Dormeul] était attentionné à faire le guet, en examinant b"
+Picot,Person,PER,6603,6608,,"rrivants, il reconnut tout à coup la casquette de [Picot] ; eh ! oui ! de ce satan Picot qui, croyant ses c"
+Picot,Person,PER,6634,6639,,"up la casquette de Picot ; eh ! oui ! de ce satan [Picot] qui, croyant ses collègues depuis longtemps rentr"
+Righi,Location,LOC,6745,6750,,"était laissé tenter à son tour par l'ascension du [Righi] ! I : n'y tint plus. Et courant à lui, les bras"
+Ah !,Product,MISC,6822,6826,,"Et courant à lui, les bras ouverts : — Toi !... [Ah !]... quel bonheur !... s'écria-t-il ; écoute, j'aim"
+Picot,Person,PER,6990,6995,,"nous manques !... — Et si tu savais, interrompit [Picot], un peu ému, comme voilà longtemps que je m'embêt"
+Dormeul,Product,MISC,7070,7077,,longtemps que je m'embête à me trimbaler seul ! [Dormeul] lui prit la main avec effusion : — Enfin ! te vo
+Dormeul,Product,MISC,7329,7336,,"llait entamer le récit de ses mésaventures, quand [Dormeul] l'arrêta et lui dit, en posant les cartes devant"
+Coupe !,Product,MISC,7395,7402,,"et lui dit, en posant les cartes devant lui : — [Coupe !] Picot s'exécuta. Alors, redevenus silencieux, ils"
+Picot,Person,PER,7403,7408,,"dit, en posant les cartes devant lui : — Coupe ! [Picot] s'exécuta. Alors, redevenus silencieux, ils rangè"
+Atout,Location,LOC,7492,7497,,"cieux, ils rangèrent méthodiquement leur jeu : — [Atout] cœur ! annonça Picot. Enfin ! ils la tenaient do"
+Picot,Person,PER,7513,7518,,"méthodiquement leur jeu : — Atout cœur ! annonça [Picot]. Enfin ! ils la tenaient donc, leur manille ! E"
+Paul BONHOMME,Person,PER,7813,7826,,t tout de même qu'il était temps de rentrer !... [Paul BONHOMME]. LA SEMAINE FANTAISISTE Soldats de plomb Les s
+"FANTAISISTE
+
+Soldats de plomb
+
+",Product,MISC,7840,7871,,temps de rentrer !... Paul BONHOMME. LA SEMAINE [FANTAISISTE Soldats de plomb ]Les soldats de plomb reviennent à la mode (LES JOU
+JOURNAUX,Product,MISC,7918,7926,,"b Les soldats de plomb reviennent à la mode (LES [JOURNAUX]). Quand, vers le jour du nouvel an, Elles savent"
+Se montrer gentilles,Product,MISC,7989,8009,,"rs le jour du nouvel an, Elles savent avec talent [Se montrer gentilles], On donne de jolis poupons Habillés de soyeux jup"
+Habillés de soyeux jupons,Product,MISC,8037,8062,,"t Se montrer gentilles, On donne de jolis poupons [Habillés de soyeux jupons] Aux petites filles. En contentant tous leurs sou"
+Aux petites filles,Product,MISC,8063,8081,,"donne de jolis poupons Habillés de soyeux jupons [Aux petites filles]. En contentant tous leurs souhaits, De bonheur c"
+De bonheur ce simple jouet,Product,MISC,8119,8145,,"tites filles. En contentant tous leurs souhaits, [De bonheur ce simple jouet] Fait leur âme pleine ; Oui, rien ne les ravit, di"
+Fait leur âme pleine,Product,MISC,8146,8166,,"t tous leurs souhaits, De bonheur ce simple jouet [Fait leur âme pleine] ; Oui, rien ne les ravit, dit-on, Comme ces bébés"
+"Oui, rien ne les ravit",Product,MISC,8169,8191,,"De bonheur ce simple jouet Fait leur âme pleine ; [Oui, rien ne les ravit], dit-on, Comme ces bébés de carton Ou de porcelai"
+Comme ces bébés de carton,Product,MISC,8201,8226,,"leur âme pleine ; Oui, rien ne les ravit, dit-on, [Comme ces bébés de carton] Ou de porcelaine. C'est que ces enfants, quelque"
+Ou de porcelaine,Product,MISC,8227,8243,,"n ne les ravit, dit-on, Comme ces bébés de carton [Ou de porcelaine]. C'est que ces enfants, quelque jour, Deviendron"
+Deviendront mamans,Product,MISC,8283,8301,,"porcelaine. C'est que ces enfants, quelque jour, [Deviendront mamans] à leur tour Et, dès leur jeune âge, Par un doux i"
+Par un doux instinct agité,Product,MISC,8338,8364,,"ndront mamans à leur tour Et, dès leur jeune âge, [Par un doux instinct agité] Leur cœur, de la maternité, Fait l'apprentissage."
+"Fait l'apprentissage.
+
+Or ce mystérieux émoi Ne",Product,MISC,8393,8440,,"n doux instinct agité Leur cœur, de la maternité, [Fait l'apprentissage. Or ce mystérieux émoi Ne] résout-il pas, dites-moi, Bien d'autres problèmes"
+Bien d'autres problèmes ?,Product,MISC,8467,8492,,"r ce mystérieux émoi Ne résout-il pas, dites-moi, [Bien d'autres problèmes ?] A tort nous nous ébahissons De voir chez les peti"
+De voir chez les petits garçons,Product,MISC,8521,8552,,"d'autres problèmes ? A tort nous nous ébahissons [De voir chez les petits garçons] Qu'il en est de même. Qu'on le veuille ou non, i"
+Qu'il en est de même,Product,MISC,8553,8573,,"s nous ébahissons De voir chez les petits garçons [Qu'il en est de même]. Qu'on le veuille ou non, il nous faut A vingt a"
+A,Location,LOC,8614,8615,,"t de même. Qu'on le veuille ou non, il nous faut [A] vingt ans mettre sac au dos, Tous tant que nous s"
+Tous tant que nous sommes,Product,MISC,8645,8670,,"non, il nous faut A vingt ans mettre sac au dos, [Tous tant que nous sommes], Les femmes ayant leur devoir. Nul ne peut manque"
+A son devoir d'homme,Product,MISC,8738,8758,,"leur devoir. Nul ne peut manquer, sans décevoir, [A son devoir d'homme]. Cet impérieux sentiment Est inscrit si profondé"
+Est,Location,LOC,8785,8788,,"r, A son devoir d'homme. Cet impérieux sentiment [Est] inscrit si profondément Au fond de notre être Que"
+Que les petits garçons déjà,Product,MISC,8835,8862,,Est inscrit si profondément Au fond de notre être [Que les petits garçons déjà] Aiment à jouer au soldat Comme leurs ancêtres. M
+Aiment,Product,MISC,8863,8869,,Au fond de notre être Que les petits garçons déjà [Aiment] à jouer au soldat Comme leurs ancêtres. Mais il
+A,Location,LOC,8939,8940,,omme leurs ancêtres. Mais il est dur de se plier [A] l'humble rôle de troupier Avant la vingtaine. Qua
+Avant la vingtaine,Product,MISC,8967,8985,,"l est dur de se plier A l'humble rôle de troupier [Avant la vingtaine]. Quand ils ont des soldats de plomb, Les enfants"
+Les enfants prennent le galon,Product,MISC,9023,9052,,"la vingtaine. Quand ils ont des soldats de plomb, [Les enfants prennent le galon] Et sont capitaines. Capitaines... ou généraux !"
+Capitaines,Person,PER,9074,9084,,"es enfants prennent le galon Et sont capitaines. [Capitaines]... ou généraux ! Ah ! les batailles de héros, Dig"
+Ah !,Product,MISC,9102,9106,,"Et sont capitaines. Capitaines... ou généraux ! [Ah !] les batailles de héros, Dignes des Sicambres, Des"
+Dignes des Sicambres,Person,PER,9131,9151,,"nes... ou généraux ! Ah ! les batailles de héros, [Dignes des Sicambres], Des grands empereurs et des rois, Qui se déroule"
+Qui,Person,PER,9187,9190,,"des Sicambres, Des grands empereurs et des rois, [Qui] se déroulent sur l'étroit Tapis d'une chambre !"
+Tapis,Product,MISC,9217,9222,,"ereurs et des rois, Qui se déroulent sur l'étroit [Tapis] d'une chambre ! Qui n'en serait pas convaincu ?"
+Il fuit en déroute,Product,MISC,9303,9321,,it pas convaincu ? L'ennemi est toujours vaincu ; [Il fuit en déroute] Et les soldats de plomb vainqueurs Sont toujours
+Personne,Product,MISC,9394,9402,,"b vainqueurs Sont toujours des français de cœur ; [Personne] n'en doute ! Quand tout est terminé, l'enfant, A"
+César,Person,PER,9463,9468,,"! Quand tout est terminé, l'enfant, Ainsi qu'un [César] triomphant, Sent ses tempes moites. Cavaliers et"
+Sent,Person,PER,9481,9485,,"terminé, l'enfant, Ainsi qu'un César triomphant, [Sent] ses tempes moites. Cavaliers et pioupious d'un so"
+Vont,Product,MISC,9537,9541,,"es tempes moites. Cavaliers et pioupious d'un sou [Vont] dormir, sans dessus dessous Au fond de leur boîte"
+Tandis que le petit garçon,Product,MISC,9630,9656,,"leur boîte. Mais leur sommeil est sans frisson, [Tandis que le petit garçon], Après cette histoire, Regagne son lit, satisfait"
+Après cette histoire,Product,MISC,9658,9678,,"eil est sans frisson, Tandis que le petit garçon, [Après cette histoire], Regagne son lit, satisfait, Et, pendant toute la"
+Regagne,Person,PER,9680,9687,,"Tandis que le petit garçon, Après cette histoire, [Regagne] son lit, satisfait, Et, pendant toute la nuit, fa"
+"Et, pendant toute la nuit",Product,MISC,9708,9733,,"Après cette histoire, Regagne son lit, satisfait, [Et, pendant toute la nuit], fait Des rêves de gloire. Claudin. La Poupée"
+Des rêves de gloire,Product,MISC,9740,9759,,"n lit, satisfait, Et, pendant toute la nuit, fait [Des rêves de gloire]. Claudin. La Poupée (Conte du nouvel an) Céli"
+Claudin,Person,PER,9762,9769,,"pendant toute la nuit, fait Des rêves de gloire. [Claudin]. La Poupée (Conte du nouvel an) Céline, appren"
+"La Poupée
+
+(Conte du nouvel an",Product,MISC,9772,9802,,"ute la nuit, fait Des rêves de gloire. Claudin. [La Poupée (Conte du nouvel an]) Céline, apprentie chez Ploquin et Cie, couturie"
+Céline,Person,PER,9805,9811,,"oire. Claudin. La Poupée (Conte du nouvel an) [Céline], apprentie chez Ploquin et Cie, couturiers, rue d"
+Ploquin,Person,PER,9828,9835,,"pée (Conte du nouvel an) Céline, apprentie chez [Ploquin] et Cie, couturiers, rue de la Paix, ne connaissai"
+"Cie, couturiers",Product,MISC,9839,9854,,"du nouvel an) Céline, apprentie chez Ploquin et [Cie, couturiers], rue de la Paix, ne connaissait du jour de l'An q"
+rue de la Paix,Location,LOC,9856,9870,,"éline, apprentie chez Ploquin et Cie, couturiers, [rue de la Paix], ne connaissait du jour de l'An que l'extrême fat"
+An,Product,MISC,9900,9902,,"iers, rue de la Paix, ne connaissait du jour de l'[An] que l'extrême fatigue imposée par les jours de fê"
+Paris,Location,LOC,10147,10152,,"des pauvres. A travers ses courses dans l'immense [Paris], l'épaule arrachée par la lourde caisse aux initi"
+P. C.,Person,PER,10207,10212,,"paule arrachée par la lourde caisse aux initiales [P. C.], elle ne pouvait jeter qu'un coup d'œil furtif su"
+Parisienne,Location,LOC,10349,10359,,ons d'été. Elle tendait son minois fûté de petite [Parisienne] au-dessus des confiseries fines ; ses paupières b
+Céline,Person,PER,10931,10937,,"it enfin ficelé avec du cordonnet rose et or. Et [Céline], l'apprentie, qui avait déjà treize ans passés, e"
+Ploquin,Person,PER,11035,11042,,"en oubliai de livrer sa robe ; à son retour chez [Ploquin] et Cie, elle avait à essuyer les aigres réprimand"
+Cie,Person,PER,11046,11049,,"de livrer sa robe ; à son retour chez Ploquin et [Cie], elle avait à essuyer les aigres réprimandes de V"
+Virginie,Location,LOC,11098,11106,,"e, elle avait à essuyer les aigres réprimandes de [Virginie], une manutentionnaire en besicles qui lui reproch"
+besicles,Person,PER,11132,11140,,"réprimandes de Virginie, une manutentionnaire en [besicles] qui lui reprochait de voler aux patrons ses trois"
+Céline,Person,PER,11222,11228,,"patrons ses trois francs par semaine. C'est que [Céline] n'avait jamais connu la gaieté des bazars, cette"
+Céline,Person,PER,11393,11399,,l des enfants en insomnies extasiées. Au temps où [Céline] portait un bonnet en trois pièces et le fichu nou
+An,Product,MISC,11491,11493,,"ichu noué par derrière, quand venait le jour de l'[An] elle allait aplatir son petit nez contre la vitre"
+rue Maroquet,Location,LOC,11563,11575,,son petit nez contre la vitre de l'épicier de la [rue Maroquet]. Il y avait là des choses merveilleuses : des sab
+charbonnée,Location,LOC,12017,12027,,carton ou sonne un caillou et surmonté d'une tête [charbonnée] et vermillonnée avec deux pochons d'indigo marqua
+vermillonnée,Location,LOC,12031,12043,,"e un caillou et surmonté d'une tête charbonnée et [vermillonnée] avec deux pochons d'indigo marquant les yeux, jus"
+Céline,Person,PER,12208,12214,,on lui appuie sur le ventre. Mais le petit nez de [Céline] n'avait jamais été plus loin que la vitre de l'ép
+Céline,Person,PER,12825,12831,,"était d'ailleurs pas un mauvais homme, le père de [Céline], chauffeur au gaz, toujours un peu altéré par la"
+An,Product,MISC,13006,13008,,s'efforçait même de faire coïncider le jour de l'[An] avec les achats nécessaires qui prenaient ainsi a
+Céline,Person,PER,13126,13132,,"s. On allait chez le cordonnier, et on achetait à [Céline] des bottines, ou bien encore chez la mercière que"
+"DRANER
+
+—",Product,MISC,13536,13545,,"ière fois. Mais le LES GAITÉS DE LA SEMAINE, par [DRANER —] Mou gendre ! vous n'êtes qu'un monstre ! Oser dis"
+Salmis Marocain-Congo,Location,LOC,13791,13812,,salmis ? — C'est même pour cela qu'on l'a nommé « [Salmis Marocain-Congo] ». Le Triomphe du boxeur. — Ce qui me touche et
+Le Triomphe du boxeur,Product,MISC,13817,13838,,"cela qu'on l'a nommé « Salmis Marocain-Congo ». [Le Triomphe du boxeur]. — Ce qui me touche et me flatte surtout, c'est"

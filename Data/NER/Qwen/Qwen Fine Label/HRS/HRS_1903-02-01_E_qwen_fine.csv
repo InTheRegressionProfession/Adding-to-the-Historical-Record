@@ -1,0 +1,44 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+abbé Coquet,pers.ind,Person,pers.ind,256,267,,"es. - — Les poudettes à moi? - — Vous êtes bien l'[abbé Coquet]? - — Oui, et vous? - — Moi, je suis agent de M. d"
+M. de Sartine,pers.ind,Person,pers.ind,313,326,,"quet? - — Oui, et vous? - — Moi, je suis agent de [M. de Sartine]. - — Miséricorde! On a beau avoir la conscience"
+Cartouche,pers.ind,Person,pers.ind,524,533,,abbé eût peut-être été moins effrayé par celui de [Cartouche] ou de Mandrin. - — Où me conduisez-vous? gémit-i
+Mandrin,pers.ind,Person,pers.ind,540,547,,re été moins effrayé par celui de Cartouche ou de [Mandrin]. - — Où me conduisez-vous? gémit-il. - — A l'hôt
+Dieu,pers.ind,Person,pers.ind,2259,2263,,"eux examen de sa conduite : il servait fidèlement [Dieu] et le Roy, honorait ses supérieurs, respectait le"
+le Roy,pers.ind,Person,pers.ind,2267,2273,,"en de sa conduite : il servait fidèlement Dieu et [le Roy], honorait ses supérieurs, respectait les gens en"
+la Bastille,loc.fac,Location,loc.fac,2569,2580,,"nul ne peut se vanter de ne pas coucher le soir à [la Bastille]. La Bastille! Tout à l'heure, en entrant par la"
+Saint-Antoine,loc.oro,Location,loc.oro,2636,2649,,"Bastille! Tout à l'heure, en entrant par la porte [Saint-Antoine], il avait entrevu sa sombre silhouette, ses haute"
+M. de Sartine,pers.ind,Person,pers.ind,2902,2915,,"nier abattu, sous bonne garde, l'agent va trouver [M. de Sartine] au salon et lui dit tout bas : - — Monseigneur,"
+l'abbé Coquet,pers.ind,Person,pers.ind,2970,2983,,"alon et lui dit tout bas : - — Monseigneur, j'ai [l'abbé Coquet]. - — C'est bon! répond le magistrat, occupé à cau"
+l'abbé Coquet,prod.media,Product,prod.media,2970,2983,,"alon et lui dit tout bas : - — Monseigneur, j'ai [l'abbé Coquet]. - — C'est bon! répond le magistrat, occupé à cau"
+Mme de Sartine,pers.ind,Person,pers.ind,4322,4336,,"criant comme un possédé. A ce vacarme insolite, [Mme de Sartine] accourt très étonnée, interroge le prisonnier à t"
+Arthur DOURLIAC,pers.ind.articleauthor,Person,pers.ind.articleauthor,5354,5369,,"paroisse, où il s'élevait en odeur de sainteté. [Arthur DOURLIAC]. L'ANNEAU Dès que la vente fut annoncée, Lauren"
+Laurent Delorme,pers.ind,Person,pers.ind,5413,5428,,"URLIAC. L'ANNEAU Dès que la vente fut annoncée, [Laurent Delorme] se jura de n'y point aller. La nouvelle de la mo"
+Aline Lewis,pers.ind,Person,pers.ind,5510,5521,,nouvelle de la mort si brutalement foudroyante d'[Aline Lewis] avait réveillé tout le mal dont il se croyait gué
+Juliettes,pers.ind,Person,pers.ind,5787,5796,,"tour à tour chanté les amours et les douleurs des [Juliettes], des Marguerites, des Manons et des Rosenn! Un d"
+Marguerites,pers.ind,Person,pers.ind,5802,5813,,"nté les amours et les douleurs des Juliettes, des [Marguerites], des Manons et des Rosenn! Un dernier triomphe,"
+Manons,pers.ind,Person,pers.ind,5819,5825,,"les douleurs des Juliettes, des Marguerites, des [Manons] et des Rosenn! Un dernier triomphe, une salle dé"
+Rosenn,pers.ind,Person,pers.ind,5833,5839,,"des Juliettes, des Marguerites, des Manons et des [Rosenn]! Un dernier triomphe, une salle délirante acclam"
+la Presse,prod.media,Product,prod.media,6151,6160,,"elle écrase et qu'elle broie... C'était été dans [la Presse] un concert de regrets, une clameur désolée. — Et"
+Conservatoire,org.ent,Organization,org.ent,6391,6404,,"is! — Laurent l'avait connue toute jeune élève au [Conservatoire]. Timide, hésitante encore sur sa vocation d'art,"
+Rome,loc.adm.nat,Location,loc.adm.nat,7113,7117,,« Nous nous marierons lorsque j'aurai mon Prix de [Rome]. Tu incarnes mes rêves d'artiste comme tu incarne
+Laurent,pers.ind,Person,pers.ind,7384,7391,,un peu sauvage. Elle accepta l'idée du théâtre. [Laurent] allait partir pour Rome. Avant de quitter son ami
+Rome,loc.adm.town,Location,loc.adm.town,7411,7415,,ta l'idée du théâtre. Laurent allait partir pour [Rome]. Avant de quitter son amie il lui mit au doigt l'
+Aline,pers.ind,Person,pers.ind,7638,7643,,"ue, un pâle saphir qui rappelait les beaux yeux d'[Aline]. Laurent lut deux fois avant d'en accepter la ré"
+Lewis,pers.ind,Person,pers.ind,7756,7761,,lques lignes du journal qui relataient la mort de [Lewis]. Quand il fut bien certain qu'il ne rêvait pas ce
+Aline Lewis,pers.ind,Person,pers.ind,8054,8065,,"nt triomphe qu'avaient été ses débuts au théâtre, [Aline Lewis], révélant sa trahison d'un masque de sagesse, déc"
+Drouot,loc.fac,Location,loc.fac,9605,9611,,ncombrement bourdonnant des alentours de la salle [Drouot] aux jours de grandes ventes. Une cohue disparate
+Laurent,pers.ind,Person,pers.ind,10047,10054,,"Bousculé, indifférent aux heurts, les yeux fixes, [Laurent] regardait ces joyaux que soulevaient complaisamme"
+Aline,pers.ind,Person,pers.ind,10216,10221,,"offrandes, des prières parfois... Et le fiancé d'[Aline] entendait, le cœur brisé, la tête bourdonnante, l"
+Lewis,pers.ind,Person,pers.ind,11046,11051,,"dit tout haut : — Je la reconnais, cette bague; [Lewis] ne la quittait jamais... Elle n'est pourtant pas"
+Laurent Delorme,pers.ind,Person,pers.ind,12006,12021,,"son existence de luxe, de douceur et de passion. [Laurent Delorme] repoussait la tentation d'assister à cette vente,"
+Aline,pers.ind,Person,pers.ind,12280,12285,,"affolé le prit de voir ces choses que les mains d'[Aline] avaient touchées, sur lesquelles ses regards s'ét"
+Laurent,pers.ind,Person,pers.ind,12408,12415,,"journées de lutte avec lui-même, dans le cœur de [Laurent] l'ancienne Aline, l'amie d'autrefois, avait à son"
+Lewis,pers.ind,Person,pers.ind,12777,12782,,ût à lui que la Mort impitoyable l'eût arrachée. [Lewis]... tout ce dont ses amis d'un jour avaient payé s
+Marie THIÉRY,pers.ind.articleauthor,Person,pers.ind.articleauthor,13106,13118,,"e homme, tout un amour sincère s'étaient donnés. [Marie THIÉRY]. Ulcères, Plaies, Eczéma MALADIES DE LA PEAU L"
+Docteur Wolf,pers.ind,Person,pers.ind,13619,13631,,"travaillant, par le nouveau traitement végétal du [Docteur Wolf], qui est envoyé franco avec le mode d'emploi et m"
+M. Passerieux,pers.ind,Person,pers.ind,13707,13720,,"ec le mode d'emploi et mandat de 10 fr. adressé à [M. Passerieux], Pharm. 46, rue des Faures, Bordeaux. L'essayer c"
+"46, rue des Faures",loc.add.phys,Location,loc.add.phys,13729,13747,,"mandat de 10 fr. adressé à M. Passerieux, Pharm. [46, rue des Faures], Bordeaux. L'essayer c'est guérir. Dépôt à Paris,"
+Bordeaux,loc.adm.town,Location,loc.adm.town,13749,13757,,"ressé à M. Passerieux, Pharm. 46, rue des Faures, [Bordeaux]. L'essayer c'est guérir. Dépôt à Paris, Pharmacie"
+Paris,loc.adm.town,Location,loc.adm.town,13791,13796,,"Faures, Bordeaux. L'essayer c'est guérir. Dépôt à [Paris], Pharmacie Girard, 217, Rue Lafayette."
+Pharmacie Girard,org.ent,Organization,org.ent,13798,13814,,"Bordeaux. L'essayer c'est guérir. Dépôt à Paris, [Pharmacie Girard], 217, Rue Lafayette."
+"217, Rue Lafayette",loc.add.phys,Location,loc.add.phys,13816,13834,,"er c'est guérir. Dépôt à Paris, Pharmacie Girard, [217, Rue Lafayette]."

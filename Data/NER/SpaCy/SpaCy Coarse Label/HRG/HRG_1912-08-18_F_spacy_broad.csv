@@ -1,0 +1,70 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Thérèse,Person,PER,602,609,,"un obscur désir de maternité, de protection. Chez [Thérèse], ce sentiment, fortifié par la conscience... — P"
+Michel,Person,PER,669,675,,"ment, fortifié par la conscience... — Parce que, [Michel], je vous aime ! Roger REGIS. LE CODE POUR TOUS"
+Roger REGIS,Person,PER,692,703,,"onscience... — Parce que, Michel, je vous aime ! [Roger REGIS]. LE CODE POUR TOUS De la constitution de rente"
+"POUR TOUS
+
+De la constitution de rente
+
+On peut",Product,MISC,714,761,,"que, Michel, je vous aime ! Roger REGIS. LE CODE [POUR TOUS De la constitution de rente On peut] stipuler un intérêt moyennant un capital que le p"
+Code civil,Product,MISC,2443,2453,,"at est réglementé par les articles 1968 à 1983 du [Code civil], au titre des contrats aléatoires. La rente viag"
+"SAINT-YVES.
+
+",Location,LOC,3879,3892,,que lorsqu'elle a été concédée à titre gratuit. [SAINT-YVES. ]JE DONNE 100.000 Fr. à qui prouvera que la célèbr
+Fr,Location,LOC,3909,3911,,e à titre gratuit. SAINT-YVES. JE DONNE 100.000 [Fr]. à qui prouvera que la célèbre Sève Capillaire d
+Sève Capillaire,Person,PER,3944,3959,,DONNE 100.000 Fr. à qui prouvera que la célèbre [Sève Capillaire] du dermatologue F. OLBÉ n'arrête pas la chute des
+F. OLBÉ,Person,PER,3976,3983,,ra que la célèbre Sève Capillaire du dermatologue [F. OLBÉ] n'arrête pas la chute des cheveux en deux jours e
+Mme Sophie Mil,Person,PER,4135,4149,,"les plus chauves et dans leur nuance naturelle. [Mme Sophie Mil]..., 33 ans, propriétaire à Rouen. — Tête totaleme"
+Rouen,Location,LOC,4177,4182,,"relle. Mme Sophie Mil..., 33 ans, propriétaire à [Rouen]. — Tête totalement dénudée depuis 3 ans à la suit"
+Tête,Location,LOC,4186,4190,,"me Sophie Mil..., 33 ans, propriétaire à Rouen. — [Tête] totalement dénudée depuis 3 ans à la suite d'un é"
+Chevelure,Location,LOC,4279,4288,,"uite d'un érysipèle, portait une légère perruque. [Chevelure] complètement reconstituée après 2 mois 1/2 de tra"
+Octave Terr,Person,PER,4348,4359,,"ent reconstituée après 2 mois 1/2 de traitement. [Octave Terr]..., 32 ans, mécanicien aux Angles. — Pelade remon"
+Angles,Location,LOC,4387,4393,,"aitement. Octave Terr..., 32 ans, mécanicien aux [Angles]. — Pelade remontant à 2 ans. 50 grandes plaques q"
+Pelade,Location,LOC,4397,4403,,"Octave Terr..., 32 ans, mécanicien aux Angles. — [Pelade] remontant à 2 ans. 50 grandes plaques qui avaient"
+Asnières,Location,LOC,4547,4555,,"lète en 2 mois. Photographie faite 4 mois après. [Asnières], le 11 mars. A 66 ans j'étais atteint d'une calvi"
+votre Sève,Person,PER,4803,4813,,"mes cheveux, lorsque j'on me conseilla d'user de [votre Sève]. L'effet fut prodigieux, à peine croyable. En moi"
+Beauieu,Location,LOC,5146,5153,,"jours, et vous autorise à oublier cette lettre. [Beauieu], 3 mars. J'avais perdu depuis 4 ans presque tous"
+votre Sève,Person,PER,5248,5258,,tous mes cheveux sans cause apparente. L'effet de [votre Sève] a été extraordinaire. Au bout de 3 mois déjà très
+Beauieu,Location,LOC,5625,5632,,"jours, et vous autorise à oublier cette lettre. [Beauieu], 16 avril. C'est pour me faire plaisir que mon ma"
+votre Sève,Person,PER,5808,5818,,"on, il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Il consentit cependant"
+votre Sève,Person,PER,5891,5901,,"us. Il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Il consentit cependant"
+votre Sève,Person,PER,5974,5984,,"us. Il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Bagnoux, le 21 avril."
+Bagnoux,Location,LOC,6012,6019,,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+votre Sève,Person,PER,6202,6212,,"on, il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Il consentit cependant"
+votre Sève,Person,PER,6285,6295,,"us. Il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Bagnoux, le 21 avril."
+Bagnoux,Location,LOC,6323,6330,,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+votre Sève,Person,PER,6513,6523,,"on, il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Il consentit cependant"
+votre Sève,Person,PER,6596,6606,,"us. Il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Bagnoux, le 21 avril."
+Bagnoux,Location,LOC,6634,6641,,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+votre Sève,Person,PER,6824,6834,,"on, il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Il consentit cependant"
+votre Sève,Person,PER,6907,6917,,"us. Il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Bagnoux, le 21 avril."
+Bagnoux,Location,LOC,6945,6952,,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+votre Sève,Person,PER,7135,7145,,"on, il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. Il consentit cependant"
+votre Sève,Person,PER,7218,7228,,"us. Il consentit cependant à essayer un flacon de [votre Sève], et il en a fait de plus. JEP sont, vous ne l'i"
+JEP,Product,MISC,7256,7259,,"n flacon de votre Sève, et il en a fait de plus. [JEP] sont, vous ne l'ignorez pas, les maladies de la"
+Dr Daru,Person,PER,7547,7554,,r recours à un traitement intérieur. Dépurase du [Dr Daru] réalise le type parfait du spécifique des affect
+Boutons,Person,PER,7894,7901,,"la peau sa netteté. C'est la guérison assurée des [Boutons], Acné, Dartres, Eczémas, Psoriasis, etc. La Dépu"
+Acné,Product,MISC,7903,7907,,"a netteté. C'est la guérison assurée des Boutons, [Acné], Dartres, Eczémas, Psoriasis, etc. La Dépurase d"
+Dartres,Person,PER,7909,7916,,"eté. C'est la guérison assurée des Boutons, Acné, [Dartres], Eczémas, Psoriasis, etc. La Dépurase du Docteur"
+Eczémas,Product,MISC,7918,7925,,"t la guérison assurée des Boutons, Acné, Dartres, [Eczémas], Psoriasis, etc. La Dépurase du Docteur Daru se"
+Psoriasis,Product,MISC,7927,7936,,"ison assurée des Boutons, Acné, Dartres, Eczémas, [Psoriasis], etc. La Dépurase du Docteur Daru se trouve dans"
+La Dépurase,Product,MISC,7944,7955,,"Boutons, Acné, Dartres, Eczémas, Psoriasis, etc. [La Dépurase] du Docteur Daru se trouve dans les bonnes pharmac"
+Paris,Location,LOC,8022,8027,,se trouve dans les bonnes pharmacies seulement de [Paris] et de Province ou au Dépôt général : Monsieur H.
+Province,Location,LOC,8034,8042,,"ns les bonnes pharmacies seulement de Paris et de [Province] ou au Dépôt général : Monsieur H. LINDEUX, pharma"
+Dépôt,Location,LOC,8049,8054,,"harmacies seulement de Paris et de Province ou au [Dépôt] général : Monsieur H. LINDEUX, pharmacien, 10, ru"
+rue Richelieu,Location,LOC,8102,8115,,"ôt général : Monsieur H. LINDEUX, pharmacien, 10, [rue Richelieu], à Paris. 1 franc la boîte de 14 paquets (Franco"
+Paris,Location,LOC,8119,8124,,"ieur H. LINDEUX, pharmacien, 10, rue Richelieu, à [Paris]. 1 franc la boîte de 14 paquets (Franco poste 1."
+Franco,Person,PER,8159,8165,,"helieu, à Paris. 1 franc la boîte de 14 paquets ([Franco] poste 1.20) VIENT DE PARAÎTRE LA MUSIQUE 3 MORCE"
+VIENT DE PARAÎTRE,Product,MISC,8179,8196,,franc la boîte de 14 paquets (Franco poste 1.20) [VIENT DE PARAÎTRE] LA MUSIQUE 3 MORCEAUX de MUSIQUE pour 15 CENTIMES
+MORCEAUX,Product,MISC,8210,8218,,ranco poste 1.20) VIENT DE PARAÎTRE LA MUSIQUE 3 [MORCEAUX] de MUSIQUE pour 15 CENTIMES. LE N° 19 CONTIENT ON
+MUSIQUE,Product,MISC,8222,8229,,1.20) VIENT DE PARAÎTRE LA MUSIQUE 3 MORCEAUX de [MUSIQUE] pour 15 CENTIMES. LE N° 19 CONTIENT ON DIT Chanso
+CENTIMES,Product,MISC,8238,8246,,PARAÎTRE LA MUSIQUE 3 MORCEAUX de MUSIQUE pour 15 [CENTIMES]. LE N° 19 CONTIENT ON DIT Chanson Paroles de PIER
+Chanson Paroles de PIERRE LOUVS,Product,MISC,8273,8304,,USIQUE pour 15 CENTIMES. LE N° 19 CONTIENT ON DIT [Chanson Paroles de PIERRE LOUVS] Musique de HENRI SCHMITT BLONDINETTE Polka A. BOS
+GRENADIERS,Product,MISC,8365,8375,,HENRI SCHMITT BLONDINETTE Polka A. BOSC LES DEUX [GRENADIERS] Mélodie de SCHUMANN Transcription de V. SIGHICELL
+SCHUMANN,Product,MISC,8387,8395,,ETTE Polka A. BOSC LES DEUX GRENADIERS Mélodie de [SCHUMANN] Transcription de V. SIGHICELLI. 15 CENTIMES LE NU
+SIGHICELLI,Organization,ORG,8416,8426,,RENADIERS Mélodie de SCHUMANN Transcription de V. [SIGHICELLI]. 15 CENTIMES LE NUMÉRO. Parait tous les quinze jo
+CENTIMES,Product,MISC,8431,8439,,ie de SCHUMANN Transcription de V. SIGHICELLI. 15 [CENTIMES] LE NUMÉRO. Parait tous les quinze jours EN VENTE
+NUMÉRO,Product,MISC,8443,8449,,NN Transcription de V. SIGHICELLI. 15 CENTIMES LE [NUMÉRO]. Parait tous les quinze jours EN VENTE CHEZ TOUS
+Administration,Organization,ORG,8565,8579,,"JOURNAUX. Prix de l'abonnement : 5 fr. par an. — [Administration] : 19, rue Cadet, Paris."
+rue Cadet,Location,LOC,8586,8595,,"abonnement : 5 fr. par an. — Administration : 19, [rue Cadet], Paris."
+Paris,Location,LOC,8597,8602,,": 5 fr. par an. — Administration : 19, rue Cadet, [Paris]."

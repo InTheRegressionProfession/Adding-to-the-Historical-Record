@@ -1,0 +1,55 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+"LEPINE
+
+était lacérée",Product,MISC,3,24,,"M. [LEPINE était lacérée], elle en mit une autre sur laquelle, de ses petit"
+Écho des poètes,Organization,ORG,279,294,,"arçons de bureau de garde dans l'antichambre de l'[Écho des poètes] à parler au rédacteur en chef. L'huissier, en pe"
+Jeanne,Person,PER,479,485,,"e nom, mademoiselle, et l'objet de votre visite. [Jeanne], très troublée, obéit à cette injonction et écriv"
+Jeanne Bertin,Person,PER,543,556,,"roublée, obéit à cette injonction et écrivit : « [Jeanne Bertin] désire remettre à M. le rédacteur en chef un manu"
+M.,Person,PER,575,577,,n et écrivit : « Jeanne Bertin désire remettre à [M.] le rédacteur en chef un manuscrit. » Quelques se
+Henri Vidal,Person,PER,913,924,,"e marquait une coquetterie efféminée : c'était M. [Henri Vidal]. — Mademoiselle, dit-il, en voyant entrer Jeanne"
+Jeanne,Person,PER,968,974,,"Vidal. — Mademoiselle, dit-il, en voyant entrer [Jeanne], veuillez vous asseoir... Vous désirez me soumett"
+Monsieur !,Product,MISC,1323,1333,,che donnera toute leur valeur à vos phrases... — [Monsieur !]... — Et vous aurez plus de chance de voir accept
+Accepter,Person,PER,1404,1412,,plus de chance de voir accepter votre manuscrit. [Accepter]... Il avait dit accepter. Ce monsieur la prenait
+Pierrot,Person,PER,1944,1951,,"s votre manuscrit ; mais vous avez tort de signer [Pierrot], mettez plutôt Pierrette ; vous aurez plus de suc"
+Pierrette,Person,PER,1967,1976,,"s vous avez tort de signer Pierrot, mettez plutôt [Pierrette] ; vous aurez plus de succès, on est au féminisme."
+Pierrette,Person,PER,2071,2080,,"isme. Elle voulut protester... — Si vous signez [Pierrette], reprit le directeur, votre nouvelle passera dans"
+Jeanne,Person,PER,2236,2242,,"cette entrevue qui avait si curieusement tourné, [Jeanne] recevait un mot de M. Vidal qui l'invitait à se p"
+M. Vidal,Person,PER,2262,2270,,"si curieusement tourné, Jeanne recevait un mot de [M. Vidal] qui l'invitait à se présenter à son bureau... El"
+Vidal,Person,PER,2639,2644,,"» Dans l'antichambre, elle donna son nom. — M. [Vidal] est occupé, mademoiselle. Il vous — Oh ! non, pa"
+Oh !,Product,MISC,2682,2686,,"— M. Vidal est occupé, mademoiselle. Il vous — [Oh !] non, pas moi ; mais un... un ami, monsieur, achev"
+Jeanne,Person,PER,2843,2849,,"e. Ceci fut dit avec une emphase qui fit sourire [Jeanne]. — Et tenez, voici une poésie qui est de moi, pu"
+"...
+
+Mon Dieu !",Product,MISC,2996,3011,,voulez me faire la grâce d'accepter cet exemplaire[... Mon Dieu !] c'est « Loin du monde ». Serait-ce possible ? Que
+"PUIBARAUD
+
+DIRECTEUR DU SERVICE DES RECHERCHES",Product,MISC,3859,3905,,"sauver sans rien dire et de laisser le jeune M. [PUIBARAUD DIRECTEUR DU SERVICE DES RECHERCHES] garder plus longtemps, je suis très pressé, ce s"
+Jeanne,Person,PER,3961,3967,,"er plus longtemps, je suis très pressé, ce soir. [Jeanne] se retira. Dans l'antichambre, personne, mais su"
+"...
+
+Jeanne",Product,MISC,4091,4102,,"homme l'attendait. — Mademoiselle, que signifie ?[... Jeanne] lui donna le mandat et dit : — Je vais vous expl"
+Jeanne,Person,PER,4780,4786,,"ontre... — Vous aviez raison de croire en moi... [Jeanne], je vous aime... Depuis longtemps nos âmes se che"
+Jeanne,Person,PER,4908,4914,,"s unir votre misère à la mienne ?... Voulez-vous, [Jeanne], être ma femme ?... Et comme ils s'étaient attar"
+Mail,Location,LOC,5038,5042,,"ait, et que leurs pas les avaient conduits sur le [Mail], sous les grands arbres ombreux, il murmura : —"
+Jeanne,Person,PER,5106,5112,,"nds arbres ombreux, il murmura : — Je vous aime, [Jeanne]. Jeanne, troublée, poursuivait une idée : — Mai"
+Jeanne,Person,PER,5115,5121,,"s ombreux, il murmura : — Je vous aime, Jeanne. [Jeanne], troublée, poursuivait une idée : — Mais vous n'"
+Jeanne,Person,PER,5416,5422,,"ule que je voudrai plaire... Serez-vous ma femme, [Jeanne] ?... Dans un souffle, il entendit « oui ». Alors"
+Paul ANDRÉ,Person,PER,5548,5558,,"de la jeune fille, le poète mit un long baiser. [Paul ANDRÉ]. LE CRIME DE LA RUE CHALGRIN Arrestation de l'a"
+Arrestation,Product,MISC,5590,5601,,"aiser. Paul ANDRÉ. LE CRIME DE LA RUE CHALGRIN [Arrestation] de l'assassin à Glasgow présente ses excuses, il"
+Glasgow,Location,LOC,5618,5625,,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+Jeanne,Person,PER,5917,5923,,un air gauche. Son regard exprima l'étonnement. [Jeanne] le reconnut : c'était le jeune homme qu'elle renc
+Cinq minutes,Product,MISC,5996,6008,,"le jeune homme qu'elle rencontrait chaque matin. [Cinq minutes] passèrent, puis dix ; la jeune fille regarda la p"
+M. Vidal,Person,PER,6289,6297,,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal] ? Cet aussi fit tressaillir la jeune fille. — O"
+Oui monsieur,Person,PER,6346,6358,,"l ? Cet aussi fit tressaillir la jeune fille. — [Oui monsieur]. — Vous écrivez, sans doute ? Elle eut une excl"
+Pierrette,Person,PER,6630,6639,,"que je ne comprends pas non plus, c'est ce nom de [Pierrette] par lequel ils ont remplacé mon pseudonyme de Pie"
+Pierrot,Person,PER,6686,6693,,tte par lequel ils ont remplacé mon pseudonyme de [Pierrot]... Enfin la signature importe peu... Être imprimé
+Vidal,Person,PER,6767,6772,,"mporte peu... Être imprimé, cela me suffit... M. [Vidal] passa dans l'antichambre ; il s'inclina devant la"
+Pierrette,Person,PER,6852,6861,,"s'inclina devant la jeune fille. — Mademoiselle [Pierrette], voulez-vous me suivre ?... Quand ils furent dan"
+Flattons,Product,MISC,7082,7090,,toujours qu'elles y dévoilent leur état d'âme... [Flattons] les goûts du public. M'apportez-vous quelque autr
+"Pardonnez-moi de ne pas vous
+
+M.",Product,MISC,7312,7344,,"ci votre mandat... Pensez à nous, mademoiselle... [Pardonnez-moi de ne pas vous M.] HAMARD M. BERTILLON CHEF DU SERVICE D'IDENTIFIC"
+HAMARD,Person,PER,7345,7351,,mademoiselle... Pardonnez-moi de ne pas vous M. [HAMARD] M. BERTILLON CHEF DU SERVICE D'IDENTIFICATION
+"BERTILLON
+
+CHEF DU",Product,MISC,7356,7374,,le... Pardonnez-moi de ne pas vous M. HAMARD M. [BERTILLON CHEF DU] SERVICE D'IDENTIFICATION

@@ -1,0 +1,162 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+EXPLICATION DE NOS,Product,MISC,0,18,,[EXPLICATION DE NOS] GRAVURES Arrestation d'un agent de l'Allemagne
+Arrestation,Product,MISC,29,40,,EXPLICATION DE NOS GRAVURES [Arrestation] d'un agent de l'Allemagne La population si patri
+Allemagne,Location,LOC,57,66,,TION DE NOS GRAVURES Arrestation d'un agent de l'[Allemagne] La population si patriote de notre frontière de
+Nancy,Location,LOC,183,188,,"e profondément émue par l'arrestation fortuite, à [Nancy], d'un espion allemand nommé Baliguet. Cette émot"
+Baliguet,Person,PER,217,225,,"ion fortuite, à Nancy, d'un espion allemand nommé [Baliguet]. Cette émotion a eu, d'ailleurs, son contre-coup"
+Est,Location,LOC,366,369,,"espions allemands pullulent sur la frontière de l'[Est], comme avant 1870. Ce misérable est un ancien so"
+Nancy,Location,LOC,497,502,,"ie; il représentait, depuis quelque temps déjà, à [Nancy], une maison de cafés; mais le plus clair de ses r"
+Vosges,Location,LOC,668,674,,"pays. Pour se procurer des facilités au delà des [Vosges], il avait, en effet, proposé au gouvernement fran"
+Guillaume II,Person,PER,918,930,,"rvices d'espionnage merveilleusement organisés de [Guillaume II]. Par bonheur, un jour, Baliguet manqua de pruden"
+Baliguet,Person,PER,955,963,,"organisés de Guillaume II. Par bonheur, un jour, [Baliguet] manqua de prudence. Il crut que le cantinier du f"
+fort de Lucey,Location,LOC,1012,1025,,t manqua de prudence. Il crut que le cantinier du [fort de Lucey] était un coquin comme lui: il lui fit des confide
+Baliguet,Person,PER,1473,1481,,"moment où il achevait de diner chez le cantinier, [Baliguet] fut arrêté. Tout ce que l'on sait, c'est que la"
+Sûreté générale,Organization,ORG,1531,1546,,"fut arrêté. Tout ce que l'on sait, c'est que la [Sûreté générale] a saisi chez l'espion de Guillaume II quantité de"
+Guillaume II,Person,PER,1572,1584,,t que la Sûreté générale a saisi chez l'espion de [Guillaume II] quantité de pièces importantes sur la nature desq
+Meurthe-et-Moselle,Location,LOC,1654,1672,,"importantes sur la nature desquelles le préfet de [Meurthe-et-Moselle], chef du service des renseignements pour le compt"
+Sandherr,Person,PER,2454,2462,,"nt de ses délicates fonctions. L'œuvre du colonel [Sandherr] et de ses agents si zélés est bien enterrée, héla"
+Jardin d'Acclimatation,Location,LOC,2532,2554,,"zélés est bien enterrée, hélas! Les Achantis au [Jardin d'Acclimatation] Ils sont vraiment bien curieux à voir les nègres"
+Achantis,Person,PER,2605,2613,,"Ils sont vraiment bien curieux à voir les nègres [Achantis], que la direction du Jardin d'Acclimatation a fai"
+Jardin d'Acclimatation,Location,LOC,2635,2657,,"x à voir les nègres Achantis, que la direction du [Jardin d'Acclimatation] a fait venir de la Côte-d'Ivoire pour les montrer"
+Côte-d'Ivoire,Location,LOC,2677,2690,,tion du Jardin d'Acclimatation a fait venir de la [Côte-d'Ivoire] pour les montrer à ses visiteurs. Imaginez un vi
+Imaginez,Location,LOC,2726,2734,,"Côte-d'Ivoire pour les montrer à ses visiteurs. [Imaginez] un village tout entier, hommes, femmes, enfants,"
+Côte d'Afrique,Location,LOC,3031,3045,,"avait fait le voyage si long et si coûteux de la [Côte d'Afrique]. Ici, de gracieuses jeunes filles exécutent des"
+Achantis,Person,PER,3483,3491,,". Gravement, plein de dignité, le roi de la tribu [Achantis], entouré de ses femmes, de ses enfants et de ses"
+achantis,Person,PER,3794,3802,,"de façon simple et originale. Lorsque deux époux [achantis], ayant assez l'un de l'autre, ont résolu de se sé"
+la France,Location,LOC,4346,4355,,"s pays du soleil d'où ils viennent. Les hôtes de [la France] LA REINE AMÉLIE DE PORTUGAL S. M. Marie-Amélie,"
+Car',Person,PER,4415,4419,,"AMÉLIE DE PORTUGAL S. M. Marie-Amélie, femme de [Car']os Ier, roi de Portugal, est depuis quelques semai"
+Ier,Person,PER,4422,4425,,"DE PORTUGAL S. M. Marie-Amélie, femme de Car'os [Ier], roi de Portugal, est depuis quelques semaines à"
+Portugal,Location,LOC,4434,4442,,"S. M. Marie-Amélie, femme de Car'os Ier, roi de [Portugal], est depuis quelques semaines à Paris, après un l"
+Paris,Location,LOC,4475,4480,,", roi de Portugal, est depuis quelques semaines à [Paris], après un long voyage sur les côtes méditerranéen"
+de France,Location,LOC,4575,4584,,"anéennes. Cette gracieuse princesse est une fille [de France]: son père était le comte de Paris, petit-fils de"
+Paris,Location,LOC,4613,4618,,"t une fille de France: son père était le comte de [Paris], petit-fils de Louis-Philippe; elle est la sœur d"
+Louis-Philippe,Person,PER,4634,4648,,": son père était le comte de Paris, petit-fils de [Louis-Philippe]; elle est la sœur du duc d'Orléans. La reine Amé"
+duc d'Orléans,Person,PER,4670,4683,,petit-fils de Louis-Philippe; elle est la sœur du [duc d'Orléans]. La reine Amélie s'est mariée en 1886 au prince
+reine Amélie,Person,PER,4689,4701,,"-Philippe; elle est la sœur du duc d'Orléans. La [reine Amélie] s'est mariée en 1886 au prince royal, duc de Brag"
+duc de Bragance,Person,PER,4740,4755,,"eine Amélie s'est mariée en 1886 au prince royal, [duc de Bragance], devenu peu de temps après roi de Portugal. Ses"
+Portugal,Location,LOC,4790,4798,,"duc de Bragance, devenu peu de temps après roi de [Portugal]. Ses sujets l'adorent pour sa bonté et sa grande"
+Portugal,Location,LOC,4892,4900,,grande intelligence des affaires. Elle a fondé en [Portugal] des œuvres de charité importantes et nul ne s'est
+Tage,Location,LOC,5111,5115,,"ptionnelle, on l'a vue se jeter, un jour, dans le [Tage], pour sauver un homme qui se noyait. On l'aime é"
+France,Location,LOC,5177,5183,,"r un homme qui se noyait. On l'aime également en [France], où on apprécie l'affection qu'elle a gardée à so"
+Paris,Location,LOC,5295,5300,,"- gine. Aussi est-ce avec un respect profond que [Paris] l'a saluée ces jours derniers, quand elle est ven"
+Villavicosa,Location,LOC,5427,5438,,"ans apparat, sous le nom portugais de comtesse de [Villavicosa], mais en française heureuse de revoir sa première"
+"CEUX DE TERRE-NEUVE
+
+Pour « la Vieille",Product,MISC,5498,5536,,française heureuse de revoir sa première patrie. [CEUX DE TERRE-NEUVE Pour « la Vieille] » Après une journée froide aux brusques rafales
+Oh!,Product,MISC,5799,5802,,"e percer la lumière blafarde des aurores de mars. [Oh!] que Saint-Malo était triste, ce matin-là, dans ce"
+Saint-Malo,Location,LOC,5807,5817,,"la lumière blafarde des aurores de mars. Oh! que [Saint-Malo] était triste, ce matin-là, dans ce pluvieux révei"
+La sirène de la Théodora!,Product,MISC,6727,6752,,iens corsaires ainsi qu'un signal de détresse: — [La sirène de la Théodora!] Dépêchons-nous! — Oh! oh! nous avons l'temps! — C
+Dépêchons-nous!,Product,MISC,6753,6768,,signal de détresse: — La sirène de la Théodora! [Dépêchons-nous!] — Oh! oh! nous avons l'temps! — C'est-y l'premier
+Oh!,Product,MISC,6771,6774,,e: — La sirène de la Théodora! Dépêchons-nous! — [Oh!] oh! nous avons l'temps! — C'est-y l'premier coup?
+Alers,Location,LOC,6834,6839,,"avons l'temps! — C'est-y l'premier coup? — Oui. — [Alers], j'avons bien une demi-heure de bon! Allons prend"
+siôt,Location,LOC,6926,6930,,"Allons prendre une bollée; on n'en r'boira pas d'[siôt], les gars! Et des groupes rentraient dans les au"
+Saint-Pierre-Miquelon,Location,LOC,7201,7222,,"s'étourdir... Car c'était le grand départ, pour [Saint-Pierre-Miquelon] des pêcheurs Terre-Neuvais, marins qui allaient s"
+Terre-Neuvais,Location,LOC,7236,7249,,"d départ, pour Saint-Pierre-Miquelon des pêcheurs [Terre-Neuvais], marins qui allaient s'embarquer sur les goélette"
+Saint-Pierre,Location,LOC,7393,7405,,"adolescents, qui sur les grèves artificielles de [Saint-Pierre], débarrasseraient la morue, l'étendraient pour sé"
+de France,Location,LOC,7559,7568,,sel et rechargerait les transports de destination [de France] ou des Antilles. Et ils étaient ainsi près de tro
+Antilles,Location,LOC,7576,7584,,it les transports de destination de France ou des [Antilles]. Et ils étaient ainsi près de trois milliers qui
+Théodora,Product,MISC,7729,7737,,"de mer, sur deux vapeurs seulement, 1,300 sur la [Théodora], 1,450 sur le Montmorency, bons navires dans leur"
+Montmorency,Person,PER,7752,7763,,"rs seulement, 1,300 sur la Théodora, 1,450 sur le [Montmorency], bons navires dans leur service ordinaire, mais n"
+Terre-Neuvais,Location,LOC,8357,8370,,"sselaient d'eau. Aussi vite qu'ils pouvaient, les [Terre-Neuvais] se présentaient à la coupée des vapeurs et allaie"
+Terre-Neuvais,Product,MISC,8877,8890,,"des grands vapeurs, arrivaient des charrettes de [Terre-Neuvais], tandis que des hautes portes de granit sortaient"
+Pierre Hémon,Person,PER,9257,9269,,"pêcheurs », lâchant ses compagnons d'engagement, [Pierre Hémon] s'était attablé, seul, dans un coin d'ombre. Il"
+Pierre Hémon,Person,PER,9538,9550,,"la salle, par une demi-douzaine de subrécarques. [Pierre Hémon], lui aussi, était de belle race dans ce pays où l"
+Bretons,Product,MISC,9614,9621,,tait de belle race dans ce pays où le mélange des [Bretons] et des Normands a produit de si belles et vaillan
+Normands,Product,MISC,9629,9637,,ace dans ce pays où le mélange des Bretons et des [Normands] a produit de si belles et vaillantes populations.
+Terre-Neuvais,Location,LOC,9964,9977,,"gnorants et rudes que sont beaucoup de nos braves [Terre-Neuvais]. Fils d'un patron, il avait commencé à étudier, p"
+Pierre,Product,MISC,10219,10225,,"y avait tout perdu, puis était mort de chagrin. [Pierre] était resté seul ainsi, depuis deux ans déjà, aup"
+Pierre,Product,MISC,10680,10686,,"Les coudes sur la table, la tête dans les mains, [Pierre] songeait à tout cela, sans impatience, sans besoi"
+Pierre Hémon,Person,PER,11211,11223,,"'est-ce qu'il vous faut, à vous, le beau garçon? [Pierre Hémon], surpris, laissa tomber ses mains et regarda la j"
+Tiens!,Product,MISC,11288,11294,,"sa tomber ses mains et regarda la jolie fille. — [Tiens!] fit celle-ci... Pierre, Pierre Hémon, de Langrola"
+Pierre,Product,MISC,11311,11317,,"regarda la jolie fille. — Tiens! fit celle-ci... [Pierre], Pierre Hémon, de Langrolay! Il la considéra un"
+Pierre Hémon,Person,PER,11319,11331,,"la jolie fille. — Tiens! fit celle-ci... Pierre, [Pierre Hémon], de Langrolay! Il la considéra un instant, puis,"
+Langrolay,Location,LOC,11336,11345,,"— Tiens! fit celle-ci... Pierre, Pierre Hémon, de [Langrolay]! Il la considéra un instant, puis, avec un vague"
+Marie Aubert,Person,PER,11408,11420,,"idéra un instant, puis, avec un vague sourire: — [Marie Aubert]? — Elle-même, monsieur Pierre! — Monsieur?... Tu"
+Pierre,Product,MISC,11444,11450,,"e sourire: — Marie Aubert? — Elle-même, monsieur [Pierre]! — Monsieur?... Tu peux dire Pierre, tout court,"
+Monsieur,Person,PER,11454,11462,,"— Marie Aubert? — Elle-même, monsieur Pierre! — [Monsieur]?... Tu peux dire Pierre, tout court, va! il n'y a"
+Pierre,Product,MISC,11480,11486,,"ême, monsieur Pierre! — Monsieur?... Tu peux dire [Pierre], tout court, va! il n'y a pas d'offense. De rieu"
+De rieuse,Product,MISC,11529,11538,,"Pierre, tout court, va! il n'y a pas d'offense. [De rieuse] qu'elle était, la jolie fille devint triste et ré"
+Adèle Gautier,Person,PER,11724,11737,,"s qu'on ne s'est vu. Comment va votre bonne amie, [Adèle Gautier]? — Adèle... Adèle... — Est-ce que, par hasard, e"
+Adèle,Person,PER,11742,11747,,"u. Comment va votre bonne amie, Adèle Gautier? — [Adèle]... Adèle... — Est-ce que, par hasard, elle vous a"
+Adèle,Person,PER,11751,11756,,"t va votre bonne amie, Adèle Gautier? — Adèle... [Adèle]... — Est-ce que, par hasard, elle vous aurait lâc"
+Pierre,Person,PER,11819,11825,,"que, par hasard, elle vous aurait lâché, monsieur [Pierre]? Il baissa la tête. — Ah! la gueuse! — Que veux-"
+Ah!,Product,MISC,11849,11852,,"ait lâché, monsieur Pierre? Il baissa la tête. — [Ah!] la gueuse! — Que veux-tu? Je n'ai plus l'sou... T"
+Marie,Person,PER,11941,11946,,"l'sou... Tiens, prends ce tabouret, assieds-toi, [Marie]. J'vas t'conter mon histoire. Et l'œil sur la ta"
+Saint-Malo,Location,LOC,12775,12785,,"nête, et qui, devenue orpheline, s'était placée à [Saint-Malo] pour vivre, la bonne fille oublia la distance qui"
+Pierre Hémon,Person,PER,12900,12912,,"arait d'elle et, se penchant vers lui: — Ecoute, [Pierre Hémon], si tu ne partais pas? — Ne pas partir? Y songes"
+Y songes,Product,MISC,12954,12962,,"re Hémon, si tu ne partais pas? — Ne pas partir? [Y songes]-tu?... Et les gendarmes? — Je sais quelqu'un qui"
+Pierre,Product,MISC,13283,13289,,", en attendant, est-ce que je suis là pour rien? [Pierre] sursauta, prit les mains de Marie Aubert, et la r"
+Marie Aubert,Person,PER,13318,13330,,"là pour rien? Pierre sursauta, prit les mains de [Marie Aubert], et la regardant bien en face: — Tu parles comme"
+Pierre,Product,MISC,13759,13765,,es pêcheurs sortirent du cabaret. — Eh bien? fit [Pierre]. Deux larmes coulèrent des yeux de la jeune fill
+Parle!,Product,MISC,13838,13844,,"t des yeux de la jeune fille, toujours muette. — [Parle!] dit Pierre, car ma mère va venir et ce sera l'heu"
+Pierre,Product,MISC,13849,13855,,"de la jeune fille, toujours muette. — Parle! dit [Pierre], car ma mère va venir et ce sera l'heure... — So"
+"Soit!
+
+",Product,MISC,13903,13910,,"re, car ma mère va venir et ce sera l'heure... — [Soit! ]Et s'essuyant les yeux, rieuse presque, bravement,"
+Pierre,Product,MISC,13997,14003,,"e, bravement, elle avoua. Elle aussi, elle aimait [Pierre] en même temps qu'Adèle, et ce n'était pas pour le"
+Adèle,Person,PER,14021,14026,,". Elle aussi, elle aimait Pierre en même temps qu'[Adèle], et ce n'était pas pour les sous du père Hémon, n"
+Hémon,Person,PER,14068,14073,,"qu'Adèle, et ce n'était pas pour les sous du père [Hémon], non, pour sûr! Que de fois elle avait pensé, en"
+Pierre,Product,MISC,14255,14261,,", à lui dire tout bas: « Si vous saviez, monsieur [Pierre], comme je vous aime bien! » Mais voilà, il était"
+Mlle Gautier,Person,PER,14421,14433,,", tout le monde ne disait-il pas qu'il épouserait [Mlle Gautier]?... Mais maintenant, ce n'était plus la même chos"
+"...
+
+Ne",Product,MISC,14706,14713,,"ccepterait toutes les tâches pour être aimée aussi[... Ne] pensant plus à la réponse de Pierre, elle répéta:"
+Pierre,Product,MISC,14743,14749,,"e aimée aussi... Ne pensant plus à la réponse de [Pierre], elle répéta: « Ne pars pas, dis? » — Ah! fit-il"
+Ah!,Product,MISC,14789,14792,,"de Pierre, elle répéta: « Ne pars pas, dis? » — [Ah!] fit-il, avec un accent qui exprimait bien la sinc"
+Pierre Hémon,Person,PER,15050,15062,,"omme. Ecoute. — Quoi? — Après la campagne... — [Pierre Hémon]! Pierre Hémon! non, vous ne m'aimez pas! Malgré t"
+Pierre Hémon,Person,PER,15064,15076,,"— Quoi? — Après la campagne... — Pierre Hémon! [Pierre Hémon]! non, vous ne m'aimez pas! Malgré tout, c'est Adè"
+Adèle Gautier,Person,PER,15123,15136,,"mon! non, vous ne m'aimez pas! Malgré tout, c'est [Adèle Gautier] que vous aimez! — Moi! — Ne dites pas non, alle"
+"Moi!
+
+—",Product,MISC,15156,15163,,"lgré tout, c'est Adèle Gautier que vous aimez! — [Moi! —] Ne dites pas non, allez, cela se voit. — Eh bien"
+Eh bien!,Product,MISC,15206,15214,,"Moi! — Ne dites pas non, allez, cela se voit. — [Eh bien!]... Pour la troisième fois, la sirène jeta dans l"
+Me,Person,PER,15397,15399,,"ieille femme se montra dans l'entrebâillement. — [Me] voilà, ma mère! Il saisit la jeune fille, l'embr"
+Théodora,Product,MISC,15563,15571,,"ta vers la porte. Un quart d'heure plus tard, la [Théodora] franchissait l'écluse pour gagner la rade, puis l"
+Pierre Hémon,Person,PER,15724,15736,,"it de découvrir la chère bonne figure de sa mère, [Pierre Hémon] l'aperçut enfin, et aussi le visage triste de la"
+BERTHAUT,Product,MISC,15958,15966,,"— A Dieu vat!... c'est pour « ma vieille » LÉON [BERTHAUT]. NOUVEAUX RECORDS Natif de Lille en Flandre, Cy"
+NOUVEAUX,Product,MISC,15969,15977,,"at!... c'est pour « ma vieille » LÉON BERTHAUT. [NOUVEAUX] RECORDS Natif de Lille en Flandre, Cyrille Verho"
+Natif de Lille,Location,LOC,15987,16001,,"« ma vieille » LÉON BERTHAUT. NOUVEAUX RECORDS [Natif de Lille] en Flandre, Cyrille Verhoeven (prononcez Verveine"
+Flandre,Location,LOC,16005,16012,,"ON BERTHAUT. NOUVEAUX RECORDS Natif de Lille en [Flandre], Cyrille Verhoeven (prononcez Verveine) était un"
+Cyrille Verhoeven,Person,PER,16014,16031,,"UT. NOUVEAUX RECORDS Natif de Lille en Flandre, [Cyrille Verhoeven] (prononcez Verveine) était un gros, très gros bra"
+Verveine,Location,LOC,16043,16051,,"de Lille en Flandre, Cyrille Verhoeven (prononcez [Verveine]) était un gros, très gros brasseur d'affaires — u"
+la France,Location,LOC,16607,16616,,uleuse destinée à mettre en relief le prestige de [la France] et par-dessus le marché à ajouter quelques petits
+Verveine,Location,LOC,17010,17018,,"pitaux, des ingénieurs, des influences, tout cela [Verveine] l'aurait; seulement c'était d'interminable loin,"
+Silünгарin,Location,LOC,17070,17080,,"'aurait; seulement c'était d'interminable loin, à [Silünгарin] en plein Sahara, à quelque cent kilomètres de Tom"
+Sahara,Location,LOC,17090,17096,,"'était d'interminable loin, à Silünгарin en plein [Sahara], à quelque cent kilomètres de Tombouctou. Afriqu"
+Tombouctou,Location,LOC,17127,17137,,"рin en plein Sahara, à quelque cent kilomètres de [Tombouctou]. Afrique! désert! simoun! sable! chaleur! Tout c"
+Afrique,Location,LOC,17140,17147,,"Sahara, à quelque cent kilomètres de Tombouctou. [Afrique]! désert! simoun! sable! chaleur! Tout cela pour u"
+Cyrille,Product,MISC,17317,17324,,"aissé pas que d'être très inquiétant. N'importe, [Cyrille] voulait voir. La grande affaire était d'éviter le"
+Verveine,Location,LOC,17514,17522,,"même grièvement turlupiné par les maudis nègres. [Verveine], homme d'imagination, trouva le truc. En somme, i"
+Verveine,Location,LOC,17784,17792,,flambarde et solide à point; quant au ballon — ce [Verveine] avait toutes les chances — un membre de l'Aréo-Cl
+Aréo-Club,Organization,ORG,17835,17844,,erveine avait toutes les chances — un membre de l'[Aréo-Club] voulait justement se défaire du sien. Vite un co
+Vite,Product,MISC,17884,17888,,"'Aréo-Club voulait justement se défaire du sien. [Vite] un coup de téléphone. — Vous vendez ballon, comb"
+Cent cinquante livres sterling,Product,MISC,17945,17975,,"p de téléphone. — Vous vendez ballon, combien? — [Cent cinquante livres sterling]. — J'offre cent. — All right, il était à vō. Hui"
+All right,Product,MISC,17995,18004,,"Cent cinquante livres sterling. — J'offre cent. — [All right], il était à vō. Huit jours après, auto astiquée,"
+vō,Location,LOC,18017,18019,,"sterling. — J'offre cent. — All right, il était à [vō]. Huit jours après, auto astiquée, reluisante, ba"
+Huit jours,Product,MISC,18022,18032,,"ing. — J'offre cent. — All right, il était à vō. [Huit jours] après, auto astiquée, reluisante, ballon retapé,"
+Alexandrie,Location,LOC,18223,18233,,"sauvetage, tout un matériel complet débarquait à [Alexandrie] en compagnie de Verhoeven et sa très jolie fille"
+Verhoeven,Person,PER,18250,18259,,"l complet débarquait à Alexandrie en compagnie de [Verhoeven] et sa très jolie fille Aurore. Dix-huit ans et,"
+Aurore,Person,PER,18283,18289,,"en compagnie de Verhoeven et sa très jolie fille [Aurore]. Dix-huit ans et, selon le mot de nos ancêtres,"
+"...
+
+L'enfant aussi aimait la gloire",Product,MISC,18405,18441,,"dent, du cheveu et un petit quelque chose qui, que[... L'enfant aussi aimait la gloire] et suivait papa avec enthousiasme. Quel incompara"
+Huit heures du matin,Product,MISC,18560,18580,,"t établir, quel bruit cela ferait dans le monde! [Huit heures du matin], une grande plaine à l'Ouest d'Alexandrie, un cer"
+Ouest,Location,LOC,18604,18609,,"nde! Huit heures du matin, une grande plaine à l'[Ouest] d'Alexandrie, un cercle de badauds, de journaux,"
+Alexandrie,Location,LOC,18612,18622,,"it heures du matin, une grande plaine à l'Ouest d'[Alexandrie], un cercle de badauds, de journaux, de sportsmen"
+Saharienne,Location,LOC,18719,18729,,"en entourant la luxueuse automobile baptisée « La [Saharienne] ». Un mécanicien arabe, touareg, dit-on est au go"
+Saharienne,Location,LOC,18844,18854,,"ulant leviers et manettes. A côté, le ballon, la [Saharienne], se balance au-dessus d'un câble de 400 mètres en"
+Verhoeven,Person,PER,18999,19008,,"het au véhicule qui doit le conduire. Très émus, [Verhoeven] et sa fille se hissent dans la nacelle. Le câble"
+Ho!,Product,MISC,19228,19231,,"un passage à la force du coude. — Ho! du ballon! [Ho!] monsieur Verhoeven. — Qu'y a-t-il? — Monsieur,"
+Verhoeven,Person,PER,19241,19250,,"la force du coude. — Ho! du ballon! Ho! monsieur [Verhoeven]. — Qu'y a-t-il? — Monsieur, votre expérience au"
+Monsieur,Person,PER,19271,19279,,"allon! Ho! monsieur Verhoeven. — Qu'y a-t-il? — [Monsieur], votre expérience audacieuse m'intéresse. Je me p"
+Ivan Ivanowitch,Person,PER,19338,19353,,"xpérience audacieuse m'intéresse. Je me présente: [Ivan Ivanowitch], et je paie 10,000 roubles pour faire le voyage a"
+hé hé!,Product,MISC,19430,19436,,"pour faire le voyage avec vous! 10,000 roubles, [hé hé!] c'était coquet et, de plus, la compagnie d'un gar"
+Cyrille,Person,PER,19665,19672,,"es aériens! Une occasion à saisir au câble! Aussi [Cyrille] n'hésita-t-il pas. — Montez, cher monsieur, mont"
+Montez,Location,LOC,19695,19701,,"sir au câble! Aussi Cyrille n'hésita-t-il pas. — [Montez], cher monsieur, montez. Ma nacelle et moi sommes"
+Russe,Product,MISC,19768,19773,,"montez. Ma nacelle et moi sommes tout à vous. Le [Russe] escalade: saluts, compliments, installation. Gro"
+saluts,Person,PER,19784,19790,,"le et moi sommes tout à vous. Le Russe escalade: [saluts], compliments, installation. Grounements, appels"
+hurrahs frénétiques,Person,PER,19891,19910,,"e trompe, odeurs grasses-sifères et pétrolifères, [hurrahs frénétiques], l'appareil démarre. On se dirige vers l'Ouest."
+Ouest,Location,LOC,19952,19957,,"nétiques, l'appareil démarre. On se dirige vers l'[Ouest]. Midi: Un va-et-vient installé de la nacelle à l"
+Midi,Location,LOC,19960,19964,,", l'appareil démarre. On se dirige vers l'Ouest. [Midi]: Un va-et-vient installé de la nacelle à l'automo"
+Ivan,Product,MISC,20076,20080,,"un excellent déjeuner; suit une aimable causette. [Ivan] bien pourvu d'esprit, fait des frais; un flirt co"
+Cyrille,Product,MISC,20158,20165,,"des frais; un flirt commence. Digestion heureuse, [Cyrille] croit voir fleurir sa boutonnière."

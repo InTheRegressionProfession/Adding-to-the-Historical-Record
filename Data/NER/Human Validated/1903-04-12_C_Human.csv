@@ -1,0 +1,50 @@
+﻿entity,fine_type,coarse_type
+général Daumas,pers.ind,Person
+Napoléon III,pers.ind,Person
+Tunis,loc.adm.nat,Location
+l'ordre du Nicham,prod,Product
+Algérie,loc.adm.nat,Location
+Légion d'honneur,prod,Product
+Oran,loc.adm.town,Location
+Saint-Denis-du-Sig,loc.adm.town,Location
+Sidi-bel-Abbès,loc.adm.town,Location
+Mostaganem,loc.adm.town,Location
+Relizane,loc.adm.town,Location
+colonel Beauprêtre,pers.ind,Person
+îles Sainte-Marguerite,loc.phys.geo,Location
+France,loc.adm.nat,Location
+maréchal de Mac-Mahon,pers.ind,Person
+Relizane,loc.adm.town,Location
+El-Kebir,pers.ind,Person
+Constantine,loc.adm.town,Location
+Philippeville,loc.adm.town,Location
+Biskra,loc.adm.town,Location
+Batna,loc.adm.town,Location
+Bône,loc.adm.town,Location
+Bougie,loc.adm.town,Location
+général Pérégau,pers.ind,Person
+Babors,loc.phys.geo,Location
+Aigle,prod,Product
+amiral Willaumez,pers.ind,Person
+Toulon,loc.adm.town,Location
+H. BOURSEUL,pers.ind.articleauthor,Person
+Petit Journal,prod.media,Product
+Pierre Lurat,pers.ind,Person
+Pierrou,pers.ind,Person
+Gave,loc.phys.hydro,Location
+Jésus,pers.ind,Person
+Saint-Jean,pers.ind,Person
+Léon,pers.ind,Person
+Catherine,pers.ind,Person
+Barbé,pers.ind,Person
+Léonce,pers.ind,Person
+père Moise,pers.ind,Person
+Moise,pers.ind,Person
+Lurat,pers.ind,Person
+Pierrou,pers.ind,Person
+Moise,pers.ind,Person
+Damien,pers.ind,Person
+mère Catherine,pers.ind,Person
+grand Léonce,pers.ind,Person
+Julie,pers.ind,Person
+Damien,pers.ind,Person

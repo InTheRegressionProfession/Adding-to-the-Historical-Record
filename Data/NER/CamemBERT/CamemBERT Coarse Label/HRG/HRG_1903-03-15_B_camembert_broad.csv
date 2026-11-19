@@ -1,0 +1,158 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+d'Alost,Location,LOC,52,59,0.9497,PLICATION DE NOS GRAVURES Les chauffeurs du pays [d'Alost] Des scènes d'une sauvagerie révoltante et digne
+Belgique,Location,LOC,209,217,0.9878,"pays des plus civilisés du monde, je veux dire en [Belgique]. Des malfaiteurs organisés en bande de six ou se"
+d'Alost,Location,LOC,1079,1086,0.9884,"rellement la langue aux plus énergiques. Le pays [d'Alost] tout entier est terrorisé, et les ravages des ban"
+Van den Neucker,Person,PER,1306,1321,0.833,"hissement, par ces sinistres bandits, de la ferme [Van den Neucker], à Santhergen. Le fait se passait à la fin de la"
+Santhergen,Location,LOC,1325,1335,0.9905,"sinistres bandits, de la ferme Van den Neucker, à [Santhergen]. Le fait se passait à la fin de la semaine derniè"
+fin de la semaine dernière,Time,DATE,1361,1387,0.8367,"en Neucker, à Santhergen. Le fait se passait à la [fin de la semaine dernière]. Il est à peine croyable que de telles horreurs"
+Cross-Country,Product,MISC,1530,1543,0.9436,"on ait pu, jusqu'ici, arriver à les réprimer. Le [Cross-Country] national L'entraînement par le sport fait des pr"
+l'Union des Sociétés Françaises de Sport,Organization,ORG,1751,1791,0.98,re de nos soldats de demain. Le spectacle auquel [l'Union des Sociétés Françaises de Sport] nous a donné d'assister pour la quinzaine fois a
+L'Union,Organization,ORG,2157,2164,0.9649,", en une longue théorie de jerseys multicolores. [L'Union] peut se vanter d'avoir obtenu un splendide succès"
+Jardin du Trocadéro,Location,LOC,2319,2338,0.9934,"t sur le parcours, et dans l'enceinte réservée du [Jardin du Trocadéro]. L'organisation, d'ailleurs, fut parfaite. C'est"
+l'Union athlétique de Montreux,Organization,ORG,2389,2419,0.9632,"L'organisation, d'ailleurs, fut parfaite. C'est [l'Union athlétique de Montreux] qui a gagné, battant le Racing-Club de France qui"
+Racing-Club de France,Organization,ORG,2444,2465,0.977,"on athlétique de Montreux qui a gagné, battant le [Racing-Club de France] qui délenait le Challenge depuis trois ans. Cela"
+Challenge,Product,MISC,2482,2491,0.7204,battant le Racing-Club de France qui délenait le [Challenge] depuis trois ans. Cela se passait dans les bois
+trois ans,Time,DATE,2499,2508,0.9961,g-Club de France qui délenait le Challenge depuis [trois ans]. Cela se passait dans les bois de Saint-Cloud et
+Saint-Cloud,Location,LOC,2544,2555,0.9945,puis trois ans. Cela se passait dans les bois de [Saint-Cloud] et de Ville-d'Avray; la distance à couvrir était
+Ville-d'Avray,Location,LOC,2562,2575,0.9944,ela se passait dans les bois de Saint-Cloud et de [Ville-d'Avray]; la distance à couvrir était de 7 kil. 700; le pa
+en 1 h,Time,DATE,2658,2664,0.7862,7 kil. 700; le parcours a été fait par le premier [en 1 h]. 22 m. 35 s. On sera curieux de connaître le bil
+Ragueneau,Person,PER,2824,2833,0.9957,"et nerveux coureur, sortant du service militaire, [Ragueneau] (Société athlétique de Montreux), en 1 h. 22 55""."
+Société athlétique de Montreux,Organization,ORG,2835,2865,0.9759,"coureur, sortant du service militaire, Ragueneau ([Société athlétique de Montreux]), en 1 h. 22 55"". - 2° De Fleurac (Racing-Club de"
+"en 1 h. 22 55"".",Time,DATE,2868,2883,0.9283,"aire, Ragueneau (Société athlétique de Montreux), [en 1 h. 22 55"".] - 2° De Fleurac (Racing-Club de France). - 3° Gau"
+De Fleurac,Person,PER,2889,2899,0.9953,"été athlétique de Montreux), en 1 h. 22 55"". - 2° [De Fleurac] (Racing-Club de France). - 3° Gautier (Football-C"
+Racing-Club de France,Organization,ORG,2901,2922,0.9799,"ue de Montreux), en 1 h. 22 55"". - 2° De Fleurac ([Racing-Club de France]). - 3° Gautier (Football-Club de Lyon). - 4° Mode"
+Gautier,Person,PER,2930,2937,0.9954,"5"". - 2° De Fleurac (Racing-Club de France). - 3° [Gautier] (Football-Club de Lyon). - 4° Modet (Metropolitan"
+Football-Club de Lyon,Organization,ORG,2939,2960,0.9802,De Fleurac (Racing-Club de France). - 3° Gautier ([Football-Club de Lyon]). - 4° Modet (Metropolitan-Club). - 5° Dravault (
+Modet,Person,PER,2968,2973,0.9954,ance). - 3° Gautier (Football-Club de Lyon). - 4° [Modet] (Metropolitan-Club). - 5° Dravault (Société athlé
+Metropolitan-Club,Organization,ORG,2975,2992,0.9801,- 3° Gautier (Football-Club de Lyon). - 4° Modet ([Metropolitan-Club]). - 5° Dravault (Société athlétique de Montreux).
+Dravault,Person,PER,3000,3008,0.9957,ub de Lyon). - 4° Modet (Metropolitan-Club). - 5° [Dravault] (Société athlétique de Montreux). - 6° Bouchard (
+Société athlétique de Montreux,Organization,ORG,3010,3040,0.9763,). - 4° Modet (Metropolitan-Club). - 5° Dravault ([Société athlétique de Montreux]). - 6° Bouchard (Société athlétique de Montreux).
+Bouchard,Person,PER,3048,3056,0.9955,° Dravault (Société athlétique de Montreux). - 6° [Bouchard] (Société athlétique de Montreux). - 7° Chastanié
+Société athlétique de Montreux,Organization,ORG,3058,3088,0.9759,(Société athlétique de Montreux). - 6° Bouchard ([Société athlétique de Montreux]). - 7° Chastanié (Racing-Club de France). - 8° Pe
+Chastanié,Person,PER,3096,3105,0.9958,° Bouchard (Société athlétique de Montreux). - 7° [Chastanié] (Racing-Club de France). - 8° Petit (Club des spo
+Racing-Club de France,Organization,ORG,3107,3128,0.9797,(Société athlétique de Montreux). - 7° Chastanié ([Racing-Club de France]). - 8° Petit (Club des sports athlétiques). - 9°
+Petit,Person,PER,3136,3141,0.995,ux). - 7° Chastanié (Racing-Club de France). - 8° [Petit] (Club des sports athlétiques). - 9° Millerot (Uni
+Club des sports athlétiques,Organization,ORG,3143,3170,0.9807,7° Chastanié (Racing-Club de France). - 8° Petit ([Club des sports athlétiques]). - 9° Millerot (Union athlétique de Saint-Cloud)
+Millerot,Person,PER,3178,3186,0.9951,). - 8° Petit (Club des sports athlétiques). - 9° [Millerot] (Union athlétique de Saint-Cloud). - 10° Fletcher
+Union athlétique de Saint-Cloud,Organization,ORG,3188,3219,0.9781,tit (Club des sports athlétiques). - 9° Millerot ([Union athlétique de Saint-Cloud]). - 10° Fletcher (Union athlétique de Saint-Cloud
+Fletcher,Person,PER,3228,3236,0.9949,Millerot (Union athlétique de Saint-Cloud). - 10° [Fletcher] (Union athlétique de Saint-Cloud). Deux cent qua
+Union athlétique de Saint-Cloud,Organization,ORG,3238,3269,0.9781,Union athlétique de Saint-Cloud). - 10° Fletcher ([Union athlétique de Saint-Cloud]). Deux cent quatre-vingt-dix coureurs ont termin
+.,Organization,ORG,3332,3333,0.8266,quatre-vingt-dix coureurs ont terminé le parcours[.] Voici les résultats du classement par clubs : -
+Société athlétique de Montreux,Organization,ORG,3406,3436,0.9784,"u classement par clubs : - Première série. — 1°, [Société athlétique de Montreux], 58 points; 2°, Racing-Club de France, 78 points;"
+Racing-Club de France,Organization,ORG,3453,3474,0.9803,"°, Société athlétique de Montreux, 58 points; 2°, [Racing-Club de France], 78 points; 3°, Union athlétique de Saint-Cloud,"
+Union athlétique de Saint-Cloud,Organization,ORG,3491,3522,0.9787,"points; 2°, Racing-Club de France, 78 points; 3°, [Union athlétique de Saint-Cloud], 85 points; 4°, Stade français, 120 points; 5°, M"
+Stade français,Organization,ORG,3539,3553,0.9736,", Union athlétique de Saint-Cloud, 85 points; 4°, [Stade français], 120 points; 5°, Metropolitan-Club, 124 points. -"
+Metropolitan-Club,Organization,ORG,3571,3588,0.9748,"d, 85 points; 4°, Stade français, 120 points; 5°, [Metropolitan-Club], 124 points. - 2° série. — 1°, Football-Club de L"
+Football-Club de Lyon,Organization,ORG,3620,3641,0.9742,"Metropolitan-Club, 124 points. - 2° série. — 1°, [Football-Club de Lyon], 134 points; 2°, Union sportive dijonnaise, 159 p"
+Union sportive dijonnaise,Organization,ORG,3659,3684,0.9696,"rie. — 1°, Football-Club de Lyon, 134 points; 2°, [Union sportive dijonnaise], 159 points; 3°, Sport athlétique bordelais, 171;"
+Sport athlétique bordelais,Organization,ORG,3702,3728,0.975,"s; 2°, Union sportive dijonnaise, 159 points; 3°, [Sport athlétique bordelais], 171; 4°, Club des sports athlétiques, 178; 5°, S"
+Club des sports athlétiques,Organization,ORG,3739,3766,0.9747,"points; 3°, Sport athlétique bordelais, 171; 4°, [Club des sports athlétiques], 178; 5°, Stade bordelais et 6°, Groupe militaire"
+Stade bordelais,Organization,ORG,3777,3792,0.9721,"s, 171; 4°, Club des sports athlétiques, 178; 5°, [Stade bordelais] et 6°, Groupe militaire du Nord-Est, 202; 7°, Spo"
+Groupe militaire du Nord-Est,Organization,ORG,3800,3828,0.9722,"orts athlétiques, 178; 5°, Stade bordelais et 6°, [Groupe militaire du Nord-Est], 202; 7°, Sporting-Club de Marseille; 8°, Associa"
+Sporting-Club de Marseille,Organization,ORG,3839,3865,0.9743,"ais et 6°, Groupe militaire du Nord-Est, 202; 7°, [Sporting-Club de Marseille]; 8°, Association pédestre française; 9°, Cercle p"
+Association pédestre française,Organization,ORG,3871,3901,0.9688,"ord-Est, 202; 7°, Sporting-Club de Marseille; 8°, [Association pédestre française]; 9°, Cercle pédestre châlonnais, etc. - 3° série."
+Cercle pédestre châlonnais,Organization,ORG,3907,3933,0.9552,"arseille; 8°, Association pédestre française; 9°, [Cercle pédestre châlonnais], etc. - 3° série. — 1°, Association sportive de l"
+Association sportive de la Seine,Organization,ORG,3958,3990,0.9526,"ercle pédestre châlonnais, etc. - 3° série. — 1°, [Association sportive de la Seine], 63 points; 2°, Association sportive de Neuilly,"
+Association sportive de Neuilly,Organization,ORG,4007,4038,0.9606,"Association sportive de la Seine, 63 points; 2°, [Association sportive de Neuilly], 119; 3°, Paris-Athlétique-Club, 159; 4°, Sportin"
+Paris-Athlétique-Club,Organization,ORG,4049,4070,0.9725,"ts; 2°, Association sportive de Neuilly, 119; 3°, [Paris-Athlétique-Club], 159; 4°, Sporting-Club Lafayette; 5°, Club athlé"
+Sporting-Club Lafayette,Organization,ORG,4081,4104,0.9662,"Neuilly, 119; 3°, Paris-Athlétique-Club, 159; 4°, [Sporting-Club Lafayette]; 5°, Club athlétique du 14e arrondissement, 166;"
+Club athlétique du,Organization,ORG,4110,4128,0.7883,"tique-Club, 159; 4°, Sporting-Club Lafayette; 5°, [Club athlétique du] 14e arrondissement, 166; 6°, Union sportive versa"
+14e arrondissement,Location,LOC,4129,4147,0.7774,", Sporting-Club Lafayette; 5°, Club athlétique du [14e arrondissement], 166; 6°, Union sportive versalaise; 7°, Union sp"
+Union sportive versalaise,Organization,ORG,4158,4183,0.9434,", Club athlétique du 14e arrondissement, 166; 6°, [Union sportive versalaise]; 7°, Union sportive de Gagny; 8°, Athlétique-Club"
+Union sportive de Gagny,Organization,ORG,4189,4212,0.9265,"issement, 166; 6°, Union sportive versalaise; 7°, [Union sportive de Gagny]; 8°, Athlétique-Club de Montmorency; 9°, Union cy"
+Athlétique-Club de Montmorency,Organization,ORG,4218,4248,0.9547,"tive versalaise; 7°, Union sportive de Gagny; 8°, [Athlétique-Club de Montmorency]; 9°, Union cycliste d'Orléans, etc. PRINCE MAX"
+Union cycliste d'Orléans,Organization,ORG,4254,4278,0.9427,"de Gagny; 8°, Athlétique-Club de Montmorency; 9°, [Union cycliste d'Orléans], etc. PRINCE MAX Dans son grand lit gothique, a"
+PRINCE MAX,Person,PER,4286,4296,0.8331,"Montmorency; 9°, Union cycliste d'Orléans, etc. [PRINCE MAX] Dans son grand lit gothique, aux lourds rideaux"
+dix-sept ans,Time,DATE,4377,4389,0.8996,"aux lourds rideaux frangés d'argent, le prince de [dix-sept ans] a ouvert les yeux, réveillé par un joli rayon de"
+d'Unbekanntreich,Organization,ORG,4556,4572,0.5291,"s tons morts des broderies aux armes de la maison [d'Unbekanntreich]... C'est un rayon de soleil hivernal, et de sole"
+Dreistirnen,Product,MISC,4671,4682,0.5537,"eil allemand, pâle comme le sourire des filles de [Dreistirnen]... Mais, depuis tant de semaines la ville s'envel"
+Dreistirnen,Location,LOC,5019,5030,0.992,"elques minutes les habitants de la bonne ville de [Dreistirnen], qui passent devant la royale demeure, peuvent vo"
+Prince Max,Person,PER,5263,5273,0.8697,"ed des arbres et le rez-de-chaussée des maisons. [Prince Max] sourit à ce paysage familier, contemplé depuis sa"
+basilique de Saint-Aloysius,Location,LOC,5848,5875,0.6543,"lèche gothique percée de trous en ogive, c'est la [basilique de Saint-Aloysius], où le prince a été baptisé. Ces toits pointus, v"
+Dreistirnen,Location,LOC,6076,6087,0.991,"mas confus des maisons, jalonnent les remparts de [Dreistirnen]. Plus loin encore, c'est la grande forêt du Reinw"
+forêt,Location,LOC,6123,6128,0.5175,"de Dreistirnen. Plus loin encore, c'est la grande [forêt] du Reinwald, maintenant dénudée par l'hiver, l'im"
+Reinwald,Location,LOC,6132,6140,0.9941,"irnen. Plus loin encore, c'est la grande forêt du [Reinwald], maintenant dénudée par l'hiver, l'immense forêt"
+maintenant,Time,DATE,6142,6152,0.9669,"s loin encore, c'est la grande forêt du Reinwald, [maintenant] dénudée par l'hiver, l'immense forêt dont on voit"
+Max,Person,PER,6388,6391,0.9289,"montagnes chauves — c'est l'empire allemand. ... [Max] quitte les fenêtres, revient à son lit et secoue"
+Freitag,Person,PER,6709,6716,0.5234,"il garde sur sa tête, immobile et respectueux. — [Freitag], lui dit le prince — allez me seller Kobold. Je v"
+Kobold,Person,PER,6754,6760,0.8994,". — Freitag, lui dit le prince — allez me seller [Kobold]. Je veux faire ce matin un tour jusqu'à la forêt."
+Max,Person,PER,6882,6885,0.93,"i seul. Le vieux s'incline et sort. Alors prince [Max] se hâte d'achever sa toilette... Quand il a fini,"
+d'Unbekanntreich,Location,LOC,7300,7316,0.9263,"is, sous son costume de cadet, le prince héritier [d'Unbekanntreich] a vraiment bonne mine. Et il se sourit à lui-mêm"
+Dreistirnen,Product,MISC,7418,7429,0.759,"le joli prince — du sourire qu'ont les filles de [Dreistirnen], quand elles le voient passer dans les rues de la"
+"Vorwärts, Kobold!",Product,MISC,7491,7508,0.9028,"s le voient passer dans les rues de la capitale. [Vorwärts, Kobold!] Le cheval et son noble cavalier quittent la cour"
+Freitag,Person,PER,7600,7607,0.9717,"la cour du palais, suivis par le regard du vieux [Freitag]. Un peu de joie éclaire la physionomie ravagée du"
+Freitag,Person,PER,7861,7868,0.9751,comme autrefois pour une promenade matinale... Et [Freitag] bénit le rayon de soleil qui a fait le miracle de
+Vorwärts,Person,PER,7966,7974,0.9204,"de ressusciter la gaîté morte de ce fils de roi. [Vorwärts], Kobold! ... Les portes du palais se sont referm"
+Kobold,Person,PER,7976,7982,0.945,"iter la gaîté morte de ce fils de roi. Vorwärts, [Kobold]! ... Les portes du palais se sont refermées; pri"
+prince Max,Person,PER,8029,8039,0.7763,old! ... Les portes du palais se sont refermées; [prince Max] traverse au pas la place qu'il regardait tout à l
+Hoch,Person,PER,8272,8276,0.7227,"t. Les gamins agitent leurs casquettes en criant: [Hoch]! et les femmes, penses, fixent leurs yeux bleus s"
+Vorwärts,Person,PER,8367,8375,0.8258,"x bleus sur la gracieuse silhouette du cavalier. [Vorwärts], Kobold! Le prince s'est engagé dans les ruelles"
+Kobold!,Person,PER,8377,8384,0.7017,"r la gracieuse silhouette du cavalier. Vorwärts, [Kobold!] Le prince s'est engagé dans les ruelles tortueus"
+Saint-Aloysius,Location,LOC,8532,8546,0.9322,"vant la maison de ville, puis devant le parvis de [Saint-Aloysius]. Un temps de trot sur les pavés pointus et il att"
+Dreistirnen,Location,LOC,8653,8664,0.9796,"esplanade militaire, où se dresse la citadelle de [Dreistirnen]. Mais soudain Kobold fait un écart... Une compagn"
+Kobold,Person,PER,8679,8685,0.9929,dresse la citadelle de Dreistirnen. Mais soudain [Kobold] fait un écart... Une compagnie de fanassins au pa
+Rechts!,Product,MISC,8805,8812,0.7356,"ouché sur l'esplanade, sa course rythmée par les: [Rechts!] — Linkst! — de l'officier... Ces soldats ont des"
+Linkst,Product,MISC,8815,8821,0.6969,"l'esplanade, sa course rythmée par les: Rechts! — [Linkst]! — de l'officier... Ces soldats ont des casques e"
+Prince Max,Person,PER,9041,9051,0.9066,"Les soldats s'alignent et présentent les armes. [Prince Max] tourne la tête, et, sans rendre le salut enfonce"
+Kobold,Location,LOC,9132,9138,0.9499,"e le salut enfonce ses éperons dans les flancs de [Kobold], franchit les portes de la ville, et s'éloigne au"
+Maintenant,Time,DATE,9222,9232,0.9931,"et s'éloigne au galop sur la route de la forêt. [Maintenant], entre les taillis défeuillés par l'hiver le prin"
+six mois,Time,DATE,9694,9702,0.9956,"songe à ses promenades de naguère, — pas plus de [six mois] avant celle-ci! Alors, quand il arrivait à l'espl"
+dix-sept ans,Time,DATE,9889,9901,0.9542,"son père lui avait donné, le jour où il avait eu [dix-sept ans]. Ah! le joli régiment en vérité, digne de son col"
+royaume d'Unbekanntreich,Location,LOC,10314,10338,0.9358,on ombre dans l'âme du prince héritier... Tout le [royaume d'Unbekanntreich] — depuis Dreistirnen jusqu'aux montagnes chauves
+Dreistirnen,Location,LOC,10348,10359,0.9944,tier... Tout le royaume d'Unbekanntreich — depuis [Dreistirnen] jusqu'aux montagnes chauves qui le séparent de l'
+l'Empire allemand,Location,LOC,10407,10424,0.977,"en jusqu'aux montagnes chauves qui le séparent de [l'Empire allemand], était libre sous le gouvernement du vieux roi —"
+Un jour,Time,DATE,10529,10536,0.995,ientôt devait le remettre aux mains de son fils. [Un jour] — sous prétexte de troubles à la frontière bulgar
+Dreistirnen,Location,LOC,10752,10763,0.9524,"es villes fortes du royaume... On a vu arriver à [Dreistirnen] un personnage à figure pâle et glabre, — à mouvem"
+Reubenkerbel,Person,PER,10857,10869,0.9888,"mouvements d'automate, — qui s'appelle le général [Reubenkerbel]. C'est lui que le chancelier a chargé de faire l'"
+Vorwärts,Person,PER,11215,11223,0.8137,"rchent les ongles et leur partent dans les yeux. [Vorwärts], Kobold! Le prince reprend le trot, essayant de"
+Kobold,Person,PER,11225,11231,0.8939,"ongles et leur partent dans les yeux. Vorwärts, [Kobold]! Le prince reprend le trot, essayant de secouer"
+Kobold,Person,PER,11388,11394,0.8257,"et bien vite, reconnaît le sentier où son fidèle [Kobold] l'a mené de lui-même. Combien de fois — du temps"
+forêt,Location,LOC,11478,11483,0.6191,fois — du temps où il se promenait encore dans la [forêt] de Reinwald — Max a suivi ce sentier qui conduit
+Reinwald,Location,LOC,11487,11495,0.9765,temps où il se promenait encore dans la forêt de [Reinwald] — Max a suivi ce sentier qui conduit à la demeure
+Max,Person,PER,11498,11501,0.9205,l se promenait encore dans la forêt de Reinwald — [Max] a suivi ce sentier qui conduit à la demeure du vi
+Peeter,Person,PER,11561,11567,0.9714,"e sentier qui conduit à la demeure du vieux garde [Peeter]! Comme son cœur battait alors, aux abords de la m"
+Peeter,Person,PER,11799,11805,0.97,"à travers bois et sur le seuil, la fille du vieux [Peeter], la blonde Mina, attendait le royal cavalier. Lu"
+Mina,Person,PER,11817,11821,0.9668,"sur le seuil, la fille du vieux Peeter, la blonde [Mina], attendait le royal cavalier. Lui, sautait leste"
+Mina,Person,PER,11953,11957,0.9767,"al à un arbre, et vite entrain dans la maison, où [Mina] lui versait la bière. Prince Max, souvenez-vous"
+Prince Max,Person,PER,11981,11991,0.9067,"in dans la maison, où Mina lui versait la bière. [Prince Max], souvenez-vous de ces matinées de juin! Dans la m"
+juin,Time,DATE,12026,12030,0.9801,"re. Prince Max, souvenez-vous de ces matinées de [juin]! Dans la maison silencieuse, — enfant ignorant co"
+Reinwald,Location,LOC,12297,12305,0.9913,ise aromatique qui vous venait des profondeurs du [Reinwald] avait passé sur tant de nids qu'elle vous envrait
+Kobold,Person,PER,12714,12720,0.9586,"ait traversé la clairière en quelques bonds... ou [Kobold], impatient, qui avait henní pour appeler son maît"
+Vorwärts,Person,PER,12778,12786,0.6709,"ent, qui avait henní pour appeler son maître!... [Vorwärts], Kobold! ... Le prince a atteint la lisière des"
+Kobold,Person,PER,12788,12794,0.6938,"vait henní pour appeler son maître!... Vorwärts, [Kobold]! ... Le prince a atteint la lisière des taillis."
+Peeter,Person,PER,12883,12889,0.9299,"es taillis... Déjà il aperçoit la maison du vieux [Peeter], à travers les branches défeuillées. Mais soudain"
+Kobold,Person,PER,12950,12956,0.8535,"les branches défeuillées. Mais soudain il arrête [Kobold], les flancs battants. Il a vu un autre cheval att"
+Max,Person,PER,13154,13157,0.9454,"donc affaire chez le garde à pareille heure?... [Max] met pied à terre, accroche à un arbre les rênes d"
+Kobold,Person,PER,13209,13215,0.7267,"et pied à terre, accroche à un arbre les rênes de [Kobold] et, le pas étouffé sur les moussons de la clairiè"
+Mina,Person,PER,13408,13412,0.9708,"la vaste salle où flambe un feu de hêtre, il voit [Mina] la blonde versant comme autrefois la bière, coule"
+six mois,Time,DATE,13599,13607,0.9947,"t à ce cavalier — de ce même sourire pour lequel, [six mois] plus tôt, Max eût donné sans regret les remparts"
+Max,Person,PER,13618,13621,0.9756,"e ce même sourire pour lequel, six mois plus tôt, [Max] eût donné sans regret les remparts de Dreistirnen"
+Dreistirnen,Location,LOC,13660,13671,0.9897,"us tôt, Max eût donné sans regret les remparts de [Dreistirnen], les toits pointus de la maison de ville et le cl"
+Saint-Aloysius,Location,LOC,13730,13744,0.97,ts pointus de la maison de ville et le clocher de [Saint-Aloysius]. Voici que le cavalier se retourne... Horreur! c
+Max,Person,PER,13846,13849,0.9601,te figure rase et blême — cet uniforme détesté... [Max] ne se trompe point: c'est bien le général prussie
+Reubenkerbel,Person,PER,13901,13913,0.9939,e se trompe point: c'est bien le général prussien [Reubenkerbel]... Le prince Max a regagné au galop les portes d
+Max,Person,PER,13928,13931,0.9235,en le général prussien Reubenkerbel... Le prince [Max] a regagné au galop les portes de Dreistirnen. Ar
+Dreistirnen,Location,LOC,13965,13976,0.992,". Le prince Max a regagné au galop les portes de [Dreistirnen]. Arrivé au palais de son père, il a sauté en bas"
+Freitag,Person,PER,14080,14087,0.9842,"son cheval, jetant rageusement les rênes au vieux [Freitag], — et il a couru s'enfermer dans sa chambre, où i"
+Max,Person,PER,14179,14182,0.9022,"re, où il pleure de vraies larmes. Pauvre prince [Max]! comme il mettra volontiers, le jour venu, sa jeu"
+l'Empire allemand,Location,LOC,14324,14341,0.876,"era d'abattre ce colosse tyrannique qui s'appelle [l'Empire allemand]! Marcel Prévost. EN RÊVE — Enfin, dit Pierre S"
+Marcel Prévost,Person,PER,14344,14358,0.992,"osse tyrannique qui s'appelle l'Empire allemand! [Marcel Prévost]. EN RÊVE — Enfin, dit Pierre Sarlier, apprends-"
+Pierre Sarlier,Person,PER,14383,14397,0.994,"allemand! Marcel Prévost. EN RÊVE — Enfin, dit [Pierre Sarlier], apprends-nous, Jacques, ce qui s'est passé. — M"
+Jacques,Person,PER,14414,14421,0.985,"RÊVE — Enfin, dit Pierre Sarlier, apprends-nous, [Jacques], ce qui s'est passé. — Mais... rien. J'avais ass"
+Mme Sarlier,Person,PER,14597,14608,0.9845,"us... voilà tout. — Voilà tout! répéta la petite [Mme Sarlier]. Je vous avertis que, pas plus que mon mari, je n"
+Paris,Location,LOC,14791,14796,0.9926,"é à vos amis que vous avez découvert, pas loin de [Paris], un coin délicieux, une oasis de paix, de solitud"
+six mois,Time,DATE,14995,15003,0.9784,"te importune. Vous allez passer là trois, quatre, [six mois], plus peut-être — tant que durerait la compositio"
+Jacques Cézère,Person,PER,15197,15211,0.995,"e n'est pas naturel... Voyons, avouez la vérité. [Jacques Cézère] hésita — visiblement il lui répugnait de parler."
+Mme Sarlier,Person,PER,15436,15447,0.9775,"estait mélancolique. — Est-ce un secret? demanda [Mme Sarlier]. — Non, dit Jacques, se décidant, ce n'est pas u"
+Jacques,Person,PER,15461,15468,0.9879,"st-ce un secret? demanda Mme Sarlier. — Non, dit [Jacques], se décidant, ce n'est pas un secret, c'est une h"
+Jacques,Person,PER,15597,15604,0.987,"istoire?... j'en étais sûr! Connez-la bien vite. [Jacques] sourit, avec un peu de pitié pour cette curiosité"
+heures,Time,DATE,16499,16505,0.7655,m'étais mis à travailler. Cela venait bien. Les [heures] s'écoulaient trop vite à mon gré dans la fraîcheu
+Garbois,Person,PER,16953,16960,0.9806,"is personne dans le pays, sauf mon ami le docteur [Garbois], celui-là même qui, sachant mon désir de solitude"
+quinze ans plus,Time,DATE,17219,17234,0.8523,"'habiter, parce que leur fils unique y était mort [quinze ans plus] tôt. La maison a dû rester longtemps sans entret"
+Paris,Location,LOC,17814,17819,0.9747,"pouvais me croire à des centaines de lieues de ce [Paris] que je fuyais, et que j'ai regagné, aujourd'hui,"
+aujourd'hui,Time,DATE,17856,17867,0.9951,"s de ce Paris que je fuyais, et que j'ai regagné, [aujourd'hui], en moins d'une heure. J'arrivai dans ma thébaïd"
+d'une heure,Time,DATE,17878,17889,0.9227,"uyais, et que j'ai regagné, aujourd'hui, en moins [d'une heure]. J'arrivai dans ma thébaïde au soir tombant, sui"
+Simon,Person,PER,17956,17961,0.5599,"ma thébaïde au soir tombant, suivi de mon fidèle [Simon]. La gardienne de la villa — une vieille qui para"
+Mme Sarlier,Person,PER,18273,18284,0.9852,"lement. — Pas très gentil pour nous, interrompit [Mme Sarlier]. — Parfaitement heureux, reprit Cézère; malgré,"
+Cézère,Person,PER,18318,18324,0.9941,"mpit Mme Sarlier. — Parfaitement heureux, reprit [Cézère]; malgré, cependant, une bizarre impression, une g"
+Maintenant,Time,DATE,20209,20219,0.9942,"pourtant ne me voyaient pas, j'en étais certain. [Maintenant], la jeune femme parlait. Ce n'était qu'un murmure"

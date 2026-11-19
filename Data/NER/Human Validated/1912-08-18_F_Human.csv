@@ -1,0 +1,37 @@
+﻿entity,fine_type,coarse_type
+Thérèse,pers.ind,Person
+Michel,pers.ind,Person
+Roger REGIS,pers.ind.articleauthor,Person
+SAINT-YVES,pers.ind.articleauthor,Person
+F. OLBÉ,pers.ind,Person
+Mme Sophie Mil...,pers.ind,Person
+Rouen,loc.adm.town,Location
+Asnières,loc.adm.town,Location
+11 mars,time.date.abs,Time
+Beauieu,loc.adm.town,Location
+3 mars,time.date.abs,Time
+16 avril,time.date.abs,Time
+Bagnoux,loc.adm.town,Location
+21 avril,time.date.abs,Time
+Dr Daru,pers.ind,Person
+Docteur Daru,pers.ind,Person
+Paris,loc.adm.town,Location
+Monsieur H. LINDEUX,pers.ind,Person
+"10, rue Richelieu",loc.add.phys,Location
+PIERRE LOUVS,pers.ind,Person
+HENRI SCHMITT,pers.ind,Person
+A. BOSC,pers.ind,Person
+SCHUMANN,pers.ind,Person
+V. SIGHICELLI,pers.ind,Person
+"19, rue Cadet, Paris",loc.add.phys,Location
+Paris,loc.adm.town,Location
+Les Deux Grenadiers,prod.media,Product
+Blondinette,prod.media,Product
+On Dit,prod.media,Product
+,,
+,,
+,,
+,,
+,,
+,,
+,,

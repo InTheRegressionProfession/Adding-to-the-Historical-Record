@@ -1,0 +1,23 @@
+﻿entity,fine_type,coarse_type
+Oberland,loc.adm.reg,Location
+Picot,pers.ind,Person
+Bâle,loc.adm.town,Location
+Berne,loc.adm.town,Location
+Thun,loc.adm.town,Location
+Interlaken,loc.adm.town,Location
+Lucerne,loc.adm.town,Location
+Bourret,pers.ind,Person
+Dormeul,pers.ind,Person
+Troyes,loc.adm.town,Location
+Paris,loc.adm.town,Location
+Bourret,pers.ind,Person
+Lucerne,loc.adm.town,Location
+Paul BONHOMME,pers.ind.articleauthor,Person
+César,pers.ind,Person
+Claudin,pers.ind.articleauthor,Person
+Céline,pers.ind,Person
+"Ploquin et Cie, couturiers",org.ent,Organization
+rue de la Paix,loc.oro,Location
+Virginie,pers.ind,Person
+rue Maroquet,loc.oro,Location
+DRANER,pers.ind.articleauthor,Person

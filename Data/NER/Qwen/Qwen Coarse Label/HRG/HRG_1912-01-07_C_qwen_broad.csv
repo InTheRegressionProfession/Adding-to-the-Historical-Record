@@ -1,0 +1,43 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Oberland,Location,Location,88,96,,"ttrapaient... Ils étaient tombés d'accord pour l'[Oberland]. Picot, qui savait un peu d'allemand, avait comb"
+Picot,Person,Person,99,104,,".. Ils étaient tombés d'accord pour l'Oberland. [Picot], qui savait un peu d'allemand, avait combiné les"
+Bâle,Location,Location,334,338,,"vaient ne faire, à l'aller, qu'une courte halte à [Bâle], gagner tout de suite les lacs en passant par Ber"
+Berne,Location,Location,385,390,,"âle, gagner tout de suite les lacs en passant par [Berne], Thun, Interlaken et revenir par Lucerne. Sur la"
+Thun,Location,Location,392,396,,"gner tout de suite les lacs en passant par Berne, [Thun], Interlaken et revenir par Lucerne. Sur la recomm"
+Interlaken,Location,Location,398,408,,"out de suite les lacs en passant par Berne, Thun, [Interlaken] et revenir par Lucerne. Sur la recommandation d'u"
+Lucerne,Location,Location,424,431,,"assant par Berne, Thun, Interlaken et revenir par [Lucerne]. Sur la recommandation d'un ami, Bourret avait dr"
+Bourret,Person,Person,465,472,,"enir par Lucerne. Sur la recommandation d'un ami, [Bourret] avait dressé la liste des hôtels à prix abordable"
+Dormeul,Person,Person,533,540,,"sé la liste des hôtels à prix abordables. Quant à [Dormeul], il était prêt à aller où l'on voudrait, pourvu q"
+Troyes,Location,Location,1651,1657,,"t de mal finir. Et, en effet, comme on arrivait à [Troyes], Picot, rouge de colère, se leva, roula sa casque"
+Paris,Location,Location,2074,2079,,"ui souhaitèrent même ironiquement un bon retour à [Paris], se déclarant enchantées de poursuivre seuls le v"
+Dormeul,Person,Person,2711,2718,,"continuons, n'est-ce pas ? interrogua timidement [Dormeul]. Bourret crâna : — Comment donc !... Picot serai"
+Bourret,Person,Person,2721,2728,,"s, n'est-ce pas ? interrogua timidement Dormeul. [Bourret] crâna : — Comment donc !... Picot serait trop con"
+Picot,Person,Person,2757,2762,,"ent Dormeul. Bourret crâna : — Comment donc !... [Picot] serait trop content !... Seulement, après le tour"
+Bâle,Location,Location,2934,2938,,"!... Je ne lui parle plus !... Ils couchèrent à [Bâle] ; puis, le lendemain, livrés à leur propre initia"
+Troyes,Location,Location,3915,3921,,"ses collègues, il avait cru prudent de coucher à [Troyes], afin de leur laisser prendre de l'avance et de n"
+Interlaken,Location,Location,4608,4618,,"ûler plusieurs étapes et filèrent directement sur [Interlaken]. Là, au moins, ils seraient tranquilles ! Quel n"
+Paris,Location,Location,5245,5250,,"ils reprirent le train, bien résolus à rentrer à [Paris]... Cependant, comme, en arrivant à Lucerne, ils"
+Lucerne,Location,Location,5287,5294,,"ntrer à Paris... Cependant, comme, en arrivant à [Lucerne], ils avaient entendu, dans leur compartiment, des"
+Righi,Location,Location,5383,5388,,"timent, des voyageurs parler avec enthousiasme du [Righi], Bourret insinua : — Dis donc, Dormeul, maintena"
+Bourret,Person,Person,5390,5397,,"des voyageurs parler avec enthousiasme du Righi, [Bourret] insinua : — Dis donc, Dormeul, maintenant que no"
+Dormeul,Person,Person,5421,5428,,"ousiasme du Righi, Bourret insinua : — Dis donc, [Dormeul], maintenant que nous avons pris sur Picot tant d'"
+Picot,Person,Person,5465,5470,,"donc, Dormeul, maintenant que nous avons pris sur [Picot] tant d'avance, si nous la faisions, l'ascension d"
+Picot,Person,Person,7403,7408,,"dit, en posant les cartes devant lui : — Coupe ! [Picot] s'exécuta. Alors, redevenus silencieux, ils rangè"
+Paul BONHOMME,Person,Person,7813,7826,,t tout de même qu'il était temps de rentrer !... [Paul BONHOMME]. LA SEMAINE FANTAISISTE Soldats de plomb Les s
+LA SEMAINE FANTAISISTE,Product,Product,7829,7851,,u'il était temps de rentrer !... Paul BONHOMME. [LA SEMAINE FANTAISISTE] Soldats de plomb Les soldats de plomb reviennen
+LES JOURNAUX,Product,Product,7914,7926,,"plomb Les soldats de plomb reviennent à la mode ([LES JOURNAUX]). Quand, vers le jour du nouvel an, Elles savent"
+Sicambres,Person,Person,9142,9151,,"énéraux ! Ah ! les batailles de héros, Dignes des [Sicambres], Des grands empereurs et des rois, Qui se déroule"
+César,Person,Person,9463,9468,,"! Quand tout est terminé, l'enfant, Ainsi qu'un [César] triomphant, Sent ses tempes moites. Cavaliers et"
+Claudin,Person,Person,9762,9769,,"pendant toute la nuit, fait Des rêves de gloire. [Claudin]. La Poupée (Conte du nouvel an) Céline, appren"
+Céline,Person,Person,9805,9811,,"oire. Claudin. La Poupée (Conte du nouvel an) [Céline], apprentie chez Ploquin et Cie, couturiers, rue d"
+Ploquin et Cie,Organization,Organization,9828,9842,,"pée (Conte du nouvel an) Céline, apprentie chez [Ploquin et Cie], couturiers, rue de la Paix, ne connaissait du jo"
+rue de la Paix,Location,Location,9856,9870,,"éline, apprentie chez Ploquin et Cie, couturiers, [rue de la Paix], ne connaissait du jour de l'An que l'extrême fat"
+Paris,Location,Location,10147,10152,,"des pauvres. A travers ses courses dans l'immense [Paris], l'épaule arrachée par la lourde caisse aux initi"
+Virginie,Person,Person,11098,11106,,"e, elle avait à essuyer les aigres réprimandes de [Virginie], une manutentionnaire en besicles qui lui reproch"
+Céline,Person,Person,11222,11228,,"patrons ses trois francs par semaine. C'est que [Céline] n'avait jamais connu la gaieté des bazars, cette"
+rue Maroquet,Location,Location,11563,11575,,son petit nez contre la vitre de l'épicier de la [rue Maroquet]. Il y avait là des choses merveilleuses : des sab
+LES GAITÉS DE LA SEMAINE,Product,Product,13506,13530,,"uand on les enfle pour la première fois. Mais le [LES GAITÉS DE LA SEMAINE], par DRANER — Mou gendre ! vous n'êtes qu'un mon"
+DRANER,Person,Person,13536,13542,,"ière fois. Mais le LES GAITÉS DE LA SEMAINE, par [DRANER] — Mou gendre ! vous n'êtes qu'un monstre ! Oser"
+Salmis Marocain-Congo,Product,Product,13791,13812,,salmis ? — C'est même pour cela qu'on l'a nommé « [Salmis Marocain-Congo] ». Le Triomphe du boxeur. — Ce qui me touche et
+Marocain,Location,Location,13798,13806,,? — C'est même pour cela qu'on l'a nommé « Salmis [Marocain]-Congo ». Le Triomphe du boxeur. — Ce qui me tou
+Congo,Location,Location,13807,13812,,même pour cela qu'on l'a nommé « Salmis Marocain-[Congo] ». Le Triomphe du boxeur. — Ce qui me touche et

@@ -1,0 +1,33 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Michel,pers.ind,Person,pers.ind,612,618,0.9119,"désir de maternité, de protection. — Parce que, [Michel], je vous aime ! Roger Régis. LE CODE POUR TOUS"
+Roger Régis,pers.ind,Person,pers.ind,636,647,0.9586,"protection. — Parce que, Michel, je vous aime ! [Roger Régis]. LE CODE POUR TOUS De la constitution de rente"
+articles 1968 à 1983,time.date.abs,Time,time.date.abs,2363,2383,0.7681,"tes viagères. — Ce contrat est réglementé par les [articles 1968 à 1983] du Code civil, au titre des contrats aléatoires."
+SAINT-YVES,loc.adm.town,Location,loc.adm.town,4089,4099,0.8283,"que lorsqu'elle a été concédée à titre gratuit. [SAINT-YVES]. Mme Sophie Mil... 58 ans, propriétaire à Rouen."
+"Mme Sophie Mil... 58 ans, propriétaire",pers.ind,Person,pers.ind,4102,4140,0.808,"lle a été concédée à titre gratuit. SAINT-YVES. [Mme Sophie Mil... 58 ans, propriétaire] à Rouen. — Tête totalement dénudée depuis 3 ans à"
+Rouen,loc.adm.town,Location,loc.adm.town,4143,4148,0.8199,"T-YVES. Mme Sophie Mil... 58 ans, propriétaire à [Rouen]. — Tête totalement dénudée depuis 3 ans à la suit"
+dermatologiste F. OLBÉ,pers.ind,Person,pers.ind,4384,4406,0.928,à qui prouvera que la célèbre Sève Capillaire du [dermatologiste F. OLBÉ] n'arrête pas la chute des cheveux en deux jours e
+OLBÉ,pers.ind,Person,pers.ind,4905,4909,0.2847,"s plus grands détails ou se rendre au Laboratoire [OLBÉ], 22, Rue des Martyrs, 22, Section 476 PARIS Octa"
+Rue,org.ent,Organization,org.ent,4915,4918,0.1245,"nds détails ou se rendre au Laboratoire OLBÉ, 22, [Rue] des Martyrs, 22, Section 476 PARIS Octave Tsr..."
+des Martyrs,loc.oro,Location,loc.oro,4919,4930,0.1923,"détails ou se rendre au Laboratoire OLBÉ, 22, Rue [des Martyrs], 22, Section 476 PARIS Octave Tsr... 32 ans, méc"
+"Octave Tsr... 32 ans, mécanicien aux Angles",pers.ind,Person,pers.ind,4955,4998,0.9033,"OLBÉ, 22, Rue des Martyrs, 22, Section 476 PARIS [Octave Tsr... 32 ans, mécanicien aux Angles]. — Pelade remontant à 2 ans, 5 grandes plaques qu"
+Asnières,loc.adm.town,Location,loc.adm.town,5151,5159,0.9353,"lète en 2 mois. Photographie faite 4 mois après. [Asnières], le 11 mars. A 66 ans j'étais atteint d'une calvi"
+Beaulieu,loc.adm.town,Location,loc.adm.town,5629,5637,0.9285,"prie de me dire si le résultat est satisfaisant. [Beaulieu], 3 mars. J'avais perdu depuis 4 ans presque tous"
+Beaulieu,loc.adm.town,Location,loc.adm.town,5928,5936,0.9285,"chevelure est redevenue ce qu'elle était avant. [Beaulieu], 15 avril. C'est pour me faire plaisir que mon ma"
+Bagnoux,loc.adm.town,Location,loc.adm.town,6366,6373,0.935,"prie de me dire si le résultat est satisfaisant. [Bagnoux], le 24 avril. Ainsi que vous le savez j'avais per"
+Dr Daru,pers.ind,Person,pers.ind,7316,7323,0.9475,ngendrées par un sang âcre et vicié. Dépurase du [Dr Daru] réalise le type parfait du spécifique des affect
+Docteur Daru,pers.ind,Person,pers.ind,7728,7740,0.9275,"Dartres, Eczémas, Psoriasis, etc. La Dépurase du [Docteur Daru] se trouve dans les bonnes pharmacies seulement de"
+Paris,loc.adm.town,Location,loc.adm.town,7791,7796,0.8154,se trouve dans les bonnes pharmacies seulement de [Paris] et de Province ou au Dépôt général : Monsieur H.
+Province,loc.adm.town,Location,loc.adm.town,7803,7811,0.6043,"ns les bonnes pharmacies seulement de Paris et de [Province] ou au Dépôt général : Monsieur H. LINDEUX, pharma"
+"Monsieur H. LINDEUX, pharmacien",pers.ind,Person,pers.ind,7834,7865,0.9419,"ent de Paris et de Province ou au Dépôt général : [Monsieur H. LINDEUX, pharmacien], 10, rue Richelieu, à Paris. 1 franc la boîte de"
+rue,loc.adm.town,Location,loc.adm.town,7871,7874,0.1518,"ôt général : Monsieur H. LINDEUX, pharmacien, 10, [rue] Richelieu, à Paris. 1 franc la boîte de 14 paque"
+Richelieu,loc.oro,Location,loc.oro,7875,7884,0.1752,"énéral : Monsieur H. LINDEUX, pharmacien, 10, rue [Richelieu], à Paris. 1 franc la boîte de 14 paquets (Franco"
+Paris,loc.adm.town,Location,loc.adm.town,7888,7893,0.8619,"ieur H. LINDEUX, pharmacien, 10, rue Richelieu, à [Paris]. 1 franc la boîte de 14 paquets (Franco poste 1."
+PIERRE LOUYS,pers.ind,Person,pers.ind,8065,8077,0.9405,ES LE N° 19 CONTIENT ON DIT Chanson Paroles de [PIERRE LOUYS] Musique de HENRI SCHMITT BLONDINETTE Polka A. B
+HENRI SCHMITT,pers.ind,Person,pers.ind,8089,8102,0.9461,N DIT Chanson Paroles de PIERRE LOUYS Musique de [HENRI SCHMITT] BLONDINETTE Polka A. BOSC LES DEUX GRENADIERS
+BLONDINETTE,pers.ind,Person,pers.ind,8104,8115,0.7653,Paroles de PIERRE LOUYS Musique de HENRI SCHMITT [BLONDINETTE] Polka A. BOSC LES DEUX GRENADIERS Mélodie de S
+A. BOSC,pers.ind,Person,pers.ind,8123,8130,0.884,OUYS Musique de HENRI SCHMITT BLONDINETTE Polka [A. BOSC] LES DEUX GRENADIERS Mélodie de SCHUMANN Transcr
+SCHUMANN,pers.ind,Person,pers.ind,8164,8172,0.912,E Polka A. BOSC LES DEUX GRENADIERS Mélodie de [SCHUMANN] Transcription de V. SIGHICELLI 15 CENTIMES LE NU
+V. SIGHICELLI,pers.ind,Person,pers.ind,8190,8203,0.8809,GRENADIERS Mélodie de SCHUMANN Transcription de [V. SIGHICELLI] 15 CENTIMES LE NUMÉRO Parait tous les quinze jou
+rue,loc.adm.town,Location,loc.adm.town,8361,8364,0.0948,"abonnement : 5 fr. par an. — Administration : 19, [rue] Cadet, Paris"
+Cadet,loc.oro,Location,loc.oro,8365,8370,0.2011,"nement : 5 fr. par an. — Administration : 19, rue [Cadet], Paris"
+Paris,loc.adm.town,Location,loc.adm.town,8372,8377,0.735,": 5 fr. par an. — Administration : 19, rue Cadet, [Paris]"

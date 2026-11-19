@@ -1,0 +1,31 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Michel,Person,pers,612,618,0.8408,"désir de maternité, de protection. — Parce que, [Michel], je vous aime ! Roger Régis. LE CODE POUR TOUS"
+Roger Régis,Person,pers,636,647,0.9626,"protection. — Parce que, Michel, je vous aime ! [Roger Régis]. LE CODE POUR TOUS De la constitution de rente"
+articles 1968 à 1983,Time,time,2363,2383,0.7647,"tes viagères. — Ce contrat est réglementé par les [articles 1968 à 1983] du Code civil, au titre des contrats aléatoires."
+SAINT-YVES,Location,loc,4089,4099,0.955,"que lorsqu'elle a été concédée à titre gratuit. [SAINT-YVES]. Mme Sophie Mil... 58 ans, propriétaire à Rouen."
+"Mme Sophie Mil... 58 ans, propriétaire à",Person,pers,4102,4142,0.8042,"lle a été concédée à titre gratuit. SAINT-YVES. [Mme Sophie Mil... 58 ans, propriétaire à] Rouen. — Tête totalement dénudée depuis 3 ans à l"
+Rouen,Location,loc,4143,4148,0.6511,"T-YVES. Mme Sophie Mil... 58 ans, propriétaire à [Rouen]. — Tête totalement dénudée depuis 3 ans à la suit"
+dermatologiste F. OLBÉ,Person,pers,4384,4406,0.9231,à qui prouvera que la célèbre Sève Capillaire du [dermatologiste F. OLBÉ] n'arrête pas la chute des cheveux en deux jours e
+Laboratoire,Organization,org,4893,4904,0.4235,"rire avec les plus grands détails ou se rendre au [Laboratoire] OLBÉ, 22, Rue des Martyrs, 22, Section 476 PARIS"
+OLBÉ,Person,pers,4905,4909,0.3231,"s plus grands détails ou se rendre au Laboratoire [OLBÉ], 22, Rue des Martyrs, 22, Section 476 PARIS Octa"
+Rue des Martyrs,Location,loc,4915,4930,0.761,"nds détails ou se rendre au Laboratoire OLBÉ, 22, [Rue des Martyrs], 22, Section 476 PARIS Octave Tsr... 32 ans, méc"
+"Octave Tsr... 32 ans, mécanicien aux Angles",Person,pers,4955,4998,0.8899,"OLBÉ, 22, Rue des Martyrs, 22, Section 476 PARIS [Octave Tsr... 32 ans, mécanicien aux Angles]. — Pelade remontant à 2 ans, 5 grandes plaques qu"
+Asnières,Location,loc,5151,5159,0.9695,"lète en 2 mois. Photographie faite 4 mois après. [Asnières], le 11 mars. A 66 ans j'étais atteint d'une calvi"
+Beaulieu,Location,loc,5629,5637,0.9603,"prie de me dire si le résultat est satisfaisant. [Beaulieu], 3 mars. J'avais perdu depuis 4 ans presque tous"
+Beaulieu,Location,loc,5928,5936,0.9686,"chevelure est redevenue ce qu'elle était avant. [Beaulieu], 15 avril. C'est pour me faire plaisir que mon ma"
+Bagnoux,Location,loc,6366,6373,0.9325,"prie de me dire si le résultat est satisfaisant. [Bagnoux], le 24 avril. Ainsi que vous le savez j'avais per"
+Dr Daru,Person,pers,7316,7323,0.954,ngendrées par un sang âcre et vicié. Dépurase du [Dr Daru] réalise le type parfait du spécifique des affect
+Docteur Daru,Person,pers,7728,7740,0.9356,"Dartres, Eczémas, Psoriasis, etc. La Dépurase du [Docteur Daru] se trouve dans les bonnes pharmacies seulement de"
+Paris,Location,loc,7791,7796,0.9336,se trouve dans les bonnes pharmacies seulement de [Paris] et de Province ou au Dépôt général : Monsieur H.
+Province,Location,loc,7803,7811,0.7858,"ns les bonnes pharmacies seulement de Paris et de [Province] ou au Dépôt général : Monsieur H. LINDEUX, pharma"
+"Monsieur H. LINDEUX, pharmacien",Person,pers,7834,7865,0.9477,"ent de Paris et de Province ou au Dépôt général : [Monsieur H. LINDEUX, pharmacien], 10, rue Richelieu, à Paris. 1 franc la boîte de"
+rue Richelieu,Location,loc,7871,7884,0.7719,"ôt général : Monsieur H. LINDEUX, pharmacien, 10, [rue Richelieu], à Paris. 1 franc la boîte de 14 paquets (Franco"
+Paris,Location,loc,7888,7893,0.8816,"ieur H. LINDEUX, pharmacien, 10, rue Richelieu, à [Paris]. 1 franc la boîte de 14 paquets (Franco poste 1."
+PIERRE LOUYS,Person,pers,8065,8077,0.9647,ES LE N° 19 CONTIENT ON DIT Chanson Paroles de [PIERRE LOUYS] Musique de HENRI SCHMITT BLONDINETTE Polka A. B
+HENRI SCHMITT,Person,pers,8089,8102,0.9681,N DIT Chanson Paroles de PIERRE LOUYS Musique de [HENRI SCHMITT] BLONDINETTE Polka A. BOSC LES DEUX GRENADIERS
+BLONDINETTE,Person,pers,8104,8115,0.7633,Paroles de PIERRE LOUYS Musique de HENRI SCHMITT [BLONDINETTE] Polka A. BOSC LES DEUX GRENADIERS Mélodie de S
+A. BOSC,Person,pers,8123,8130,0.9123,OUYS Musique de HENRI SCHMITT BLONDINETTE Polka [A. BOSC] LES DEUX GRENADIERS Mélodie de SCHUMANN Transcr
+SCHUMANN,Person,pers,8164,8172,0.926,E Polka A. BOSC LES DEUX GRENADIERS Mélodie de [SCHUMANN] Transcription de V. SIGHICELLI 15 CENTIMES LE NU
+V. SIGHICELLI,Person,pers,8190,8203,0.9347,GRENADIERS Mélodie de SCHUMANN Transcription de [V. SIGHICELLI] 15 CENTIMES LE NUMÉRO Parait tous les quinze jou
+rue Cadet,Location,loc,8361,8370,0.6808,"abonnement : 5 fr. par an. — Administration : 19, [rue Cadet], Paris"
+Paris,Location,loc,8372,8377,0.8012,": 5 fr. par an. — Administration : 19, rue Cadet, [Paris]"

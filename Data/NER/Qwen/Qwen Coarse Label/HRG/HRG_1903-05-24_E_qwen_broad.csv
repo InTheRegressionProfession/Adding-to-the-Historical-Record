@@ -1,0 +1,18 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+M. LÉPINE,Person,Person,0,9,,[M. LÉPINE] connu la douce joie qu'il lui avait donnée sans
+Pierrot,Person,Person,313,320,,"ds votre manuscrit; mais vous avez tort de signer [Pierrot], mettez plutôt Pierrette; vous aurez plus de succ"
+Pierrette,Person,Person,336,345,,"s vous avez tort de signer Pierrot, mettez plutôt [Pierrette]; vous aurez plus de succès, on est au féminisme."
+Jeanne,Person,Person,604,610,,"cette entrevue qui avait si curieusement tourné, [Jeanne] recevait un mot de M. Vidal qui l'invitait à se p"
+M. Vidal,Person,Person,630,638,,"si curieusement tourné, Jeanne recevait un mot de [M. Vidal] qui l'invitait à se présenter à son bureau... El"
+Loin du monde,Product,Product,1382,1395,,"e d'accepter cet exemplaire... Mon Dieu! c'est « [Loin du monde] ». Serait-ce possible? Que dire, que faire?... De"
+M. PUIBARAUD,Person,Person,2213,2225,,se sauver sans rien dire et de laisser le jeune [M. PUIBARAUD] DIRECTEUR DU SERVICE DES RECHERCHES garder plus
+Jeanne,Person,Person,3125,3131,,"ontre... — Vous aviez raison de croire en moi... [Jeanne], je vous aime... Depuis longtemps nos âmes se che"
+Paul ANDRÉ,Person,Person,3881,3891,,"de la jeune fille, le poète mit un long baiser. [Paul ANDRÉ]. LE CRIME DE LA RUE CHALGRIN Arrestation de l'a"
+LE CRIME DE LA RUE CHALGRIN,Product,Product,3894,3921,,"fille, le poète mit un long baiser. Paul ANDRÉ. [LE CRIME DE LA RUE CHALGRIN] Arrestation de l'assassin à Glasgow présente se"
+Glasgow,Location,Location,3951,3958,,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+M. Vidal,Person,Person,4618,4626,,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal]? Cet aussi fit tressaillir la jeune fille. — Ou"
+Pierrette,Person,Person,4955,4964,,"que je ne comprends pas non plus, c'est ce nom de [Pierrette] par lequel ils ont remplacé mon pseudonyme de Pie"
+Pierrot,Person,Person,5011,5018,,tte par lequel ils ont remplacé mon pseudonyme de [Pierrot]... Enfin la signature importe peu... Être imprimé
+M. Vidal,Person,Person,5089,5097,,"e importe peu... Être imprimé, cela me suffit... [M. Vidal] passa dans l'antichambre; il s'inclina devant la"
+M. HAMARD,Person,Person,5667,5676,,"us, mademoiselle... Pardonnez-moi de ne pas vous [M. HAMARD] CHEF DE LA SURETÉ M. BERTILLON CHEF DU SERVICE"
+M. BERTILLON,Person,Person,5697,5709,,moi de ne pas vous M. HAMARD CHEF DE LA SURETÉ [M. BERTILLON] CHEF DU SERVICE D'IDENTIFICATION

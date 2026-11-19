@@ -1,0 +1,101 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+TIRAGE,Product,MISC,0,6,0.6056,[TIRAGE] DU Supplément illustré EN COULEURS DU Petit Journ
+Supplément illustré,Product,MISC,10,29,0.7875,TIRAGE DU [Supplément illustré] EN COULEURS DU Petit Journal UN MILLION Soixante
+"EURS
+DU
+Petit Journal
+UN MILLION
+Soix",Product,MISC,37,74,0.7587,TIRAGE DU Supplément illustré EN COUL[EURS DU Petit Journal UN MILLION Soix]ante mille exemplaires (1.060.000) La semaine No
+Paris,Location,LOC,150,155,0.9897,"060.000) La semaine Nous venons de traverser, à [Paris], une période de sirocco digne de Naples et de Pal"
+Naples,Location,LOC,189,195,0.9867,"averser, à Paris, une période de sirocco digne de [Naples] et de Palerme. Par cette température étouffante e"
+Palerme,Location,LOC,202,209,0.9873,"ris, une période de sirocco digne de Naples et de [Palerme]. Par cette température étouffante et énervante, q"
+a cinquante ans,Time,DATE,718,733,0.8482,"ue cette vérité proclame ne date pas d'hier. Il y [a cinquante ans] pour le moins que Théophile Gautier, dans ses feu"
+Théophile Gautier,Person,PER,752,769,0.9963,"as d'hier. Il y a cinquante ans pour le moins que [Théophile Gautier], dans ses feuilletons de critique dramatique, aff"
+Paris,Location,LOC,850,855,0.9919,"que dramatique, affirmait que le théâtre d'été, à [Paris], est un lieu de rafraîchissement d'un charme inco"
+Stendhal,Person,PER,1074,1082,0.9963,"te terrasse de palais florentin où, le soir venu, [Stendhal] savourait des sorbets sous la blonde clarté de la"
+l'Apennin,Location,LOC,1179,1188,0.9917,"la lune et au souffle d'un vent frais tombant de [l'Apennin], en compagnie de délicieuses marchesine et contes"
+l'Opéra,Location,LOC,1475,1482,0.9805,à l'orchestre ou un fauteuil à l'amphithéâtre de [l'Opéra] est station plus fraîche qu'une chaise à la terra
+En 1839,Time,DATE,1573,1580,0.9922,"la terrasse de n'importe quel café du boulevard! [En 1839], le directeur de l'Ambigu-Comique, de Cès-Caupenn"
+l'Ambigu-Comique,Location,LOC,1598,1614,0.9705,"quel café du boulevard! En 1839, le directeur de [l'Ambigu-Comique], de Cès-Caupenne (un Gascon, il est vrai), offrai"
+Cès-Caupenne,Person,PER,1619,1631,0.9817,"rd! En 1839, le directeur de l'Ambigu-Comique, de [Cès-Caupenne] (un Gascon, il est vrai), offrait à sa clientèle"
+Gascon,Location,LOC,1636,1642,0.8815,"irecteur de l'Ambigu-Comique, de Cès-Caupenne (un [Gascon], il est vrai), offrait à sa clientèle pour menu d"
+Gautier,Person,PER,1964,1971,0.9933,"t plus frais que le boulevard. » Affirmation que [Gautier] non seulement contresignait dans son feuilleton,"
+Aujourd'hui,Time,DATE,2321,2332,0.9911,"lairés au gaz; quelques-uns même aux quinquets... [Aujourd'hui], ils ont tous pour luminaire, aussi bien sur la s"
+Midi,Location,LOC,3467,3471,0.9897,"blissements dramatiques et lyriques des villes du [Midi], du parfum très spécial des « cafards ». Mais ces"
+Conservatoire national de musique et de déclamation,Organization,ORG,3994,4045,0.7944,ieu ces jours-ci les concours des élèves de notre [Conservatoire national de musique et de déclamation]. Il n'est pas d'étuve ni de hammam qui puisse don
+Chopin,Person,PER,4349,4355,0.993,"écutions consécutives de l'allegro de concert, de [Chopin], par soixante-dix mains féminines s'escrimant à t"
+Conservatoire,Location,LOC,4742,4755,0.4392,"du nombre des élus de cette géhenne. En fait de [Conservatoire] et de « géhenne », ne voilà-t-il pas qu'on vient"
+Barcelone,Location,LOC,4820,4829,0.9833,"e », ne voilà-t-il pas qu'on vient de découvrir à [Barcelone] un Institut s'adonnant à la fabrication et à la v"
+Pyrénées,Location,LOC,4994,5002,0.9903,"ng de la frontière française de l'autre côté des [Pyrénées], il existe de ces fabriques séculaires où les fam"
+Midi de la France,Location,LOC,5395,5412,0.8951,industriels qui les dispersent dans les villes du [Midi de la France] et qui les exploitent en les faisant mendier à le
+l'Institut barcelonais,Location,LOC,5504,5526,0.9087,ier à leur profit... Voici comment a été déniché [l'Institut barcelonais]: Une mendiante de Marseille ayant été condamnée
+Marseille,Location,LOC,5546,5555,0.9916,"déniché l'Institut barcelonais: Une mendiante de [Marseille] ayant été condamnée par le tribunal, la fillette"
+Barcelone,Location,LOC,5662,5671,0.9904,qu'elle exploitait a été remise aux autorités de [Barcelone]. Sur les indications très précises de la pauvre e
+M. G. Danbès,Person,PER,6464,6476,0.8773,"ritables nains artificiels, des nains fabriqués! [M. G. Danbès] a donné, sur la fabrication des nains, des rensei"
+années,Time,DATE,6841,6847,0.9253,reste nain et pourra être exhibé pendant quelques [années]. Puis une décrépitude hâtive ou une fragilité d'
+Exposition universelle,Product,MISC,7380,7402,0.9426,monstres. XX La section chinoise de la dernière [Exposition universelle] exhibait une petite statuette représentant un nai
+Chine,Location,LOC,7527,7532,0.9739,"ités de la tératologie artificielle chinoise. En [Chine], l'enfant dont on veut faire un nain est placé da"
+"trois, quatre années et",Time,DATE,7850,7873,0.8499,"'aide de bandelettes. Ce moulage de la chair dure [trois, quatre années et] même davantage. Le corps, qui a grossi pendant c"
+années,Time,DATE,8166,8172,0.9483,"dès lors être exhibé en public. Il y a quelques [années], dans le département du Nord, on découvrit dans l"
+du Nord,Location,LOC,8194,8201,0.8014,"lic. Il y a quelques années, dans le département [du Nord], on découvrit dans la roulotte d'un saltimbanque,"
+Tom-Pouce,Person,PER,8416,8425,0.5954,dans lequel le malheureux enfant exploité comme « [Tom-Pouce] chinois » était inséré et bouclé après chaque rep
+du Nord,Location,LOC,8637,8644,0.7907,"rison. A la suite de cette découverte, le préfet [du Nord] adressait à tous les maires de son département un"
+la France,Location,LOC,8896,8905,0.9367,"re généralisée et, maintenue en vigueur par toute [la France]. Simon LEVRAI. LE BÉDOUIN DIVORCÉ (MŒURS ARABE"
+Simon LEVRAI,Person,PER,8908,8920,0.9751,"ée et, maintenue en vigueur par toute la France. [Simon LEVRAI]. LE BÉDOUIN DIVORCÉ (MŒURS ARABES) La loi du C"
+Coran,Product,MISC,8969,8974,0.9621,I. LE BÉDOUIN DIVORCÉ (MŒURS ARABES) La loi du [Coran] est formelle. Tout musulman qui aura trois fois
+Sidna-Mohamed,Person,PER,9258,9271,0.9886,"ou bien si elle a encore divorcé avec celui-ci. [Sidna-Mohamed] était-il, lorsqu'il rédigea cet article de loi, d"
+Sidna-Nobha,Location,LOC,9372,9383,0.6619,"ns un état de joyeuse ébriété, voisin de celui de [Sidna-Nobha] après les premières vendanges? ou bien a-t-il sim"
+Sidi-Macklouff,Person,PER,9774,9788,0.9836,"chassée de sa tente comme indigne de son amour? [Sidi-Macklouff], caïd des Beni-Ghill, tribu voisine de la frontiè"
+Beni-Ghill,Location,LOC,9799,9809,0.9543,"e indigne de son amour? Sidi-Macklouff, caïd des [Beni-Ghill], tribu voisine de la frontière marocaine, devait"
+Sidi-Macklouff,Person,PER,10030,10044,0.9913,"t capable de toutes les folies. Il faut dire que [Sidi-Macklouff] était un vieillard à barbe grise, d'humeur fantas"
+Sidi Maaboul,Person,PER,10207,10219,0.9887,"seigneur, depuis longtemps, l'avaient surnommé « [Sidi Maaboul] ». Cet inénarrable personnage avait trouvé moyen"
+Aïcha,Person,PER,10354,10359,0.9845,"« lunes », de se placer vis-à-vis de la charmante [Aïcha], qui n'était coupable que d'être trop jeune pour"
+Arabe,Product,MISC,10711,10716,0.8273,"oyennant la forte somme, la complicité d'un jeune [Arabe] d'une tribu voisine. Hassan Ben Kaddour venait de"
+Hassan Ben Kaddour,Person,PER,10738,10756,0.9926,complicité d'un jeune Arabe d'une tribu voisine. [Hassan Ben Kaddour] venait de se marier. Cette circonstance avait sur
+Sidi-Macklouff,Person,PER,10835,10849,0.9772,"irconstance avait surtout influé sur le choix que [Sidi-Macklouff] avait fait de lui, car elle lui semblait devoir ê"
+Aïcha,Person,PER,11038,11043,0.9716,"de leur traité, à savoir: qu'il épouserait ladite [Aïcha], mais qu'il la respecterait comme un dépôt sacré,"
+Sidi,Person,PER,11437,11441,0.8956,rassuré sur les suites de cette affaire. Pauvre [Sidi]! Certes il eût été moins tranquille s'il eût su q
+qu'Hassan,Person,PER,11490,11499,0.9725,"i! Certes il eût été moins tranquille s'il eût su [qu'Hassan] connaissait Aïcha depuis longtemps, qu'elle lui é"
+Aïcha,Person,PER,11512,11517,0.9448,"oins tranquille s'il eût su qu'Hassan connaissait [Aïcha] depuis longtemps, qu'elle lui était apparue, dans"
+un jour,Time,DATE,11625,11632,0.9924,"n de soleil qui l'enveloppait comme d'une gloire, [un jour] de fantasia, où la jeune fille, penchée hors de s"
+Hassan,Person,PER,11920,11926,0.9735,du tréfond de son âme. Sa beauté avait ensorcelé [Hassan] et l'avait frappé de deux coups de poignard: l'un
+Omar,Person,PER,12049,12053,0.9678,"œur. Il l'avait demandée en mariage. Mais le caïd [Omar], père d'Aïcha, n'ayant point trouvé suffisante la"
+d'Aïcha,Person,PER,12060,12067,0.9248,"vait demandée en mariage. Mais le caïd Omar, père [d'Aïcha], n'ayant point trouvé suffisante la dot qu'il lui"
+Macklouff,Person,PER,12235,12244,0.9831,riant de renoncer à ses espérances. Mais comment [Macklouff] eût-il pu se douter de cela? La joie qu'il avait
+d'Hassan,Person,PER,12341,12349,0.9564,"ait, à ses propositions, vu briller dans les yeux [d'Hassan], il l'avait attribuée à un motif bien moins noble"
+Hassan,Person,PER,12643,12649,0.9703,"la tête d'une fortune relative. Très loyalement, [Hassan] épousa Lail'-Aïcha. Mais, dès qu'elle fut sous sa"
+Lail'-Aïcha,Person,PER,12657,12668,0.9619,"fortune relative. Très loyalement, Hassan épousa [Lail'-Aïcha]. Mais, dès qu'elle fut sous sa tente, en dépit de"
+Zora,Person,PER,12815,12819,0.9384,"e, et elle supplanta si radicalement l'infortunée [Zora], sa première épouse, que celle-ci se vit complète"
+trente jours,Time,DATE,12921,12933,0.8104,"nt délaissée, absolument oubliée. \\ Il y avait [trente jours], heure pour heure, qu'Aïcha était devenue l'épous"
+qu'Aïcha,Person,PER,12953,12961,0.7755,". \\ Il y avait trente jours, heure pour heure, [qu'Aïcha] était devenue l'épouse d'Hassan, et Sidi-Macklouf"
+d'Hassan,Person,PER,12985,12993,0.9569,"heure pour heure, qu'Aïcha était devenue l'épouse [d'Hassan], et Sidi-Macklouff était en ce moment fort loin d"
+Sidi-Macklouff,Person,PER,12998,13012,0.5935,"ure, qu'Aïcha était devenue l'épouse d'Hassan, et [Sidi-Macklouff] était en ce moment fort loin de leur pensée, lors"
+Aïcha,Person,PER,13231,13236,0.9519,"deux en même temps s'exclamèrent: — C'est lui! [Aïcha] faillit s'évanouir d'épouvante, mais elle aimait"
+Hassan,Person,PER,13321,13327,0.9347,"is elle aimait mieux s'écrier: — Souviens-toi, ô [Hassan], que ce « vieux singe » a voulu me couper la tête"
+Hassan,Person,PER,13457,13463,0.9552,"a barbe un peu trop fort. — Rassure-toi, lui dit [Hassan]. La main de Dieu est sur nous. Il ne nous a pasun"
+Dieu,Product,MISC,13476,13480,0.5844,"fort. — Rassure-toi, lui dit Hassan. La main de [Dieu] est sur nous. Il ne nous a pasunis pour nous sépa"
+Hassan,Person,PER,13607,13613,0.9919,"op du cheval cessait brusquement devant la tente, [Hassan], ayant eu le temps de se composer un visage, s'él"
+Sidi-Macklouff,Person,PER,14050,14064,0.9938,"é tenté par le démon? — Hélas! si, monseigneur! [Sidi-Macklouff], descendu de cheval, avec un rugissement de panth"
+Chien,Person,PER,14144,14149,0.578,"rugissement de panthère, lui sauta à la gorge: — [Chien], tu m'as trahi!... Il n'y a pour toi que la mort."
+Hassan,Person,PER,14273,14279,0.9862,burnous un pistolet pour lui brûler la cervelle. [Hassan] se hâta d'empêcher la suite de ce mouvement dange
+Sidi-Macklouff,Person,PER,14448,14462,0.9912,"t vrai; mais... j'ai été plus fort que le démon. [Sidi-Macklouff] bondit de joie et l'embrassa follement. — Alors,"
+Hassan,Person,PER,14983,14989,0.9825,"t une longue bonse gonflée d'or qu'il posa devant [Hassan]. D'un geste de prestidigitation, celui-ci la fit"
+Hassan ben Kaddour,Person,PER,15308,15326,0.9924,ma. Il venait citer à comparaître devant le juge [Hassan ben Kaddour]. — Que peut donc me vouloir de si pressé le caïd
+Macklouff,Person,PER,15460,15469,0.9659,"ué, mais nullement inquiet, car, avec l'argent de [Macklouff], il avait payé toutes ses dettes; de plus, sa con"
+Hassan,Person,PER,15776,15782,0.9897,luence ne serait-elle pas inutile à son protégé. [Hassan] suivit donc le khodja et Sidi-Macklouff lui emboî
+Sidi-Macklouff,Person,PER,15808,15822,0.9936,e à son protégé. Hassan suivit donc le khodja et [Sidi-Macklouff] lui emboîta le pas. En arrivant dans le prétoire
+Hassan,Person,PER,16416,16422,0.9132,"de ses droits les plus doux. Mais qu'importait à [Hassan]? Evidemment, cette plaignante n'était point là po"
+Hassan,Person,PER,17112,17118,0.9778,"dit à la femme: — Découvre ton visage. Et comme [Hassan], qui la regardait, venait, aburi de stupéfaction,"
+Zora,Person,PER,17184,17188,0.9737,"it, venait, aburi de stupéfaction, de reconnaître [Zora], le caïd lui montra les babouches accusatrices."
+Hassan,Person,PER,17238,17244,0.956,", le caïd lui montra les babouches accusatrices. [Hassan] n'eut le temps ni de protester, ni de répondre. U"
+Macklouff,Person,PER,17401,17410,0.9717,d'une détonation. Une balle traversa son haïc et [Macklouff] lui sauta à la cou — mais point cette fois pour l
+Hassan,Person,PER,17590,17596,0.9123,"e précipitèrent à son secours, c'en était fait de [Hassan]. Ils retinrent Macklouff à distance de l'accusé,"
+Macklouff,Person,PER,17613,17622,0.9564,"ecours, c'en était fait de Hassan. Ils retinrent [Macklouff] à distance de l'accusé, mais ce qu'ils ne purent"
+Hassan,Person,PER,18267,18273,0.9674,"ocuré celle-là. — Est-ce vrai? demanda le caïd à [Hassan]. — C'est la vérité, seigneur caïd, répondit le je"
+Aïcha,Person,PER,18740,18745,0.9832,"é en quelques mots, il pou suivit: — J'ai épousé [Aïcha], et certes mon intention était de tenir mon serme"
+maintenant,Time,DATE,19124,19134,0.9688,"e me suis pris à l'amour, et il me sera bien dur, [maintenant], de divorcer avec elle pour la rendre, selon la p"
+Macklouff,Person,PER,19273,19282,0.9885,"oble rival... — Ta trahie, garde-la, interrompit [Macklouff], qu'elle reste dans sa souille avec le porc immon"
+Dieu,Product,MISC,19951,19955,0.4748,"envers toi, et ta rancune... — Que la foudre de [Dieu] les écrase! vociféra Sidi-Macklouff. Mais se rep"
+Sidi-Macklouff,Person,PER,19977,19991,0.99,... — Que la foudre de Dieu les écrase! vociféra [Sidi-Macklouff]. Mais se reprenant tout à coup et lançant à Kadd
+Kaddour,Person,PER,20037,20044,0.967,"ouff. Mais se reprenant tout à coup et lançant à [Kaddour] un éclat de ses prunelles, où luisait une haïe ve"
+Dieu,Product,MISC,20363,20367,0.5735,". Le caïd lui coupa la parole: — Par la tête de [Dieu]! féroce vieillard, tu viens de prononcer des paro"

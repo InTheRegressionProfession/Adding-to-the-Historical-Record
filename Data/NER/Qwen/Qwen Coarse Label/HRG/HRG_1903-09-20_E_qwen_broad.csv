@@ -1,0 +1,38 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Parmentier,Person,Person,3029,3039,,hasard que je demandai hardiment: — Le capitaine [Parmentier] du 3e tireailleurs sollicite l'honneur de déposer
+Cockerill,Person,Person,4169,4178,,"Excusez de n'avoir pas encore présenté moi: lord [Cockerill], commodore de la flotte de sa Majesté Britannique"
+Majesté Britannique,Person,Person,4209,4228,,"moi: lord Cockerill, commodore de la flotte de sa [Majesté Britannique]. — Ah! par exemple, m'écriai-je involontairement"
+lord Cockerill,Person,Person,4721,4735,,"? Vô vôlez entendre moi? Et sans plus de façon, [lord Cockerill], commodore de la flotte de sa Majesté Britannique"
+Majesté Britannique,Organization,Organization,4766,4785,,"çon, lord Cockerill, commodore de la flotte de sa [Majesté Britannique], se mit au piano. Je fermai instinctivement les"
+M. André TABARY,Person,Person,6078,6093,,té aimé par... NOS BATEAUX DE PLAISIR Cliché de [M. André TABARY]. Les excursionnistes du Petit Journal débarquant
+Petit Journal,Product,Product,6119,6132,,liché de M. André TABARY. Les excursionnistes du [Petit Journal] débarquant au Pecq — Une duchesse? ne manque jam
+Pecq,Location,Location,6147,6151,,es excursionnistes du Petit Journal débarquant au [Pecq] — Une duchesse? ne manque jamais d'intéresser qu
+colonel Parmentier,Person,Person,6453,6471,,"s laisse à penser, messieurs, conclut en riant le [colonel Parmentier], la tête que font les auditeurs la première fois!"
+THEANO,Product,Product,6523,6529,,la tête que font les auditeurs la première fois! [THEANO]. EAU DE JAVEL blanchit le linge sans l'altérer.
+EAU DE JAVEL,Product,Product,6532,6544,,ue font les auditeurs la première fois! THEANO. [EAU DE JAVEL] blanchit le linge sans l'altérer. JOLI-CŒUR Un
+JOLI-CŒUR,Product,Product,6580,6589,,"EAU DE JAVEL blanchit le linge sans l'altérer. [JOLI-CŒUR] Un ciel bas et gris, nuancé de rouille, une imme"
+Mar-seillaise,Product,Product,7010,7023,,"ent morte. Soudain, les paroles enflammées de la [Mar-seillaise] passent à travers la bise glaciale qui siffle lug"
+Moskowa,Location,Location,7328,7335,,"vétéran de vingt-huit ans, blessé la veille à la [Moskowa] et laissé pour mort sur le champ de bataille. Re"
+Empereur,Person,Person,7618,7626,,"e, bien persuadé qu'il finirait par retrouver son [Empereur]. Il s'en allait, toujours chantant, quand il s'a"
+Marie,Person,Person,9005,9010,,longue... L'enfant avait seize ans et se nommait [Marie]. Elle était fille d'une vivandière du corps d'arm
+Murat,Person,Person,9066,9071,,"était fille d'une vivandière du corps d'armée de [Murat]. Quatre jours auparavant, à la suite d'une rencon"
+roi de Naples,Person,Person,9146,9159,,", à la suite d'une rencontre entre les troupes du [roi de Naples] et celles du général Konownitzin, amis et ennemis"
+Konownitzin,Person,Person,9181,9192,,"les troupes du roi de Naples et celles du général [Konownitzin], amis et ennemis s'étaient trouvés un moment conf"
+Cosaques,Person,Person,9319,9327,,"nt dû se retirer promptement devant des hordes de [Cosaques] accourus au secours des Russes. Alors, les femmes"
+Russes,Person,Person,9352,9358,,"nt des hordes de Cosaques accourus au secours des [Russes]. Alors, les femmes Eh! eh! ajouta-t-il en ricana"
+Austerlitz,Location,Location,9481,9491,,"utres!... Tenez, tel que vous me voyez, j'étais à [Austerlitz]... Ah! ça n'a pas été long: l'armée bordait le Rh"
+Rhin,Location,Location,9539,9543,,tz... Ah! ça n'a pas été long: l'armée bordait le [Rhin] depuis Strasbourg jusqu'à Mayence; l'Empereur arr
+Strasbourg,Location,Location,9551,9561,,"n'a pas été long: l'armée bordait le Rhin depuis [Strasbourg] jusqu'à Mayence; l'Empereur arrive, fait exécuter"
+Mayence,Location,Location,9570,9577,,"l'armée bordait le Rhin depuis Strasbourg jusqu'à [Mayence]; l'Empereur arrive, fait exécuter, par une conver"
+Joli-Cœur,Person,Person,10023,10032,,rente mille prisonniers!... La nuit était venue. [Joli-Cœur] ne pouvait plus compter que sur les détonations p
+Iéna,Location,Location,10534,10538,,"me rappelle le brouillard qui nous enveloppait à [Iéna], quand nous avons commencé la fusillade. Encore u"
+Eylau,Location,Location,10726,10731,,"te généraux tués, blessés ou prisonniers!... Et à [Eylau], quelle purge! Je suis sûr que le roi de Prusse c"
+Friedland,Location,Location,11049,11058,,"s sans interrompre le récit de ses exploits. — A [Friedland], continua-t-il, les Russes ont laissé sur le terr"
+Cosaques,Person,Person,11234,11242,,"e canon!... Là-bas, dans le noir de la nuit, les [Cosaques] tiraient toujours, au hasard, bien certains qu'un"
+Joli-Cœur,Person,Person,12376,12385,,"ue l'allure martiale et l'insouciance bravoure de [Joli-Cœur] avaient déjà fait rêver. — Alors, je continue..."
+Friedland,Location,Location,12480,12489,,"ue... Voyons, j'en étais... — Vous me parliez de [Friedland]. — C'est vrai. Je venais de tuer vingt-quatre gé"
+Eckmühl,Location,Location,12712,12719,,"ussitôt par l'envoi d'une balle... Ça me rappelle [Eckmühl], ajouta-t-il, renarrant ainsi l'histoire de son o"
+Masséna,Person,Person,13245,13252,,"Moi, je n'ai jamais tant ri!... Figurez-vous que [Masséna], sous le prétexte qu'il s'était blessé la veille"
+l'Empereur,Person,Person,13488,13498,,"e vu, quitte à y laisser sa peau!... C'est là que [l'Empereur] m'a décoré!... conclut-il fièrement. Une lueur s"
+Grande Armée,Organization,Organization,14523,14535,,"ue continuait le morne défilé. La retraite de la [Grande Armée] commençait, éclairée par les dernières flammes de"
+Moscou,Location,Location,14600,14606,,lairée par les dernières flammes de l'incendie de [Moscou]!

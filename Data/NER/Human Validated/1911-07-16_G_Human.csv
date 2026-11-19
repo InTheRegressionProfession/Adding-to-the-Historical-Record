@@ -1,0 +1,58 @@
+﻿entity,fine_type,coarse_type
+Raoul VERNEUIL,pers.ind,Person
+Périgueux,loc.adm.town,Location
+22 nov. 1909,time.date.abs,Time
+Lyon,loc.adm.town,Location
+29 avril 1910,time.date.abs,Time
+Douai,loc.adm.town,Location
+27 janvier 1910,time.date.abs,Time
+Bourg,loc.adm.town,Location
+15 nov. 1910,time.date.abs,Time
+Pontivy,loc.adm.town,Location
+3 mars 1909,time.date.abs,Time
+Montpellier,loc.adm.town,Location
+9 août 1906,time.date.abs,Time
+12 avril 1910,time.date.abs,Time
+Luhans,loc.adm.town,Location
+16 juillet 1909,time.date.abs,Time
+SAINT-YVES,pers.ind.articleauthor,Person
+Afrique,loc.adm.sup,Location
+Thabor,loc.phys.geo,Location
+Nestor,pers.ind,Person
+E. Terrion,pers.ind,Person
+Marc Assin,pers.ind,Person
+Léopold Gros,pers.ind,Person
+M. Cholet,pers.ind,Person
+C. Desserville,pers.ind,Person
+F. Crémont,pers.ind,Person
+A. Godaux,pers.ind,Person
+Kloklo,pers.ind,Person
+HUTCHINSON,org.ent,Organization
+GIRARD & BOITTE,org.ent,Organization
+Paris,loc.adm.town,Location
+"46, Rue de l'Échiquier",loc.add.phys,Location
+Dr Wolf,pers.ind,Person
+M. Passerieux,pers.ind,Person
+"46, rue des Faures",loc.add.phys,Location
+Bordeaux,loc.adm.town,Location
+Pharmacie Girard,org.ent,Organization
+"21, rue Lafayette",loc.add.phys,Location
+Prof. LAGUS,pers.ind,Person
+Palais d'Hiver,loc.fac,Location
+Pau,loc.adm.town,Location
+TRIBAUDEAU,org.ent,Organization
+BESANÇON,loc.adm.town,Location
+Léopold POUJADE,pers.ind,Person
+FIGEAC,loc.adm.town,Location
+Petit Journal,prod.media,Product
+G. LIÉBERT,pers.ind,Person
+HOTEL DU « PETIT JOURNAL »,loc.fac,Location
+"61, Rue Lafayette",loc.add.phys,Location
+PETIT JOURNAL AGRICOLE,prod.media,Product
+CYCLES MERICANT,org.ent,Organization
+"13, Av. des Moulineaux",loc.add.phys,Location
+PARIS-BILLANCOURT,loc.adm.town,Location
+G. LASSEUR,pers.ind,Person
+C. MARTY,pers.ind,Person
+MARINONI,org.ent,Organization
+LORILLEUX,org.ent,Organization

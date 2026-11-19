@@ -1,0 +1,54 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+M. Jules,pers.ind,Person,pers.ind,375,383,,"sourire contraint, à un jeune homme soucieux : — [M. Jules] !... il y a un moyen de ne pas vous obliger à re"
+Lise,pers.ind,Person,pers.ind,801,805,,"vec force... Mais je ne veux pas !... non, non, [Lise] !... gardez votre argent !... — C'est mal, cela !"
+Mam'zelle Lise,pers.ind,Person,pers.ind,894,908,,"mal, cela !... Pourquoi ne pas accepter, implora [Mam'zelle Lise]... Cet ar- gent ne sera-t-il pas bientôt à vous."
+Midi,loc.adm.sup,Location,loc.adm.sup,1256,1260,,". Elle aimerait tant habi- ter la province... le [Midi]... voir la mer... Et puis, être patronne... Lui-m"
+Jules Lehart,pers.ind,Person,pers.ind,1682,1694,,"après, munis des 6.200 francs de Mam'zelle Lise, [Jules Lehart] partait pour Marseille. Sa fiancée le conduisit"
+Marseille,loc.adm.town,Location,loc.adm.town,1709,1718,,"cs de Mam'zelle Lise, Jules Lehart partait pour [Marseille]. Sa fiancée le conduisit à la gare, l'embrassa t"
+Mont-Blanc,loc.phys.geo,Location,loc.phys.geo,2507,2517,,LE PRÉTENDANT. — Désirez-vous que je gravisse le [Mont-Blanc] à quatre pattes (se reprenant) pardon... à genou
+Terre-de-Feu,loc.phys.geo,Location,loc.phys.geo,2627,2639,,-vous que j'apprenne à lire aux indigènes de la [Terre-de-Feu] ? Sont-ce des peaux arra- chées aux lions de l'A
+Atlas,loc.phys.geo,Location,loc.phys.geo,2688,2693,,u ? Sont-ce des peaux arra- chées aux lions de l'[Atlas] qu'il faut pour parvenir au couronnement de vos
+Nouvelle-Guinée,loc.adm.nat,Location,loc.adm.nat,3003,3018,,de repas à vingt-trois sous aux sauvages de la [Nouvelle-Guinée] ?... LA FIANCÉE. — Non... (Très simplement) : F
+1809,time.date.abs,Time,time.date.abs,3624,3628,,z. LA FIANCÉE. — Je l'ai lue dans l'almanach de [1809]... LE PRÉTENDANT (cherchant autre chose). — Ça
+Charles QUINEL,pers.ind.articleauthor,Person,pers.ind.articleauthor,5343,5357,,"raiment, ça ne compte pas... c'est trop bête... [Charles QUINEL]. LE CODE POUR TOUS Contributions directes Juri"
+LE CODE POUR TOUS,prod.media,Product,prod.media,5360,5377,,mpte pas... c'est trop bête... Charles QUINEL. [LE CODE POUR TOUS] Contributions directes Jurisprudence Déménagem
+21 avril 1832,time.date.abs,Time,time.date.abs,5568,5581,,"positions combinées des articles 22 de la loi du [21 avril 1832] et 30 de la loi du 15 juillet 1880, que les cont"
+15 juillet 1880,time.date.abs,Time,time.date.abs,5602,5617,,"22 de la loi du 21 avril 1832 et 30 de la loi du [15 juillet 1880], que les contribu- tions imposées à chaque contr"
+Conseil d'Etat,org.adm,Organization,org.adm,6068,6082,,"e présumé quitter le ressort de la perception. ([Conseil d'Etat], 1er juillet 1910.) Veuve. Contribution inscrite"
+1er juillet 1910,time.date.abs,Time,time.date.abs,6084,6100,,"r le ressort de la perception. (Conseil d'Etat, [1er juillet 1910].) Veuve. Contribution inscrite au nom de son ma"
+21 juillet 1909,time.date.abs,Time,time.date.abs,6621,6636,,"rôle, ne lui fait aucun grief. (Conseil d'Etat, [21 juillet 1909].) Patentes. Marchand forain. — Un com- merçant"
+28 avril 1909,time.date.abs,Time,time.date.abs,7180,7193,,"e à deux roues et à un collier. (Conseil d'Etat, [28 avril 1909].) Réclamations. Modification par l'admi- nistra"
+Conseil d'Etat,org.adm,Organization,org.adm,7533,7547,,"eine d'annulation de la décision à intervenir. ([Conseil d'Etat], 27 mai 1909.) Réclamations. Non-recevabilité de"
+27 mai 1909,time.date.abs,Time,time.date.abs,7549,7560,,"n de la décision à intervenir. (Conseil d'Etat, [27 mai 1909].) Réclamations. Non-recevabilité de la ré- clam"
+13 juillet 1903,time.date.abs,Time,time.date.abs,8149,8164,,"aler au réclamant par ap- plication de la loi du [13 juillet 1903]. (Conseil d'Etat, 31 juillet 1908.) Réclamation"
+31 juillet 1908,time.date.abs,Time,time.date.abs,8184,8199,,"n de la loi du 13 juillet 1903. (Conseil d'Etat, [31 juillet 1908].) Réclamations. Désistement du réclamant. Frais"
+22 avril 1910,time.date.abs,Time,time.date.abs,8573,8586,,"la notification du désistement. (Conseil d'Etat, [22 avril 1910].) Recours au Conseil d'Etat en matière d'évalua"
+3 frimaire an VII,time.date.abs,Time,time.date.abs,8950,8967,,les formes prescrites par l'art. 56 de la loi du [3 frimaire an VII]. Leur travail est irrégulier s'ils ont simplemen
+28 juillet 1911,time.date.abs,Time,time.date.abs,9223,9238,,"alement sur les baux en cours. (Conseil d'Etat, [28 juillet 1911].) SAINT-YVES. Mot en triangle Le moindre ornem"
+SAINT-YVES,loc.adm.town,Location,loc.adm.town,9242,9252,,"x en cours. (Conseil d'Etat, 28 juillet 1911.) [SAINT-YVES]. Mot en triangle Le moindre ornement d'un disco"
+Suisse,loc.adm.nat,Location,loc.adm.nat,9454,9460,,r charmant. — Ce qui sur la terre respire. — En [Suisse] se trouve aisément. — Ile française. — En tout s
+A. Lefebvre,pers.ind,Person,pers.ind,9643,9654,,égalien. SOLUTIONS JUSTES Mot carré (N° 1.131) [A. Lefebvre]. — O. Clin. — Nortrop. — Léo- pold Gros. — Spiri
+O. Clin,pers.ind,Person,pers.ind,9658,9665,,IONS JUSTES Mot carré (N° 1.131) A. Lefebvre. — [O. Clin]. — Nortrop. — Léo- pold Gros. — Spirite. — Chauq
+Nortrop,pers.ind,Person,pers.ind,9669,9676,,Mot carré (N° 1.131) A. Lefebvre. — O. Clin. — [Nortrop]. — Léo- pold Gros. — Spirite. — Chauquettes. — M
+Spirite,pers.ind,Person,pers.ind,9699,9706,,ebvre. — O. Clin. — Nortrop. — Léo- pold Gros. — [Spirite]. — Chauquettes. — M. T. — Va vite. — Haël. — E.
+Chauquettes,pers.ind,Person,pers.ind,9710,9721,,Clin. — Nortrop. — Léo- pold Gros. — Spirite. — [Chauquettes]. — M. T. — Va vite. — Haël. — E. Terrion. — Loui
+M. T.,pers.ind,Person,pers.ind,9725,9730,,p. — Léo- pold Gros. — Spirite. — Chauquettes. — [M. T.] — Va vite. — Haël. — E. Terrion. — Louis Cros.
+Va vite,pers.ind,Person,pers.ind,9734,9741,,pold Gros. — Spirite. — Chauquettes. — M. T. — [Va vite]. — Haël. — E. Terrion. — Louis Cros. — Jean et A
+Haël,pers.ind,Person,pers.ind,9745,9749,,. — Spirite. — Chauquettes. — M. T. — Va vite. — [Haël]. — E. Terrion. — Louis Cros. — Jean et Antoine.
+E. Terrion,pers.ind,Person,pers.ind,9753,9763,,ite. — Chauquettes. — M. T. — Va vite. — Haël. — [E. Terrion]. — Louis Cros. — Jean et Antoine. — C. Pierron.
+"Louis
+
+Cros",pers.ind,Person,pers.ind,9767,9778,,ttes. — M. T. — Va vite. — Haël. — E. Terrion. — [Louis Cros]. — Jean et Antoine. — C. Pierron. — F. Crémont.
+Jean et Antoine,pers.coll,Person,pers.coll,9782,9797,,— Va vite. — Haël. — E. Terrion. — Louis Cros. — [Jean et Antoine]. — C. Pierron. — F. Crémont. — Kloklo. — Q. de M
+C. Pierron,pers.ind,Person,pers.ind,9801,9811,,— E. Terrion. — Louis Cros. — Jean et Antoine. — [C. Pierron]. — F. Crémont. — Kloklo. — Q. de Meigneux. — Ch
+"F.
+
+Crémont",pers.ind,Person,pers.ind,9815,9826,,— Louis Cros. — Jean et Antoine. — C. Pierron. — [F. Crémont]. — Kloklo. — Q. de Meigneux. — Cherche trouve. —
+Kloklo,pers.ind,Person,pers.ind,9830,9836,,— Jean et Antoine. — C. Pierron. — F. Crémont. — [Kloklo]. — Q. de Meigneux. — Cherche trouve. — C. Desser
+Q. de Meigneux,pers.ind,Person,pers.ind,9840,9854,,Antoine. — C. Pierron. — F. Crémont. — Kloklo. — [Q. de Meigneux]. — Cherche trouve. — C. Desserville. — Albert P.
+Cherche trouve,pers.ind,Person,pers.ind,9859,9873,,on. — F. Crémont. — Kloklo. — Q. de Meigneux. — [Cherche trouve]. — C. Desserville. — Albert P. — Tante Léonie. —
+C. Desserville,pers.ind,Person,pers.ind,9877,9891,,— Kloklo. — Q. de Meigneux. — Cherche trouve. — [C. Desserville]. — Albert P. — Tante Léonie. — Salze. — Al-ben-S
+Albert P.,pers.ind,Person,pers.ind,9895,9904,,Meigneux. — Cherche trouve. — C. Desserville. — [Albert P.] — Tante Léonie. — Salze. — Al-ben-Sehrka. —
+Tante Léonie,pers.ind,Person,pers.ind,9908,9920,,Cherche trouve. — C. Desserville. — Albert P. — [Tante Léonie]. — Salze. — Al-ben-Sehrka. —
+Salze,pers.ind,Person,pers.ind,9924,9929,,— C. Desserville. — Albert P. — Tante Léonie. — [Salze]. — Al-ben-Sehrka. —
+Al-ben-Sehrka,pers.ind,Person,pers.ind,9933,9946,,serville. — Albert P. — Tante Léonie. — Salze. — [Al-ben-Sehrka]. —

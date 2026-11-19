@@ -1,0 +1,94 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+René Jeantet,Person,PER,19,31,,"ENTRE DEUX AMOURS [René Jeantet] ouvrit en silence la porte-fenêtre, fit quelques"
+René Jeantet,Person,PER,484,496,,"robes blanches, à des robes irradieuses de fées. [René Jeantet] aspirait l'air à pleins poumons. Une joie surhuma"
+René,Person,PER,702,706,,". Tandis que tous les hôtes du château dormaient, [René] n'avait pu se résoudre à les imiter et maintenant"
+École Centrale de Paris,Organization,ORG,1047,1070,,"nique passion du travail. Reçu de bonne heure à l'[École Centrale de Paris], il en était sorti avec le diplôme d'ingénieur et"
+René Jeantet,Person,PER,1737,1749,,"nge à se créer rapidement, un foyer, une famille. [René Jeantet], à ce tournant de la vie, n'hésita pas. Il était"
+René,Person,PER,2180,2184,,"écorce rude, battait un cœur très sensible. Oui, [René] n'hésita pas et dès que le hasard l'eut mis en pr"
+Suzanne Morlier,Person,PER,2244,2259,,"pas et dès que le hasard l'eut mis en présence de [Suzanne Morlier], il se déclara à lui-même : — Voilà la femme qu'"
+Morlier,Person,PER,2353,2360,,me qu'il me faut ! Voilà celle que j'aurai ! Les [Morlier] étaient d'anciens industriels que des grèves trop
+Normandie,Location,LOC,2499,2508,,"nier débris de leur splendeur, ils possédaient en [Normandie] un château entouré de bois et c'est là qu'ils viv"
+Suzanne,Person,PER,2613,2620,,"toute l'année, obscurément, presque pauvrement. [Suzanne] était leur enfant unique. Blonde, souple, primesa"
+Michel Réval,Person,PER,3035,3047,,"déjà s'était enhardi, un cousin que l'on nommait [Michel Réval]. Mais lui aussi était sans fortune et M. Morlier"
+M. Morlier,Person,PER,3086,3096,,"ichel Réval. Mais lui aussi était sans fortune et [M. Morlier] avait eu tôt fait, preuves en mains, de démontrer"
+René Jeantet,Person,PER,3222,3234,,"était impossible. Ce fut à ce moment exact, que [René Jeantet] se présenta. Tout de suite sa personne et sa situ"
+Morlier,Person,PER,3313,3320,,a personne et sa situation conquièrent la famille [Morlier]. A Suzanne même il parut ne pas moins plaire. Une
+Suzanne,Person,PER,3324,3331,,et sa situation conquièrent la famille Morlier. A [Suzanne] même il parut ne pas moins plaire. Une automobile
+René,Person,PER,3619,3623,,"Et, cette intimité nouvelle activant les choses, [René], tout à fait épris de Suzanne, demanda sa main."
+Suzanne,Person,PER,3646,3653,,"e activant les choses, René, tout à fait épris de [Suzanne], demanda sa main. M. et Mme Morlier reçurent cet"
+Mme Morlier,Person,PER,3679,3690,,"à fait épris de Suzanne, demanda sa main. M. et [Mme Morlier] reçurent cette demande avec une joie, avec une re"
+Suzanne,Person,PER,4092,4099,,"ose toute décidée. Mais il lui fallait convaincre [Suzanne]. Or celle-ci, par quelle étrange aberration ? se"
+René,Person,PER,4513,4517,,"ait mis sa petite main tremblante dans la main de [René]. Ce soir même, avait glissé à son doigt l'anneau"
+René,Person,PER,5557,5561,,"érieur du château et s'approchait de la terrasse. [René], curieux, se recula dans l'ombre, le long du mur."
+Hé quoi !,Product,MISC,5751,5760,,"uement. Elle eut peine à retenir un léger cri. — [Hé quoi !] s'écria René stupéfait, c'est vous, Suzanne ! Que"
+René,Person,PER,5769,5773,,"eine à retenir un léger cri. — Hé quoi ! s'écria [René] stupéfait, c'est vous, Suzanne ! Que faites-vous"
+Suzanne !,Product,MISC,5797,5806,,"— Hé quoi ! s'écria René stupéfait, c'est vous, [Suzanne !] Que faites-vous ici, à cette heure ? La jeune fi"
+Suzanne,Person,PER,6135,6142,,"ors que cherchez-vous ? — Cela vous regarde, fit [Suzanne] d'un ton nerveux ? — Depuis ce soir, depuis que"
+René,Person,PER,6648,6652,,"de la femme surprise en ses projets. Le premier, [René] retrouva un peu de calme. Il murmura : — Excusez"
+"Excusez-moi, mon amie !",Product,MISC,6695,6718,,"r, René retrouva un peu de calme. Il murmura : — [Excusez-moi, mon amie !] J'ai tort de vous parler ainsi. Mais je m'attenda"
+Suzanne !,Product,MISC,7575,7584,,"ang fit battre ses tempes. Il balbutia : — Vous, [Suzanne !] Vous !... Non, vous vous moquez de moi ! Ce n'est"
+René,Person,PER,7823,7827,,"sage de son fiancé avec une joie féroce : — Oui, [René], j'allais à un rendez-vous ! Nous sommes fiancés,"
+Michel Réval,Person,PER,7989,8001,,"Avant de vous connaître, j'avais promis ma main à [Michel Réval], mon cousin. C'est lui que j'aime et sa passion,"
+Michel,Person,PER,8258,8264,,"heur... J'ai eu l'air de céder, j'ai même écrit à [Michel] pour lui dire adieu. Mais il s'est révolté, il m'"
+"-moi passer !
+
+René",Product,MISC,8415,8434,,a grille du parc... Je vais le rejoindre ! Laissez[-moi passer ! René] tenait toujours entre ses doigts le poignet de la
+Suzanne,Person,PER,8883,8890,,"même amour était capable. Il balbutia enfin : — [Suzanne], je vous aime trop profondément pour causer votre"
+Michel,Product,MISC,8996,9002,,"ur. Dites-moi que vous aimez vraiment, réellement [Michel], que vous l'aimez pour toute la vie et vous êtes"
+Suzanne,Person,PER,9247,9254,,"pour la laisser passer. — Vous êtes bon, murmura [Suzanne], et je regrette maintenant d'en aimer un autre !"
+Michel,Person,PER,9350,9356,,e ! — N'en dites pas davantage ! Allez rejoindre [Michel]. Il vous attend ! Dites-lui que rien ne s'oppose
+René,Person,PER,9918,9922,,air de lune. L'attente fut longue et cruelle pour [René]. Les minutes lui furent des heures. A chaque inst
+Suzanne,Person,PER,10169,10176,,jouât en ce moment. Il savait qu'il allait perdre [Suzanne] pour toujours et cependant l'orgueil de son sacr
+René,Person,PER,10602,10606,,"le gravit les marches et, au haut de la terrasse, [René], la voyant défaillir, la reçut dans ses bras. —"
+Suzanne,Person,PER,10656,10663,,", la voyant défaillir, la reçut dans ses bras. — [Suzanne], Suzanne, supplia-t-il, qu'avez-vous ? Et, s'ape"
+Suzanne,Person,PER,10665,10672,,"nt défaillir, la reçut dans ses bras. — Suzanne, [Suzanne], supplia-t-il, qu'avez-vous ? Et, s'apercevant s"
+Michel,Person,PER,10788,10794,,armes embuaient ses paupières : — Vous pleurez ! [Michel] était-il absent ? N'êtes-vous pas heureuse ? Que
+Michel,Person,PER,11032,11038,,"i basse qu'on l'entendit à peine, elle avoua : — [Michel] était là ! Je l'ai vu, je lui ai parlé... Ah ! l'"
+Ah !,Product,MISC,11081,11085,,"Michel était là ! Je l'ai vu, je lui ai parlé... [Ah !] l'horrible instant !... Je lui ai dit votre sacri"
+René,Person,PER,11303,11307,,"s pas ! » Elle s'arrêta, incapable de continuer. [René] en profita et, d'une voix toute naturelle, murmur"
+constituerai,Person,PER,11491,11503,,"nt. Je lui ferai une position à ce garçon, je lui [constituerai] une dot, s'il le faut. Enfin je suis prêt à tout"
+Michel,Person,PER,11840,11846,,e ! car je me suis leurrée de fausses apparences. [Michel] ne m'a jamais aimée réellement. Il vient de m'en
+Taisez,Person,PER,12336,12342,,"rte, maintenant, dit-elle ! Ma vie est brisée. — [Taisez]-vous, Suzanne ! Votre vie commence au contraire."
+Suzanne !,Product,MISC,12349,12358,,"nt, dit-elle ! Ma vie est brisée. — Taisez-vous, [Suzanne !] Votre vie commence au contraire. Ne sommes-nous p"
+Fiancés !,Product,MISC,12424,12433,,nce au contraire. Ne sommes-nous pas fiancés ? — [Fiancés !] Vous acceptez donc toujours de m'épouser ? — Plu
+Trumeau,Person,PER,12689,12696,,"R. LAMOTTE. L'homme qui ne sait pas Le cas de [Trumeau] n'est pas ordinaire, cet homme a l'âge respectabl"
+Trumeau,Person,PER,13061,13068,,"ion aux agents. LE PRÉSIDENT. — Vous vous nommez [Trumeau] (Eugène-Pierre), vous êtes né à Elbeuf, le 23 mar"
+Eugène-Pierre,Person,PER,13070,13083,,"gents. LE PRÉSIDENT. — Vous vous nommez Trumeau ([Eugène-Pierre]), vous êtes né à Elbeuf, le 23 mars 1860 ; vos pa"
+Elbeuf,Location,LOC,13101,13107,,"us nommez Trumeau (Eugène-Pierre), vous êtes né à [Elbeuf], le 23 mars 1860 ; vos parents étaient de braves"
+Jambon,Person,PER,13224,13230,,"té marié, vous êtes veuf, votre épouse se nommait [Jambon] (Fanny-Augustine), vous n'avez jamais eu d'enfant"
+Fanny-Augustine,Person,PER,13232,13247,,", vous êtes veuf, votre épouse se nommait Jambon ([Fanny-Augustine]), vous n'avez jamais eu d'enfants ; pendant toute"
+rue des Jeuneurs,Location,LOC,13425,13441,,"us étiez employé chez un marchand de toiles de la [rue des Jeuneurs] où vous étiez garçon de magasin, vous avez toujou"
+Clichy,Location,LOC,13989,13995,,à un marchand d'objets funéraires du boulevard de [Clichy]. Pourquoi avez-vous scié cette couronne ? TRUMEA
+TRUMEAU,Person,PER,14039,14046,,Clichy. Pourquoi avez-vous scié cette couronne ? [TRUMEAU]. — Parce que j'avais une scie. LE PRÉSIDENT. — J
+TRUMEAU,Person,PER,14209,14216,,"pas scié, mais cela ne constitue pas une excuse. [TRUMEAU]. — Je vous demande pardon, monsieur le président,"
+TRUMEAU,Person,PER,14433,14440,,pport de l'agent ne dit pas que vous étiez ivre. [TRUMEAU]. — Et le rapport de l'agent est dans le vrai ; si
+TRUMEAU,Organization,ORG,14607,14614,,out. LE PRÉSIDENT. — Vous avez injurié l'agent. [TRUMEAU]. — Je ne crois pas. LE PRÉSIDENT. — Et vous avez
+TRUMEAU,Person,PER,14817,14824,,"de poing dans l'estomac, vous auriez pu le tuer. [TRUMEAU]. — Je n'avais que deux mains à ma disposition ; f"
+TRUMEAU,Person,PER,14974,14981,,"ide. LE PRÉSIDENT. — N'ergotons pas, vous niez. [TRUMEAU]. — Je nie et je ne nie pas. LE PRÉSIDENT. — Soye"
+TRUMEAU,Person,PER,15054,15061,,"pas. LE PRÉSIDENT. — Soyez un peu plus précis. [TRUMEAU]. — J'ai peut-être tapé dans le tas, mais si j'ai"
+AGENT,Organization,ORG,15238,15243,,"LE PRÉSIDENT. — Nous allons entendre l'agent. L'[AGENT]. — Le 27 août dernier, dans la nuit, j'étais de s"
+cimetière Montmartre,Location,LOC,15321,15341,,"la nuit, j'étais de service dans les environs du [cimetière Montmartre], il faisait un clair de lune splendide, et après"
+Butte,Location,LOC,15467,15472,,"ui flânaient à la sortie des établissements de la [Butte], après avoir débarrassé le trottoir de ces turbul"
+AGENT,Organization,ORG,15768,15773,,". LE PRÉSIDENT. — Ces détails sont superflus. L'[AGENT]. — Bien, monsieur, je vais abrégé. Par extraordin"
+Courtaud,Person,PER,15863,15871,,"extraordinaire, je me trouvais seul, mon collègue [Courtaud], ayant été pris de formidables coliques, était re"
+AGENT,Organization,ORG,16395,16400,,"pas à cette histoire des détails fastidieux ! L'[AGENT]. — Je levai le nez en l'air et j'aperçus, grâce a"
+Trumeau,Person,PER,16492,16499,,"grâce au clair de lune qui l'éclairait, le sieur [Trumeau] qui, à cheval sur le bec de gaz qui paraissait bi"
+Cent mille regrets,Product,MISC,16653,16671,,couronne qui ornait la devanture du magasin des « [Cent mille regrets] » dont M. Rigolot est le propriétaire. Je lui int
+M. Rigolot,Person,PER,16679,16689,,anture du magasin des « Cent mille regrets » dont [M. Rigolot] est le propriétaire. Je lui intimai l'ordre de ce
+Manche,Location,LOC,16865,16871,,"Ferme ton bec, manche à balle. » LE PRÉSIDENT. — [Manche] à balle ? L'AGENT. — Oui, monsieur le président,"
+AGENT,Organization,ORG,16885,16890,,"e à balle. » LE PRÉSIDENT. — Manche à balle ? L'[AGENT]. — Oui, monsieur le président, manche à balle. T"
+TRUMEAU,Person,PER,16939,16946,,"T. — Oui, monsieur le président, manche à balle. [TRUMEAU]. — J'ai pas dit : « Manche à balle » ; j'ai dit :"
+Manche,Location,LOC,16967,16973,,"ent, manche à balle. TRUMEAU. — J'ai pas dit : « [Manche] à balle » ; j'ai dit : « Manche à coulisses. » L"
+Manche,Location,LOC,16999,17005,,J'ai pas dit : « Manche à balle » ; j'ai dit : « [Manche] à coulisses. » LE PRÉSIDENT. — Qu'est-ce que cel
+TRUMEAU,Person,PER,17069,17076,,"» LE PRÉSIDENT. — Qu'est-ce que cela signifie ? [TRUMEAU]. — J'en sais rien, j'ai dit ça comme j'aurais dit"
+"Continuez !
+
+",Product,MISC,17157,17170,,"comme j'aurais dit autre chose. LE PRÉSIDENT. — [Continuez ! ]L'AGENT. — Comme il se refusait à descendre, je pr"
+AGENT,Organization,ORG,17172,17177,,"dit autre chose. LE PRÉSIDENT. — Continuez ! L'[AGENT]. — Comme il se refusait à descendre, je pris le p"
+AGENT,Organization,ORG,18164,18169,,SIDENT. — C'est tout ce que vous avez à dire ? L'[AGENT]. — Il me reste à vous dire qu'il n'était pas saou
+TRUMEAU,Person,PER,18379,18386,,répondre pour la justification de vos méfaits ? [TRUMEAU]. — J'ai à répondre que je ne sais pas pourquoi j'
+Ça,Product,MISC,18453,18455,,"re que je ne sais pas pourquoi j'ai fait tout ça. [Ça] doit être le chagrin qui me met dans cet état-là,"
+TRUMEAU,Person,PER,18755,18762,,"le plomb que vous cherchiez à vous en emparer ? [TRUMEAU]. — Oh ! monsieur le président, pouvez-vous penser"
+Oh !,Product,MISC,18766,18770,,"ue vous cherchiez à vous en emparer ? TRUMEAU. — [Oh !] monsieur le président, pouvez-vous penser ça ! Qu"
+TRUMEAU,Person,PER,19047,19054,,"ez en train de scier cette couronne sans raison. [TRUMEAU]. — Ma parole d'honnête homme, monsieur le préside"
+TRUMEAU,Person,PER,19592,19599,,"aviez-vous cette scie à trois heures du matin ? [TRUMEAU]. — Je ne pourrais pas vous dire, mes souvenirs so"

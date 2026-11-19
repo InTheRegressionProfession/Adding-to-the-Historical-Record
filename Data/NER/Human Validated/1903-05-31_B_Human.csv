@@ -1,0 +1,58 @@
+﻿entity,fine_type,coarse_type
+Allemagne,loc.adm.nat,Location
+Nancy,loc.adm.town,Location
+Baliguet,pers.ind,Person
+1870,time.date.abs,Time
+Vosges,loc.phys.geo,Location
+Guillaume II,pers.ind,Person
+fort de Lucey,loc.fac,Location
+Meurthe-et-Moselle,loc.adm.reg,Location
+colonel Sandherr,pers.ind,Person
+Jardin d'Acclimatation,loc.fac,Location
+Côte-d'Ivoire,loc.adm.nat,Location
+Afrique,loc.adm.sup,Location
+France,loc.adm.nat,Location
+REINE AMÉLIE,pers.ind,Person
+PORTUGAL,loc.adm.nat,Location
+S. M. Marie-Amélie,pers.ind,Person
+Car'os Ier,pers.ind,Person
+Paris,loc.adm.town,Location
+Louis-Philippe,pers.ind,Person
+duc d'Orléans,pers.ind,Person
+1886,time.date.abs,Time
+Bragance,loc.adm.reg,Location
+Tage,loc.phys.hydro,Location
+Villaviciosa,loc.adm.town,Location
+TERRE-NEUVE,loc.adm.reg,Location
+Saint-Malo,loc.adm.town,Location
+Théodora,prod,Product
+Miquelon,loc.adm.town,Location
+Saint-Pierre,loc.adm.town,Location
+Antilles,loc.adm.reg,Location
+Montmorency,prod,Product
+Pierre Hémon,pers.ind,Person
+Langrolay,loc.adm.town,Location
+Marie Aubert,pers.ind,Person
+monsieur Pierre,pers.ind,Person
+Adèle Gautier,pers.ind,Person
+Pierre,pers.ind,Person
+Marie,pers.ind,Person
+Adèle,pers.ind,Person
+père Hémon,pers.ind,Person
+Mlle Gautier,pers.ind,Person
+LÉON BERTHAUT,pers.ind.articleauthor,Person
+Lille,loc.adm.town,Location
+Flandre,loc.adm.reg,Location
+Cyrille Verhoeven,pers.ind,Person
+Afrique,loc.adm.sup,Location
+Verveine,pers.ind,Person
+Siltungarin,loc.adm.town,Location
+Sahara,loc.phys.geo,Location
+Tombouctou,loc.adm.town,Location
+Cyrille,pers.ind,Person
+Alexandrie,loc.adm.town,Location
+Verhoeven,pers.ind,Person
+Aurore,pers.ind,Person
+La Saharienne,prod,Product
+monsieur Verhoeven,pers.ind,Person
+Ivan Ivanowitch,pers.ind,Person

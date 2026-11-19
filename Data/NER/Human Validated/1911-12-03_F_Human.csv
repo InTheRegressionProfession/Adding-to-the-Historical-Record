@@ -1,0 +1,29 @@
+﻿entity,fine_type,coarse_type
+René Jeantet,pers.ind,Person
+École Centrale de Paris,org.ent,Organization
+Paris,loc.adm.town,Location
+Suzanne Morlier,pers.ind,Person
+Morlier,pers.coll,Person
+Normandie,loc.adm.reg,Location
+Suzanne,pers.ind,Person
+Michel Réval,pers.ind,Person
+M. Morlier,pers.ind,Person
+René,pers.ind,Person
+René Jeantet,pers.ind,Person
+Mme Morlier,pers.ind,Person
+Michel,pers.ind,Person
+R. LAMOTTE,pers.ind.articleauthor,Person
+Trumeau,pers.ind,Person
+Eugène-Pierre,pers.ind,Person
+Elbeuf,loc.adm.town,Location
+23 mars 1860,time.date.abs,Time
+Jambon,pers.ind,Person
+Fanny-Augustine,pers.ind,Person
+rue des Jeuneurs,loc.oro,Location
+28 août dernier,time.date.abs,Time
+boulevard de Clichy,loc.oro,Location
+TRUMEAU,pers.ind,Person
+Montmartre,loc.adm.town,Location
+Courtaud,pers.ind,Person
+sieur Trumeau,pers.ind,Person
+M. Rigolot,pers.ind,Person

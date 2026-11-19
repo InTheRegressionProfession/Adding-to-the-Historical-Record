@@ -1,0 +1,48 @@
+﻿entity,fine_type,coarse_type
+Amiral-Gueydon,prod,Product
+Afrique,loc.adm.sup,Location
+France,loc.adm.nat,Location
+Chargeurs-Réunis,org.ent,Organization
+Océan Indien,loc.phys.hydro,Location
+Petit Journal,prod.media,Product
+30 Juillet,time.date.abs,Time
+ilot de Socotra,loc.phys.geo,Location
+capitaine Logre,pers.ind,Person
+Aden,loc.adm.town,Location
+Mascate,loc.adm.town,Location
+Merbat,loc.adm.nat,Location
+Afghanistan,loc.adm.nat,Location
+Aden,loc.adm.town,Location
+Italie,loc.adm.nat,Location
+Victor-Emmanuel III,pers.ind,Person
+reine Hélène,pers.ind,Person
+Crimée,loc.adm.reg,Location
+prince Nicolas de Monténégro,pers.ind,Person
+Cettigné,loc.adm.town,Location
+Lucy,prod,Product
+Yacht-Club provençal,org.ent,Organization
+Marseille,loc.adm.town,Location
+M. Louis Lefort,pers.ind,Person
+Galtier,pers.coll,Person
+M. Lefort,pers.ind,Person
+Marseille,loc.adm.town,Location
+M. Galtier,pers.ind,Person
+1880,time.date.abs,Time
+Madeleine,pers.ind,Person
+Charles,pers.ind,Person
+Charles Lefort,pers.ind,Person
+M. Galtier,pers.ind,Person
+Lélaine,pers.ind,Person
+patron Grivelli,pers.ind,Person
+Méditerranée,loc.phys.hydro,Location
+Fernand Noat,pers.ind,Person
+M. Léon Randonnot,pers.ind,Person
+Grenouville,loc.adm.town,Location
+M. Randonnot,pers.ind,Person
+M. et Mme Liseret,pers.ind,Person
+Paris,loc.adm.town,Location
+Rose,pers.ind,Person
+Odette,pers.ind,Person
+Cécile,pers.ind,Person
+Noémi,pers.ind,Person
+Mme de Rion-Préau,pers.ind,Person

@@ -1,0 +1,167 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Z...,Person,PER,14,18,0.9192,son adresse à [Z...]? Ce n'est pourtant pas un créancier. L'AGRICULTU
+TIREBOUCHON II,Person,PER,243,257,0.855,avec gravures POUR 5 CENTIMES SEULEMENT POURQUOI [TIREBOUCHON II] n'a pas gagné le Grand-Prix... L'histoire a des
+Grand-Prix,Product,MISC,276,286,0.9696,"LEMENT POURQUOI TIREBOUCHON II n'a pas gagné le [Grand-Prix]... L'histoire a des dessous mystérieux, que la f"
+un jour,Time,DATE,393,400,0.9939,"nore. Quelques privilégiés parfois les apprennent [un jour], avec tardif de ceux qui furent acteurs ou témoin"
+'hui,Time,DATE,526,530,0.6329,"coulé. On se désintéresse. C'est ainsi qu'aujourd['hui], bien peu de gens songent à ce problème insoluble"
+Paris,Location,LOC,595,600,0.9771,ens songent à ce problème insoluble qui passionna [Paris] en 1895 : « Pourquoi Tirebouchon II n'a-t-il pas
+en 1895,Time,DATE,601,608,0.9956,ngent à ce problème insoluble qui passionna Paris [en 1895] : « Pourquoi Tirebouchon II n'a-t-il pas gagné le
+Tirebouchon II,Person,PER,622,636,0.9488,nsoluble qui passionna Paris en 1895 : « Pourquoi [Tirebouchon II] n'a-t-il pas gagné le Grand-Prix ?... » Ce fut u
+Grand-Prix,Product,MISC,659,669,0.9718,: « Pourquoi Tirebouchon II n'a-t-il pas gagné le [Grand-Prix] ?... » Ce fut un beau tapage. Les personnes bien
+Tirebouchon II,Person,PER,792,806,0.9959,"au feu leurs deux mains et leurs deux jambes que [Tirebouchon II], fils de Mastodonte et Lucie-de-Lamer Moor, gagne"
+Mastodonte,Person,PER,816,826,0.9958,"et leurs deux jambes que Tirebouchon II, fils de [Mastodonte] et Lucie-de-Lamer Moor, gagnerait « dan un fauteu"
+Lucie-de-Lamer Moor,Person,PER,830,849,0.9957,"jambes que Tirebouchon II, fils de Mastodonte et [Lucie-de-Lamer Moor], gagnerait « dan un fauteuil ». A la stupéfactio"
+Le Sanglier-des-Ardennes,Person,PER,966,990,0.9935,"ant, cet animal arriva second à une tête derrière [Le Sanglier-des-Ardennes], un carcan sur qui nul ne comptait. Il y eut de"
+baron de la Vivandière,Person,PER,1166,1188,0.9675,"u. Les sommités de sport furent interviewées. Le [baron de la Vivandière], président de la Société des courses plates, affi"
+Société des courses plates,Organization,ORG,1206,1232,0.9556,"ewées. Le baron de la Vivandière, président de la [Société des courses plates], affirma que Tirebouchon II était enrhumé. Le gr"
+Tirebouchon II,Person,PER,1246,1260,0.9952,"ent de la Société des courses plates, affirma que [Tirebouchon II] était enrhumé. Le gros Bookwell, l'entraîneur, n"
+gros Bookwell,Person,PER,1280,1293,0.9678,"es, affirma que Tirebouchon II était enrhumé. Le [gros Bookwell], l'entraîneur, ne fut pas de cet avis. Il tenait"
+Tirebouchon II,Person,PER,1991,2005,0.9084,"nt, me révéla la raison vraie de ce problème. Si [Tirebouchon II] n'a pas gagné le Grand-Prix, il y a six ans, c'es"
+Grand-Prix,Product,MISC,2023,2033,0.9626,"ce problème. Si Tirebouchon II n'a pas gagné le [Grand-Prix], il y a six ans, c'est rapport à une histoire de"
+a six ans,Time,DATE,2040,2049,0.8576,"Tirebouchon II n'a pas gagné le Grand-Prix, il y [a six ans], c'est rapport à une histoire de femme. Voilà bi"
+Hier,Time,DATE,2133,2137,0.9079,"femme. Voilà bien de leurs coups, n'est-ce pas ! [Hier] soir, je connus cette palpitante nouvelle en pren"
+deux ans,Time,DATE,2438,2446,0.9959,"e main un mioche, qui pouvait bien avoir dans les [deux ans]. Son autre main en traînait un second, plus âgé,"
+Toi,Person,PER,2656,2659,0.4813,", se croisant, s'interrogèrent. Puis soudain : — [Toi], Félix ! m'écriai-je. Félix me tendit les bras,"
+Félix,Person,PER,2661,2666,0.9459,"croisant, s'interrogèrent. Puis soudain : — Toi, [Félix] ! m'écriai-je. Félix me tendit les bras, me prés"
+Félix,Person,PER,2683,2688,0.9402,"ent. Puis soudain : — Toi, Félix ! m'écriai-je. [Félix] me tendit les bras, me présenta à son épouse et m"
+Félix,Person,PER,2943,2948,0.9538,"ssement que le sein maternel. Et nous causâmes. [Félix] ! Ce nom me rappelait toute ma jeunesse, huit ans"
+huit ans,Time,DATE,2990,2998,0.9963,". Félix ! Ce nom me rappelait toute ma jeunesse, [huit ans] passés côte à côte au lycée de Carcassonne, des l"
+Carcassonne,Location,LOC,3030,3041,0.9824,"jeunesse, huit ans passés côte à côte au lycée de [Carcassonne], des leçons soufflées, des parties de bille sans"
+Félix,Person,PER,3207,3212,0.9617,"soluble lien dans la vie. Pourtant j'avais perdu [Félix] de vue, une fois le « bacho » passé par moi, manq"
+Félix,Person,PER,3483,3488,0.9649,"itaires. Il ferait son chemin dans les lettres. [Félix], en effet, était doué pour la poésie. J'avais lu"
+d'années,Time,DATE,3661,3669,0.9424,"es. — Qu'es-tu devenu ? demandai-je, depuis tant [d'années]. A cette question, plausible pourtant, sa femme"
+un jour,Time,DATE,4138,4145,0.994,"lquefois, madame, plutôt rarement, surtout depuis [un jour] où j'eus le malheur de jouer sur une rosse du nom"
+Tirebouchon II,Product,MISC,4199,4213,0.7444,"j'eus le malheur de jouer sur une rosse du nom de [Tirebouchon II]. A ces mots, Félix fut saisi d'une douce hilarit"
+Félix,Person,PER,4228,4233,0.9752,"une rosse du nom de Tirebouchon II. A ces mots, [Félix] fut saisi d'une douce hilarité qui gagna sa femme"
+Félix,Person,PER,4389,4394,0.9602,"it. J'étais bouche bée, ne comprenant pas. Aors [Félix] me fit cette réponse ahurissante : — C'est moi q"
+Tirebouchon II,Product,MISC,4455,4469,0.8737,te réponse ahurissante : — C'est moi qui montais [Tirebouchon II]. Je fus stupéfait. Dans ma mémoire résonnait l'é
+Félix,Person,PER,4785,4790,0.9308,"enfoncée jusqu'aux oreilles. — C'est moi, répéta [Félix]. Au lieu d'enfourcher Pégase, j'enfourchai des ch"
+Pégase,Product,MISC,4813,4819,0.6064,"— C'est moi, répéta Félix. Au lieu d'enfourcher [Pégase], j'enfourchai des chevaux de courses... — Et com"
+Félix,Person,PER,4901,4906,0.944,"urses... — Et comment ce changement en ta vie ? [Félix], tout en jetant un regard de côté sur sa compagne"
+Carcassonne,Location,LOC,5166,5177,0.9893,n mauvais poète ! Tu te souviens de nos adieux à [Carcassonne]. J'étais décidé à conquérir dans la capitale tout
+l'Odéon,Location,LOC,5316,5323,0.9928,mportais dans ma valise trois drames en vers pour [l'Odéon]. Le hasard d'une rencontre en wagon changea tout
+Madame,Person,PER,5434,5440,0.9267,"hasard se présenta sous la gracieuse apparence de [Madame], alors timide personne en route vers Paris, où l'"
+Paris,Location,LOC,5478,5483,0.9903,"ce de Madame, alors timide personne en route vers [Paris], où l'attendait sa chère famille. Que te dire ?"
+Bourges,Location,LOC,5603,5610,0.992,"seuls ! La route était longue ! J'étais poète. De [Bourges] à Orléans, je lui lus mes trois drames en vers ;"
+Orléans,Location,LOC,5613,5620,0.992,"route était longue ! J'étais poète. De Bourges à [Orléans], je lui lus mes trois drames en vers ; à Etampes,"
+Etampes,Location,LOC,5662,5669,0.9913,"Orléans, je lui lus mes trois drames en vers ; à [Etampes], j'improvisais pour elle un sonnet. Bref, quand l"
+Paris,Location,LOC,6059,6064,0.9919,"is en route pour rendre visite, à l'autre bout de [Paris], à l'auteur respectable des jours de ma bien-aimé"
+Monsieur Pierre,Person,PER,6143,6158,0.9656,jours de ma bien-aimée. Il avait ce nom simple : [Monsieur Pierre]. Je fus un peu décontenancé quand je me trouvai e
+M. Pierre,Person,PER,6589,6598,0.9044,"aironnante, je m'écriai : — Poète ! La lèvre de [M. Pierre] se plissa, méprisante. — Apprenez, dit-il, que l"
+Tom Petermann,Person,PER,6659,6672,0.9862,"méprisante. — Apprenez, dit-il, que la fille de [Tom Petermann] n'épousera jamais qu'un jockey, et un grand jocke"
+Petermann,Person,PER,6841,6850,0.9604,"sur la tête ne m'aurait pas fait plus d'émotion. [Petermann] ! Un jockey ! Que voulait dire ? Puis, avec la"
+M. Pierre,Person,PER,6954,6963,0.8004,"exion, la chose ne me parut plus invraisemblable. [M. Pierre] avait le droit d'être jockey et de britanniser so"
+Myosotis,Product,MISC,7080,7088,0.5207,même j'avais le droit d'être poète et de signer « [Myosotis] » dans les revues de Carcassonne. Mais je me tro
+Carcassonne,Location,LOC,7110,7121,0.9862,oète et de signer « Myosotis » dans les revues de [Carcassonne]. Mais je me trouvais dans de beaux droits. Pour
+après trois mois,Time,DATE,7605,7621,0.9942,"e un désagréable régime de croûtons secs. Quand, [après trois mois], je n'eus plus que les os et la peau, me trouvant"
+Félix,Person,PER,7847,7852,0.8581,": — Pour apprendre à nager, on se jette à l'eau. [Félix], mon garçon, tu vas débiter à Colombes sur une vi"
+Colombes,Location,LOC,7883,7891,0.987,"ette à l'eau. Félix, mon garçon, tu vas débiter à [Colombes] sur une vieille jument. Elle n'a aucune espèce de"
+et quinze jours après,Time,DATE,8296,8317,0.9581,"couragea un moment. Mais l'amour reprit le dessus [et quinze jours après], j'eus la chance d'arriver bon premier à un handi"
+Tom Lix,Person,PER,8465,8472,0.9333,cours. Cette victoire apprit mon nom à la foule : [Tom Lix]. J'avais ajouté le « Tom » et laissé le FÉ. Très
+Tom,Person,PER,8494,8497,0.7147,"mon nom à la foule : Tom Lix. J'avais ajouté le « [Tom] » et laissé le FÉ. Très fier, me mêlant désormai"
+FÉ,Product,MISC,8513,8515,0.6154,": Tom Lix. J'avais ajouté le « Tom » et laissé le [FÉ]. Très fier, me mêlant désormais à mes confrères,"
+après une année,Time,DATE,8751,8766,0.9925,"t, le jour même où — ô ironie — mes trois drames, [après une année] d'attente, me revinrent en bloc avec un beau refu"
+l'Odéon,Location,LOC,8821,8828,0.9634,"tente, me revinrent en bloc avec un beau refus de [l'Odéon]. Ce fut merveilleux. On s'arracha ma précieuse p"
+Tirebouchon II,Product,MISC,8946,8960,0.5909,"x monsieur me couvrit d'or pour monter son cheval [Tirebouchon II], le favori du Grand-Prix de Paris. Ma victoire n"
+Grand-Prix de Paris,Product,MISC,8975,8994,0.9799,"ur monter son cheval Tirebouchon II, le favori du [Grand-Prix de Paris]. Ma victoire ne faisait pas de doute. Le cheval"
+Tirebouchon II,Person,PER,9162,9176,0.642,"t battus depuis quelque temps à qui mieux mieux. [Tirebouchon II], en pleine forme, ne connaissait pas la défaite."
+Tom Petermann,Person,PER,9295,9308,0.9888,"ance, j'avais l'honneur de monter en compagnie de [Tom Petermann], le père de ma dulcinée. Je ne lui avais pas tra"
+Petermann,Person,PER,9662,9671,0.9795,"ts. Elle m'attendait. C'était un malin, le vieux [Petermann]. On s'en défiait beaucoup sur le turf. Au Grand-"
+Grand-Prix,Product,MISC,9715,9725,0.9679,"ermann. On s'en défiait beaucoup sur le turf. Au [Grand-Prix] il allait monter un carcan fini, le Sanglier-des-"
+Sanglier-des-Ardennes,Product,MISC,9762,9783,0.848,"Au Grand-Prix il allait monter un carcan fini, le [Sanglier-des-Ardennes], mais un boy d'écurie bien informé m'avait confié"
+Tom Petermann,Person,PER,10116,10129,0.9807,de ma bien-aimée. Le grand coup auquel songeait [Tom Petermann] ne m'inquiétait guère. Son vieux cheval s'essouff
+Toupet-Frisé,Person,PER,10271,10283,0.5065,"train pour le laisser à longue distance. Seuls, [Toupet-Frisé] et Coqueliquette me semblaient à surveiller. On"
+Coqueliquette,Product,MISC,10287,10300,0.5368,"aisser à longue distance. Seuls, Toupet-Frisé et [Coqueliquette] me semblaient à surveiller. On se mit en marche,"
+Coqueliquette,Person,PER,10393,10406,0.9685,"marche, à belle allure. Je ne perdis pas des yeux [Coqueliquette] qui « menait ». Au petit bois je me rapprochai de"
+Tirebouchon II,Person,PER,10526,10540,0.6834,"J'entendais le public, comme une houle, mugir : « [Tirebouchon II] ! Tirebouchon II ! ». A la descente, Toupet-Frisé"
+Tirebouchon II,Person,PER,10543,10557,0.6365,"blic, comme une houle, mugir : « Tirebouchon II ! [Tirebouchon II] ! ». A la descente, Toupet-Frisé n'en pouvait plu"
+Toupet-Frisé,Person,PER,10578,10590,0.9802,"rebouchon II ! Tirebouchon II ! ». A la descente, [Toupet-Frisé] n'en pouvait plus, et Coqueliquette, blanche d'éc"
+Coqueliquette,Person,PER,10613,10626,0.9694,"A la descente, Toupet-Frisé n'en pouvait plus, et [Coqueliquette], blanche d'écume, rétrogradait. Je galopais maint"
+maintenant en,Time,DATE,10671,10684,0.8972,"uette, blanche d'écume, rétrogradait. Je galopais [maintenant en] tête du peloton, et une acclamation formidable m'"
+papa Beau-Père,Person,PER,10992,11006,0.9017,t j'entrevis à ma hauteur la silhouette maigre de [papa Beau-Père] qui cravachait le Sanglier-des-Ardennes à tour de
+Sanglier-des-Ardennes,Location,LOC,11025,11046,0.5751,"ouette maigre de papa Beau-Père qui cravachait le [Sanglier-des-Ardennes] à tour de bras. Je cinglai ma bête, qui accéléra"
+Tom Petermann,Person,PER,11130,11143,0.9795,"te, qui accéléra. La foule hurlait. Les yeux de [Tom Petermann] lui sortaient de la tête. Gagner le Grand-Prix, n"
+Grand-Prix,Product,MISC,11180,11190,0.9601,"Tom Petermann lui sortaient de la tête. Gagner le [Grand-Prix], n'était-ce pas le triomphe de sa carrière ! Par"
+Sang,Product,MISC,11476,11480,0.5118,u'à se mettre de la partie et c'en était finie de [Sang]lier. Mais n'était-ce pas là me faire du vieux jo
+lier,Person,PER,11480,11484,0.5038,se mettre de la partie et c'en était finie de Sang[lier]. Mais n'était-ce pas là me faire du vieux jockey
+M. Pierre,Person,PER,11870,11879,0.7421,le !... Nos regards se rencontrèrent. Peut-être [M. Pierre] reconnut-il alors le petit poète de Carcassonne.
+Carcassonne,Location,LOC,11916,11927,0.9755,"re M. Pierre reconnut-il alors le petit poète de [Carcassonne]. Il acceptait le marché. Et moi, beau joueur, aba"
+Tirebouchon II,Person,PER,12038,12052,0.9929,"partie, sans en avoir l'air, sciant la bouche de [Tirebouchon II], je perdis d'une tête. Le lendemain j'obtenais l"
+Tom Petermann,Person,PER,12124,12137,0.9947,. Le lendemain j'obtenais la main de la fille de [Tom Petermann]. Nul ne sut ce qui s'était passé. Je restai muet
+Grand-Prix,Product,MISC,12223,12233,0.939,Je restai muet comme une tombe sur ma défaite. Ce [Grand-Prix] fut l'honneur de la carrière de Beau-Papa et ses
+Beau-Papa,Person,PER,12266,12275,0.9926,te. Ce Grand-Prix fut l'honneur de la carrière de [Beau-Papa] et ses derniers jours s'écouleront heureux. Quan
+Félix,Person,PER,12529,12534,0.9561,rieux ne me quittait pas. Je ne fus plus jockey. [Félix] avait prononcé ces paroles avec une certaine méla
+Max VILLENEUVE,Person,PER,12838,12852,0.9691,it : — J'engraisse et je suis redevenu poète... [Max VILLENEUVE]. MOTS EN ÉCHIQUIER - Voiture. — Saison. — Perro
+Guillaume Tell,Person,PER,12910,12924,0.993,"EN ÉCHIQUIER - Voiture. — Saison. — Perroquet. — [Guillaume Tell] le pratiquait. — Hun, Burgonde, Goth ou Vandal. —"
+Hun,Person,PER,12942,12945,0.7702,"n. — Perroquet. — Guillaume Tell le pratiquait. — [Hun], Burgonde, Goth ou Vandal. — On y danse. — L'arra"
+Burgonde,Person,PER,12947,12955,0.8108,"Perroquet. — Guillaume Tell le pratiquait. — Hun, [Burgonde], Goth ou Vandal. — On y danse. — L'arrangement de"
+Goth,Person,PER,12957,12961,0.7368,"— Guillaume Tell le pratiquait. — Hun, Burgonde, [Goth] ou Vandal. — On y danse. — L'arrangement des marc"
+Vandal,Person,PER,12965,12971,0.767,"aume Tell le pratiquait. — Hun, Burgonde, Goth ou [Vandal]. — On y danse. — L'arrangement des marchandises q"
+le MARDI,Time,DATE,13209,13217,0.9829,X DEVINEURS Les solutions doivent être parvenues [le MARDI] au plus tard au rédacteur en chef du Supplément i
+Supplément illustré du Petit Journal,Product,MISC,13255,13291,0.9768,ues le MARDI au plus tard au rédacteur en chef du [Supplément illustré du Petit Journal]. SOLUTION du Mot Carré (n° 655) - H A M A C A S
+SOLUTION du Mot Carré,Product,MISC,13294,13315,0.8745,en chef du Supplément illustré du Petit Journal. [SOLUTION du Mot Carré] (n° 655) - H A M A C A S I L E M I D A S A L A V
+SOLUTIONS JUSTES du Mot Carré,Product,MISC,13379,13408,0.9741,A M A C A S I L E M I D A S A L A V A C E S A R [SOLUTIONS JUSTES du Mot Carré] (n° 654) - Thirmarche à Sotteville — Eugène R. e
+Thirmarche,Person,PER,13421,13431,0.9903,S A R SOLUTIONS JUSTES du Mot Carré (n° 654) - [Thirmarche] à Sotteville — Eugène R. et Alphonse... Saint-Gob
+Sotteville,Location,LOC,13434,13444,0.985,IONS JUSTES du Mot Carré (n° 654) - Thirmarche à [Sotteville] — Eugène R. et Alphonse... Saint-Gobain — Lonne R
+Eugène R.,Person,PER,13447,13456,0.9821,u Mot Carré (n° 654) - Thirmarche à Sotteville — [Eugène R.] et Alphonse... Saint-Gobain — Lonne Roulle — Mari
+"Alphonse...
+Saint-Gobain",Person,PER,13460,13484,0.9761,n° 654) - Thirmarche à Sotteville — Eugène R. et [Alphonse... Saint-Gobain] — Lonne Roulle — Marie Beudet à Mirvaux... P'tit
+Lonne Roulle,Person,PER,13487,13499,0.9892,teville — Eugène R. et Alphonse... Saint-Gobain — [Lonne Roulle] — Marie Beudet à Mirvaux... P'tit Louis — A nier
+Marie Beudet,Person,PER,13502,13514,0.9915,e R. et Alphonse... Saint-Gobain — Lonne Roulle — [Marie Beudet] à Mirvaux... P'tit Louis — A nier sa Belle à Pier
+Mirvaux,Location,LOC,13517,13524,0.9823,e... Saint-Gobain — Lonne Roulle — Marie Beudet à [Mirvaux]... P'tit Louis — A nier sa Belle à Pierregot — Hi
+P'tit Louis,Person,PER,13528,13539,0.9877,Gobain — Lonne Roulle — Marie Beudet à Mirvaux... [P'tit Louis] — A nier sa Belle à Pierregot — Hippolyte à Fien
+A nier sa Belle,Person,PER,13542,13557,0.8824,Roulle — Marie Beudet à Mirvaux... P'tit Louis — [A nier sa Belle] à Pierregot — Hippolyte à Fien ville est — Toulof
+Pierregot,Location,LOC,13560,13569,0.9887,udet à Mirvaux... P'tit Louis — A nier sa Belle à [Pierregot] — Hippolyte à Fien ville est — Toulofer — Un brul
+Hippolyte,Person,PER,13572,13581,0.992,ux... P'tit Louis — A nier sa Belle à Pierregot — [Hippolyte] à Fien ville est — Toulofer — Un brule-fer éviann
+Fien ville,Location,LOC,13584,13594,0.8999,Louis — A nier sa Belle à Pierregot — Hippolyte à [Fien ville] est — Toulofer — Un brule-fer éviannais — Ch. K.
+Toulofer,Person,PER,13601,13609,0.9918,Belle à Pierregot — Hippolyte à Fien ville est — [Toulofer] — Un brule-fer éviannais — Ch. K. à Petite-Barbar
+Ch. K.,Person,PER,13637,13643,0.9795,n ville est — Toulofer — Un brule-fer éviannais — [Ch. K.] à Petite-Barbare — Eiram F. et un Chass'Bi — Loui
+Petite-Barbare,Location,LOC,13646,13660,0.9914,st — Toulofer — Un brule-fer éviannais — Ch. K. à [Petite-Barbare] — Eiram F. et un Chass'Bi — Louis Cros fils — Un
+Eiram F.,Person,PER,13663,13671,0.9839,n brule-fer éviannais — Ch. K. à Petite-Barbare — [Eiram F.] et un Chass'Bi — Louis Cros fils — Un Spirite — U
+Chass'Bi,Person,PER,13678,13686,0.9879,annais — Ch. K. à Petite-Barbare — Eiram F. et un [Chass'Bi] — Louis Cros fils — Un Spirite — Un ami de Marcel
+Louis Cros,Person,PER,13689,13699,0.9932,. K. à Petite-Barbare — Eiram F. et un Chass'Bi — [Louis Cros] fils — Un Spirite — Un ami de Marcelin de Firminy
+Spirite,Person,PER,13710,13717,0.9921,— Eiram F. et un Chass'Bi — Louis Cros fils — Un [Spirite] — Un ami de Marcelin de Firminy — Phournot père à
+Marcelin de Firminy,Person,PER,13730,13749,0.9899,ass'Bi — Louis Cros fils — Un Spirite — Un ami de [Marcelin de Firminy] — Phournot père à Neuilly-l'Evêque — Joseph Grand
+Phournot père,Person,PER,13752,13765,0.9228,ls — Un Spirite — Un ami de Marcelin de Firminy — [Phournot père] à Neuilly-l'Evêque — Joseph Grandin de Binorel —
+Neuilly-l'Evêque,Location,LOC,13768,13784,0.9929,— Un ami de Marcelin de Firminy — Phournot père à [Neuilly-l'Evêque] — Joseph Grandin de Binorel — Marion de l'Eure —
+Joseph Grandin de,Person,PER,13787,13804,0.9762,n de Firminy — Phournot père à Neuilly-l'Evêque — [Joseph Grandin de] Binorel — Marion de l'Eure — Géo Grandin à Prémon
+Binorel,Location,LOC,13805,13812,0.613,urnot père à Neuilly-l'Evêque — Joseph Grandin de [Binorel] — Marion de l'Eure — Géo Grandin à Prémontré — Un
+Marion de l'Eure,Person,PER,13815,13831,0.9817,à Neuilly-l'Evêque — Joseph Grandin de Binorel — [Marion de l'Eure] — Géo Grandin à Prémontré — Un Brionnais de Brian
+Géo Grandin,Person,PER,13834,13845,0.9907,— Joseph Grandin de Binorel — Marion de l'Eure — [Géo Grandin] à Prémontré — Un Brionnais de Briant — E. Vivian
+Prémontré,Location,LOC,13848,13857,0.9916,din de Binorel — Marion de l'Eure — Géo Grandin à [Prémontré] — Un Brionnais de Briant — E. Vivian Oyoanax — B.
+Brionnais,Location,LOC,13863,13872,0.95,"— Marion de l'Eure — Géo Grandin à Prémontré — Un [Brionnais] de Briant — E. Vivian Oyoanax — B. Jacquet, Saint"
+Briant,Location,LOC,13876,13882,0.9815,"'Eure — Géo Grandin à Prémontré — Un Brionnais de [Briant] — E. Vivian Oyoanax — B. Jacquet, Saint-Ouen-sur-"
+E. Vivian Oyoanax,Person,PER,13885,13902,0.9833,"éo Grandin à Prémontré — Un Brionnais de Briant — [E. Vivian Oyoanax] — B. Jacquet, Saint-Ouen-sur-Seine — Y. Réorog —"
+B. Jacquet,Person,PER,13905,13915,0.9851,"ré — Un Brionnais de Briant — E. Vivian Oyoanax — [B. Jacquet], Saint-Ouen-sur-Seine — Y. Réorog — Octave Clin —"
+Saint-Ouen-sur-Seine,Location,LOC,13917,13937,0.9948,"nnais de Briant — E. Vivian Oyoanax — B. Jacquet, [Saint-Ouen-sur-Seine] — Y. Réorog — Octave Clin — Les habitudes de chez"
+Y. Réorog,Person,PER,13940,13949,0.9899,"vian Oyoanax — B. Jacquet, Saint-Ouen-sur-Seine — [Y. Réorog] — Octave Clin — Les habitudes de chez M. Fayot, L"
+Octave Clin,Person,PER,13952,13963,0.9938,"— B. Jacquet, Saint-Ouen-sur-Seine — Y. Réorog — [Octave Clin] — Les habitudes de chez M. Fayot, Longepierre — L"
+M. Fayot,Person,PER,13988,13996,0.97,"— Y. Réorog — Octave Clin — Les habitudes de chez [M. Fayot], Longepierre — L. Galard, Gerizay — Georges Gadon"
+Longepierre,Location,LOC,13998,14009,0.9937,"g — Octave Clin — Les habitudes de chez M. Fayot, [Longepierre] — L. Galard, Gerizay — Georges Gadon, Saint-Gerva"
+L. Galard,Person,PER,14012,14021,0.9902,"n — Les habitudes de chez M. Fayot, Longepierre — [L. Galard], Gerizay — Georges Gadon, Saint-Gervais-les-Bains"
+Gerizay,Location,LOC,14023,14030,0.9942,"itudes de chez M. Fayot, Longepierre — L. Galard, [Gerizay] — Georges Gadon, Saint-Gervais-les-Bains — Bonjou"
+Georges Gadon,Person,PER,14033,14046,0.9937,"chez M. Fayot, Longepierre — L. Galard, Gerizay — [Georges Gadon], Saint-Gervais-les-Bains — Bonjour à Jeanson du 3"
+Saint-Gervais-les-Bains,Location,LOC,14048,14071,0.9947,"Longepierre — L. Galard, Gerizay — Georges Gadon, [Saint-Gervais-les-Bains] — Bonjour à Jeanson du 31 — René Lambert Alfortvi"
+Bonjour,Product,MISC,14074,14081,0.3796,"erizay — Georges Gadon, Saint-Gervais-les-Bains — [Bonjour] à Jeanson du 31 — René Lambert Alfortville. La M"
+Jeanson,Person,PER,14084,14091,0.9661,"eorges Gadon, Saint-Gervais-les-Bains — Bonjour à [Jeanson] du 31 — René Lambert Alfortville. La Médecine Vé"
+René Lambert,Person,PER,14100,14112,0.9887,int-Gervais-les-Bains — Bonjour à Jeanson du 31 — [René Lambert] Alfortville. La Médecine Végétale par les Sucs
+Al,Location,LOC,14113,14115,0.7184,es-Bains — Bonjour à Jeanson du 31 — René Lambert [Al]fortville. La Médecine Végétale par les Sucs et
+fortville,Person,PER,14115,14124,0.5764,-Bains — Bonjour à Jeanson du 31 — René Lambert Al[fortville]. La Médecine Végétale par les Sucs et les Princ
+"La Médecine Végétale
+
+par les Sucs et les Principes vitaux des Plantes",Product,MISC,14127,14197,0.9459,"jour à Jeanson du 31 — René Lambert Alfortville. [La Médecine Végétale par les Sucs et les Principes vitaux des Plantes]. La méthode végétale qui, depuis de nombreuses a"
+de nombreuses années,Time,DATE,14232,14252,0.9416,"aux des Plantes. La méthode végétale qui, depuis [de nombreuses années], obtient tant de succès dans les guérisons des ma"
+La Médecine Végétale,Product,MISC,14410,14430,0.9822,"valeur et d'une portée considérables, intitulé : [La Médecine Végétale]. Tous les malades désespérés et découragés trouve"
+Peau,Location,LOC,14882,14886,0.5743,"importants, il convient de citer : Maladies de la [Peau] et du Cuir, Chevelu, Dartres, Eczéma, Plaies, Ulc"
+Cuir,Location,LOC,14893,14897,0.6134,"il convient de citer : Maladies de la Peau et du [Cuir], Chevelu, Dartres, Eczéma, Plaies, Ulcères, Chute"
+Femme,Product,MISC,15072,15077,0.4649,"Glandes, Phlébites, etc. Maladies spéciales de la [Femme], Maladies de la Vessie, Cystites, Gravelle, Retré"
+Vessie,Location,LOC,15094,15100,0.6458,"c. Maladies spéciales de la Femme, Maladies de la [Vessie], Cystites, Gravelle, Retrécissement, Maladies con"
+Sang,Location,LOC,15170,15174,0.4654,", Retrécissement, Maladies contagieuses, Vices du [Sang], etc. Diabète, Goutte, Rhumatisme, Epilepsie, Ma"
+Maladies Nerveuses et du Cœur,Location,LOC,15222,15251,0.6648,"ng, etc. Diabète, Goutte, Rhumatisme, Epilepsie, [Maladies Nerveuses et du Cœur], Palpitations, Surmenage, Anémie, Faiblesse, Tube"
+la Médecine Végétale,Product,MISC,16247,16267,0.8968,"s sucs des plantes et des sèves régénératrices de [la Médecine Végétale]. Dans un but humanitaire, La Médecine Végétale,"
+La Médecine Végétale,Product,MISC,16295,16315,0.9863,"e la Médecine Végétale. Dans un but humanitaire, [La Médecine Végétale], fort volume de 352 pages, est envoyé franco cont"
+Directeur,Location,LOC,16416,16425,0.4194,"e un franc en mandat ou timbres-poste adressés au [Directeur] de la Pharmacie Richelieu, 93, Rue de Richelieu,"
+Pharmacie Richelieu,Location,LOC,16432,16451,0.8866,"ndat ou timbres-poste adressés au Directeur de la [Pharmacie Richelieu], 93, Rue de Richelieu, 93, Paris."
+Rue de Richelieu,Location,LOC,16457,16473,0.9822,"essés au Directeur de la Pharmacie Richelieu, 93, [Rue de Richelieu], 93, Paris."
+93,Location,LOC,16475,16477,0.7257,"de la Pharmacie Richelieu, 93, Rue de Richelieu, [93], Paris."
+Paris,Location,LOC,16479,16484,0.9939,"la Pharmacie Richelieu, 93, Rue de Richelieu, 93, [Paris]."

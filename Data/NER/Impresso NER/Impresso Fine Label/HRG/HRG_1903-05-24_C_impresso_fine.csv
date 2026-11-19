@@ -1,0 +1,91 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Mme Bouteloup,pers.ind,Person,pers.ind,147,160,0.9717,"a crainte sans doute d'être indiscret aux yeux de [Mme Bouteloup], bien qu'il passât souvent devant ma porte, il mo"
+du Marché,loc.oro,Location,loc.oro,294,303,0.221,"ant ce temps à donner des sérénades, sur la place [du Marché] ; le rideau s'ouvrait presque toujours, j'avais d"
+Mme Ménard,pers.ind,Person,pers.ind,788,798,0.9749,"ore aperçues. — Comment s'appelle la fille, chez [Mme Ménard] ? avais-je demandé avec indifférence en achetant,"
+Emma,pers.ind,Person,pers.ind,931,935,0.9394,", savez-vous son nom ? — Bien sûr, elle s'appelle [Emma]. Emma, c'est un joli nom ; au moins je le trouva"
+Emma,pers.ind,Person,pers.ind,938,942,0.9132,"-vous son nom ? — Bien sûr, elle s'appelle Emma. [Emma], c'est un joli nom ; au moins je le trouvais char"
+ami Lisois,pers.ind,Person,pers.ind,1003,1013,0.7714,"joli nom ; au moins je le trouvais charmant. Mon [ami Lisois], que Mme Bouteloup n'effrayait sans doute plus, v"
+Mme Bouteloup,pers.ind,Person,pers.ind,1019,1032,0.9743,"ins je le trouvais charmant. Mon ami Lisois, que [Mme Bouteloup] n'effrayait sans doute plus, venait maintenant pl"
+Paul,pers.ind,Person,pers.ind,1170,1174,0.9701,"de causerie. Il aimait bien la musique, ce cher [Paul], surtout la flûte, et il ne manquait pas de me pr"
+Joconde,pers.ind,Person,pers.ind,1313,1320,0.8543,"és ; il avait une prédilection pour la romance de [Joconde], et à chaque visite il me la réclamait. — Tu la"
+Mme Emma,pers.ind,Person,pers.ind,1640,1648,0.9553,"se de ne rien voir, jamais, du reste la figure de [Mme Emma] n'apparaissait que lorsque j'étais seul ; alors l"
+Emma,pers.ind,Person,pers.ind,2271,2275,0.8735,"p servi et qui me sembla géniale. Elle s'appelle [Emma], me dis-je, fais un acrostiche sur son nom. Et b"
+Boileau,pers.ind,Person,pers.ind,2434,2441,0.6193,"é cet acrostiche ! Enchérisant sur le précepte de [Boileau], j'avais non pas vingt fois, mais cent fois remis"
+Maman,pers.ind,Person,pers.ind,2800,2805,0.7605,"man ! On cœur à ton aspect tressaille de plaisir, [Maman] ! Insinsi que l'oiseau chante à l'aube qui s'évei"
+Mademoiselle Emma,pers.ind,Person,pers.ind,3047,3064,0.9488,ns une enveloppe qui portait cette suscription : [Mademoiselle Emma] je traversai la place et le mis dans le tablier
+ami Paul Lisois,pers.ind,Person,pers.ind,3815,3830,0.7715,"emps : je n'y aurais peut-être pas songé sans mon [ami Paul Lisois]. Dix mois après mon départ, il m'annonça son mari"
+Mme Hélène Ménard,pers.ind,Person,pers.ind,3889,3906,0.9716,"s après mon départ, il m'annonça son mariage avec [Mme Hélène Ménard] et m'invitait à la noce. Hélène Ménard ! sans do"
+Hélène Ménard,pers.ind,Person,pers.ind,3933,3946,0.9599,"avec Mme Hélène Ménard et m'invitait à la noce. [Hélène Ménard] ! sans doute la sœur, pensai-je, pourtant je n'av"
+Mme Emma,pers.ind,Person,pers.ind,4034,4042,0.963,tant je n'avais jamais vu d'autre jeune fille que [Mme Emma] dans la maison. C'était une occasion de la voir ;
+Mme Ménard,pers.ind,Person,pers.ind,4147,4157,0.9769,"ceptai l'invitation. — Bonjour, monsieur, me dit [Mme Ménard] en me tendant la main. Jouez-vous toujours de la"
+Joconde,pers.ind,Person,pers.ind,4232,4239,0.9398,ouez-vous toujours de la flûte ? — La romance de [Joconde] ! ajouta mon ami. Et tous deux se mirent à rire.
+Lisois,pers.ind,Person,pers.ind,4349,4355,0.9536,"voici ma belle-mère. Je vais t'expliquer, me dit [Lisois] en voyant mon air ahuri. Alors il me raconta son"
+Mme Ménard,pers.ind,Person,pers.ind,4498,4508,0.9725,"était un signal convenu entre les deux amoureux. [Mme Ménard] visitait fréquemment sa tante, qui demeurerait à"
+Joconde,pers.ind,Person,pers.ind,4611,4618,0.963,utre extrémité de la ville. — Irez-vous ? disait [Joconde]. Le rideau soulevé une ou plusieurs fois lui don
+Mme Ménard,pers.ind,Person,pers.ind,4950,4960,0.9722,"norais. — Mais je pensais, dis-je à mon ami, que [Mme Ménard] s'appelait Emma. — Emma ? où diable as-tu été pê"
+Emma,pers.ind,Person,pers.ind,4972,4976,0.9675,"sais, dis-je à mon ami, que Mme Ménard s'appelait [Emma]. — Emma ? où diable as-tu été pêcher ce nom-là ?"
+Emma,pers.ind,Person,pers.ind,5030,5034,0.853,"Emma ? où diable as-tu été pêcher ce nom-là ? — [Emma], Emma ! mais c'était le nom de la petite bonne p"
+Emma,pers.ind,Person,pers.ind,5036,5040,0.8944,"? où diable as-tu été pêcher ce nom-là ? — Emma, [Emma] ! mais c'était le nom de la petite bonne pendant"
+Bouteloup,loc.adm.town,Location,loc.adm.town,5111,5120,0.7922,"m de la petite bonne pendant ton séjour chez les [Bouteloup]. — Ah !... fis-je interrompu. Depuis, je n'ai p"
+Joconde,pers.ind,Person,pers.ind,5200,5207,0.9338,". Depuis, je n'ai plus jamais joué la romance de [Joconde]. Camille GRAMACCINI. LA MODE du Petit Journal d"
+Camille GRAMACCINI,pers.ind,Person,pers.ind,5210,5228,0.9085,"je n'ai plus jamais joué la romance de Joconde. [Camille GRAMACCINI]. LA MODE du Petit Journal donne cette semaine, g"
+Petit Journal,prod.media,Product,prod.media,5242,5255,0.5354,"ance de Joconde. Camille GRAMACCINI. LA MODE du [Petit Journal] donne cette semaine, gratuitement, à toutes ses l"
+Emma,pers.ind,Person,pers.ind,5629,5633,0.8592,"ne. EN VENTE PARTOUT LE BRACELET — C'est bien, [Emma], vous pouvez aller. Dites à Monsieur que je suis"
+Mme Raven,pers.ind,Person,pers.ind,6234,6243,0.9751,inissable flottait dans l'air. Il faisait chaud. [Mme Raven] rejetait sur le dossier de sa chaise la sortie de
+Louis Raven,pers.ind,Person,pers.ind,6920,6931,0.9766,"ariée. Chaque trente et un décembre, fidèlement, [Louis Raven] offre à sa femme des étrennes qui toutes les anné"
+Madeleine,pers.ind,Person,pers.ind,7016,7025,0.8535,toutes les années augmentent de valeur. Pourtant [Madeleine] regarde sans sourire le merveilleux bijou. Aucun
+Louis,pers.ind,Person,pers.ind,7197,7202,0.9322,"eurs que peut donner l'argent. Quand elle épousa [Louis], employé chez un agent de change, elle n'escompta"
+Louis,pers.ind,Person,pers.ind,7826,7831,0.8967,"que, riches, peut-être ils s'aimeraient moins. Si [Louis] ne l'avait pas moins aimée, il s'était davantage"
+Louis,pers.ind,Person,pers.ind,8070,8075,0.9144,ntait toujours et la joie de s'enrichir absorbait [Louis] de plus en plus. Madeleine pensivement regarda l
+Madeleine,pers.ind,Person,pers.ind,8094,8103,0.8763,e de s'enrichir absorbait Louis de plus en plus. [Madeleine] pensivement regarda l'image que lui renvoyait la
+Louis,pers.ind,Person,pers.ind,8356,8361,0.9524,gnait à s'épanouir en un cadre digne d'elle. Mais [Louis] ne la regardait plus guère ; distraitement affect
+Mme Raven,pers.ind,Person,pers.ind,8532,8541,0.9711,"chapeau seyant, puis retournait à ses chiffres. [Mme Raven] soupira. Lentement, elle attira un coffre qui fer"
+Madeleine,pers.ind,Person,pers.ind,9186,9195,0.8435,"elle année. Comme ce soir, en se mettant à table, [Madeleine] avait trouvé, sous sa serviette, un écrin. Mais"
+Louis,pers.ind,Person,pers.ind,9540,9545,0.8531,"é leur soirée !... Alors, pour rien au monde, ni [Louis] ni elle n'auraient consenti à rompre la tendre i"
+Louis,pers.ind,Person,pers.ind,10151,10156,0.8845,"sant les joies de tendresse... Ce soir, à minuit, [Louis] et Madeleine se trouveront au milieu d'indifféren"
+Madeleine,pers.ind,Person,pers.ind,10160,10169,0.8837,"joies de tendresse... Ce soir, à minuit, Louis et [Madeleine] se trouveront au milieu d'indifférents, et trop b"
+Madeleine,pers.ind,Person,pers.ind,10331,10340,0.8186,"e l'autre, ils n'échangeront même pas un regard. [Madeleine] avait attaché à son poignet, près du bracelet nou"
+Madeleine,pers.ind,Person,pers.ind,10446,10455,0.9234,"la très simple gourmette d'or. — Puis-je entrer, [Madeleine] ? M. Raven paraissait, prêt au départ. Confuse"
+M. Raven,pers.ind,Person,pers.ind,10459,10467,0.97,"e gourmette d'or. — Puis-je entrer, Madeleine ? [M. Raven] paraissait, prêt au départ. Confuse d'être surpr"
+Louis,pers.ind,Person,pers.ind,10665,10670,0.9688,"ssa parmi les autres. — Vous êtes charmante, dit [Louis]. Avez-vous fait à mes opales l'honneur de vous en"
+Louis,pers.ind,Person,pers.ind,11173,11178,0.8925,"il regarda la jeune femme. — Vous l'avez oublié, [Louis] ? Ce sont vos premières étrennes. Des larmes mon"
+Madeleine,pers.ind,Person,pers.ind,11436,11445,0.743,"oir-là tous les deux seuls, comme des amoureux... [Madeleine]... pourquoi pleurez-vous, mon Dieu ? Impuissante"
+Madeleine,pers.ind,Person,pers.ind,12098,12107,0.773,"ce et plus belle ? Mais la digue était rompue... [Madeleine] osait dire ce que depuis de si longs mois, depuis"
+Louis,pers.ind,Person,pers.ind,12453,12458,0.7956,"voix que jadis, égrena les douze coups de minuit, [Louis] se pencha vers Madeleine. Oubliant l'heure du dép"
+Madeleine,pers.ind,Person,pers.ind,12474,12483,0.64,"a les douze coups de minuit, Louis se pencha vers [Madeleine]. Oubliant l'heure du départ, côté à côté, ils ava"
+Madeleine,pers.ind,Person,pers.ind,12725,12734,0.8715,"nant ils échangeaient durant que sonnait l'heure, [Madeleine] sentit passer tout un renouveau d'amour qui refle"
+Marie THIÉRY,pers.ind,Person,pers.ind,12812,12824,0.9505,"veau d'amour qui refleurissait les joies mortes. [Marie THIÉRY]. FARINE DUTAUT, le meilleur aliment des enfants"
+FARINE DUTAUT,pers.ind,Person,pers.ind,12827,12840,0.6333,"i refleurissait les joies mortes. Marie THIÉRY. [FARINE DUTAUT], le meilleur aliment des enfants La « petite mèr"
+"Jean
+
+Le médecin",pers.ind,Person,pers.ind,12897,12913,0.9254,illeur aliment des enfants La « petite mère » de [Jean Le médecin] était parti ne laissant à André Meynier penché su
+André Meynier,pers.ind,Person,pers.ind,12940,12953,0.9548,e » de Jean Le médecin était parti ne laissant à [André Meynier] penché sur son fils qu'un fragile espoir avec de
+Claude,pers.ind,Person,pers.ind,13166,13172,0.9125,"rmura : — Je voudrais maman... ma chère maman ! [Claude] en écoutant les syllabes qui tombaient lentement,"
+petit Jean,pers.ind,Person,pers.ind,13477,13487,0.969,"la lumière adoucie de la lampe, le visage pâle du [petit Jean] apparaissait tout menu, aminci, dévoré par deux g"
+André,pers.ind,Person,pers.ind,13686,13691,0.9651,"porte, anxieux. Dans le cœur étroit d'angoisse d'[André] cette figure rappelait le visage de la mère, de C"
+Claire Meynier,pers.ind,Person,pers.ind,13740,13754,0.9635,"é cette figure rappelait le visage de la mère, de [Claire Meynier], dont il était divorcé depuis un an. Le triste so"
+Claire,pers.ind,Person,pers.ind,13939,13945,0.9673,"Certes, il avait été longtemps payé de retour et [Claire] l'avait aimé autant du moins que la puérile jeune"
+petit Jean,pers.ind,Person,pers.ind,14360,14370,0.9415,"de comprendre ce qui se passait autour de lui, le [petit Jean] s'attacha violemment à sa mère avec une sorte de"
+André,pers.ind,Person,pers.ind,14485,14490,0.967,"e, acca- pareuse, qui flattait la jeune femme... [André] ne connaît pas la jalousie : il était ravi lorsqu"
+Claire,pers.ind,Person,pers.ind,14604,14610,0.9547,"ès avoir baisé sans se laisser les mains fines de [Claire] si belle dans quelque robe de soie, pleurait de v"
+Claire,pers.ind,Person,pers.ind,14863,14869,0.9405,"xe, fait la vie un peu mesquine, presque gênée... [Claire], privée de son cadre de richesse, se crut diminué"
+André,pers.ind,Person,pers.ind,15719,15724,0.9065,ours comme une blessure saignante et la douleur d'[André] s'augmenta de la douleur de son enfant. A huit an
+Jean,pers.ind,Person,pers.ind,15777,15781,0.873,"augmenta de la douleur de son enfant. A huit ans, [Jean], séparé de sa mère, tomba soudain dans une langue"
+André,pers.ind,Person,pers.ind,16114,16119,0.9428,"aimait pourtant, prononcer le nom de l'absente ; [André], d'ailleurs, avait détourné des confidences trop"
+Jean,pers.ind,Person,pers.ind,16432,16436,0.9286,"miracles avec lesquels la science ne compte pas, [Jean] était condamné !... L'enfant, dont la poitrine b"
+André,pers.ind,Person,pers.ind,16935,16940,0.9639,"ui, c'était là le mal dont mourait l'enfant et qu'[André] avait à peine soupçonné... La mère manquait à cet"
+petit Jean,pers.ind,Person,pers.ind,17142,17152,0.9517,tine comme l'ange gardien d'un paradis perdu : le [petit Jean] avait fait des caresses des jolies mains maternel
+Claire,pers.ind,Person,pers.ind,17280,17286,0.963,"îcheur des baisers d'autrefois... En s'en allant, [Claire] avait emporté toute l'âme de son fils !... Au dé"
+Jean,pers.ind,Person,pers.ind,17465,17469,0.8697,"qui avait prononcé l'irréparable séparation, mais [Jean] revenait de ces entrevues dans un tel état de cri"
+André,pers.ind,Person,pers.ind,17563,17568,0.9556,"de crise nerveuse que, sur le conseil du médecin, [André] dut s'opposer à ces visites, et Claire, soit par"
+Claire,pers.ind,Person,pers.ind,17601,17607,0.9302,"du médecin, André dut s'opposer à ces visites, et [Claire], soit par orgueil ou insouciance, soit par l'entr"
+André,pers.ind,Person,pers.ind,17775,17780,0.9323,"pas cherché à revoir son fils... A cette heure, [André] s'accusait de tout le mal : Claire n'était pas se"
+Claire,pers.ind,Person,pers.ind,17809,17815,0.9436,"A cette heure, André s'accusait de tout le mal : [Claire] n'était pas seulement épouse, elle était mère !.."
+Claire,pers.ind,Person,pers.ind,18382,18388,0.8966,Une pensée lui vint... Il savaient où se trouvait [Claire] et tout dernièrement il avait entendu parler pour
+Jean,pers.ind,Person,pers.ind,18908,18912,0.5348,"ter l'enfant et, se penchant, il dit tout bas : — [Jean], je vais chercher « petite mère » !... Elle viend"
+André,pers.ind,Person,pers.ind,19173,19178,0.9525,"instant, pressé : — Oui, maman, maman !... Déjà [André] était dehors... Le froid de décembre, par une nui"
+avenue,loc.adm.reg,Location,loc.adm.reg,19330,19336,0.1514,"acre... Au premier étage d'une riche maison de l'[avenue] d'Antin, un domestique, auprès duquel il s'inform"
+d'Antin,loc.adm.town,Location,loc.adm.town,19337,19344,0.2714,"Au premier étage d'une riche maison de l'avenue [d'Antin], un domestique, auprès duquel il s'informait, lui"
+Italie,loc.adm.nat,Location,loc.adm.nat,19484,19490,0.8831,"Elle prend ce soir le rapide de dix heures pour l'[Italie]... » Encore une heure !... Affolé, avec la visio"
+André,pers.ind,Person,pers.ind,19566,19571,0.9236,".. Affolé, avec la vision de l'enfant qui attend, [André] avait repris sa course... La gare de Lyon !... p"
+Lyon,loc.adm.town,Location,loc.adm.town,19610,19614,0.6524,"tend, André avait repris sa course... La gare de [Lyon] !... plus qu'un quart d'heure avant le départ du"

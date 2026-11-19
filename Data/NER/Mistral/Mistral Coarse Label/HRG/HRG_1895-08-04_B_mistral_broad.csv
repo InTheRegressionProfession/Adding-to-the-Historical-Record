@@ -1,0 +1,55 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Petit Journal,Product,Product,45,58,,TIRAGE DU Supplément illustré EN COULEURS DU [Petit Journal] UN MILLION Soixante mille exemplaires (1.060.000)
+Naples,Location,Location,189,195,,"averser, à Paris, une période de sirocco digne de [Naples] et de Palerme. Par cette température étouffante e"
+Palerme,Location,Location,202,209,,"ris, une période de sirocco digne de Naples et de [Palerme]. Par cette température étouffante et énervante, q"
+Théophile Gautier,Person,Person,752,769,,"as d'hier. Il y a cinquante ans pour le moins que [Théophile Gautier], dans ses feuilletons de critique dramatique, aff"
+Stendhal,Person,Person,1074,1082,,"te terrasse de palais florentin où, le soir venu, [Stendhal] savourait des sorbets sous la blonde clarté de la"
+Apennin,Location,Location,1181,1188,,"a lune et au souffle d'un vent frais tombant de l'[Apennin], en compagnie de délicieuses marchesine et contes"
+Ambigu-Comique,Organization,Organization,1600,1614,,"uel café du boulevard! En 1839, le directeur de l'[Ambigu-Comique], de Cès-Caupenne (un Gascon, il est vrai), offrai"
+de Cès-Caupenne,Person,Person,1616,1631,,"evard! En 1839, le directeur de l'Ambigu-Comique, [de Cès-Caupenne] (un Gascon, il est vrai), offrait à sa clientèle"
+Conservatoire national de musique et de déclamation,Organization,Organization,3994,4045,,ieu ces jours-ci les concours des élèves de notre [Conservatoire national de musique et de déclamation]. Il n'est pas d'étuve ni de hammam qui puisse don
+Chopin,Person,Person,4349,4355,,"écutions consécutives de l'allegro de concert, de [Chopin], par soixante-dix mains féminines s'escrimant à t"
+Barcelone,Location,Location,4820,4829,,"e », ne voilà-t-il pas qu'on vient de découvrir à [Barcelone] un Institut s'adonnant à la fabrication et à la v"
+frontière française,Location,Location,4954,4973,,"s! Et l'on nous certifie que tout le long de la [frontière française] de l'autre côté des Pyrénées, il existe de ces fa"
+Pyrénées,Location,Location,4994,5002,,"ng de la frontière française de l'autre côté des [Pyrénées], il existe de ces fabriques séculaires où les fam"
+Marseille,Location,Location,5546,5555,,"déniché l'Institut barcelonais: Une mendiante de [Marseille] ayant été condamnée par le tribunal, la fillette"
+M. G. Danbès,Person,Person,6464,6476,,"ritables nains artificiels, des nains fabriqués! [M. G. Danbès] a donné, sur la fabrication des nains, des rensei"
+Exposition universelle,Organization,Organization,7380,7402,,monstres. XX La section chinoise de la dernière [Exposition universelle] exhibait une petite statuette représentant un nai
+tératologie artificielle chinoise,Product,Product,7488,7521,,"sentant un nain-potiche, une des curiosités de la [tératologie artificielle chinoise]. En Chine, l'enfant dont on veut faire un nain e"
+Chine,Location,Location,7527,7532,,"ités de la tératologie artificielle chinoise. En [Chine], l'enfant dont on veut faire un nain est placé da"
+département du Nord,Location,Location,8182,8201,,"xhibé en public. Il y a quelques années, dans le [département du Nord], on découvrit dans la roulotte d'un saltimbanque,"
+saltimbanque,Person,Person,8238,8250,,"ement du Nord, on découvrit dans la roulotte d'un [saltimbanque], exhibant un nain déformé, une sorte d'appareil o"
+Tom-Pouce chinois,Product,Product,8416,8433,,dans lequel le malheureux enfant exploité comme « [Tom-Pouce chinois] » était inséré et bouclé après chaque représentat
+préfet du Nord,Person,Person,8630,8644,,"hé en prison. A la suite de cette découverte, le [préfet du Nord] adressait à tous les maires de son département un"
+Simon LEVRAI,Person,Person,8908,8920,,"ée et, maintenue en vigueur par toute la France. [Simon LEVRAI]. LE BÉDOUIN DIVORCÉ (MŒURS ARABES) La loi du C"
+Sidna-Mohamed,Person,Person,9258,9271,,"ou bien si elle a encore divorcé avec celui-ci. [Sidna-Mohamed] était-il, lorsqu'il rédigea cet article de loi, d"
+Sidna-Nobha,Person,Person,9372,9383,,"ns un état de joyeuse ébriété, voisin de celui de [Sidna-Nobha] après les premières vendanges? ou bien a-t-il sim"
+Sidi-Macklouff,Person,Person,9774,9788,,"chassée de sa tente comme indigne de son amour? [Sidi-Macklouff], caïd des Beni-Ghill, tribu voisine de la frontiè"
+Beni-Ghill,Organization,Organization,9799,9809,,"e indigne de son amour? Sidi-Macklouff, caïd des [Beni-Ghill], tribu voisine de la frontière marocaine, devait"
+frontière marocaine,Location,Location,9831,9850,,"cklouff, caïd des Beni-Ghill, tribu voisine de la [frontière marocaine], devait pour- tant donner au monde musulman cett"
+Sidi Maaboul,Person,Person,10207,10219,,"seigneur, depuis longtemps, l'avaient surnommé « [Sidi Maaboul] ». Cet inénarrable personnage avait trouvé moyen"
+Aïcha,Person,Person,10354,10359,,"« lunes », de se placer vis-à-vis de la charmante [Aïcha], qui n'était coupable que d'être trop jeune pour"
+Hassan Ben Kaddour,Person,Person,10738,10756,,complicité d'un jeune Arabe d'une tribu voisine. [Hassan Ben Kaddour] venait de se marier. Cette circonstance avait sur
+Sidi,Person,Person,11437,11441,,rassuré sur les suites de cette affaire. Pauvre [Sidi]! Certes il eût été moins tranquille s'il eût su q
+Hassan,Person,Person,11493,11499,,"Certes il eût été moins tranquille s'il eût su qu'[Hassan] connaissait Aïcha depuis longtemps, qu'elle lui é"
+Aïcha,Person,Person,11512,11517,,"oins tranquille s'il eût su qu'Hassan connaissait [Aïcha] depuis longtemps, qu'elle lui était apparue, dans"
+caïd Omar,Person,Person,12044,12053,,"au cœur. Il l'avait demandée en mariage. Mais le [caïd Omar], père d'Aïcha, n'ayant point trouvé suffisante la"
+Macklouff,Person,Person,12235,12244,,riant de renoncer à ses espérances. Mais comment [Macklouff] eût-il pu se douter de cela? La joie qu'il avait
+Lail'-Aïcha,Person,Person,12657,12668,,"fortune relative. Très loyalement, Hassan épousa [Lail'-Aïcha]. Mais, dès qu'elle fut sous sa tente, en dépit de"
+Zora,Person,Person,12815,12819,,"e, et elle supplanta si radicalement l'infortunée [Zora], sa première épouse, que celle-ci se vit complète"
+Sidi-Macklouff,Person,Person,12998,13012,,"ure, qu'Aïcha était devenue l'épouse d'Hassan, et [Sidi-Macklouff] était en ce moment fort loin de leur pensée, lors"
+monseigneur,Person,Person,14036,14047,,"n'as-tu pas été tenté par le démon? — Hélas! si, [monseigneur]! Sidi-Macklouff, descendu de cheval, avec un rug"
+Sidi-Macklouff,Person,Person,14050,14064,,"é tenté par le démon? — Hélas! si, monseigneur! [Sidi-Macklouff], descendu de cheval, avec un rugissement de panth"
+Hassan,Person,Person,14273,14279,,burnous un pistolet pour lui brûler la cervelle. [Hassan] se hâta d'empêcher la suite de ce mouvement dange
+caïd,Person,Person,14871,14875,,"vrait l'air. — Tu as tenu ta parole, prononça le [caïd], à moi d'exécuter mes promesses. De sa ceinture"
+khodja,Person,Person,15186,15192,,"ne ombre s'allongeait entre eux. C'était celle du [khodja] ou secrétaire du caïd, qui venait d'apparaître au"
+Hassan ben Kaddour,Person,Person,15308,15326,,ma. Il venait citer à comparaître devant le juge [Hassan ben Kaddour]. — Que peut donc me vouloir de si pressé le caïd
+Hassan,Person,Person,16416,16422,,"de ses droits les plus doux. Mais qu'importait à [Hassan]? Evidemment, cette plaignante n'était point là po"
+Zora,Person,Person,17184,17188,,"it, venait, aburi de stupéfaction, de reconnaître [Zora], le caïd lui montra les babouches accusatrices."
+Macklouff,Person,Person,17401,17410,,d'une détonation. Une balle traversa son haïc et [Macklouff] lui sauta à la cou — mais point cette fois pour l
+monseigneur,Person,Person,18535,18546,,"ang-froid et sa présence d'esprit: — C'est vrai, [monseigneur], avoua-t-il. Ce prince de la générosité m'a fait"
+Aïcha,Person,Person,18740,18745,,"é en quelques mots, il pou suivit: — J'ai épousé [Aïcha], et certes mon intention était de tenir mon serme"
+caïd,Person,Person,19058,19062,,"e mon bonheur; car, vous l'avez vue, je, seigneur [caïd], moi-même je me suis pris à l'amour, et il me ser"
+Macklouff,Person,Person,19273,19282,,"oble rival... — Ta trahie, garde-la, interrompit [Macklouff], qu'elle reste dans sa souille avec le porc immon"
+Sidi-Macklouff,Person,Person,19977,19991,,... — Que la foudre de Dieu les écrase! vociféra [Sidi-Macklouff]. Mais se reprenant tout à coup et lançant à Kadd
+Kaddour,Person,Person,20037,20044,,"ouff. Mais se reprenant tout à coup et lançant à [Kaddour] un éclat de ses prunelles, où luisait une haïe ve"

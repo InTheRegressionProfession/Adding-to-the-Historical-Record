@@ -1,0 +1,114 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+zouaves,org.adm,Organization,org.adm,188,195,,"is cela grandit, se rapproche, éclate. Enfin, les [zouaves] repaissent, pèle-mèle avec l'ennemi. L'effort ten"
+colonel,pers.ind,Person,pers.ind,571,578,,"chonnent leurs mors. Au pas d'abord, commande le [colonel], ré-servons-nous pour les derniers cent mètres."
+Paul CERVIERES,pers.ind.articleauthor,Person,pers.ind.articleauthor,4878,4892,,s capable de donner le jour à de si braves gens! [Paul CERVIERES]. VEILLE DE NOCE L'été de 18... fut si torrentie
+Sainte-Euphrasie,loc.adm.town,Location,loc.adm.town,4983,4999,,"torrentiel et si maussade, que la petite ville de [Sainte-Euphrasie], délicies des baigneurs, en fut cruellement éprou"
+Côte d'Azur,loc.phys.geo,Location,loc.phys.geo,5195,5206,,"ite, aimant mieux souffrir de leur diabète sur la [Côte d'Azur] que mourir de bronchite et d'ennui dans ce brouil"
+hôtel de la Truite d'or,org.ent,Organization,org.ent,5300,5323,,"brouillard de la montagne. Il ne resta plus, à l'[hôtel de la Truite d'or], qu'une quinzaine de fidèles, qui se trouvèrent a"
+marquis de Valenday,pers.ind,Person,pers.ind,5495,5514,,"yaient en mangeant. Ces convives s'appelaient le [marquis de Valenday], le baron de la Sorme avec sa femme, sa sœur et s"
+baron de la Sorme,pers.ind,Person,pers.ind,5519,5536,,"convives s'appelaient le marquis de Valenday, le [baron de la Sorme] avec sa femme, sa sœur et sa belle-mère, M. Parap"
+M. Parapoul,pers.ind,Person,pers.ind,5578,5589,,"la Sorme avec sa femme, sa sœur et sa belle-mère, [M. Parapoul], enfant de la Cannebière, et Mme Haramel, citoyen"
+Cannebière,loc.oro,Location,loc.oro,5604,5614,,"sœur et sa belle-mère, M. Parapoul, enfant de la [Cannebière], et Mme Haramel, citoyenne de la rue de Rivoli. P"
+Mme Haramel,pers.ind,Person,pers.ind,5619,5630,,"le-mère, M. Parapoul, enfant de la Cannebière, et [Mme Haramel], citoyenne de la rue de Rivoli. Plus une famille"
+rue de Rivoli,loc.oro,Location,loc.oro,5648,5661,,"de la Cannebière, et Mme Haramel, citoyenne de la [rue de Rivoli]. Plus une famille bretonne à cinq têtes, les Judi"
+Judicaël d'Aber-Vrach,pers.coll,Person,pers.coll,5707,5728,,"voli. Plus une famille bretonne à cinq têtes, les [Judicaël d'Aber-Vrach]. Plus une jolie veuve de vingt ans, Mme Beau amie"
+Mme Beau amier,pers.ind,Person,pers.ind,5765,5779,,"d'Aber-Vrach. Plus une jolie veuve de vingt ans, [Mme Beau amier], chaperonnée par sa vieille sœur très laide, Mme"
+Mme Barbe Dufélix,pers.ind,Person,pers.ind,5825,5842,,"mier, chaperonnée par sa vieille sœur très laide, [Mme Barbe Dufélix]. Ajoutez-y l'auteur de ces lignes et voilà, cher"
+Brésil,loc.adm.nat,Location,loc.adm.nat,6982,6988,,"n histoire vient d'Amérique. Je l'ai rapportée du [Brésil], où j'ai passé quelques années dans ma jeunesse e"
+M. Salvador,pers.ind,Person,pers.ind,7168,7179,,"dont ma poche était bourrée, j'en avais une pour [M. Salvador], riche planteur de Santarem. La maison somptueus"
+Santarem,loc.adm.town,Location,loc.adm.town,7199,7207,,"'en avais une pour M. Salvador, riche planteur de [Santarem]. La maison somptueuse m'accueillit à bras ouvert"
+Brésil,loc.adm.nat,Location,loc.adm.nat,7384,7390,,"A cette époque, l'esclavage florissait encore au [Brésil] et M. Salvador régnait, très paternellement du re"
+M. Salvador,pers.ind,Person,pers.ind,7394,7405,,"poque, l'esclavage florissait encore au Brésil et [M. Salvador] régnait, très paternellement du reste, sur quatre"
+Obidos,loc.adm.town,Location,loc.adm.town,7763,7769,,"que sa fille Isabelle reviendrait prochainement d'[Obidos], ramenée par une de ses tantes, qui l'avait gardé"
+Vasco d'Algarve,pers.ind,Person,pers.ind,7899,7914,,"tant proche, je fus prié de rester jusque-là. M. [Vasco d'Algarve], le fiancé de Mme Salvador, était un jeune homme"
+Mme Salvador,pers.ind,Person,pers.ind,7929,7941,,"ster jusque-là. M. Vasco d'Algarve, le fiancé de [Mme Salvador], était un jeune homme de mon âge, très martial et"
+Bahia,loc.adm.town,Location,loc.adm.town,8501,8506,,", après lequel le jeune couple devait partir pour [Bahia], garnison maritime du brillant officier. Cependa"
+Gamache,loc.adm.town,Location,loc.adm.town,8677,8684,,"s somptueuse et plus luxuriante que celle même de [Gamache]. On était dans la saison sèche et, n'ayant à cra"
+Amazonie,loc.phys.hydro,Location,loc.phys.hydro,9122,9130,,as et des civets d'agouti. Tous les poissons de l'[Amazonie] étaient invités à cette noce en qualité de victim
+M. Parapoul,pers.ind,Person,pers.ind,9326,9337,,"nous faites venir l'eau à la bouche, interrompit [M. Parapoul], et jusqu'ici votre histoire n'a rien de sinistre"
+Mme Isabelle,pers.ind,Person,pers.ind,9558,9570,,a veille de ce grand jour de liesse. Au déjeuner [Mme Isabelle] eut un petit chagrin. Une de ses amies du voisina
+Olivia,pers.ind,Person,pers.ind,9752,9758,,"ister à sa noce. «Je veux aller voir cette bonne [Olivia], dit-elle. Père, fais-moi conduire à Santa-Rita.»"
+Santa-Rita,loc.adm.town,Location,loc.adm.town,9796,9806,,"bonne Olivia, dit-elle. Père, fais-moi conduire à [Santa-Rita].» Le fiancé d'Isabelle offrit de l'accompagner"
+Isabelle,pers.ind,Person,pers.ind,9822,9830,,"re, fais-moi conduire à Santa-Rita.» Le fiancé d'[Isabelle] offrit de l'accompagner et dans sa politesse exi"
+Olivia,loc.adm.town,Location,loc.adm.town,10001,10007,,"ue nous descendrions en barque jusqu'au village d'[Olivia], charmant lieu de plaisance couché sur la rive dr"
+Olivia,pers.ind,Person,pers.ind,10001,10007,,"ue nous descendrions en barque jusqu'au village d'[Olivia], charmant lieu de plaisance couché sur la rive dr"
+Amazonie,loc.phys.hydro,Location,loc.phys.hydro,10067,10075,,"lieu de plaisance couché sur la rive droite de l'[Amazonie], à 5 kilomètres en aval. Deux nègres vigoureux d"
+Vasco d'Algarve,pers.ind,Person,pers.ind,10498,10513,,"nions le dos aux rameurs et nous la contemplions, [Vasco d'Algarve] avec des yeux d'amour, moi, l'oiseau de passage,"
+Santa-Rita,loc.adm.town,Location,loc.adm.town,11315,11325,,"qu'ils ne nous attaqueront pas.» Nous abordons à [Santa-Rita], petite plage délicieuse, peuplée de villas brési"
+Amazonie,loc.phys.hydro,Location,loc.phys.hydro,12700,12708,,"utres. Ils sont plus nombreux que les vagues de l'[Amazonie]. Vasco s'amuse à leur jeter des noix de coco, qu"
+Vasco,pers.ind,Person,pers.ind,12711,12716,,"sont plus nombreux que les vagues de l'Amazonie. [Vasco] s'amuse à leur jeter des noix de coco, que les mo"
+Pedro,pers.ind,Person,pers.ind,12964,12969,,"arriver, stimule doucement les rameurs. «Voyons, [Pedro]! voyons, Miguel! dépêchez-vous! nous sommes en re"
+Miguel,pers.ind,Person,pers.ind,12979,12985,,"e doucement les rameurs. «Voyons, Pedro! voyons, [Miguel]! dépêchez-vous! nous sommes en retard. Ramez plus"
+Isabelle,pers.ind,Person,pers.ind,13213,13221,,"nous filons à grande vitesse, à la grande joie d'[Isabelle], qui promet d'arroser la galette de manioc avec u"
+Santarem,loc.adm.town,Location,loc.adm.town,13344,13352,,France. On commençait d'apercevoir le clocher de [Santarem]. Tout à coup la barque heurta le tronc submergé
+Mme Beaurainier,pers.ind,Person,pers.ind,13972,13987,,s. Un cri de terreur courut par toute la table. [Mme Beaurainier] devint si pâle qu'on crut qu'elle allait se pâmer
+baron de la Sorme,pers.ind,Person,pers.ind,14072,14089,,"allait se pâmer. «Apportez du vinaigre!» cria le [baron de la Sorme]. Mais la vieille sœur: «Pas de vinaigre, un verre"
+Epervay,loc.adm.town,Location,loc.adm.town,14243,14250,,"que la jeune veuve eut absorbé le précieuxlixir d'[Epervay], ses joues refleurirent et, pour consolider ses s"
+M. Parapoul,pers.ind,Person,pers.ind,14467,14478,,"er les cheveux sur la tête.» Pas les miens! cria [M. Parapoul], en passant fièrement la main sur le marbre de so"
+Jardin zoologique de Marseille,loc.fac,Location,loc.fac,14729,14759,,"rance. Comment, pas en France! Il y en a deux au [Jardin zoologique de Marseille]. Ils me connaissent, car ze leur porte des friand"
+Reims,loc.adm.town,Location,loc.adm.town,14863,14868,,", que ze leur donne, comme ze donne ce biscuit de [Reims] à mon chien. Un jour, ils vous couperont le poig"
+Mme Haramel,pers.ind,Person,pers.ind,15162,15173,,ez-vous beaucoup d'histoires de ce genre? demanda [Mme Haramel]. Une dizaine. Vous nous les raconterez. Je les
+M. de la Sorme,pers.ind,Person,pers.ind,15504,15518,,e de leur mettre du colon dans les oreilles quand [M. de la Sorme] ouvre la bouche. P. GUICHARD. LE CODE POUR TOUS
+P. GUICHARD,pers.ind.articleauthor,Person,pers.ind.articleauthor,15537,15548,,s oreilles quand M. de la Sorme ouvre la bouche. [P. GUICHARD]. LE CODE POUR TOUS Poids et mesures La loi du
+4 juillet 1837,time.date.abs,Time,time.date.abs,15598,15612,,". LE CODE POUR TOUS Poids et mesures La loi du [4 juillet 1837] et l'ordonnance du 27 avril 1839, prise en exécut"
+27 avril 1839,time.date.abs,Time,time.date.abs,15632,15645,,"ures La loi du 4 juillet 1837 et l'ordonnance du [27 avril 1839], prise en exécution de ladite loi, disposent que"
+Cour de cassation,org.adm,Organization,org.adm,16499,16516,,", la détention n'en serait pas moins punissable. ([Cour de cassation] 25 juillet 1901.) SAINT-YVES. MOT CARRÉ Une es"
+25 juillet 1901,time.date.abs,Time,time.date.abs,16517,16532,,"n serait pas moins punissable. (Cour de cassation [25 juillet 1901].) SAINT-YVES. MOT CARRÉ Une espèce de poivre,"
+SAINT-YVES,pers.ind.articleauthor,Person,pers.ind.articleauthor,16536,16546,,"punissable. (Cour de cassation 25 juillet 1901.) [SAINT-YVES]. MOT CARRÉ Une espèce de poivre, une plante d'A"
+A. C. F.,pers.ind.articleauthor,Person,pers.ind.articleauthor,16751,16759,,— Gaulois. — Là se trouvait un serpent fabuleux. [A. C. F.] AVIS AUX DEVINEURS Les solutions doivent être p
+MARDI,time.date.abs,Time,time.date.abs,16821,16826,,EVINEURS Les solutions doivent être parvenues le [MARDI] au plus tard au rédacteur en chef du Supplément i
+Supplément illustré du Petit Journal,prod.media,Product,prod.media,16864,16900,,ues le MARDI au plus tard au rédacteur en chef du [Supplément illustré du Petit Journal]. SOLUTION de la Charade (n° 653) Para — Celse
+Eugène R.,pers.ind,Person,pers.ind,17022,17031,,JUSTES des Mots en Chevron (n° 652) A. C. F. — [Eugène R.] et Alphonse L. à Saint-Gobain. — Warrior — P. S.
+Alphonse L.,pers.ind,Person,pers.ind,17035,17046,,"Mots en Chevron (n° 652) A. C. F. — Eugène R. et [Alphonse L.] à Saint-Gobain. — Warrior — P. S. T., naturel de"
+Saint-Gobain,loc.adm.town,Location,loc.adm.town,17049,17061,,"n (n° 652) A. C. F. — Eugène R. et Alphonse L. à [Saint-Gobain]. — Warrior — P. S. T., naturel de Balma — Paule e"
+Warrior,pers.ind,Person,pers.ind,17065,17072,,". F. — Eugène R. et Alphonse L. à Saint-Gobain. — [Warrior] — P. S. T., naturel de Balma — Paule et Charles G"
+P. S. T.,pers.ind,Person,pers.ind,17075,17083,,"ène R. et Alphonse L. à Saint-Gobain. — Warrior — [P. S. T.], naturel de Balma — Paule et Charles Gourlet — Un"
+Balma,loc.adm.town,Location,loc.adm.town,17096,17101,,"à Saint-Gobain. — Warrior — P. S. T., naturel de [Balma] — Paule et Charles Gourlet — Un massacrée de Wass"
+Paule,pers.ind,Person,pers.ind,17104,17109,,"-Gobain. — Warrior — P. S. T., naturel de Balma — [Paule] et Charles Gourlet — Un massacrée de Wassy — Jean"
+Charles Gourlet,pers.ind,Person,pers.ind,17113,17128,,"— Warrior — P. S. T., naturel de Balma — Paule et [Charles Gourlet] — Un massacrée de Wassy — Jeanson du 31e de Melun"
+Wassy,loc.adm.town,Location,loc.adm.town,17147,17152,,alma — Paule et Charles Gourlet — Un massacrée de [Wassy] — Jeanson du 31e de Melun — Geo Grandin à Prémoût
+Jeanson,pers.ind,Person,pers.ind,17155,17162,,aule et Charles Gourlet — Un massacrée de Wassy — [Jeanson] du 31e de Melun — Geo Grandin à Prémoûtré — Bouch
+Melun,loc.adm.town,Location,loc.adm.town,17173,17178,,urlet — Un massacrée de Wassy — Jeanson du 31e de [Melun] — Geo Grandin à Prémoûtré — Bouchaud Angoulême —
+Geo Grandin,pers.ind,Person,pers.ind,17181,17192,,Un massacrée de Wassy — Jeanson du 31e de Melun — [Geo Grandin] à Prémoûtré — Bouchaud Angoulême — A nier sa Bel
+Prémoûtré,loc.adm.town,Location,loc.adm.town,17195,17204,,e Wassy — Jeanson du 31e de Melun — Geo Grandin à [Prémoûtré] — Bouchaud Angoulême — A nier sa Bel — Philippe K
+Bouchaud,pers.ind,Person,pers.ind,17207,17215,,anson du 31e de Melun — Geo Grandin à Prémoûtré — [Bouchaud] Angoulême — A nier sa Bel — Philippe Kobrute à Pi
+Angoulême,loc.adm.town,Location,loc.adm.town,17216,17225,,31e de Melun — Geo Grandin à Prémoûtré — Bouchaud [Angoulême] — A nier sa Bel — Philippe Kobrute à Pierregot —
+Philippe Kobrute,pers.ind,Person,pers.ind,17244,17260,,Prémoûtré — Bouchaud Angoulême — A nier sa Bel — [Philippe Kobrute] à Pierregot — G. Derfla Monampsteuil — Un Spirite
+Pierregot,loc.adm.town,Location,loc.adm.town,17263,17272,,ud Angoulême — A nier sa Bel — Philippe Kobrute à [Pierregot] — G. Derfla Monampsteuil — Un Spirite — Louis Cro
+G. Derfla,pers.ind,Person,pers.ind,17275,17284,,— A nier sa Bel — Philippe Kobrute à Pierregot — [G. Derfla] Monampsteuil — Un Spirite — Louis Cros fils — C.
+Monampsteuil,loc.adm.town,Location,loc.adm.town,17285,17297,,sa Bel — Philippe Kobrute à Pierregot — G. Derfla [Monampsteuil] — Un Spirite — Louis Cros fils — C. Thiébaut — En
+Louis Cros fils,pers.ind,Person,pers.ind,17313,17328,,"Pierregot — G. Derfla Monampsteuil — Un Spirite — [Louis Cros fils] — C. Thiébaut — Enéque Ceblam, Vianne — Octave Cl"
+C. Thiébaut,pers.ind,Person,pers.ind,17331,17342,,"fla Monampsteuil — Un Spirite — Louis Cros fils — [C. Thiébaut] — Enéque Ceblam, Vianne — Octave Clin — Auguste M"
+Enéque Ceblam,pers.ind,Person,pers.ind,17345,17358,,"il — Un Spirite — Louis Cros fils — C. Thiébaut — [Enéque Ceblam], Vianne — Octave Clin — Auguste Mauger, à la Haye"
+Vianne,loc.adm.town,Location,loc.adm.town,17360,17366,,"— Louis Cros fils — C. Thiébaut — Enéque Ceblam, [Vianne] — Octave Clin — Auguste Mauger, à la Haye de Call"
+Octave Clin,pers.ind,Person,pers.ind,17369,17380,,"Cros fils — C. Thiébaut — Enéque Ceblam, Vianne — [Octave Clin] — Auguste Mauger, à la Haye de Calleville — Clair"
+Auguste Mauger,pers.ind,Person,pers.ind,17383,17397,,"Thiébaut — Enéque Ceblam, Vianne — Octave Clin — [Auguste Mauger], à la Haye de Calleville — Clairette de Marcour —"
+la Haye de Calleville,loc.adm.town,Location,loc.adm.town,17401,17422,,"Ceblam, Vianne — Octave Clin — Auguste Mauger, à [la Haye de Calleville] — Clairette de Marcour — Martial D. à Saint-Léger"
+Clairette de Marcour,pers.ind,Person,pers.ind,17425,17445,,"Clin — Auguste Mauger, à la Haye de Calleville — [Clairette de Marcour] — Martial D. à Saint-Léger — Tante Léonie — L'ord"
+Martial D.,pers.ind,Person,pers.ind,17448,17458,,à la Haye de Calleville — Clairette de Marcour — [Martial D.] à Saint-Léger — Tante Léonie — L'ordonnance de Gr
+Saint-Léger,loc.adm.town,Location,loc.adm.town,17461,17472,,Calleville — Clairette de Marcour — Martial D. à [Saint-Léger] — Tante Léonie — L'ordonnance de Grosse Eglise —
+Tante Léonie,pers.ind,Person,pers.ind,17475,17487,,Clairette de Marcour — Martial D. à Saint-Léger — [Tante Léonie] — L'ordonnance de Grosse Eglise — Joseph Grandin
+Grosse Eglise,loc.adm.town,Location,loc.adm.town,17506,17519,,D. à Saint-Léger — Tante Léonie — L'ordonnance de [Grosse Eglise] — Joseph Grandin de Bihoire — Ch. K. à Petite-Bar
+Joseph Grandin,pers.ind,Person,pers.ind,17522,17536,,— Tante Léonie — L'ordonnance de Grosse Eglise — [Joseph Grandin] de Bihoire — Ch. K. à Petite-Barbare — Lucie Roge
+Bihoire,loc.adm.town,Location,loc.adm.town,17540,17547,,L'ordonnance de Grosse Eglise — Joseph Grandin de [Bihoire] — Ch. K. à Petite-Barbare — Lucie Roger du Havre
+Ch. K.,pers.ind,Person,pers.ind,17550,17556,,ce de Grosse Eglise — Joseph Grandin de Bihoire — [Ch. K.] à Petite-Barbare — Lucie Roger du Havre — Henriet
+Petite-Barbare,loc.adm.town,Location,loc.adm.town,17559,17573,,sse Eglise — Joseph Grandin de Bihoire — Ch. K. à [Petite-Barbare] — Lucie Roger du Havre — Henriette et Jeanne à Pi
+Lucie Roger,pers.ind,Person,pers.ind,17576,17587,,ph Grandin de Bihoire — Ch. K. à Petite-Barbare — [Lucie Roger] du Havre — Henriette et Jeanne à Pierregot — René
+du Havre,loc.adm.town,Location,loc.adm.town,17588,17596,,"e Bihoire — Ch. K. à Petite-Barbare — Lucie Roger [du Havre] — Henriette et Jeanne à Pierregot — René Lambert,"
+Henriette,pers.ind,Person,pers.ind,17599,17608,,"Ch. K. à Petite-Barbare — Lucie Roger du Havre — [Henriette] et Jeanne à Pierregot — René Lambert, Alfortville"
+Jeanne,pers.ind,Person,pers.ind,17612,17618,,"ite-Barbare — Lucie Roger du Havre — Henriette et [Jeanne] à Pierregot — René Lambert, Alfortville — Touffoë"
+René Lambert,pers.ind,Person,pers.ind,17633,17645,,"oger du Havre — Henriette et Jeanne à Pierregot — [René Lambert], Alfortville — Touffoër — Pison et Fife, Olmeto —"
+Alfortville,loc.adm.town,Location,loc.adm.town,17647,17658,,"— Henriette et Jeanne à Pierregot — René Lambert, [Alfortville] — Touffoër — Pison et Fife, Olmeto — Ilpesoj et R"
+Touffoër,loc.adm.town,Location,loc.adm.town,17661,17669,,"Jeanne à Pierregot — René Lambert, Alfortville — [Touffoër] — Pison et Fife, Olmeto — Ilpesoj et Reivax, Olme"
+Pison,pers.ind,Person,pers.ind,17672,17677,,"ierregot — René Lambert, Alfortville — Touffoër — [Pison] et Fife, Olmeto — Ilpesoj et Reivax, Olmeto. L'U"
+Fife,pers.ind,Person,pers.ind,17681,17685,,"— René Lambert, Alfortville — Touffoër — Pison et [Fife], Olmeto — Ilpesoj et Reivax, Olmeto. L'UNIQUE RE"
+Olmeto,loc.adm.town,Location,loc.adm.town,17687,17693,,"Lambert, Alfortville — Touffoër — Pison et Fife, [Olmeto] — Ilpesoj et Reivax, Olmeto. L'UNIQUE REMÈDE DE"
+Ilpesoj,pers.ind,Person,pers.ind,17696,17703,,"Alfortville — Touffoër — Pison et Fife, Olmeto — [Ilpesoj] et Reivax, Olmeto. L'UNIQUE REMÈDE DE L'ESTOMAC"
+Reivax,pers.ind,Person,pers.ind,17707,17713,,"e — Touffoër — Pison et Fife, Olmeto — Ilpesoj et [Reivax], Olmeto. L'UNIQUE REMÈDE DE L'ESTOMAC Les malad"
+Cock,org.ent,Organization,org.ent,18579,18583,,"s guérir de suite, prenez les Poudres de Santé de [Cock]», et notez bien ceci, ce n'est pas une fois sur c"
+M. Couvreur,pers.ind,Person,pers.ind,19582,19593,,"armacies de France ou 2 fr. 60 en mandat-poste, à [M. Couvreur], pharmacien, rue Neuve, à Roubaix. Une notice exp"
+rue Neuve,loc.oro,Location,loc.oro,19607,19616,,"r. 60 en mandat-poste, à M. Couvreur, pharmacien, [rue Neuve], à Roubaix. Une notice explicative très détaillée"
+Roubaix,loc.adm.town,Location,loc.adm.town,19620,19627,,"at-poste, à M. Couvreur, pharmacien, rue Neuve, à [Roubaix]. Une notice explicative très détaillée accompagne"
+MM. Monnot-Bartholin,pers.coll,Person,pers.coll,19727,19747,,"chaque boîte. Pour la vente en gros s'adresser à [MM. Monnot-Bartholin], 21, rue chel-le-Comte, Paris."
+"21, rue chel-le-Comte",loc.add.phys,Location,loc.add.phys,19749,19770,,"vente en gros s'adresser à MM. Monnot-Bartholin, [21, rue chel-le-Comte], Paris."
+Paris,loc.adm.town,Location,loc.adm.town,19772,19777,,"er à MM. Monnot-Bartholin, 21, rue chel-le-Comte, [Paris]."

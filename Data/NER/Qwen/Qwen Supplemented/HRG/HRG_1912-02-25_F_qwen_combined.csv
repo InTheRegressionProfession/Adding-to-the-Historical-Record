@@ -1,0 +1,26 @@
+﻿entity,fine_type,coarse_type,impresso_type,change,model_label,start,end,confidence,context
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,73,78,,"! je vais repartir de suite, il faut que j'aile à [Paris] ! — Oh ! papa ! papa !... c'est mal ! Puis Lisett"
+Lisette,pers.ind,Person,pers.ind,confirmed,pers.ind,122,129,,"Paris ! — Oh ! papa ! papa !... c'est mal ! Puis [Lisette] se tut, le regard atterré, le visage sérieux. Et"
+M. de Gerfeuil,pers.ind,Person,pers.ind,confirmed,pers.ind,200,214,,"terré, le visage sérieux. Et cela surprit et émut [M. de Gerfeuil] plus que ne l'eussent fait des larmes. Cependant"
+J. LE HÉNAFF,pers.ind.articleauthor,Person,pers.ind,retyped,pers.ind.articleauthor,1499,1511,,"sa maman son père, en le conduisant par la main. [J. LE HÉNAFF]. ÉCRIRE LE PETIT JOURNAL AGRICOLE Seize pages de"
+LE PETIT JOURNAL AGRICOLE,prod.media,Product,,added,prod.media,1521,1546,,le conduisant par la main. J. LE HÉNAFF. ÉCRIRE [LE PETIT JOURNAL AGRICOLE] Seize pages de texte LE NUMÉRO : 5 CENTIMES COU
+Marchal,pers.ind,Person,pers.ind,confirmed,pers.ind,1748,1755,,"Recommandation A la porte du bureau du colonel, [Marchal] fit : « Toc ! Toc ! » tout doucement, tandis que,"
+colonel Schwyz,pers.ind,Person,pers.ind,confirmed,pers.ind,2321,2335,,"ète de ses amis qui s'offrait à le recommander au [colonel Schwyz], du 182e. Marchal comptait demander au colonel :"
+Marchal,pers.ind,Person,pers.ind,confirmed,pers.ind,2346,2353,,"rait à le recommander au colonel Schwyz, du 182e. [Marchal] comptait demander au colonel : 1o l'autorisation"
+Laterrade,pers.ind,Person,pers.ind,confirmed,pers.ind,3051,3060,,"égiment. Je tiens en grande estime son capitaine, [Laterrade]. Je lui ai parlé de vous... Mais, dites donc, vou"
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,3200,3205,,"-ce pas ? — Certes, mon colonel ! dit Marchal. A [Paris], la vie littéraire est si absorbante ! Aussi voud"
+France,loc.adm.nat,Location,loc.adm.nat,confirmed,loc.adm.nat,3634,3640,,"re bien venir ! A l'entendre, il n'y avait pas en [France] un patriote plus ardent que lui. — C'est très bi"
+Marchal,pers.ind,Person,pers.ind,confirmed,pers.ind,4708,4715,,"nt : c'était du propre ! Un quart d'heure après, [Marchal] s'en fut au bureau de la compagnie. Assis, indole"
+Jean Marchal,pers.ind,Person,pers.ind,confirmed,pers.ind,4935,4947,,"tout à l'heure, m'a dit vous avoir parlé de moi, [Jean Marchal]... Le capitaine — moustaches grisonnantes, petit"
+Achille,pers.ind,Person,pers.ind,confirmed,pers.ind,5540,5547,,"onse. Il élaucha un salut peu militaire et, comme [Achille], rentra sous sa tente. Le lendemain, entre deux"
+Laterrade,pers.ind,Person,pers.ind,confirmed,pers.ind,6421,6430,,"llent pour vous qui êtes fatigué... N'est-ce pas, [Laterrade], je vous recommande ce jeune réserviste ? D'autr"
+Marchal,pers.ind,Person,pers.ind,confirmed,pers.ind,7128,7135,,"nt abattre par une fatigue passagère. Tout, pour [Marchal] devait être excellent ; exercices, marches, servi"
+Cologne,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,9093,9100,,"brunie ; il lui en faudrait des flacons d'eau de [Cologne] ! — Vous aller rentrer à Paris plein de courage,"
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,9126,9131,,"flacons d'eau de Cologne ! — Vous aller rentrer à [Paris] plein de courage, et nous écrire de ces choses..."
+Marchal,pers.ind,Person,pers.ind,confirmed,pers.ind,9304,9311,,"ilitaire, croyez-moi, Marchal, il n'y a que ça ! [Marchal] aurait eu beaucoup à dire, beaucoup trop. Mais, m"
+Pandore,pers.ind,Person,pers.ind,confirmed,pers.ind,9476,9483,,"s cinq galons lui en imposaient encore. Et, comme [Pandore] à son brigadier, il répondit tout simplement, ave"
+Henri BACHELIN,pers.ind.articleauthor,Person,pers.ind,retyped,pers.ind.articleauthor,9595,9609,,"ne humilité : — Mon colonel, vous avez raison ! [Henri BACHELIN]. LA BONNE ACTION Dans le taudis où grouillait l"
+Alfred,pers.ind,Person,pers.ind,confirmed,pers.ind,10808,10814,,"artiste ! Barbouilleur de toile... — Qui ou non, [Alfred], sais-tu ce qu'il a fait de son argent ? question"
+Alfred,pers.ind,Person,pers.ind,confirmed,pers.ind,15281,15287,,mme vint à la boutique et se trouva en présence d'[Alfred] qui demandait le pardessus. Elle se mit à trembl
+Alfred,pers.ind,Person,pers.ind,confirmed,pers.ind,17193,17199,,lle obéit sans comprendre et le marchand montra à [Alfred] quelques antiquités en attendant son retour. Ell
+Ph. BERTHELIER,pers.ind,Person,pers.ind,confirmed,pers.ind,18325,18339,,".. Sa femme, convaincue, l'embrassa tendrement. [Ph. BERTHELIER]."

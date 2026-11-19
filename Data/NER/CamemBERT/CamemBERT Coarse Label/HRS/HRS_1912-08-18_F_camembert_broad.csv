@@ -1,0 +1,96 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Michel,Person,PER,612,618,0.964,"désir de maternité, de protection. — Parce que, [Michel], je vous aime ! Roger Régis. LE CODE POUR TOUS"
+Roger Régis,Person,PER,636,647,0.9812,"protection. — Parce que, Michel, je vous aime ! [Roger Régis]. LE CODE POUR TOUS De la constitution de rente"
+ODE,Product,MISC,654,657,0.4997,"ce que, Michel, je vous aime ! Roger Régis. LE C[ODE] POUR TOUS De la constitution de rente On peut s"
+"cinq ans.
+
+Après vingt-huit ans",Time,DATE,1089,1120,0.8402,"rente. Les arrérages de rente se prescrivent par [cinq ans. Après vingt-huit ans] de la date du dernier titre, le débiteur d'une re"
+dix ans ou,Time,DATE,1908,1918,0.8751,ura pas lieu avant un délai qui ne pourra excéder [dix ans ou] sans avoir averti le créancier au terme d'avance
+deux ans,Time,DATE,2113,2121,0.9958,1° s'il cesse de remplir ses obligations pendant [deux ans] ; 2° s'il manque à fournir au prêteur les sûretés
+1968 à 1983,Time,DATE,2372,2383,0.9476,"res. — Ce contrat est réglementé par les articles [1968 à 1983] du Code civil, au titre des contrats aléatoires."
+Code,Product,MISC,2387,2391,0.3508,"at est réglementé par les articles 1968 à 1983 du [Code] civil, au titre des contrats aléatoires. Nous en"
+civil,Organization,ORG,2392,2397,0.4082,"t réglementé par les articles 1968 à 1983 du Code [civil], au titre des contrats aléatoires. Nous en résumo"
+SAINT-YVES,Location,LOC,4089,4099,0.9901,"que lorsqu'elle a été concédée à titre gratuit. [SAINT-YVES]. Mme Sophie Mil... 58 ans, propriétaire à Rouen."
+Mme Sophie Mil,Person,PER,4102,4116,0.8524,"lle a été concédée à titre gratuit. SAINT-YVES. [Mme Sophie Mil]... 58 ans, propriétaire à Rouen. — Tête totalemen"
+58 ans,Time,DATE,4120,4126,0.965,"à titre gratuit. SAINT-YVES. Mme Sophie Mil... [58 ans], propriétaire à Rouen. — Tête totalement dénudée"
+Rouen,Location,LOC,4143,4148,0.9944,"T-YVES. Mme Sophie Mil... 58 ans, propriétaire à [Rouen]. — Tête totalement dénudée depuis 3 ans à la suit"
+3 ans,Time,DATE,4183,4188,0.9961,"iétaire à Rouen. — Tête totalement dénudée depuis [3 ans] à la suite d'un ergipèle, portait une légère perr"
+après 2 mois,Time,DATE,4280,4292,0.9737,ère perruque. Chevelure complètement reconstituée [après 2 mois] 1/2 de traitement. JE DONNE 100.000 Fr. à qui p
+Sève Capillaire,Product,MISC,4365,4380,0.9403,DONNE 100.000 Fr. à qui prouvera que la célèbre [Sève Capillaire] du dermatologiste F. OLBÉ n'arrête pas la chute d
+F. OLBÉ,Person,PER,4399,4406,0.9904,que la célèbre Sève Capillaire du dermatologiste [F. OLBÉ] n'arrête pas la chute des cheveux en deux jours e
+en deux jours et,Time,DATE,4441,4457,0.9651,logiste F. OLBÉ n'arrête pas la chute des cheveux [en deux jours et] ne les fait pas repousser à tout âge sur les tête
+Ré,Product,MISC,4572,4574,0.6484,"ves et dans leur nuance naturelle. C'est le seul [Ré]générateur infallible et rapide de la chevelure, l"
+rateur,Product,MISC,4578,4584,0.5422,"dans leur nuance naturelle. C'est le seul Régéné[rateur] infallible et rapide de la chevelure, le seul rec"
+GRATIS,Person,PER,4795,4801,0.9845,"osition de tous à mon laboratoire. Pour recevoir [GRATIS] sous pli fermé l'exposé de la Méthode, écrire ave"
+Méthode,Product,MISC,4832,4839,0.8582,"our recevoir GRATIS sous pli fermé l'exposé de la [Méthode], écrire avec les plus grands détails ou se rendre"
+Laboratoire,Location,LOC,4893,4904,0.5475,"rire avec les plus grands détails ou se rendre au [Laboratoire] OLBÉ, 22, Rue des Martyrs, 22, Section 476 PARIS"
+OLBÉ,Person,PER,4905,4909,0.6729,"s plus grands détails ou se rendre au Laboratoire [OLBÉ], 22, Rue des Martyrs, 22, Section 476 PARIS Octa"
+Rue des Martyrs,Location,LOC,4915,4930,0.9768,"nds détails ou se rendre au Laboratoire OLBÉ, 22, [Rue des Martyrs], 22, Section 476 PARIS Octave Tsr... 32 ans, méc"
+22,Location,LOC,4932,4934,0.8328,"rendre au Laboratoire OLBÉ, 22, Rue des Martyrs, [22], Section 476 PARIS Octave Tsr... 32 ans, mécanic"
+Section 476 PARIS,Location,LOC,4936,4953,0.7516,"dre au Laboratoire OLBÉ, 22, Rue des Martyrs, 22, [Section 476 PARIS] Octave Tsr... 32 ans, mécanicien aux Angles. — P"
+Octave Tsr...,Person,PER,4955,4968,0.9179,"OLBÉ, 22, Rue des Martyrs, 22, Section 476 PARIS [Octave Tsr...] 32 ans, mécanicien aux Angles. — Pelade remontant"
+32 ans,Time,DATE,4969,4975,0.9904,"des Martyrs, 22, Section 476 PARIS Octave Tsr... [32 ans], mécanicien aux Angles. — Pelade remontant à 2 an"
+Angles,Location,LOC,4992,4998,0.9942,"n 476 PARIS Octave Tsr... 32 ans, mécanicien aux [Angles]. — Pelade remontant à 2 ans, 5 grandes plaques qu"
+à 2 ans,Time,DATE,5019,5026,0.99,"32 ans, mécanicien aux Angles. — Pelade remontant [à 2 ans], 5 grandes plaques qui avaient envahi presque tou"
+en 2 mois,Time,DATE,5106,5115,0.985,"t envahi presque toute la tête. Repousse complète [en 2 mois]. Photographie faite 4 mois après. Asnières, le 1"
+4 mois après,Time,DATE,5136,5148,0.9832,". Repousse complète en 2 mois. Photographie faite [4 mois après]. Asnières, le 11 mars. A 66 ans j'étais atteint"
+Asnières,Location,LOC,5151,5159,0.9945,"lète en 2 mois. Photographie faite 4 mois après. [Asnières], le 11 mars. A 66 ans j'étais atteint d'une calvi"
+le 11 mars,Time,DATE,5161,5171,0.9887,"mois. Photographie faite 4 mois après. Asnières, [le 11 mars]. A 66 ans j'étais atteint d'une calvitie complète"
+A 66 ans,Time,DATE,5173,5181,0.9695,"raphie faite 4 mois après. Asnières, le 11 mars. [A 66 ans] j'étais atteint d'une calvitie complète, venue pe"
+6 semaines,Time,DATE,5426,5436,0.9946,"fet fut prodigieux, à peine croyable. En moins de [6 semaines] ma tête fut recouverte d'une chevelure non pas tr"
+Beaulieu,Location,LOC,5629,5637,0.9794,"prie de me dire si le résultat est satisfaisant. [Beaulieu], 3 mars. J'avais perdu depuis 4 ans presque tous"
+3 mars,Time,DATE,5639,5645,0.9959,"dire si le résultat est satisfaisant. Beaulieu, [3 mars]. J'avais perdu depuis 4 ans presque tous mes chev"
+4 ans,Time,DATE,5668,5673,0.9961,"sfaisant. Beaulieu, 3 mars. J'avais perdu depuis [4 ans] presque tous mes cheveux sans cause apparente. L'"
+Sève,Product,MISC,5738,5742,0.978,es cheveux sans cause apparente. L'effet de votre [Sève] a été extraordinaire. Au bout du premier flacon j
+Beaulieu,Location,LOC,5928,5936,0.9797,"chevelure est redevenue ce qu'elle était avant. [Beaulieu], 15 avril. C'est pour me faire plaisir que mon ma"
+15 avril,Time,DATE,5938,5946,0.9946,"est redevenue ce qu'elle était avant. Beaulieu, [15 avril]. C'est pour me faire plaisir que mon mari avait c"
+Sève,Product,MISC,6108,6112,0.9762,consentit cependant à essayer un flacon de votre [Sève]; que ne l'avais-je fait plus tôt! En deux mois et
+En deux mois et,Time,DATE,6147,6162,0.8621,n de votre Sève; que ne l'avais-je fait plus tôt! [En deux mois et] demi ma chevelure est redevenue ce qu'elle était
+Bagnoux,Location,LOC,6366,6373,0.9896,"prie de me dire si le résultat est satisfaisant. [Bagnoux], le 24 avril. Ainsi que vous le savez j'avais per"
+le 24 avril,Time,DATE,6375,6386,0.9951,"e dire si le résultat est satisfaisant. Bagnoux, [le 24 avril]. Ainsi que vous le savez j'avais perdu à peu près"
+Sève,Product,MISC,6575,6579,0.9763,ne de mes amies m'avait conseillé d'essayer votre [Sève]; que ne l'avais-je fait plus tôt! En deux mois et
+En deux mois et,Time,DATE,6614,6629,0.8826,ayer votre Sève; que ne l'avais-je fait plus tôt! [En deux mois et] demi ma chevelure est redevenue ce qu'elle était
+17 avril,Time,DATE,6833,6841,0.9865,prie de me dire si le résultat est satisfaisant. [17 avril]. La pelade grâce dont j'étais atteint à 67 ans en
+à 67 ans environ,Time,DATE,6880,6896,0.9335,". 17 avril. La pelade grâce dont j'étais atteint [à 67 ans environ]. — A 67 ans, j'étais atteint à 6 semaines avec vo"
+A 67 ans,Time,DATE,6900,6908,0.9395,"de grâce dont j'étais atteint à 67 ans environ. — [A 67 ans], j'étais atteint à 6 semaines avec votre Sève; le"
+à 6 semaines,Time,DATE,6926,6938,0.9849,"int à 67 ans environ. — A 67 ans, j'étais atteint [à 6 semaines] avec votre Sève; les places dénudées sont complèt"
+Sève,Product,MISC,6950,6954,0.9778,"A 67 ans, j'étais atteint à 6 semaines avec votre [Sève]; les places dénudées sont complètement recouverte"
+aujourd'hui,Time,DATE,7189,7200,0.9957,"e l'ignorez pas, les maladies de la peau. On sait [aujourd'hui] que toutes ces affections cutanées sont causées p"
+Dépurase du,Product,MISC,7304,7315,0.833,es humeurs engendrées par un sang âcre et vicié. [Dépurase du] Dr Daru réalise le type parfait du spécifique de
+Dr Daru,Person,PER,7316,7323,0.8592,ngendrées par un sang âcre et vicié. Dépurase du [Dr Daru] réalise le type parfait du spécifique des affect
+Boutons,Product,MISC,7663,7670,0.7922,"la peau sa netteté. C'est la guérison assurée des [Boutons], Acné, Dartres, Eczémas, Psoriasis, etc. La Dépu"
+Acné,Product,MISC,7672,7676,0.7328,"a netteté. C'est la guérison assurée des Boutons, [Acné], Dartres, Eczémas, Psoriasis, etc. La Dépurase d"
+Dartres,Product,MISC,7678,7685,0.6994,"eté. C'est la guérison assurée des Boutons, Acné, [Dartres], Eczémas, Psoriasis, etc. La Dépurase du Docteur"
+Eczémas,Product,MISC,7687,7694,0.7123,"t la guérison assurée des Boutons, Acné, Dartres, [Eczémas], Psoriasis, etc. La Dépurase du Docteur Daru se"
+Psoriasis,Product,MISC,7696,7705,0.7451,"ison assurée des Boutons, Acné, Dartres, Eczémas, [Psoriasis], etc. La Dépurase du Docteur Daru se trouve dans"
+Dépurase du Docteur,Product,MISC,7716,7735,0.9138,"tons, Acné, Dartres, Eczémas, Psoriasis, etc. La [Dépurase du Docteur] Daru se trouve dans les bonnes pharmacies seuleme"
+Daru,Person,PER,7736,7740,0.913,"Eczémas, Psoriasis, etc. La Dépurase du Docteur [Daru] se trouve dans les bonnes pharmacies seulement de"
+Paris,Location,LOC,7791,7796,0.9928,se trouve dans les bonnes pharmacies seulement de [Paris] et de Province ou au Dépôt général : Monsieur H.
+Province,Location,LOC,7803,7811,0.9932,"ns les bonnes pharmacies seulement de Paris et de [Province] ou au Dépôt général : Monsieur H. LINDEUX, pharma"
+Dépôt général,Location,LOC,7818,7831,0.6199,"harmacies seulement de Paris et de Province ou au [Dépôt général] : Monsieur H. LINDEUX, pharmacien, 10, rue Richel"
+H. LINDEUX,Person,PER,7843,7853,0.9762,"ris et de Province ou au Dépôt général : Monsieur [H. LINDEUX], pharmacien, 10, rue Richelieu, à Paris. 1 franc"
+rue Richelieu,Location,LOC,7871,7884,0.9804,"ôt général : Monsieur H. LINDEUX, pharmacien, 10, [rue Richelieu], à Paris. 1 franc la boîte de 14 paquets (Franco"
+Paris,Location,LOC,7888,7893,0.9939,"ieur H. LINDEUX, pharmacien, 10, rue Richelieu, à [Paris]. 1 franc la boîte de 14 paquets (Franco poste 1."
+Franco poste,Organization,ORG,7928,7940,0.9,"helieu, à Paris. 1 franc la boîte de 14 paquets ([Franco poste] 1.20) VIENT DE PARAITRE LA MUSIQUE 3 MORCEAUX"
+"MUSIQUE
+
+3 MORCEAUX de MUSIQUE",Product,MISC,7970,8000,0.7216,aquets (Franco poste 1.20) VIENT DE PARAITRE LA [MUSIQUE 3 MORCEAUX de MUSIQUE] pour 15 CENTIMES LE N° 19 CONTIENT ON DIT Chan
+15 CENTIMES,Product,MISC,8006,8017,0.7489,PARAITRE LA MUSIQUE 3 MORCEAUX de MUSIQUE pour [15 CENTIMES] LE N° 19 CONTIENT ON DIT Chanson Paroles de PI
+"TIENT
+
+ON DIT
+
+Chanson",Product,MISC,8031,8053,0.7092,MORCEAUX de MUSIQUE pour 15 CENTIMES LE N° 19 CON[TIENT ON DIT Chanson] Paroles de PIERRE LOUYS Musique de HENRI SCHMITT
+PIERRE LOUYS,Person,PER,8065,8077,0.9927,ES LE N° 19 CONTIENT ON DIT Chanson Paroles de [PIERRE LOUYS] Musique de HENRI SCHMITT BLONDINETTE Polka A. B
+HENRI SCHMITT,Person,PER,8089,8102,0.9934,N DIT Chanson Paroles de PIERRE LOUYS Musique de [HENRI SCHMITT] BLONDINETTE Polka A. BOSC LES DEUX GRENADIERS
+"BLONDINETTE
+
+Polka",Product,MISC,8104,8122,0.8071,Paroles de PIERRE LOUYS Musique de HENRI SCHMITT [BLONDINETTE Polka] A. BOSC LES DEUX GRENADIERS Mélodie de SCHUMANN
+A. BOSC,Person,PER,8123,8130,0.9874,OUYS Musique de HENRI SCHMITT BLONDINETTE Polka [A. BOSC] LES DEUX GRENADIERS Mélodie de SCHUMANN Transcr
+LES DEUX GRENADIERS,Product,MISC,8132,8151,0.9246,que de HENRI SCHMITT BLONDINETTE Polka A. BOSC [LES DEUX GRENADIERS] Mélodie de SCHUMANN Transcription de V. SIGHICEL
+SCHUMANN,Person,PER,8164,8172,0.9826,E Polka A. BOSC LES DEUX GRENADIERS Mélodie de [SCHUMANN] Transcription de V. SIGHICELLI 15 CENTIMES LE NU
+V. SIGHICELLI,Person,PER,8190,8203,0.9881,GRENADIERS Mélodie de SCHUMANN Transcription de [V. SIGHICELLI] 15 CENTIMES LE NUMÉRO Parait tous les quinze jou
+15 CENTIMES,Product,MISC,8205,8216,0.8629,lodie de SCHUMANN Transcription de V. SIGHICELLI [15 CENTIMES] LE NUMÉRO Parait tous les quinze jours EN VENTE C
+N,Product,MISC,8220,8221,0.504,NN Transcription de V. SIGHICELLI 15 CENTIMES LE [N]UMÉRO Parait tous les quinze jours EN VENTE CHEZ T
+rue Cadet,Location,LOC,8361,8370,0.965,"abonnement : 5 fr. par an. — Administration : 19, [rue Cadet], Paris"
+Paris,Location,LOC,8372,8377,0.9916,": 5 fr. par an. — Administration : 19, rue Cadet, [Paris]"

@@ -1,0 +1,81 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Lizeuil,Person,PER,67,74,,"vait rejoint les maisons. Et, déjà, sur la route, [Lizeuil] se détachait, levant un geste ami. Puis, en arriè"
+Mme de Lizeuil,Person,PER,135,149,,"it, levant un geste ami. Puis, en arrière, il vit [Mme de Lizeuil] qui lui souriait, accoudée à la grille ; la dente"
+soleil,Location,LOC,369,375,,"ttante du matin, allumaient de petites flammes au [soleil]. Ah ! oui, pourquoi n'était-il pas revenu ? Le d"
+Lizeuil,Person,PER,578,585,,"son regard erra, pensif, sur le jeune couple des [Lizeuil] : — Ah ! fit-il, vous êtes heureux ! Si vous sav"
+Ah !,Product,MISC,591,595,,"rra, pensif, sur le jeune couple des Lizeuil : — [Ah !] fit-il, vous êtes heureux ! Si vous saviez comme"
+Mme de Lizeuil,Person,PER,662,676,,s heureux ! Si vous saviez comme je vous envie ! [Mme de Lizeuil] sourit : — Mariez-vous ! dit-elle. Et déjà cett
+Mariez-vous !,Product,MISC,689,702,,comme je vous envie ! Mme de Lizeuil sourit : — [Mariez-vous !] dit-elle. Et déjà cette pensée l'effleuvait d'un
+Mme de Saugères,Person,PER,801,816,,"n désir subit. N'y avait-il pas leur grande amie, [Mme de Saugères] ? Elle était riche. Ses trente-cinq ans s'accorda"
+Saugères,Person,PER,1061,1069,,"imbre de la grille retentit par le jardin. Mme de [Saugères], justement, entra. La jeune femme se leva, d'un m"
+Marguerite !,Product,MISC,1146,1158,,"e femme se leva, d'un mouvement joyeux : — C'est [Marguerite !] dit-elle à son mari. S'excusant d'un sourire, el"
+Mme de Saugères,Person,PER,1297,1312,,"es et descendit, par le jardin, à la rencontre de [Mme de Saugères] : — Nous avons, dit-elle, en lui tendant les mai"
+Marguerite,Person,PER,1630,1640,,"es massifs. Puis, quand elles furent assises : — [Marguerite], priez Mme de Lizeuil, vous allez peut-être me gr"
+Mme de Lizeuil,Person,PER,1648,1662,,"quand elles furent assises : — Marguerite, priez [Mme de Lizeuil], vous allez peut-être me gronder. Mais n'importe"
+Mme de Saugères,Person,PER,1889,1904,,"aira la jolie figure pâle, aux cheveux blonds, de [Mme de Saugères]. — Non, dit-elle en secouant la tête. Je ne veux"
+Oh !,Product,MISC,1975,1979,,secouant la tête. Je ne veux pas me marier... — [Oh !] pourquoi ? implora Mme de Lizeuil. — Me marier !
+Mme de Lizeuil,Person,PER,1999,2013,,veux pas me marier... — Oh ! pourquoi ? implora [Mme de Lizeuil]. — Me marier ! soupira Mme de Saugères d'une voi
+Me marier !,Product,MISC,2018,2029,,"... — Oh ! pourquoi ? implora Mme de Lizeuil. — [Me marier !] soupira Mme de Saugères d'une voix lente, oui, j'"
+Mme de,Person,PER,2038,2044,,"? implora Mme de Lizeuil. — Me marier ! soupira [Mme de] Saugères d'une voix lente, oui, j'avais fait ce r"
+Saugères,Person,PER,2045,2053,,"ora Mme de Lizeuil. — Me marier ! soupira Mme de [Saugères] d'une voix lente, oui, j'avais fait ce rêve, autr"
+Mme de Lizeuil,Person,PER,2168,2182,,"istesse si poignante avait sonné dans sa voix que [Mme de Lizeuil], n'osant l'interroger, se taisait avec respectueu"
+Saugères,Person,PER,2267,2275,,"avec respectueux qu'on a parmi les tombes. Mme de [Saugères], d'un geste, parut vouloir écarter une vision qui"
+Saugères,Person,PER,2676,2684,,"rsait la ville. Un officier descendait chez M. de [Saugères]. Il était grand, d'allure noble et aisée ; la dou"
+Mme de Lizeuil,Person,PER,3388,3402,,"Des questions, cependant, brûlaient les lèvres de [Mme de Lizeuil] : — Alors, demanda-t-elle timidement vous avez a"
+Mme de Saugères,Person,PER,3490,3505,,"vous avez aimé ?... — Oui, j'ai aimé ! répondit [Mme de Saugères]. Le silence reprit. Les visions, de nouveau, se"
+Mme de Saugères,Person,PER,3582,3597,,"isions, de nouveau, se déroulèrent. Le lendemain, [Mme de Saugères] était debout avant l'aube. Elle n'avait pas dormi"
+Descendue,Location,LOC,3710,3719,,"il l'aimait ? Peut-être, il demanderait sa main ? [Descendue], elle croisait l'officier. Il la saluait avec des"
+Mme de Lizeuil,Person,PER,4599,4613,,", sa main s'étendait vers une rose... La voix de [Mme de Lizeuil], encore une fois, l'interrompit : — Vous avez, i"
+Saugères,Person,PER,4753,4761,,", aimé quelqu'un qui ne vous aimait pas ? Mme de [Saugères] eut un geste vague : — Qui sait ? soupira-t-elle"
+Marguerite,Person,PER,4969,4979,,"t-être ! laissa tomber, comme un écho, la voix de [Marguerite]. Un bruit de pas leur fit tourner la tête. Les d"
+M. de Lizeuil,Person,PER,5059,5072,,"urner la tête. Les deux hommes les rejoignaient ; [M. de Lizeuil], ayant salué Marguerite, présenta : — Le command"
+Marguerite,Person,PER,5086,5096,,"mes les rejoignaient ; M. de Lizeuil, ayant salué [Marguerite], présenta : — Le commandant d'Arrel. — Notre am"
+commandant d'Arrel,Person,PER,5115,5133,,"Lizeuil, ayant salué Marguerite, présenta : — Le [commandant d'Arrel]. — Notre amie, Mme de Saugères, fit à son tour M"
+Mme de Saugères,Person,PER,5150,5165,,"ésenta : — Le commandant d'Arrel. — Notre amie, [Mme de Saugères], fit à son tour Mme de Lizeuil. Un grand silence"
+Mme de Lizeuil,Person,PER,5182,5196,,"l. — Notre amie, Mme de Saugères, fit à son tour [Mme de Lizeuil]. Un grand silence tomba. Le salut commencé s'arr"
+"Elle !
+
+Debout",Product,MISC,5295,5309,,"rêta dans un tressaillement soudain : — Lui ! — [Elle ! Debout] l'un devant l'autre, ils se dévisaigèrent dans la"
+"Petite Causerie Médicale
+
+",Product,MISC,5904,5930,,"et fleuries d'idéal, les images anciennes demeu- [Petite Causerie Médicale ]Les cheveux qui se moquent de nous Calvitie trompe"
+Calvitie,Person,PER,5965,5973,,erie Médicale Les cheveux qui se moquent de nous [Calvitie] trompeuse Qui n'a entendu dire et n'a pas répété
+"!
+
+A",Product,MISC,6129,6133,,"ombés, ils sont bien morts, il n'y a rien à faire [! A] cette croyance populaire, la science vient oppose"
+Busch,Person,PER,6445,6450,,ples ; mais ils existent toujours en- professeur [Busch] a rendu une belle chevelure. Alors la calvitie au
+Busch,Person,PER,6762,6767,,"ue, de la retrouver à tout âge, que le professeur [Busch] et ses collaborateurs, en véritables apôtres, se"
+Docteur H. MARCELINS,Person,PER,7169,7189,,"urs, et gratuitement, le moyen de les retrouver. [Docteur H. MARCELINS]. C'est au n° 10 de la rue des Bons-Enfants que se"
+rue des Bons-Enfants,Location,LOC,7212,7232,,uver. Docteur H. MARCELINS. C'est au n° 10 de la [rue des Bons-Enfants] que se trouve le Laboratoire de l'éminent savant.
+Laboratoire de l'éminent savant,Organization,ORG,7250,7281,,"n° 10 de la rue des Bons-Enfants que se trouve le [Laboratoire de l'éminent savant]. FARINE DUTAUT, le meilleur aliment des enfants"
+"LA BROSSE A DENTS
+
+",Product,MISC,7332,7351,,"FARINE DUTAUT, le meilleur aliment des enfants [LA BROSSE A DENTS ]Le jeune Odon de Tréfoins, lieutenant de hussards,"
+Odon de Tréfoins,Person,PER,7360,7376,,"aliment des enfants LA BROSSE A DENTS Le jeune [Odon de Tréfoins], lieutenant de hussards, était un excellent offic"
+Odon de Tréfoins,Person,PER,7678,7694,,"ttait à merveille. Or, un soir, vers six heures, [Odon de Tréfoins], sa valise à la main, arrivait, après trois morte"
+Normandie,Location,LOC,7792,7801,,"telles heures de voyage, dans une petite ville de [Normandie] où, pendant deux jours, il devait séjourner pour"
+Cheval noir,Product,MISC,7984,7995,,"escendit dans le meilleur hôtel de la ville, au « [Cheval noir] » et demanda une chambre pour s'installer et mett"
+Odon,Person,PER,8553,8557,,"inage. — A la guerre comme à la guerre ! conclut [Odon] qui accepta. Il eut été, d'ailleurs, bien embarr"
+Odon de Tréfoins,Person,PER,8958,8974,,"en effet, un voyageur aux allures de gentleman et [Odon de Tréfoins], après quelques banales paroles de politesse, pri"
+Odon,Person,PER,9877,9881,,"en outre, assuré que son compagnon dormait, — car [Odon], intrigué, simulait un sommeil profond — il s'app"
+Odon,Person,PER,10242,10246,,"s'il venait de faire une chose, toute naturelle. [Odon], indigné, et, de plus, fixé sur le compte du fame"
+Odon,Person,PER,11404,11408,,aites actuellement ? — Quel instrument ? demanda [Odon] d'un air très innocent. LA SCIENCE FRANÇAISE Ec
+Lizeuil,Person,PER,11729,11736,,"ant, devint douloureux, fut tragique. La voix de [Lizeuil], cependant, reprenait, très gaie : — D'Arrel con"
+Oh !,Product,MISC,11853,11857,,"ays. Il l'a traversé autrefois, en manœuvres ! — [Oh !] il y a si longtemps, dit Mme de Lizeuil, qu'il ne"
+Mme de Lizeuil,Person,PER,11883,11897,,", en manœuvres ! — Oh ! il y a si longtemps, dit [Mme de Lizeuil], qu'il ne doit plus le reconnaître ! — En effet,"
+Arrel,Person,PER,11959,11964,,"oit plus le reconnaître ! — En effet, répondit d'[Arrel]. Il a bien changé. — Tout change ! laissa tomber"
+Mme de Saugères,Person,PER,12015,12030,,Il a bien changé. — Tout change ! laissa tomber [Mme de Saugères]. Ses paupières s'abaissèrent dans sa face muette
+Mme de Saugères,Person,PER,12566,12581,,", leur semblait monter d'eux-mêmes. A la grille, [Mme de Saugères] s'arrêta. Le domestique, qui l'attendait, alluma,"
+Lizeuil,Person,PER,12685,12692,,"r la reconduire, sa lanterne. Elle prit congé des [Lizeuil], se tourna vers d'Arrel pour un salut silencieux."
+Arrel,Location,LOC,12711,12716,,"ne. Elle prit congé des Lizeuil, se tourna vers d'[Arrel] pour un salut silencieux. Et, déjà, elle avait d"
+Jean REIBRACH,Person,PER,13018,13031,,"ivait pas à pas. Elle la rejoignit et l'étouffa. [Jean REIBRACH]. MALADIES DES YEUX Mme Sérignac, rue Gasnierguy"
+DES,Product,MISC,13043,13046,,"rejoignit et l'étouffa. Jean REIBRACH. MALADIES [DES] YEUX Mme Sérignac, rue Gasnierguy, 5, avait comp"
+Mme Sérignac,Person,PER,13053,13065,,"et l'étouffa. Jean REIBRACH. MALADIES DES YEUX [Mme Sérignac], rue Gasnierguy, 5, avait complètement perdu la v"
+rue Gasnierguy,Location,LOC,13067,13081,,"Jean REIBRACH. MALADIES DES YEUX Mme Sérignac, [rue Gasnierguy], 5, avait complètement perdu la vue de l'œil droi"
+Oculiste,Product,MISC,13219,13227,,"lire de cet œil, grâce aux remèdes végétaux de l'[Oculiste] américain, 45, rue de Berlin, Paris. SI VOUS TOU"
+rue de,Location,LOC,13243,13249,,"aux remèdes végétaux de l'Oculiste américain, 45, [rue de] Berlin, Paris. SI VOUS TOUSSEZ ne prenez que les"
+Berlin,Location,LOC,13250,13256,,"èdes végétaux de l'Oculiste américain, 45, rue de [Berlin], Paris. SI VOUS TOUSSEZ ne prenez que les tablet"
+Paris,Location,LOC,13258,13263,,"étaux de l'Oculiste américain, 45, rue de Berlin, [Paris]. SI VOUS TOUSSEZ ne prenez que les tablettes COQ"
+TOUSSEZ,Product,MISC,13274,13281,,"ste américain, 45, rue de Berlin, Paris. SI VOUS [TOUSSEZ] ne prenez que les tablettes COQUELICOTS marquées"
+COQUELICOTS,Product,MISC,13310,13321,,"ris. SI VOUS TOUSSEZ ne prenez que les tablettes [COQUELICOTS] marquées au nom de l'inventeur JOHN TAVERNIER, se"
+TAVERNIER,Person,PER,13358,13367,,"s COQUELICOTS marquées au nom de l'inventeur JOHN [TAVERNIER], seules efficaces contre le rhume."

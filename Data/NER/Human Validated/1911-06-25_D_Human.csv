@@ -1,0 +1,80 @@
+﻿entity,fine_type,coarse_type
+Germaine,pers.ind,Person
+mademoiselle Germaine,pers.ind,Person
+Philippe,pers.ind,Person
+Colette,pers.ind,Person
+M. Philippe Lyvoire,pers.ind,Person
+Philippe,pers.ind,Person
+la Cruche cassée,prod.media,Product
+Mme Lyvoire,pers.ind,Person
+E.-G. BRÉZOL,pers.ind.articleauthor,Person
+Cécile,pers.ind,Person
+Cécile Liran,pers.ind,Person
+Stéphane,pers.ind,Person
+père Liran,pers.ind,Person
+Monte-Carlo,loc.adm.town,Location
+Antoine,pers.ind,Person
+Antoine Dubreuil,pers.ind,Person
+Monsieur Stéphane,pers.ind,Person
+Paris,loc.adm.town,Location
+San-Remo,loc.adm.town,Location
+Asti,loc.adm.town,Location
+Marseille,loc.adm.town,Location
+rue Bellechasse,loc.oro,Location
+Petit Journal,prod.media,Product
+Duhamel,pers.ind,Person
+Palais de Justice,loc.fac,Location
+M. Bourdaloue,pers.ind,Person
+Bourdaloue,pers.ind,Person
+monsieur Duhamel,pers.ind,Person
+Duhamel,pers.ind,Person
+Raoul Duhamel,pers.ind,Person
+M. Duhamel,pers.ind,Person
+Edmond CHAR.,pers.ind.articleauthor,Person
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

@@ -1,0 +1,70 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+M. Jules,Person,pers,375,383,0.9535,"sourire contraint, à un jeune homme soucieux : — [M. Jules] !... il y a un moyen de ne pas vous obliger à re"
+Mam'zelle Lise,Person,pers,894,908,0.9134,"mal, cela !... Pourquoi ne pas accepter, implora [Mam'zelle Lise]... Cet ar- gent ne sera-t-il pas bientôt à vous."
+Lise,Person,pers,1153,1157,0.848,". Le jeune homme refusait toujours avec énergie. [Lise], ardente, suppliait, accumu- lait les arguments."
+Mam'zelle Lise,Person,pers,1666,1680,0.868,"er. Deux jours après, munis des 6.200 francs de [Mam'zelle Lise], Jules Lehart partait pour Marseille. Sa fiancée"
+Jules Lehart,Person,pers,1682,1694,0.9684,"après, munis des 6.200 francs de Mam'zelle Lise, [Jules Lehart] partait pour Marseille. Sa fiancée le conduisit"
+Marseille,Location,loc,1709,1718,0.9758,"cs de Mam'zelle Lise, Jules Lehart partait pour [Marseille]. Sa fiancée le conduisit à la gare, l'embrassa t"
+Lise,Location,loc,1929,1933,0.9792,"jours... Seulement, le jeune homme de- manda à [Lise] de ne pas lui envoyer de let- tre avant d'avoir"
+"Mar-
+
+seille",Location,loc,2044,2056,0.9151,"ême de ses nouvelles lui annonçant son arrivée à [Mar- seille]... Quant à l'adresse, c'était celle de ses paren"
+FIANCÉE,Organization,org,2438,2445,0.346,sir qui s'or- ganise pour vous la rapporter. LA [FIANCÉE]. — Non... LE PRÉTENDANT. — Désirez-vous que je
+Mont-Blanc,Location,loc,2507,2517,0.9526,LE PRÉTENDANT. — Désirez-vous que je gravisse le [Mont-Blanc] à quatre pattes (se reprenant) pardon... à genou
+Terre-de-Feu,Location,loc,2627,2639,0.9802,-vous que j'apprenne à lire aux indigènes de la [Terre-de-Feu] ? Sont-ce des peaux arra- chées aux lions de l'A
+Nouvelle-Guinée,Location,loc,3003,3018,0.9745,de repas à vingt-trois sous aux sauvages de la [Nouvelle-Guinée] ?... LA FIANCÉE. — Non... (Très simplement) : F
+FIANCÉE,Organization,org,3028,3035,0.3826,sous aux sauvages de la Nouvelle-Guinée ?... LA [FIANCÉE]. — Non... (Très simplement) : Faites-moi rire ?.
+de 1809,Time,time,3621,3628,0.8084,ssez. LA FIANCÉE. — Je l'ai lue dans l'almanach [de 1809]... LE PRÉTENDANT (cherchant autre chose). — Ça
+FIANCÉE,Organization,org,4099,4106,0.4133,de division au bout de cinquante-sept ans ? LA [FIANCÉE]. — Grâce à l'anneau qu'il lui avait glissé dans
+FIANCÉE,Organization,org,4315,4322,0.4232,'occa- sion... et des rimes extraordinaires. LA [FIANCÉE]. — Allons faites-moi rire. Vous comprenez que le
+Bifteck,Person,pers,4502,4509,0.3767,e... LE PRÉTENDANT (subitement très sérieux). — [Bifteck] aux pommes... LA FIANCÉE (un peu étonnée). — ...
+FIANCÉE,Organization,org,4528,4535,0.3964,ement très sérieux). — Bifteck aux pommes... LA [FIANCÉE] (un peu étonnée). — ...Qui sau- ra dissiper à me
+FIANCÉE,Organization,org,4656,4663,0.4409,. LE PRÉTENDANT. — Vol-au-vent financière... LA [FIANCÉE] (stupéfiée). — ...Des ennuis et des chagrins de
+FIANCÉE,Person,pers,4777,4784,0.3714,pre... LE PRÉTENDANT. — Turbot sauce câpres. LA [FIANCÉE] (se déridant). — Je viens de me demander si je r
+FIANCÉE,Person,pers,4908,4915,0.3982,(toujours sérieux). — Ca- nard aux navets... LA [FIANCÉE] (souriant). — Vous voulez me mettre en rage ? L
+FIANCÉE,Person,pers,4996,5003,0.3415,"mettre en rage ? LE PRÉTENDANT. — Fromage... LA [FIANCÉE] (éclatant de rire). — Ah ! vrai- ment, vous n'av"
+FIANCÉE,Person,pers,5253,5260,0.3985,"e gagné mon procès... vous ai-je fait rire ? LA [FIANCÉE] (s'essuyant les yeux). — Non, vraiment, ça ne co"
+Charles QUINEL,Person,pers,5343,5357,0.9593,"raiment, ça ne compte pas... c'est trop bête... [Charles QUINEL]. LE CODE POUR TOUS Contributions directes Juri"
+du 21 avril 1832,Time,time,5565,5581,0.7726,"dispositions combinées des articles 22 de la loi [du 21 avril 1832] et 30 de la loi du 15 juillet 1880, que les cont"
+du 15 juillet 1880,Time,time,5599,5617,0.7809,"es 22 de la loi du 21 avril 1832 et 30 de la loi [du 15 juillet 1880], que les contribu- tions imposées à chaque contr"
+1er juillet 1910,Time,time,6084,6100,0.8218,"r le ressort de la perception. (Conseil d'Etat, [1er juillet 1910].) Veuve. Contribution inscrite au nom de son ma"
+21 juillet 1909,Time,time,6621,6636,0.7413,"rôle, ne lui fait aucun grief. (Conseil d'Etat, [21 juillet 1909].) Patentes. Marchand forain. — Un com- merçant"
+28 avril 1909,Time,time,7180,7193,0.8126,"e à deux roues et à un collier. (Conseil d'Etat, [28 avril 1909].) Réclamations. Modification par l'admi- nistra"
+27 mai 1909,Time,time,7549,7560,0.7672,"n de la décision à intervenir. (Conseil d'Etat, [27 mai 1909].) Réclamations. Non-recevabilité de la ré- clam"
+du 13 juillet 1903,Time,time,8146,8164,0.8514,"ignaler au réclamant par ap- plication de la loi [du 13 juillet 1903]. (Conseil d'Etat, 31 juillet 1908.) Réclamation"
+31 juillet 1908,Time,time,8184,8199,0.8195,"n de la loi du 13 juillet 1903. (Conseil d'Etat, [31 juillet 1908].) Réclamations. Désistement du réclamant. Frais"
+22 avril 1910,Time,time,8573,8586,0.7793,"la notification du désistement. (Conseil d'Etat, [22 avril 1910].) Recours au Conseil d'Etat en matière d'évalua"
+du 3 frimaire an VII,Time,time,8947,8967,0.7225,ns les formes prescrites par l'art. 56 de la loi [du 3 frimaire an VII]. Leur travail est irrégulier s'ils ont simplemen
+28 juillet 1911,Time,time,9223,9238,0.747,"alement sur les baux en cours. (Conseil d'Etat, [28 juillet 1911].) SAINT-YVES. Mot en triangle Le moindre ornem"
+SAINT-YVES,Location,loc,9242,9252,0.9688,"x en cours. (Conseil d'Etat, 28 juillet 1911.) [SAINT-YVES]. Mot en triangle Le moindre ornement d'un disco"
+Suisse,Location,loc,9454,9460,0.9488,r charmant. — Ce qui sur la terre respire. — En [Suisse] se trouve aisément. — Ile française. — En tout s
+Allibroge,Location,loc,9521,9530,0.7534,aisément. — Ile française. — En tout serment Un [Allibroge]. SOLUTION de l'anagramme (N° 1.132) Algérien.
+Algérien,Location,loc,9570,9578,0.7402,Allibroge. SOLUTION de l'anagramme (N° 1.132) [Algérien]. Galérien. Régalien. SOLUTIONS JUSTES Mot car
+Galérien,Location,loc,9581,9589,0.7371,SOLUTION de l'anagramme (N° 1.132) Algérien. [Galérien]. Régalien. SOLUTIONS JUSTES Mot carré (N° 1.13
+Régalien,Location,loc,9592,9600,0.8562,de l'anagramme (N° 1.132) Algérien. Galérien. [Régalien]. SOLUTIONS JUSTES Mot carré (N° 1.131) A. Lefe
+A. Lefebvre,Person,pers,9643,9654,0.9713,égalien. SOLUTIONS JUSTES Mot carré (N° 1.131) [A. Lefebvre]. — O. Clin. — Nortrop. — Léo- pold Gros. — Spiri
+O. Clin,Person,pers,9658,9665,0.9672,IONS JUSTES Mot carré (N° 1.131) A. Lefebvre. — [O. Clin]. — Nortrop. — Léo- pold Gros. — Spirite. — Chauq
+Nortrop,Location,loc,9669,9676,0.7602,Mot carré (N° 1.131) A. Lefebvre. — O. Clin. — [Nortrop]. — Léo- pold Gros. — Spirite. — Chauquettes. — M
+"Léo-
+
+pold Gros",Person,pers,9680,9695,0.9527,(N° 1.131) A. Lefebvre. — O. Clin. — Nortrop. — [Léo- pold Gros]. — Spirite. — Chauquettes. — M. T. — Va vite. —
+Chauquettes,Person,pers,9710,9721,0.3733,Clin. — Nortrop. — Léo- pold Gros. — Spirite. — [Chauquettes]. — M. T. — Va vite. — Haël. — E. Terrion. — Loui
+M. T.,Person,pers,9725,9730,0.8852,p. — Léo- pold Gros. — Spirite. — Chauquettes. — [M. T.] — Va vite. — Haël. — E. Terrion. — Louis Cros.
+Haël,Person,pers,9745,9749,0.951,. — Spirite. — Chauquettes. — M. T. — Va vite. — [Haël]. — E. Terrion. — Louis Cros. — Jean et Antoine.
+E. Terrion,Person,pers,9753,9763,0.9644,ite. — Chauquettes. — M. T. — Va vite. — Haël. — [E. Terrion]. — Louis Cros. — Jean et Antoine. — C. Pierron.
+"Louis
+
+Cros",Person,pers,9767,9778,0.9681,ttes. — M. T. — Va vite. — Haël. — E. Terrion. — [Louis Cros]. — Jean et Antoine. — C. Pierron. — F. Crémont.
+Jean,Person,pers,9782,9786,0.9703,— Va vite. — Haël. — E. Terrion. — Louis Cros. — [Jean] et Antoine. — C. Pierron. — F. Crémont. — Kloklo
+Antoine,Person,pers,9790,9797,0.5678,e. — Haël. — E. Terrion. — Louis Cros. — Jean et [Antoine]. — C. Pierron. — F. Crémont. — Kloklo. — Q. de M
+C. Pierron,Person,pers,9801,9811,0.9704,— E. Terrion. — Louis Cros. — Jean et Antoine. — [C. Pierron]. — F. Crémont. — Kloklo. — Q. de Meigneux. — Ch
+"F.
+
+Crémont",Person,pers,9815,9826,0.9657,— Louis Cros. — Jean et Antoine. — C. Pierron. — [F. Crémont]. — Kloklo. — Q. de Meigneux. — Cherche trouve. —
+Kloklo,Person,pers,9830,9836,0.8909,— Jean et Antoine. — C. Pierron. — F. Crémont. — [Kloklo]. — Q. de Meigneux. — Cherche trouve. — C. Desser
+Q. de Meigneux,Person,pers,9840,9854,0.9456,Antoine. — C. Pierron. — F. Crémont. — Kloklo. — [Q. de Meigneux]. — Cherche trouve. — C. Desserville. — Albert P.
+C. Desserville,Person,pers,9877,9891,0.9695,— Kloklo. — Q. de Meigneux. — Cherche trouve. — [C. Desserville]. — Albert P. — Tante Léonie. — Salze. — Al-ben-S
+Albert P.,Person,pers,9895,9904,0.9635,Meigneux. — Cherche trouve. — C. Desserville. — [Albert P.] — Tante Léonie. — Salze. — Al-ben-Sehrka. —
+Tante Léonie,Person,pers,9908,9920,0.9572,Cherche trouve. — C. Desserville. — Albert P. — [Tante Léonie]. — Salze. — Al-ben-Sehrka. —
+Salze,Location,loc,9924,9929,0.9539,— C. Desserville. — Albert P. — Tante Léonie. — [Salze]. — Al-ben-Sehrka. —
+Al-ben-Sehrka,Person,pers,9933,9946,0.7719,serville. — Albert P. — Tante Léonie. — Salze. — [Al-ben-Sehrka]. —

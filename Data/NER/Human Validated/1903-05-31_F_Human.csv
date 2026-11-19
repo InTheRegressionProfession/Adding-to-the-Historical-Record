@@ -1,0 +1,92 @@
+﻿entity,fine_type,coarse_type
+France,loc.adm.nat,Location
+Paul CERVIERES,pers.ind.articleauthor,Person
+Sainte-Euphrasie,loc.adm.town,Location
+Côte d'Azur,loc.phys.geo,Location
+ l'hôtel de la Truite d'or,loc.fac,Location
+M. Parapoul,pers.ind,Person
+Cannebière,loc.adm.town,Location
+Mme Haramel,pers.ind,Person
+rue de Rivoli,loc.oro,Location
+Judicaël,pers.coll,Person
+Aber-Vrach,loc.adm.town,Location
+Mme Beau amier,pers.ind,Person
+Mlle Barbe Dufélix,pers.ind,Person
+Amérique,loc.adm.sup,Location
+Brésil,loc.adm.nat,Location
+M. Salvador,pers.ind,Person
+Santarem,loc.adm.town,Location
+Isabelle,pers.ind,Person
+Obidos,loc.adm.town,Location
+M. Vasco d'Algarve,pers.ind,Person
+Mlle Salvador,pers.ind,Person
+Bahia,loc.adm.town,Location
+Gamache,pers.ind,Person
+Amazone,loc.phys.hydro,Location
+Espagne,loc.adm.nat,Location
+Portugal,loc.adm.nat,Location
+Mlle Isabelle,pers.ind,Person
+Olivia,pers.ind,Person
+Santa-Rita,loc.adm.town,Location
+Isabelle,pers.ind,Person
+Vasco d'Algarve,pers.ind,Person
+Pedro,pers.ind,Person
+Miguel,pers.ind,Person
+Mme Beauramier,pers.ind,Person
+Epernay,loc.adm.town,Location
+Marseille,loc.adm.town,Location
+Reims,loc.adm.town,Location
+Vésuve,loc.phys.geo,Location
+Mme Haramel,pers.ind,Person
+M. de la Sorme,pers.ind,Person
+P. GUILCHARD,pers.ind.articleauthor,Person
+du 4 juillet 1837,time.date.abs,Time
+du 27 avril 1839,time.date.abs,Time
+23 juillet 1901,time.date.abs,Time
+SAINT-YVES,pers.ind.articleauthor,Person
+Asie,loc.adm.sup,Location
+Jupin,pers.ind,Person
+Italie,loc.adm.nat,Location
+Petit Journal,prod.media,Product
+Paracelse,pers.ind,Person
+Eugène R.,pers.ind,Person
+Alphonse L.,pers.ind,Person
+Saint-Gobain,loc.adm.town,Location
+Paule,pers.ind,Person
+Charles Gourlet,pers.ind,Person
+Wassy,loc.adm.town,Location
+Jeanson,pers.ind,Person
+Melun,loc.adm.town,Location
+Géor Grandin,pers.ind,Person
+Prémontré,loc.adm.town,Location
+Bouchaud,pers.ind,Person
+Angoulême,loc.adm.town,Location
+Philippine Kobrute,pers.ind,Person
+Pierregot,loc.adm.town,Location
+G. Derfla,pers.ind,Person
+Monampleuil,loc.adm.town,Location
+Louis Cros fils,pers.ind,Person
+C. Thiébault,pers.ind,Person
+Enéogue Ceblam,pers.ind,Person
+Vianne,pers.ind,Person
+Octave Clin,pers.ind,Person
+Auguste Mauger,pers.ind,Person
+Haye de Calleville,loc.adm.town,Location
+Clairette de Marcour,pers.ind,Person
+Martial D.,pers.ind,Person
+Saint-Léger,loc.adm.town,Location
+Tante Léonie,pers.ind,Person
+Joseph Grandin,pers.ind,Person
+Petite-Barbare,loc.adm.town,Location
+Lucie Roger,pers.ind,Person
+Havre,loc.adm.town,Location
+Henriette,pers.ind,Person
+Jeanne,pers.ind,Person
+René Lambert,pers.ind,Person
+Alfortville,loc.adm.town,Location
+M. Souvenir,pers.ind,Person
+rue Neuve,loc.oro,Location
+Roubaix,loc.adm.town,Location
+MM. Monnot-Bartholin,pers.ind,Person
+"21, rue Michel-le-Comte",loc.add.phys,Location
+Paris,loc.adm.town,Location

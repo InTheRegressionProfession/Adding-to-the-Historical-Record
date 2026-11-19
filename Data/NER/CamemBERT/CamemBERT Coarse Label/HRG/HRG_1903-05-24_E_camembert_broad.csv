@@ -1,0 +1,43 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+LÉPINE,Person,PER,3,9,0.9777,M. [LÉPINE] connu la douce joie qu'il lui avait donnée sans
+Pierrot,Person,PER,313,320,0.8744,"ds votre manuscrit; mais vous avez tort de signer [Pierrot], mettez plutôt Pierrette; vous aurez plus de succ"
+Pierrette,Person,PER,336,345,0.5796,"s vous avez tort de signer Pierrot, mettez plutôt [Pierrette]; vous aurez plus de succès, on est au féminisme."
+Pierrette,Person,PER,439,448,0.6009,"isme. Elle voulut protester... — Si vous signez [Pierrette], reprit le directeur, votre nouvelle passera dans"
+Huit jours après,Time,DATE,538,554,0.9882,"ssera dans mon prochain numéro. Elle acquiesça. [Huit jours après] cette entrevue qui avait si curieusement tourné,"
+Jeanne,Person,PER,604,610,0.8935,"cette entrevue qui avait si curieusement tourné, [Jeanne] recevait un mot de M. Vidal qui l'invitait à se p"
+M. Vidal,Person,PER,630,638,0.8765,"si curieusement tourné, Jeanne recevait un mot de [M. Vidal] qui l'invitait à se présenter à son bureau... El"
+M. Vidal,Person,PER,1002,1010,0.7333,"es. » Dans l'antichambre, elle donna son nom. — [M. Vidal] est occupé, mademoiselle. Il vous — Oh! non, pas"
+Jeanne,Person,PER,1207,1213,0.952,"e. Ceci fut dit avec une emphase qui fit sourire [Jeanne]. — Et tenez, voici une poésie qui est de moi, pu"
+Mon Dieu!,Product,MISC,1364,1373,0.7023,z me faire la grâce d'accepter cet exemplaire... [Mon Dieu!] c'est « Loin du monde ». Serait-ce possible? Que
+Loin du monde,Product,MISC,1382,1395,0.5525,"e d'accepter cet exemplaire... Mon Dieu! c'est « [Loin du monde] ». Serait-ce possible? Que dire, que faire?... De"
+M. PUIBARAUD,Person,PER,2213,2225,0.9013,se sauver sans rien dire et de laisser le jeune [M. PUIBARAUD] DIRECTEUR DU SERVICE DES RECHERCHES garder plus
+DIRECTEUR DU SERVICE DES RECHERCHES,Organization,ORG,2227,2262,0.6958,"s rien dire et de laisser le jeune M. PUIBARAUD [DIRECTEUR DU SERVICE DES RECHERCHES] garder plus longtemps, je suis très pressé, ce s"
+Jeanne,Person,PER,2318,2324,0.787,"er plus longtemps, je suis très pressé, ce soir. [Jeanne] se retira. Dans l'antichambre, personne, mais su"
+Jeanne,Person,PER,3125,3131,0.7107,"ontre... — Vous aviez raison de croire en moi... [Jeanne], je vous aime... Depuis longtemps nos âmes se che"
+Jeanne,Person,PER,3252,3258,0.6591,"us unir votre misère à la mienne?... Voulez-vous, [Jeanne], être ma femme?... Et comme ils s'étaient attardé"
+Mail,Location,LOC,3380,3384,0.9507,"ait, et que leurs pas les avaient conduits sur le [Mail], sous les grands arbres ombreux, il murmura: — J"
+Jeanne,Person,PER,3447,3453,0.7081,"ands arbres ombreux, il murmura: — Je vous aime, [Jeanne]. Jeanne, troublée, poursuivit une idée: — Mais"
+Jeanne,Person,PER,3456,3462,0.7633,"es ombreux, il murmura: — Je vous aime, Jeanne. [Jeanne], troublée, poursuivit une idée: — Mais vous n'éc"
+Jeanne,Person,PER,3751,3757,0.5273,"ule que je voudrai plaire... Serez-vous ma femme, [Jeanne]?... Dans un souffle, il entendit « oui ». Alors,"
+Paul ,Product,MISC,3881,3886,0.5933,"de la jeune fille, le poète mit un long baiser. [Paul ]ANDRÉ. LE CRIME DE LA RUE CHALGRIN Arrestation d"
+ANDR,Person,PER,3886,3890,0.4941,"a jeune fille, le poète mit un long baiser. Paul [ANDR]É. LE CRIME DE LA RUE CHALGRIN Arrestation de l'"
+"É.
+
+LE CRIME DE LA RUE CHALGRIN
+
+Arrestation",Product,MISC,3890,3934,0.8151,"une fille, le poète mit un long baiser. Paul ANDR[É. LE CRIME DE LA RUE CHALGRIN Arrestation] de l'assassin à Glasgow présente ses excuses, il"
+Glasgow,Location,LOC,3951,3958,0.8419,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+cinq minutes,Time,DATE,4009,4021,0.9913,"présente ses excuses, il vous prie de l'attendre [cinq minutes]. — Bien monsieur, j'attendrai. Dans un fauteuil"
+Jeanne,Person,PER,4250,4256,0.7936,un air gauche. Son regard exprima l'étonnement. [Jeanne] le reconnut: c'était le jeune homme qu'elle renco
+Cinq minutes,Time,DATE,4326,4338,0.9947,"t le jeune homme qu'elle rencontra chaque matin. [Cinq minutes] passèrent, puis dix; la jeune fille regarda la pe"
+une heure,Time,DATE,4439,4448,0.9958,dule avec inquiétude. Sa patronne lui avait donné [une heure] pour sa course; il ne fallait pas qu'elle rentrât
+M. Vidal,Person,PER,4618,4626,0.9174,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal]? Cet aussi fit tressaillir la jeune fille. — Ou"
+Pierrette,Person,PER,4955,4964,0.9204,"que je ne comprends pas non plus, c'est ce nom de [Pierrette] par lequel ils ont remplacé mon pseudonyme de Pie"
+Pierrot,Person,PER,5011,5018,0.932,tte par lequel ils ont remplacé mon pseudonyme de [Pierrot]... Enfin la signature importe peu... Être imprimé
+M. Vidal,Person,PER,5089,5097,0.8606,"e importe peu... Être imprimé, cela me suffit... [M. Vidal] passa dans l'antichambre; il s'inclina devant la"
+Pierrette,Person,PER,5176,5185,0.9604,"s'inclina devant la jeune fille. — Mademoiselle [Pierrette], voulez-vous me suivre?... Quand ils furent dans"
+HAMARD,Person,PER,5670,5676,0.9776,mademoiselle... Pardonnez-moi de ne pas vous M. [HAMARD] CHEF DE LA SURETÉ M. BERTILLON CHEF DU SERVICE
+SURETÉ,Organization,ORG,5689,5695,0.6007,rdonnez-moi de ne pas vous M. HAMARD CHEF DE LA [SURETÉ] M. BERTILLON CHEF DU SERVICE D'IDENTIFICATION
+. BERTILLON,Person,PER,5698,5709,0.8914,oi de ne pas vous M. HAMARD CHEF DE LA SURETÉ M[. BERTILLON] CHEF DU SERVICE D'IDENTIFICATION
+V,Organization,ORG,5722,5723,0.4091,MARD CHEF DE LA SURETÉ M. BERTILLON CHEF DU SER[V]ICE D'IDENTIFICATION
+IC,Organization,ORG,5736,5738,0.3996,LA SURETÉ M. BERTILLON CHEF DU SERVICE D'IDENTIF[IC]ATION

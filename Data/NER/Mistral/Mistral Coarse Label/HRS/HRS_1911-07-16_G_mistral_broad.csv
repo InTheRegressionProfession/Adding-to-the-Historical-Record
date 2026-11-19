@@ -1,0 +1,72 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+San-Sennet,Person,Person,175,185,,des parties de campagne organisées par l'amusant [San-Sennet]. Raoul VERNEUIL. LE CODE POUR TOUS Servitudes.
+Raoul VERNEUIL,Person,Person,188,202,,de campagne organisées par l'amusant San-Sennet. [Raoul VERNEUIL]. LE CODE POUR TOUS Servitudes. — Jurisprudence
+LE CODE POUR TOUS,Product,Product,205,222,,isées par l'amusant San-Sennet. Raoul VERNEUIL. [LE CODE POUR TOUS] Servitudes. — Jurisprudence Exercice des servit
+Trib. civ.,Organization,Organization,453,463,,"els figurent le locataire et le sous-locataire. ([Trib. civ.] Périgueux, 22 nov. 1909.) Destination du père de"
+Trib. civ. Périgueux,Organization,Organization,453,473,,"els figurent le locataire et le sous-locataire. ([Trib. civ. Périgueux], 22 nov. 1909.) Destination du père de famille."
+22 nov. 1909,Time,Time,475,487,,"ire et le sous-locataire. (Trib. civ. Périgueux, [22 nov. 1909].) Destination du père de famille. Conditions d'e"
+Lyon,Location,Location,1093,1097,,"euve par écrit qu'il n'est pas usuel d'établir. ([Lyon], 2e ch., 29 avril 1910.) Mitoyenneté de la clôtu"
+2e ch.,Organization,Organization,1099,1105,,"ar écrit qu'il n'est pas usuel d'établir. (Lyon, [2e ch.], 29 avril 1910.) Mitoyenneté de la clôture. Prés"
+29 avril 1910,Time,Time,1107,1120,,"qu'il n'est pas usuel d'établir. (Lyon, 2e ch., [29 avril 1910].) Mitoyenneté de la clôture. Présomption légale."
+Douai,Location,Location,1834,1839,,"frais est prouvée d'une manière incontestable. ([Douai], 2e ch., 27 janvier 1910.) Enclave. Passage. Pos"
+27 janvier 1910,Time,Time,1849,1864,,"vée d'une manière incontestable. (Douai, 2e ch., [27 janvier 1910].) Enclave. Passage. Possession trentenaire. — Il"
+Bourg,Location,Location,2347,2352,,"l'enclave qui en avait été la cause originare. ([Bourg], trib. civ. 15 nov. 1910.) Enclave. Chemin défec"
+15 nov. 1910,Time,Time,2365,2377,,"avait été la cause originare. (Bourg, trib. civ. [15 nov. 1910].) Enclave. Chemin défectueux. Chemin d'exploitat"
+Louhans,Location,Location,2686,2693,,"vendiquer le passage sur une propriété voisine. ([Louhans], trib. civ., 16 juillet 1909.) Les chemins d'exp"
+trib. civ.,Organization,Organization,2695,2705,,"le passage sur une propriété voisine. (Louhans, [trib. civ.], 16 juillet 1909.) Les chemins d'exploitation so"
+16 juillet 1909,Time,Time,2707,2722,,"sur une propriété voisine. (Louhans, trib. civ., [16 juillet 1909].) Les chemins d'exploitation sont réputés appar"
+Pontivy,Location,Location,3165,3172,,"héritages qu'ils bordent ou qu'ils traversent. ([Pontivy], trib. civ., 3 mars 1909.) Vue droite. Prescript"
+3 mars 1909,Time,Time,3186,3197,,"dent ou qu'ils traversent. (Pontivy, trib. civ., [3 mars 1909].) Vue droite. Prescription trentenaire. — Une se"
+Montpellier,Location,Location,3516,3527,,"constructions nouvelles, aux distances légales. ([Montpellier], 9 août 1906.) Arbres. Chemins publics ou d'expl"
+9 août 1906,Time,Time,3529,3540,,"nouvelles, aux distances légales. (Montpellier, [9 août 1906].) Arbres. Chemins publics ou d'exploitation. — L"
+Cass. Reg.,Organization,Organization,3749,3759,,"ls soient publics ou simplement d'exploitation. ([Cass. Reg.], 12 avril 1910.) Echelage. Nature de ce droit. P"
+12 avril 1910,Time,Time,3761,3774,,"blics ou simplement d'exploitation. (Cass. Reg., [12 avril 1910].) Echelage. Nature de ce droit. Propriété ou ser"
+Saint-Yves,Location,Location,4176,4186,,échelage ne constitue qu'un droit de servitude. ([Saint-Yves]. LOGOGRIPHE - D'une grève ou d'un litige Le com
+Thabor,Location,Location,4434,4440,,cament. — Poète français. — Un village Au pied du [Thabor]. — Recueil. — Chacun accroît notre âge. — Chef du
+E. Terrion,Person,Person,4697,4707,,S N. SOLUTIONS JUSTES Logographe (N° 1.076) - [E. Terrion]. — Va vite. — Marc Assin. — Léopold Gros. — M. Ch
+Marc Assin,Person,Person,4722,4732,,Logographe (N° 1.076) - E. Terrion. — Va vite. — [Marc Assin]. — Léopold Gros. — M. Cholet. — C. Desserville. —
+Léopold Gros,Person,Person,4736,4748,,1.076) - E. Terrion. — Va vite. — Marc Assin. — [Léopold Gros]. — M. Cholet. — C. Desserville. — Chaumettes. — M
+M. Cholet,Person,Person,4752,4761,,rrion. — Va vite. — Marc Assin. — Léopold Gros. — [M. Cholet]. — C. Desserville. — Chaumettes. — M. T. — F. Cré
+C. Desserville,Person,Person,4765,4779,,ite. — Marc Assin. — Léopold Gros. — M. Cholet. — [C. Desserville]. — Chaumettes. — M. T. — F. Crémont. — A. Godaux.
+Chaumettes,Location,Location,4783,4793,,— Léopold Gros. — M. Cholet. — C. Desserville. — [Chaumettes]. — M. T. — F. Crémont. — A. Godaux. — Fou-je-romp
+M. T.,Person,Person,4797,4802,,s. — M. Cholet. — C. Desserville. — Chaumettes. — [M. T.] — F. Crémont. — A. Godaux. — Fou-je-romps. — Klok
+F. Crémont,Person,Person,4805,4815,,Cholet. — C. Desserville. — Chaumettes. — M. T. — [F. Crémont]. — A. Godaux. — Fou-je-romps. — Kloklo. AMERICA
+A. Godaux,Person,Person,4819,4828,,esserville. — Chaumettes. — M. T. — F. Crémont. — [A. Godaux]. — Fou-je-romps. — Kloklo. AMERICA Fabrication d
+AMERICA,Organization,Organization,4857,4864,,Crémont. — A. Godaux. — Fou-je-romps. — Kloklo. [AMERICA] Fabrication de premier ordre absolument garantie.
+"ROUE LIBRE ""EADIE""",Product,Product,5313,5331,,"ratis Faculté de retour en cas de non-convenance [ROUE LIBRE ""EADIE""] VÉRITABLE à 2 rangées de billes. DEUX FREINS: 1 d"
+HUTCHINSON,Organization,Organization,5520,5530,,"écial, au pas de 12-7. PNEUMATIQUES, Fabrication ""[HUTCHINSON]"" 1RE MARQUE NOTA. — Nos machines sont livrées in"
+GIRARD & BOITTE,Organization,Organization,6974,6989,,"RIPTION Je soussigné, déclare acheter à la Maison [GIRARD & BOITTE], à Paris, la Bicyclette AMERICA, comme détaillé c"
+GIRARD & BOITTE,Organization,Organization,6974,6989,,"RIPTION Je soussigné, déclare acheter à la Maison [GIRARD & BOITTE], à Paris, la Bicyclette AMERICA, comme détaillé c"
+AMERICA,Product,Product,7014,7021,,"la Maison GIRARD & BOITTE, à Paris, la Bicyclette [AMERICA], comme détaillé ci-dessus, aux conditions énoncée"
+Rue de l'Échiquier,Location,Location,7463,7481,,"s enveloppe à l'adresse de : GIRARD & BOITTE 46, [Rue de l'Échiquier], 46, PARIS (Xe Arrt). GRATIS ET FRANCO ! Demande"
+PARIS (Xe Arrt),Location,Location,7487,7502,,"de : GIRARD & BOITTE 46, Rue de l'Échiquier, 46, [PARIS (Xe Arrt)]. GRATIS ET FRANCO ! Demandez, suivant vos goûts"
+PHONOGRAPHES,Product,Product,7623,7635,,"TALOGUES ILLUSTRÉS spéciaux pour chaque article : [PHONOGRAPHES], APPAREILS PHOTOGRAPHIQUES, SERVICES DE TABLE, OR"
+APPAREILS PHOTOGRAPHIQUES,Product,Product,7637,7662,,"TRÉS spéciaux pour chaque article : PHONOGRAPHES, [APPAREILS PHOTOGRAPHIQUES], SERVICES DE TABLE, ORFÈVRIERIE D'ARGENT, SUSPENS"
+SERVICES DE TABLE,Product,Product,7664,7681,,"rticle : PHONOGRAPHES, APPAREILS PHOTOGRAPHIQUES, [SERVICES DE TABLE], ORFÈVRIERIE D'ARGENT, SUSPENSIONS, GARNITURES DE"
+ORFÈVRIERIE D'ARGENT,Product,Product,7683,7703,,"ES, APPAREILS PHOTOGRAPHIQUES, SERVICES DE TABLE, [ORFÈVRIERIE D'ARGENT], SUSPENSIONS, GARNITURES DE CHÉMINÉE, MONTRES DE"
+SUSPENSIONS,Product,Product,7705,7716,,"PHIQUES, SERVICES DE TABLE, ORFÈVRIERIE D'ARGENT, [SUSPENSIONS], GARNITURES DE CHÉMINÉE, MONTRES DE PRÉCISION, AR"
+GARNITURES DE CHÉMINÉE,Product,Product,7718,7740,,"ICES DE TABLE, ORFÈVRIERIE D'ARGENT, SUSPENSIONS, [GARNITURES DE CHÉMINÉE], MONTRES DE PRÉCISION, ARMES ET FUSILS DE CHASSE,"
+MONTRES DE PRÉCISION,Product,Product,7742,7762,,"IE D'ARGENT, SUSPENSIONS, GARNITURES DE CHÉMINÉE, [MONTRES DE PRÉCISION], ARMES ET FUSILS DE CHASSE, INSTRUMENTS DE MUSIQU"
+ARMES ET FUSILS DE CHASSE,Product,Product,7764,7789,,"NS, GARNITURES DE CHÉMINÉE, MONTRES DE PRÉCISION, [ARMES ET FUSILS DE CHASSE], INSTRUMENTS DE MUSIQUE, JUMELLES, ARTICLES DE VO"
+INSTRUMENTS DE MUSIQUE,Product,Product,7791,7813,,"MONTRES DE PRÉCISION, ARMES ET FUSILS DE CHASSE, [INSTRUMENTS DE MUSIQUE], JUMELLES, ARTICLES DE VOYAGE, FOURRURES, MACHINE"
+JUMELLES,Product,Product,7815,7823,,"RMES ET FUSILS DE CHASSE, INSTRUMENTS DE MUSIQUE, [JUMELLES], ARTICLES DE VOYAGE, FOURRURES, MACHINES A COUDRE"
+ARTICLES DE VOYAGE,Product,Product,7825,7843,,"SILS DE CHASSE, INSTRUMENTS DE MUSIQUE, JUMELLES, [ARTICLES DE VOYAGE], FOURRURES, MACHINES A COUDRE, etc., etc. A tout"
+FOURRURES,Product,Product,7845,7854,,"RUMENTS DE MUSIQUE, JUMELLES, ARTICLES DE VOYAGE, [FOURRURES], MACHINES A COUDRE, etc., etc. A tout le monde: U"
+MACHINES A COUDRE,Product,Product,7856,7873,,"MUSIQUE, JUMELLES, ARTICLES DE VOYAGE, FOURRURES, [MACHINES A COUDRE], etc., etc. A tout le monde: UN A DEUX ANS DE CRÉ"
+Dr Wolf,Person,Person,8121,8128,,"ailliblement par le nouveau Traitement Végétal du [Dr Wolf]. Ecrire à M. Passerieux, pharmacien-spécialiste,"
+M. Passerieux,Person,Person,8139,8152,,"e nouveau Traitement Végétal du Dr Wolf. Ecrire à [M. Passerieux], pharmacien-spécialiste, 46, rue des Faures, à Bo"
+rue des Faures,Location,Location,8182,8196,,"rire à M. Passerieux, pharmacien-spécialiste, 46, [rue des Faures], à Bordeaux, qui envoie gratuitement tous conseil"
+Bordeaux,Location,Location,8200,8208,,"ux, pharmacien-spécialiste, 46, rue des Faures, à [Bordeaux], qui envoie gratuitement tous conseils et renseig"
+Pharmacie Girard,Organization,Organization,8310,8326,,"ments sur cette belle découverte. Dépôt à Paris : [Pharmacie Girard], 21, rue Lafayette. VALSE ACHETEZ LA MONTRE pré"
+rue Lafayette,Location,Location,8332,8345,,"découverte. Dépôt à Paris : Pharmacie Girard, 21, [rue Lafayette]. VALSE ACHETEZ LA MONTRE précise et garantie le"
+TRIBAUDEAU Fab à CESANGON,Person,Person,8448,8473,,"JOU élégant et solide l'inusable ORFÈVRIERIE chez [TRIBAUDEAU Fab à CESANGON] 58 Récompenses, Concours des Chronométristes à l'"
+Léopold POUDADE,Person,Person,8910,8925,,"17 fr. 50. Essai 0 fr. 75. France. Imb. ou Mand. [Léopold POUDADE], Chimiste, à FIGEAC (Lot). LA PHOTOGRAPHIE du Pe"
+FIGEAC (Lot),Location,Location,8939,8951,,"rance. Imb. ou Mand. Léopold POUDADE, Chimiste, à [FIGEAC (Lot)]. LA PHOTOGRAPHIE du Petit Journal G. LIEBERT, di"
+G. LIEBERT,Person,Person,8987,8997,,"à FIGEAC (Lot). LA PHOTOGRAPHIE du Petit Journal [G. LIEBERT], directeur HOTEL DU « PETIT JOURNAL » 61, Rue Laf"
+HOTEL DU « PETIT JOURNAL »,Organization,Organization,9009,9035,,"OTOGRAPHIE du Petit Journal G. LIEBERT, directeur [HOTEL DU « PETIT JOURNAL »] 61, Rue Lafayette, 61 Ouvert tous les jours de 9"
+Rue Lafayette,Location,Location,9040,9053,,"LIEBERT, directeur HOTEL DU « PETIT JOURNAL » 61, [Rue Lafayette], 61 Ouvert tous les jours de 9 h. du matin à 6 h."
+G. LASSEUR,Person,Person,9925,9935,,"nco. PRIX DE GROS aux Intermédiaires Le Gérant : [G. LASSEUR] IMPRIMERIE DU Petit Journal (C. MARTY, imp.) Impr"
+IMPRIMERIE DU Petit Journal,Organization,Organization,9936,9963,,"E GROS aux Intermédiaires Le Gérant : G. LASSEUR [IMPRIMERIE DU Petit Journal] (C. MARTY, imp.) Imprimé sur la Machine rotative"
+C. MARTY,Person,Person,9965,9973,,"Gérant : G. LASSEUR IMPRIMERIE DU Petit Journal ([C. MARTY], imp.) Imprimé sur la Machine rotative chrome-typ"
+MARINONI,Person,Person,10028,10036,,.) Imprimé sur la Machine rotative chrome-typo de [MARINONI] (Encre LORILLEUX)
+LORILLEUX,Product,Product,10044,10053,,a Machine rotative chrome-typo de MARINONI (Encre [LORILLEUX])

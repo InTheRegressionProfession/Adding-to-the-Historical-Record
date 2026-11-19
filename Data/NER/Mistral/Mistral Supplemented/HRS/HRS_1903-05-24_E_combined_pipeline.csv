@@ -1,0 +1,20 @@
+﻿entity,fine_type,coarse_type,impresso_type,change,model_label,start,end,confidence,context
+M.,pers.ind,Person,,added,pers.ind,0,2,,"[M.] LEPINE était lacérée, elle en mit une autre sur"
+M. LEPINE,pers.ind,Person,pers.ind,confirmed,pers.ind,0,9,,"[M. LEPINE] était lacérée, elle en mit une autre sur laquell"
+Jeanne,pers.ind,Person,pers.ind,confirmed,pers.ind,479,485,,"e nom, mademoiselle, et l'objet de votre visite. [Jeanne], très troublée, obéit à cette injonction et écriv"
+Jeanne Bertin,pers.ind,Person,pers.ind,confirmed,pers.ind,543,556,,"roublée, obéit à cette injonction et écrivit : « [Jeanne Bertin] désire remettre à M. le rédacteur en chef un manu"
+M. Henri Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,910,924,,"onne marquait une coquetterie efféminée : c'était [M. Henri Vidal]. — Mademoiselle, dit-il, en voyant entrer Jeanne"
+Pierrot,pers.ind,Person,pers.ind,confirmed,pers.ind,1944,1951,,"s votre manuscrit ; mais vous avez tort de signer [Pierrot], mettez plutôt Pierrette ; vous aurez plus de suc"
+Pierrette,pers.ind,Person,pers.ind,confirmed,pers.ind,1967,1976,,"s vous avez tort de signer Pierrot, mettez plutôt [Pierrette] ; vous aurez plus de succès, on est au féminisme."
+M. Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,2262,2270,,"si curieusement tourné, Jeanne recevait un mot de [M. Vidal] qui l'invitait à se présenter à son bureau... El"
+M. Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,2636,2644,,"es. » Dans l'antichambre, elle donna son nom. — [M. Vidal] est occupé, mademoiselle. Il vous — Oh ! non, pa"
+Jeanne,pers.ind,Person,pers.ind,confirmed,pers.ind,2843,2849,,"e. Ceci fut dit avec une emphase qui fit sourire [Jeanne]. — Et tenez, voici une poésie qui est de moi, pu"
+M. PUIBARAUD,pers.ind,Person,pers.ind,confirmed,pers.ind,3856,3868,,se sauver sans rien dire et de laisser le jeune [M. PUIBARAUD] DIRECTEUR DU SERVICE DES RECHERCHES garder plus
+Jeanne,pers.ind,Person,pers.ind,confirmed,pers.ind,4780,4786,,"ontre... — Vous aviez raison de croire en moi... [Jeanne], je vous aime... Depuis longtemps nos âmes se che"
+Paul ANDRÉ,pers.ind.articleauthor,Person,pers.ind,retyped,pers.ind.articleauthor,5548,5558,,"de la jeune fille, le poète mit un long baiser. [Paul ANDRÉ]. LE CRIME DE LA RUE CHALGRIN Arrestation de l'a"
+Glasgow,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,5618,5625,,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+M. Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,6289,6297,,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal] ? Cet aussi fit tressaillir la jeune fille. — O"
+Pierrette,pers.ind,Person,pers.ind,confirmed,pers.ind,6630,6639,,"que je ne comprends pas non plus, c'est ce nom de [Pierrette] par lequel ils ont remplacé mon pseudonyme de Pie"
+Pierrot,pers.ind,Person,pers.ind,confirmed,pers.ind,6686,6693,,tte par lequel ils ont remplacé mon pseudonyme de [Pierrot]... Enfin la signature importe peu... Être imprimé
+M. HAMARD,pers.ind,Person,pers.ind,confirmed,pers.ind,7342,7351,,"us, mademoiselle... Pardonnez-moi de ne pas vous [M. HAMARD] M. BERTILLON CHEF DU SERVICE D'IDENTIFICATION"
+M. BERTILLON,pers.ind,Person,pers.ind,confirmed,pers.ind,7353,7365,,selle... Pardonnez-moi de ne pas vous M. HAMARD [M. BERTILLON] CHEF DU SERVICE D'IDENTIFICATION

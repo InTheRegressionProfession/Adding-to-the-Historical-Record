@@ -1,0 +1,24 @@
+﻿entity,fine_type,coarse_type
+Hassan,pers.ind,Person
+Sidi-Macklouff,pers.ind,Person
+Zora,pers.ind,Person
+Islam,prod.doctr,Product
+Allah,pers.ind,Person
+Salomon,pers.ind,Person
+Vincent HUET,pers.ind.articleauthor,Person
+JEANNOT,pers.ind,Person
+Lamalou,loc.adm.town,Location
+Cévennes,loc.adm.reg,Location
+Bédariex,loc.adm.town,Location
+l'auberge du Rouvre,loc.fac,Location
+Balaruc,pers.ind,Person
+Cécile,pers.ind,Person
+Jean,pers.ind,Person
+Rouvre,loc.adm.town,Location
+Pierrot,pers.ind,Person
+monsieur Balaruc,pers.ind,Person
+Poujol,loc.adm.town,Location
+Georges BEAUME,pers.ind.articleauthor,Person
+Bésy,pers.coll,Person
+Mme de Rineuil,pers.ind,Person
+Clairefontaine,loc.fac,Location

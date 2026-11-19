@@ -1,0 +1,89 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Maurice Forestier,Person,Person,144,161,,"ce. Puis, le flacre s'arrêtant devant une maison, [Maurice Forestier] prononça : — Nous sommes arrivés. Madeleine, enco"
+Forestier,Person,Person,152,161,,", le flacre s'arrêtant devant une maison, Maurice [Forestier] prononça : — Nous sommes arrivés. Madeleine, enco"
+Madeleine,Person,Person,196,205,,"urice Forestier prononça : — Nous sommes arrivés. [Madeleine], encore une fois, se laissa conduire sans voir, a"
+Odette,Person,Person,395,401,,"ce de nursery, elle se trouva devant les enfants. [Odette], blonde de deux ans, trottnait, gazouillait; Jean"
+Jean,Person,Person,447,451,,"ette, blonde de deux ans, trottnait, gazouillait; [Jean], encore sur les bras de sa nourrice, poussait des"
+Mme Paul Blondel,Person,Person,1398,1414,,"oudain, l'ordonnance annonça : — Le capitaine et [Mme Paul Blondel]. Ce furent les compliments d'usage, d'autant que"
+Paul Blondel,Person,Person,1402,1414,,"in, l'ordonnance annonça : — Le capitaine et Mme [Paul Blondel]. Ce furent les compliments d'usage, d'autant que"
+Angers,Location,Location,1564,1570,,"icier venait de permuter, afin de se rapprocher d'[Angers], le pays de sa femme. La causerie redevinait bie"
+Antoinette,Person,Person,1851,1861,,"toutes les voix. — C'est ma fille, cette folle d'[Antoinette], prononça la colonelle en manière d'explication,"
+capitaine Blondel,Person,Person,2000,2017,,"restier, c'est un démon. Au nom de Forestier, le [capitaine Blondel] avait levé la tête. Mais, à peine ces mots venaie"
+Mme de Z...,Person,Person,2090,2101,,"is, à peine ces mots venaient-ils d'être dits par [Mme de Z...] qu'une fillette d'une douzaine d'années environ e"
+Odette,Person,Person,2470,2476,,"rendre. — Comme tu es rouge, comme tu as chaud, [Odette], répondit la jeune femme en lui donnant le moucho"
+Mme Blondel,Person,Person,2770,2781,,"ru. Mais, tandis que la colonelle, s'adressant à [Mme Blondel] disait : — Vous verrez, quand vos petits diables"
+Odette Forestier,Person,Person,2848,2864,,"verrez, quand vos petits diables auront dix ans! [Odette Forestier] est stimulée par son frère Jean. Paul s'approcha"
+Jean,Person,Person,2892,2896,,ans! Odette Forestier est stimulée par son frère [Jean]. Paul s'approcha de celle que la petite fille ve
+Paul,Person,Person,2899,2903,,dette Forestier est stimulée par son frère Jean. [Paul] s'approcha de celle que la petite fille venait d'
+Madeleine,Person,Person,3038,3047,,"n, madame, n'êtes-vous pas?... — Et reconnaissant [Madeleine]. — Mais oui, par-dieu, vous êtes... vous êtes Mme"
+Mme Forestier,Person,Person,3094,3107,,"ine. — Mais oui, par-dieu, vous êtes... vous êtes [Mme Forestier]... pardon, madame, puisque la fillette... — Non"
+Paul Blondel,Person,Person,3502,3514,,"n court silence. — Mais, moi, vous me connaissez? [Paul Blondel]. — Oh! parfaitement. Dès votre entrée avec votre"
+Paris,Location,Location,3879,3884,,"n avez-vous fait? Je veux un riche parti, habiter [Paris] surtout, et jouir... pas d'enfant; la vocation vo"
+l'Elysée,Location,Location,3991,3999,,"uait. Vous souvenez-vous de cette nuit, au bal de [l'Elysée]? — Oui, je m'en souviens, murmura lentement Made"
+Bayonne,Location,Location,4243,4250,,"on, rien. Je suis parti le surlendemain, appelé à [Bayonne] auprès de ma mère mourante. — Ah! les morts, les"
+Madeleine Forestier,Person,Person,4341,4360,,"orts, les devoirs. Et en quelques phrases brèves [Madeleine Forestier] mit Paul au courant, lui dit la transformation su"
+Maurice,Person,Person,4473,4480,,ait faite en elle dans la minute où les petits de [Maurice] lui avaient tendu les bras et l'avaient appelée m
+Madeleine,Person,Person,5181,5190,,Il y eut un silence. Mais six heures sonnèrent; [Madeleine] tressaillit et murmura : — Déjà. Oh! il faut que
+Jean,Person,Person,5287,5291,,"que je me sauve. — Et, se levant, elle appela : — [Jean], Odette, mettez vos chapeaux, nous partons. Et,"
+Odette,Person,Person,5293,5299,,"me sauve. — Et, se levant, elle appela : — Jean, [Odette], mettez vos chapeaux, nous partons. Et, cinq min"
+Mme Madeleine Forestier,Person,Person,5542,5565,,"heveux d'or retombant en cascade sur ses épaules, [Mme Madeleine Forestier] prenait congé de la colonelle de Z..., s'inclinai"
+Z...,Person,Person,5599,5603,,"eleine Forestier prenait congé de la colonelle de [Z...], s'inclinait devant tous, et disparaissait dans u"
+Z...,Person,Person,5599,5603,,"eleine Forestier prenait congé de la colonelle de [Z...], s'inclinait devant tous, et disparaissait dans u"
+Frédéric BERTHOLD,Person,Person,5696,5713,,"dans une auréole de tendresse et de dévouement. [Frédéric BERTHOLD]. LA MODE du Petit Journal offre cette semaine, à"
+LA MODE,Product,Product,5716,5723,,"tendresse et de dévouement. Frédéric BERTHOLD. [LA MODE] du Petit Journal offre cette semaine, à titre gra"
+Petit Journal,Organization,Organization,5727,5740,,"et de dévouement. Frédéric BERTHOLD. LA MODE du [Petit Journal] offre cette semaine, à titre gracieux, à toutes s"
+Mme X...,Person,Person,5941,5949,,"u bal, entre bonnes petites amies. — N'est-ce pas [Mme X...] qui danse là-bas? — C'est bien elle. — Ah! que sa"
+X...,Person,Person,5945,5949,,"l, entre bonnes petites amies. — N'est-ce pas Mme [X...] qui danse là-bas? — C'est bien elle. — Ah! que sa"
+Décati-Club,Organization,Organization,6497,6508,,"mine pas toujours ses phrases. Un de ses amis du [Décati-Club] disait, en parlant de lui : — Il ne déménage pas"
+FARINE DUTAUT,Product,Product,6608,6621,,"encore, mais on s'aperçoit qu'il a donné congé. [FARINE DUTAUT], le meilleur aliment des enfants UN MONSIEUR off"
+M. Vincent,Person,Person,7150,7160,,"e d'un vœu. Ecrire par lettre ou carte postale à [M. Vincent], 8, place Victor-Hugo, à Grenoble, qui répondra g"
+"8, place Victor-Hugo",Location,Location,7162,7182,,"Ecrire par lettre ou carte postale à M. Vincent, [8, place Victor-Hugo], à Grenoble, qui répondra gratis et franco par co"
+Grenoble,Location,Location,7186,7194,,"rte postale à M. Vincent, 8, place Victor-Hugo, à [Grenoble], qui répondra gratis et franco par courrier, et e"
+LA CHARRETTE FLEURIE,Product,Product,7279,7299,,"courrier, et enverra les indications demandées. [LA CHARRETTE FLEURIE] Brusquement la lune disparut derrière un pan de"
+Daniel,Person,Person,7377,7383,,"ut derrière un pan de mur, et il fit nuit noire. [Daniel] Furon, qui revenait à pied de Fontenay-aux-Roses,"
+Daniel Furon,Person,Person,7377,7389,,"ut derrière un pan de mur, et il fit nuit noire. [Daniel Furon], qui revenait à pied de Fontenay-aux-Roses, ayant"
+Fontenay-aux-Roses,Location,Location,7414,7432,,"nuit noire. Daniel Furon, qui revenait à pied de [Fontenay-aux-Roses], ayant manqué le dernier train, s'arrêta, chercha"
+Paris,Location,Location,7586,7591,,"urmura-t-il, — ce n'est pas fort pour un gamin de [Paris] de se perdre là, à quelque cent mètres de la barr"
+juin,Time,Time,7923,7927,,"ute ce qu'il y avait à faire. On était au mois de [juin] et le ciel, quelque chargé qu'il fût, ne tarderai"
+fort d'Ivry,Location,Location,8121,8132,,"as et se retrouver de nouveau dans les parages du [fort d'Ivry], pas loin d'Ivry même, où était son établissement"
+Ivry,Location,Location,8128,8132,,"e retrouver de nouveau dans les parages du fort d'[Ivry], pas loin d'Ivry même, où était son établissement"
+Daniel Furon,Person,Person,9995,10007,,"'il n'eût rien perçu, ni bruit de lutte ni cris? [Daniel Furon] s'éloigna un peu, allant à la découverte, chercha"
+Furon,Person,Person,10002,10007,,"ût rien perçu, ni bruit de lutte ni cris? Daniel [Furon] s'éloigna un peu, allant à la découverte, chercha"
+MADAME RUPPARD,Person,Person,10408,10422,,"plaque d'identité apparut comme en plein jour : [MADAME RUPPARD] 11, CITÉ BONNELLE, 41 Paris. Daniel reçut un ch"
+RUPPARD,Person,Person,10415,10422,,"d'identité apparut comme en plein jour : MADAME [RUPPARD] 11, CITÉ BONNELLE, 41 Paris. Daniel reçut un ch"
+CITÉ BONNELLE,Location,Location,10427,10440,,"apparut comme en plein jour : MADAME RUPPARD 11, [CITÉ BONNELLE], 41 Paris. Daniel reçut un choc en pleine poitr"
+Paris,Location,Location,10446,10451,,"ein jour : MADAME RUPPARD 11, CITÉ BONNELLE, 41 [Paris]. Daniel reçut un choc en pleine poitrine... — Ah"
+Grenoble,Location,Location,10818,10826,,"que ce serait la même... celle que j'ai connue à [Grenoble], la vieille Ruppard, la buraliste de la rue du Mo"
+rue du Mont-Blanc,Location,Location,10867,10884,,"Grenoble, la vieille Ruppard, la buraliste de la [rue du Mont-Blanc]? Cela remontait à son service militaire, il y a"
+Savoyarde,Location,Location,11250,11259,,"lle faisait autour de certaine blonde — était une [Savoyarde] ratatinée et rapace, n'aimant que l'argent et sa"
+Suzette,Person,Person,11784,11791,,'aimait plus l'armée depuis que — en l'honneur de [Suzette] — il y avait tout le jour un képi ou une paire de
+Suzanne,Person,Person,12363,12370,,"de l'Etat!... Elle avait fini par acheter, pour [Suzanne], le petit magasin de fleurs d'à côté, qui marchai"
+Daniel,Person,Person,12514,12520,,"oldats ne faisant guère emplette de gerbes. Seul, [Daniel] continua de circuler entre les deux boutiques moy"
+Bois-Roux,Location,Location,12923,12932,,lé ou il sera froid. C'est toujours comme cela au [Bois-Roux]. Ah! les servantes VI Le baron passa le premier
+Henriette,Person,Person,13018,13027,,ssa le premier : toujours ses façons de campagne. [Henriette] le suivait de plus en plus troublée. Était-il bie
+Mme Corbin,Person,Person,13146,13156,,le jaseur parlât ordinairement pour ne rien dire? [Mme Corbin] craignait décidément de démêler un sens caché dan
+M. de Vaugiron,Person,Person,13546,13560,,illit encore : les personnes qui avaient fourni à [M. de Vaugiron] ces renseignements exacts dont il se vantait sur
+Henri de la Chevardaye,Person,Person,14133,14155,,"pensée, en ce moment devait l'occuper... Lui!... [Henri de la Chevardaye] serait-il se présenter à ce repas de famille où o"
+PAUL PERRET,Person,Person,14223,14234,,enter à ce repas de famille où on la conduisait? [PAUL PERRET]. (La suite au prochain numéro.) FEUILLETON DU S
+Petit Journal,Product,Product,14306,14319,,in numéro.) FEUILLETON DU SUPPLÉMENT ILLUSTRÉ du [Petit Journal] - 40 - LES YEUX D'OR V Il se décida pourtant
+LES YEUX D'OR,Product,Product,14329,14342,,DU SUPPLÉMENT ILLUSTRÉ du Petit Journal - 40 - [LES YEUX D'OR] V Il se décida pourtant à ôter son vieux feu're
+Mme Corbin,Person,Person,14611,14621,,ailes d'un moulin. L'effet était si comique que [Mme Corbin] retint à grand peine un sourire. L'étrange person
+baronne de Vaugiron,Person,Person,14854,14873,,"précisément l'ordinaire de la maison. D'abord, la [baronne de Vaugiron] n'appartenait plus à la terre que par le goût des"
+Vaugiron,Person,Person,14865,14873,,"l'ordinaire de la maison. D'abord, la baronne de [Vaugiron] n'appartenait plus à la terre que par le goût des"
+Mme Geneviève,Person,Person,15155,15168,,"mal? Les Vaugiron avaient des bijoux de famille. [Mme Geneviève], l'unique héritière du nom, ne les aimait pas. Il"
+Mme de Vaugiron,Person,Person,15320,15335,,"as une jeune fille comme on en voit pas beaucoup, [Mme de Vaugiron]. Ce n'est pas bien commun, par le temps qui court"
+Henri,Person,Person,15440,15445,,"caractère détestable, mais un caractère enfin... [Henri]ette écoutait avec une attention ardente. Devait-e"
+Henriette,Person,Person,15440,15449,,"caractère détestable, mais un caractère enfin... [Henriette] écoutait avec une attention ardente. Devait-elle"
+Henri de la Chevardaye,Person,Person,15604,15626,,!... Le baron allait peut-être donner une place à [Henri de la Chevardaye] dans cette amusante galerie des portraits de sa f
+Monsieur le baron,Person,Person,15927,15944,,"e verve cornue d'où la lumière pouvait sortir. — [Monsieur le baron], dit-elle seulement, la servante qui m'a reçue au"
+Bois-Roux,Location,Location,15995,16004,,"dit-elle seulement, la servante qui m'a reçue au [Bois-Roux] m'a laissé entendre que Mme Vaugiron était mal av"
+Mme Vaugiron,Person,Person,16029,16041,,ui m'a reçue au Bois-Roux m'a laissé entendre que [Mme Vaugiron] était mal avertie de mon arrivée... Il se mit à
+Ambroise,Person,Person,16397,16405,,"erait longtemps au Bois-Roux! Ce mauvais sujet d'[Ambroise] qu'on avait envoyé à la gare s'était amusé, Dieu"
+Mme Corbin,Person,Person,17317,17327,,d'ici-bas! Celui-ci était un cousin de la maison; [Mme Corbin] allait le voir. Henriette eut un voile devant le
+Henriette,Person,Person,17345,17354,,cousin de la maison; Mme Corbin allait le voir. [Henriette] eut un voile devant les yeux; cependant elle sent
+Mme de Vaugiron,Person,Person,17733,17748,,"on que je me suis permis de faire tout à l'heure. [Mme de Vaugiron] connaît ma présence au Bois-Roux, mais elle en ig"
+Vaugiron,Person,Person,17740,17748,,"je me suis permis de faire tout à l'heure. Mme de [Vaugiron] connaît ma présence au Bois-Roux, mais elle en ig"
+Bois-Roux,Location,Location,17772,17781,,"à l'heure. Mme de Vaugiron connaît ma présence au [Bois-Roux], mais elle en ignore peut-être l'objet... — Là!"
+Ambroise,Person,Person,17891,17899,,"baron sans avoir l'air de l'entendre, où est cet [Ambroise]? Heureusement, vous avez rencontré Le Farec à la"
+Le Farec,Person,Person,17935,17943,,"t cet Ambroise? Heureusement, vous avez rencontré [Le Farec] à la gare. Voilà une bonne figure de gentilhomme"
+Paris,Location,Location,18321,18326,,"jet, mes renseignements sont justes; nous avons à [Paris] les moyens de les prendre. Les Vaugiron ont des a"

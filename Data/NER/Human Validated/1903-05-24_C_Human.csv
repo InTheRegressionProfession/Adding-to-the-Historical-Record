@@ -1,0 +1,31 @@
+﻿entity,fine_type,coarse_type
+Mme Bouteloup,pers.ind,Person
+la place du Marché,loc.oro,Location
+Mme Ménard,pers.ind,Person
+Emma,pers.ind,Person
+Lisois,pers.ind,Person
+Paul,pers.ind,Person
+Joconde,pers.ind,Person
+Mme Emma,pers.ind,Person
+Boileau,pers.ind,Person
+Mademoiselle Emma,pers.ind,Person
+Paul Lisois,pers.ind,Person
+Mme Hélène Ménard,pers.ind,Person
+Hélène Ménard,pers.ind,Person
+Camille GRAMACCINI,pers.ind.articleauthor,Person
+Petit Journal,prod.media,Product
+Mme Raven,pers.ind,Person
+Louis Raven,pers.ind,Person
+Madeleine,pers.ind,Person
+Louis,pers.ind,Person
+Marie THIÉRY,pers.ind.articleauthor,Person
+M. Raven,pers.ind,Person
+Jean,pers.ind,Person
+André Meynier,pers.ind,Person
+Claude,pers.ind,Person
+Claire Meynier,pers.ind,Person
+André,pers.ind,Person
+Claire,pers.ind,Person
+avenue d'Antin,loc.oro,Location
+Italie,loc.adm.nat,Location
+gare d'Lyon,loc.fac,Location

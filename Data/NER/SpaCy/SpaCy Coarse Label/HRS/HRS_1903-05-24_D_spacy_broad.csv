@@ -1,0 +1,112 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Jean,Person,PER,267,271,,"la jeune femme avait reculé, comme pris d'effroi. [Jean] se meurt!... se hâte de dire André sourdement. Il"
+André,Product,MISC,301,306,,"pris d'effroi. Jean se meurt!... se hâte de dire [André] sourdement. Il veut vous voir... Cette fois, l'a"
+André,Product,MISC,374,379,,"ut vous voir... Cette fois, l'accent déchirant d'[André], ses paroles oppressées, l'angoisse de son regard"
+Dieu,Product,MISC,648,652,,"es yeux, joignit les mains... — Que puis-je? mon [Dieu]!... — Mais vous n'avez donc pas de cœur? s'écria"
+André,Product,MISC,702,707,,!... — Mais vous n'avez donc pas de cœur? s'écria [André]. Déjà vous devriez avoir bondi hors de ce wagon.
+Claire,Person,PER,760,766,,"Déjà vous devriez avoir bondi hors de ce wagon... [Claire], votre cruauté envers moi, vos trahisons, j'oubli"
+Mon Dieu!,Product,MISC,1337,1346,,"ion rapide, des larmes perlèrent à ses cils... — [Mon Dieu!] implora André, on ferme les portières!... Au nom"
+André,Product,MISC,1355,1360,,"rmes perlèrent à ses cils... — Mon Dieu! implora [André], on ferme les portières!... Au nom de votre bonhe"
+André,Product,MISC,1665,1670,,"ssa entre lui et le wagon et ferma la portière... [André] se hissa sur le marchepied, s'accrocha à la poign"
+Claire,Person,PER,1729,1735,,"sur le marchepied, s'accrocha à la poignée... — [Claire], Claire, répétait-il, si vous venez, le petit Jea"
+Claire,Person,PER,1737,1743,,"marchepied, s'accrocha à la poignée... — Claire, [Claire], répétait-il, si vous venez, le petit Jean ne mou"
+Jean,Person,PER,1782,1786,,"ire, Claire, répétait-il, si vous venez, le petit [Jean] ne mourra pas... Votre présence va le sauver!..."
+Jean,Person,PER,2048,2052,,"in d'espoir... Le premier il entra au logis... — [Jean] la voilà!... c'est elle!... cria-t-il, laissant d"
+Maman!,Product,MISC,2339,2345,,"iomphe, de résurrection passa dans la chambre. — [Maman!]... — Mon cher petit!... Et la mère, toute remuée"
+VERNOU,Product,MISC,2606,2612,,ée par la minute exquisite de son retour. PIERRE [VERNOU]. Une Exposition capillaire Les journaux scienti
+"Exposition capillaire
+
+",Product,MISC,2619,2642,,ute exquisite de son retour. PIERRE VERNOU. Une [Exposition capillaire ]Les journaux scientifiques et de médecine du monde
+Busch,Person,PER,2743,2748,,entier ont relaté la découverte par le professeur [Busch] des curieuses propriétés que possède un alcaloïde
+Institut traiter de duperie,Organization,ORG,3473,3500,,"ore. C'est la loi. Ne vit-on pas des membres de l'[Institut traiter de duperie] les premières manifestations du phonographe, et l"
+Jenner,Person,PER,3560,3566,,"ères manifestations du phonographe, et l'illustre [Jenner] lui-même, qui découvrit la vaccine, n'est-il pas"
+Busch,Person,PER,3697,3702,,vaincre les derniers incrédules que le professeur [Busch] s'est décidé à une grande manifestation. A parti
+Paris,Location,LOC,3799,3804,,"rtir de ce jour, il ouvre dans son laboratoire de [Paris], 10, rue des Bons-Enfants, une Exposition publiqu"
+rue des Bons-Enfants,Location,LOC,3810,3830,,"jour, il ouvre dans son laboratoire de Paris, 10, [rue des Bons-Enfants], une Exposition publique des milliers d'attestati"
+Exposition publique des milliers d'attestations,Product,MISC,3836,3883,,"boratoire de Paris, 10, rue des Bons-Enfants, une [Exposition publique des milliers d'attestations] et de lettres de remerciements, légalisées, authe"
+Busch,Person,PER,4159,4164,,"ou de situation, n'ont pu autoriser le professeur [Busch] à exposer le témoignage écrit de leur reconnaissa"
+Busch,Person,PER,4411,4416,,as avec le plus de détails possible au professeur [Busch]; il leur enverra gratuitement le moyen de conquér
+Absalon,Location,LOC,4518,4525,,ou de retrouver rapidement une chevelure digne d'[Absalon]. Docteur RIOU-DELMET. SI VOUS TOUSSEZ ne prenez
+TOUSSEZ,Product,MISC,4558,4565,,e digne d'Absalon. Docteur RIOU-DELMET. SI VOUS [TOUSSEZ] ne prenez que les tablettes COQUELIGOTS marquées
+COQUELIGOTS,Product,MISC,4594,4605,,"MET. SI VOUS TOUSSEZ ne prenez que les tablettes [COQUELIGOTS] marquées au nom de l'inventeur JOHN TAVERNIER, se"
+TAVERNIER,Person,PER,4642,4651,,"s COQUELIGOTS marquées au nom de l'inventeur JOHN [TAVERNIER], seules efficaces contre le rhume. MOTS POUR RIR"
+"POUR RIRE
+
+Entre amis",Product,MISC,4693,4714,,"AVERNIER, seules efficaces contre le rhume. MOTS [POUR RIRE Entre amis] : — Tu sais, il paraît que X... a attrapé la fièv"
+X,Product,MISC,4742,4743,,"POUR RIRE Entre amis : — Tu sais, il paraît que [X]... a attrapé la fièvre typhoïde après avoir mangé"
+Bonne,Person,PER,4898,4903,,", riposte l'autre, de se trouver treize à table. [Bonne] place. — Chez qui es-tu en service, maintenant? d"
+Daudolat,Person,PER,5008,5016,,"ait une cuisinière à une autre. — Chez le docteur [Daudolat], un spirite. — Qu'est-ce que c'est que ça, un spi"
+LA HERNIE GUÉRIE,Location,LOC,5406,5422,,es qu'il me donne la pièce par-dessus le marché. [LA HERNIE GUÉRIE] sans opération et sans souffrance Quand M. Paste
+M. Pasteur,Person,PER,5464,5474,,"E GUÉRIE sans opération et sans souffrance Quand [M. Pasteur] découvrit le vaccin de la rage, on ne voulut pas"
+M. Claverie,Person,PER,5642,5653,,"tre en doute sa bonne foi. Il en a été de même de [M. Claverie], de Paris. Il a inventé, pour contenir et guérir"
+Paris,Location,LOC,5658,5663,,"bonne foi. Il en a été de même de M. Claverie, de [Paris]. Il a inventé, pour contenir et guérir les hernie"
+Rapi,Product,MISC,6478,6482,,à votre nouvel appareil je suis devenu un homme! [Rapi] d'une guérison si radicale sans avoir éprouvé la
+Recevez,Person,PER,6717,6724,,"ité à se servir de vos appareils perfectionnés. « [Recevez], cher Monsieur Claverie, mes hommages et mon admi"
+Monsieur Claverie,Person,PER,6731,6748,,"r de vos appareils perfectionnés. « Recevez, cher [Monsieur Claverie], mes hommages et mon admiration pour cette œuvre"
+Enson VAUTIER,Person,PER,6836,6849,,"cette œuvre humanitaire car je suis bien guéri. » [Enson VAUTIER], « (Cuisinier), Villa des Pins, à Lamotte-Beuvron"
+Cuisinier,Product,MISC,6854,6863,,"taire car je suis bien guéri. » Enson VAUTIER, « ([Cuisinier]), Villa des Pins, à Lamotte-Beuvron (Loir-et-Cher"
+Villa des Pins,Location,LOC,6866,6880,,"suis bien guéri. » Enson VAUTIER, « (Cuisinier), [Villa des Pins], à Lamotte-Beuvron (Loir-et-Cher). Après un semb"
+Lamotte-Beuvron,Location,LOC,6884,6899,,"» Enson VAUTIER, « (Cuisinier), Villa des Pins, à [Lamotte-Beuvron] (Loir-et-Cher). Après un semblable témoignage, n"
+Loir-et-Cher,Location,LOC,6901,6913,,"« (Cuisinier), Villa des Pins, à Lamotte-Beuvron ([Loir-et-Cher]). Après un semblable témoignage, nous sommes per"
+Traité de la Hernie,Product,MISC,7182,7201,,ndage et ne se feront pas opérer sans avoir lu le [Traité de la Hernie] où cette nouvelle méthode est clairement expliqué
+M. Claverie,Person,PER,7329,7340,,"ment et sans frais à tous ceux qui le demandent à [M. Claverie], 234, Faubourg Saint-Martin, à Paris. Visite et a"
+Faubourg Saint-Martin,Location,LOC,7347,7368,,"à tous ceux qui le demandent à M. Claverie, 234, [Faubourg Saint-Martin], à Paris. Visite et application tous les jours, m"
+Paris,Location,LOC,7372,7377,,"dent à M. Claverie, 234, Faubourg Saint-Martin, à [Paris]. Visite et application tous les jours, même les d"
+h. du soir,Product,MISC,7467,7477,,"même les dimanches et fêtes, de 9 h. du matin à 6 [h. du soir]. UN MONSIEUR offre gratuitement de faire connaît"
+M. Vincent,Person,PER,7997,8007,,"e d'un vœu. Écrire par lettre ou carte postale à [M. Vincent], 8, place Victor-Hugo, à Grenoble, qui répondra g"
+Victor-Hugo,Person,PER,8018,8029,,"ar lettre ou carte postale à M. Vincent, 8, place [Victor-Hugo], à Grenoble, qui répondra gratis et franco par co"
+Grenoble,Location,LOC,8033,8041,,"rte postale à M. Vincent, 8, place Victor-Hugo, à [Grenoble], qui répondra gratis et franco par courrier, et e"
+Neuf heures,Product,MISC,8508,8519,,"les roulades inattendues détonnaient étrangeté. [Neuf heures] venaient de sonner. A cette heure, il n'y a plus"
+Opinion publique,Organization,ORG,8828,8844,,"Qui donc pouvait s'être attardé ainsi et braver l'[Opinion publique] avec autant d'audace. Une femme, grand Dieu! car"
+Jeanne Bertin,Person,PER,9297,9310,,"gaz, il reconnaît les traits doux et fatigués de [Jeanne Bertin], Jeanne la vertueuse et jolie couturière, la peti"
+Jeanne la vertueuse et jolie couturière,Person,PER,9312,9351,,"aît les traits doux et fatigués de Jeanne Bertin, [Jeanne la vertueuse et jolie couturière], la petite orpheline. M. Prud'homme eut un soubr"
+Jeanne,Person,PER,9724,9730,,ma sans bruit sa fenêtre et s'en fut se coucher. [Jeanne] marchait vite. Elle avait hâte de se retrouver en
+monotone,Product,MISC,9925,9933,,"vre ses rêveries... Au milieu de sa vie triste et [monotone], comme une fleur dans l'ombre se penche vers la l"
+Henri,Person,PER,10392,10397,,"trouvaille. Elle lut une souscription : Monsieur [Henri] VIDAL, Rédacteur en chef de l'Echo des Poètes (En"
+"Echo des Poètes
+",Organization,ORG,10428,10444,,"n : Monsieur Henri VIDAL, Rédacteur en chef de l'[Echo des Poètes ](En ville.) Ce devait être quelque manuscrit perd"
+"Monde
+
+Quel pouvait être l'idéal de cet inconnu",Product,MISC,10626,10673,,"qu'elle avait pensé. Le titre lui plut : Loin du [Monde Quel pouvait être l'idéal de cet inconnu] : loin du monde, loin de ce monde où tout n'est q"
+Vains,Location,LOC,10757,10762,,"où tout n'est que désillusion, désenchantement, [Vains] espoirs qui passent avec l'heure. Elle pouvait b"
+Monde,Organization,ORG,10899,10904,,"ujours si joli! Certes, cette œuvre, ce « Loin du [Monde] » ne devait pas receler de ces grossièretés dont"
+Oh!,Product,MISC,11415,11418,,"r... Jeanne continua de tourner les feuillets... [Oh!] la bonne soirée qu'elle passa, pénétrant en secre"
+Pierrot,Person,PER,12359,12366,,naît peut-être. La ville n'est pas si grande... « [Pierrot]! » C'est un pseudonyme... Pas de chance. Le pauvr
+Ah! c'est bien simple,Product,MISC,12579,12600,,"avec raison d'ailleurs... Mais comment faire?... [Ah! c'est bien simple], elle les portera demain au bureau du journal..."
+miss Kinsley,Person,PER,12705,12717,,mme l'enveloppe du rouleau prince qui va épouser [miss Kinsley]. Pauvre homme! Il mourra sans savoir ce que c'est
+Bertrand,Person,PER,13252,13260,,"elle, se joignait une instruction solide. Quant à [Bertrand], il avait fini par trouver un cheval à peu près m"
+Bordighera,Location,LOC,13427,13437,,"la côte. Mais, le second dimanche de son séjour à [Bordighera], il fit une rencontre qui devait lui procurer des"
+TINSEAU,Location,LOC,14292,14299,,consolation sortie d'une bouche humaine! LÉON DE [TINSEAU]. (La suite au prochain numéro.) FEUILLETON DU S
+FEUILLETON DU,Product,MISC,14334,14347,,LÉON DE TINSEAU. (La suite au prochain numéro.) [FEUILLETON DU] SUPPLÉMENT ILLUSTRÉ du Petit Journal — 24 — FON
+"Petit Journal
+
+—",Product,MISC,14371,14387,,"in numéro.) FEUILLETON DU SUPPLÉMENT ILLUSTRÉ du [Petit Journal —] 24 — FONTLUCE IX — Si je demandais à rester, e"
+"FONTLUCE
+
+IX",Product,MISC,14394,14406,,"DU SUPPLÉMENT ILLUSTRÉ du Petit Journal — 24 — [FONTLUCE IX] — Si je demandais à rester, expliqua-t-il en sou"
+rue de Monceau,Location,LOC,14587,14601,,"idées subversives. Revenue dans son hôtel de la [rue de Monceau] qu'elle tenait de son père, la marquise, en dépit"
+Bertrand,Person,PER,14737,14745,,"des invitations pour un dîner. La date arrivée, [Bertrand] eut la migraine et resta couché jusqu'au lendemai"
+Bertrand,Person,PER,14944,14952,,"e fois que j'aurai du monde? — J'avoue, répondit [Bertrand], que je suis moins fort cette année qu'à l'ordina"
+Midi,Location,LOC,15118,15122,,"santé est le premier des biens: un hiver dans le [Midi] remettra la vôtre. Aux premières gelées, nous par"
+Nice,Location,LOC,15182,15186,,"la vôtre. Aux premières gelées, nous parlons pour [Nice]. Mme de Fontluc, en parlant ainsi, faisait contr"
+Mme de Fontluc,Person,PER,15189,15203,,"e. Aux premières gelées, nous parlons pour Nice. [Mme de Fontluc], en parlant ainsi, faisait contre mauvaise fortun"
+Mme de Fontluc,Person,PER,15976,15990,,"dre parti pour lui et se souvenir un peu trop que [Mme de Fontluc] était entrée dans le faubourg Saint-Germain, comm"
+Saint-Germain,Location,LOC,16021,16034,,"que Mme de Fontluc était entrée dans le faubourg [Saint-Germain], comme elle était entrée dans l'église militante:"
+Flora Kinsley,Person,PER,16385,16398,,"s, la consola quand il fallut se mettre en route: [Flora Kinsley] et sa tante passaient régulièrement tous leurs hi"
+Nice,Location,LOC,16455,16459,,tante passaient régulièrement tous leurs hivers à [Nice]. Une nouvelle chance s'offrait. Hélas! en mettan
+Anglais,Location,LOC,16540,16547,,". Hélas! en mettant le pied sur la promenade des [Anglais], Bertrand et sa mère furent salués par la grande"
+Bertrand,Person,PER,16549,16557,,"en mettant le pied sur la promenade des Anglais, [Bertrand] et sa mère furent salués par la grande nouvelle d"
+Américaine,Location,LOC,16627,16637,,"alués par la grande nouvelle des fiançailles de l'[Américaine] avec un prince, Français d'origine sinon de princ"
+Français,Product,MISC,16654,16662,,"e des fiançailles de l'Américaine avec un prince, [Français] d'origine sinon de principauté. — Oui, ma chère,"
+l'Europe,Location,LOC,16803,16811,,"mtesse, qui passe pour la plus méchante langue de [l'Europe]. Et, permettez-moi de vous le dire, vous arrivez"
+Moi!,Product,MISC,16948,16952,,"il s'agissait de devenir la fille du littoral. — [Moi!] fit-elle, prenant son parti brusquement. Je m'arr"
+Bordighera,Location,LOC,17087,17097,,aire mes malles. J'ai une petite maison retenue à [Bordighera]; j'y couche demain et je compte bien que vous vie
+Bertrand,Person,PER,17565,17573,,"Tant mieux! L'ennui, parfois est un bon remède. [Bertrand], de son côté, se consolait par cette réflexion:"
+Paris,Location,LOC,17711,17716,,", ma mère n'en pourra plus, et nous reviendrons à [Paris]. C'est presque la banlieue des Bretons. Ainsi, p"
+Bretons,Location,LOC,17748,17755,,"eviendrons à Paris. C'est presque la banlieue des [Bretons]. Ainsi, parfois, dans les anciennes guerres, on"
+"X
+
+Un",Product,MISC,17914,17919,,"appeler la famine à leur aide, comme une alliée. [X Un] peu moins d'une semaine après leur installation,"
+Bertrand,Person,PER,18030,18038,,"tenta une sortie, c'est-à-dire qu'elle entreprit [Bertrand] sur ses amours: — Voyons! parlez franchement. Vo"
+Mon Dieu!,Product,MISC,18152,18161,,"eux? Car c'est la tête, avant tout qui est prise. [Mon Dieu!] je poux à peine vous blâmer d'être romanesque. Mo"
+Dieu,Product,MISC,18656,18660,,plus heureux des hommes! J'ai trouvé la femme que [Dieu] a faite exprès pour moi. Je l'adore: elle m'aime.

@@ -1,0 +1,61 @@
+﻿entity,fine_type,coarse_type
+docteur Otto Nordenskjöld,pers.ind,Person
+M. Otto Nordenskjöld,pers.ind,Person
+France,loc.adm.nat,Location
+Patagonie,loc.adm.reg,Location
+Terre de Feu,loc.phys.geo,Location
+Amérique,loc.adm.sup,Location
+Klondike,loc.phys.geo,Location
+Laponie,loc.adm.reg,Location
+1904,time.date.abs,Time
+1838,time.date.abs,Time
+Dumont-d'Urville,pers.ind,Person
+Antarctic,loc.adm.sup,Location
+Janvier 1902,time.date.abs,Time
+Terre Louis-Philippe,loc.phys.geo,Location
+République argentine,loc.adm.nat,Location
+docteur Nordenskjöld,pers.ind,Person
+îles de la Géorgie du Sud,loc.phys.geo,Location
+Falkland,loc.phys.geo,Location
+en Janvier 1903,time.date.abs,Time
+Amérique du Sud,loc.adm.sup,Location
+Rio-Gallegos,loc.adm.town,Location
+Uruguay,loc.adm.nat,Location
+île Seymour,loc.phys.geo,Location
+FRANCE,loc.adm.nat,Location
+M. de Pressensé,pers.ind,Person
+colonel Roussel,pers.ind,Person
+Alsace-Lorraine,loc.adm.reg,Location
+M. Paul Doumer,pers.ind,Person
+M. Jaurès,pers.ind,Person
+Jaurès,pers.ind,Person
+M. de Pressensé,pers.ind,Person
+second Empire,loc.adm.nat,Location
+1870,time.date.abs,Time
+Allemagne,loc.adm.nat,Location
+outre-Vosges,loc.adm.reg,Location
+Europe,loc.adm.sup,Location
+Bûlow,pers.ind,Person
+Reichstag,org.adm,Organization
+M. Clémenceau,pers.ind,Person
+Monsieur Saint-Eloi,pers.ind,Person
+Clotaire II,pers.ind,Person
+basilique de Saint-Denis,loc.fac,Location
+Noyon,loc.adm.town,Location
+Nord,loc.adm.reg,Location
+Dagobert,pers.ind,Person
+LACARRE,pers.ind.articleauthor,Person
+Paris,loc.adm.town,Location
+Lucienne,pers.ind,Person
+Lucienne Durieu,pers.ind,Person
+Gabriel,pers.ind,Person
+Gabriel Augier,pers.ind,Person
+Oseraies,loc.adm.town,Location
+Mme Durieu,pers.ind,Person
+Augier,pers.ind,Person
+Mme Augier,pers.ind,Person
+Mme Lucienne,pers.ind,Person
+M. Durieu,pers.ind,Person
+M. le maire des Oseraies,pers.ind,Person
+monsieur Augier,pers.ind,Person
+madame Du.,pers.ind,Person

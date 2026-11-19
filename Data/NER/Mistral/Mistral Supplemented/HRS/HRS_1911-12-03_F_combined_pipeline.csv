@@ -1,0 +1,44 @@
+﻿entity,fine_type,coarse_type,impresso_type,change,model_label,start,end,confidence,context
+René,pers.ind,Person,pers.ind,confirmed,pers.ind,19,23,,"ENTRE DEUX AMOURS [René] Jeantet ouvrit en silence la porte-fenêtre, fit q"
+René Jeantet,pers.ind,Person,pers.ind,confirmed,pers.ind,19,31,,"ENTRE DEUX AMOURS [René Jeantet] ouvrit en silence la porte-fenêtre, fit quelques"
+École Centrale de Paris,org.ent,Organization,org.ent,confirmed,org.ent,1047,1070,,"nique passion du travail. Reçu de bonne heure à l'[École Centrale de Paris], il en était sorti avec le diplôme d'ingénieur et"
+Suzanne Morlier,pers.ind,Person,pers.ind,confirmed,pers.ind,2244,2259,,"pas et dès que le hasard l'eut mis en présence de [Suzanne Morlier], il se déclara à lui-même : — Voilà la femme qu'"
+Morlier,pers.coll,Person,pers.ind,retyped,pers.coll,2353,2360,,me qu'il me faut ! Voilà celle que j'aurai ! Les [Morlier] étaient d'anciens industriels que des grèves trop
+Normandie,loc.adm.nat,Location,loc.adm.nat,confirmed,loc.adm.nat,2499,2508,,"nier débris de leur splendeur, ils possédaient en [Normandie] un château entouré de bois et c'est là qu'ils viv"
+Suzanne,pers.ind,Person,pers.ind,confirmed,pers.ind,2613,2620,,"toute l'année, obscurément, presque pauvrement. [Suzanne] était leur enfant unique. Blonde, souple, primesa"
+Michel Réval,pers.ind,Person,pers.ind,confirmed,pers.ind,3035,3047,,"déjà s'était enhardi, un cousin que l'on nommait [Michel Réval]. Mais lui aussi était sans fortune et M. Morlier"
+M. Morlier,pers.coll,Person,pers.ind,retyped,pers.coll,3086,3096,,"ichel Réval. Mais lui aussi était sans fortune et [M. Morlier] avait eu tôt fait, preuves en mains, de démontrer"
+René,pers.ind,Person,pers.ind,confirmed,pers.ind,3222,3226,,"était impossible. Ce fut à ce moment exact, que [René] Jeantet se présenta. Tout de suite sa personne et"
+René Jeantet,pers.ind,Person,pers.ind,confirmed,pers.ind,3222,3234,,"était impossible. Ce fut à ce moment exact, que [René Jeantet] se présenta. Tout de suite sa personne et sa situ"
+M. et Mme Morlier,pers.coll,Person,,added,pers.coll,3673,3690,,", tout à fait épris de Suzanne, demanda sa main. [M. et Mme Morlier] reçurent cette demande avec une joie, avec une re"
+René,pers.ind,Person,pers.ind,confirmed,pers.ind,5557,5561,,"érieur du château et s'approchait de la terrasse. [René], curieux, se recula dans l'ombre, le long du mur."
+Suzanne,pers.ind,Person,pers.ind,confirmed,pers.ind,5797,5804,,"— Hé quoi ! s'écria René stupéfait, c'est vous, [Suzanne] ! Que faites-vous ici, à cette heure ? La jeune"
+Suzanne,pers.ind,Person,pers.ind,confirmed,pers.ind,7575,7582,,"ang fit battre ses tempes. Il balbutia : — Vous, [Suzanne] ! Vous !... Non, vous vous moquez de moi ! Ce n'e"
+René,pers.ind,Person,pers.ind,confirmed,pers.ind,7823,7827,,"sage de son fiancé avec une joie féroce : — Oui, [René], j'allais à un rendez-vous ! Nous sommes fiancés,"
+Michel,pers.ind,Person,pers.ind,confirmed,pers.ind,7989,7995,,"Avant de vous connaître, j'avais promis ma main à [Michel] Réval, mon cousin. C'est lui que j'aime et sa pas"
+Michel Réval,pers.ind,Person,pers.ind,confirmed,pers.ind,7989,8001,,"Avant de vous connaître, j'avais promis ma main à [Michel Réval], mon cousin. C'est lui que j'aime et sa passion,"
+René,pers.ind,Person,pers.ind,confirmed,pers.ind,9918,9922,,air de lune. L'attente fut longue et cruelle pour [René]. Les minutes lui furent des heures. A chaque inst
+Suzanne,pers.ind,Person,pers.ind,confirmed,pers.ind,10169,10176,,jouât en ce moment. Il savait qu'il allait perdre [Suzanne] pour toujours et cependant l'orgueil de son sacr
+Michel,pers.ind,Person,pers.ind,confirmed,pers.ind,10788,10794,,armes embuaient ses paupières : — Vous pleurez ! [Michel] était-il absent ? N'êtes-vous pas heureuse ? Que
+Suzanne,pers.ind,Person,pers.ind,confirmed,pers.ind,12349,12356,,"nt, dit-elle ! Ma vie est brisée. — Taisez-vous, [Suzanne] ! Votre vie commence au contraire. Ne sommes-nous"
+R. LAMOTTE,pers.ind.articleauthor,Person,pers.ind,retyped,pers.ind.articleauthor,12641,12651,,", elle tendit vers les baisers son clair visage. [R. LAMOTTE]. L'homme qui ne sait pas Le cas de Trumeau n'es"
+Trumeau,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,12689,12696,,"R. LAMOTTE. L'homme qui ne sait pas Le cas de [Trumeau] n'est pas ordinaire, cet homme a l'âge respectabl"
+Trumeau,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,12689,12696,,"R. LAMOTTE. L'homme qui ne sait pas Le cas de [Trumeau] n'est pas ordinaire, cet homme a l'âge respectabl"
+PRÉSIDENT,pers.ind,Person,pers.ind,confirmed,pers.ind,13031,13040,,"ive de vol, outrages et rébellion aux agents. LE [PRÉSIDENT]. — Vous vous nommez Trumeau (Eugène-Pierre), vous"
+Eugène-Pierre,pers.ind,Person,pers.ind,confirmed,pers.ind,13070,13083,,"gents. LE PRÉSIDENT. — Vous vous nommez Trumeau ([Eugène-Pierre]), vous êtes né à Elbeuf, le 23 mars 1860 ; vos pa"
+Elbeuf,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,13101,13107,,"us nommez Trumeau (Eugène-Pierre), vous êtes né à [Elbeuf], le 23 mars 1860 ; vos parents étaient de braves"
+le 23 mars 1860,time.date.abs,Time,time.date.abs,confirmed,time.date.abs,13109,13124,,"z Trumeau (Eugène-Pierre), vous êtes né à Elbeuf, [le 23 mars 1860] ; vos parents étaient de braves gens, vous avez é"
+Jambon,pers.ind,Person,pers.ind,confirmed,pers.ind,13224,13230,,"té marié, vous êtes veuf, votre épouse se nommait [Jambon] (Fanny-Augustine), vous n'avez jamais eu d'enfant"
+Fanny-Augustine,pers.ind,Person,pers.ind,confirmed,pers.ind,13232,13247,,", vous êtes veuf, votre épouse se nommait Jambon ([Fanny-Augustine]), vous n'avez jamais eu d'enfants ; pendant toute"
+boulevard de Clichy,loc.oro,Location,,added,loc.oro,13976,13995,,t d'enseigne à un marchand d'objets funéraires du [boulevard de Clichy]. Pourquoi avez-vous scié cette couronne ? TRUMEA
+TRUMEAU,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,14433,14440,,pport de l'agent ne dit pas que vous étiez ivre. [TRUMEAU]. — Et le rapport de l'agent est dans le vrai ; si
+PRÉSIDENT,pers.ind,Person,pers.ind,confirmed,pers.ind,14566,14575,,était pour scier quelque chose et voilà tout. LE [PRÉSIDENT]. — Vous avez injurié l'agent. TRUMEAU. — Je ne c
+cimetière Montmartre,loc.fac,Location,,added,loc.fac,15321,15341,,"la nuit, j'étais de service dans les environs du [cimetière Montmartre], il faisait un clair de lune splendide, et après"
+Butte,loc.oro,Location,loc.oro,confirmed,loc.oro,15467,15472,,"ui flânaient à la sortie des établissements de la [Butte], après avoir débarrassé le trottoir de ces turbul"
+collègue Courtaud,pers.ind,Person,pers.ind,confirmed,pers.ind,15854,15871,,"égé. Par extraordinaire, je me trouvais seul, mon [collègue Courtaud], ayant été pris de formidables coliques, était re"
+sieur Trumeau,pers.ind,Person,pers.ind,confirmed,pers.ind,16486,16499,,"erçus, grâce au clair de lune qui l'éclairait, le [sieur Trumeau] qui, à cheval sur le bec de gaz qui paraissait bi"
+M. Rigolot,pers.ind,Person,pers.ind,confirmed,pers.ind,16679,16689,,anture du magasin des « Cent mille regrets » dont [M. Rigolot] est le propriétaire. Je lui intimai l'ordre de ce
+président,pers.ind,Person,pers.ind,confirmed,pers.ind,16911,16920,,". — Manche à balle ? L'AGENT. — Oui, monsieur le [président], manche à balle. TRUMEAU. — J'ai pas dit : « Man"
+TRUMEAU,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,16939,16946,,"T. — Oui, monsieur le président, manche à balle. [TRUMEAU]. — J'ai pas dit : « Manche à balle » ; j'ai dit :"
+TRUMEAU,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,19047,19054,,"ez en train de scier cette couronne sans raison. [TRUMEAU]. — Ma parole d'honnête homme, monsieur le préside"
+le président,pers.ind,Person,,added,pers.ind,19094,19106,,". TRUMEAU. — Ma parole d'honnête homme, monsieur [le président], de même que je ne sais pas pourquoi j'ai frappé"

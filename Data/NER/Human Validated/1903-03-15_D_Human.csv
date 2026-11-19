@@ -1,0 +1,42 @@
+﻿entity,fine_type,coarse_type
+Giuseppe,pers.ind,Person
+Paolo,pers.ind,Person
+Ariccia,loc.adm.town,Location
+Giovanni,pers.ind,Person
+Robello,pers.coll,Person
+Marietta,pers.ind,Person
+Madone,pers.ind,Person
+Martini,pers.ind,Person
+PEYRE DE BÉTOUZET,pers.ind.articleauthor,Person
+JOHN TAVERNIER,pers.ind,Person
+Docteur WOLF,pers.ind,Person
+M. PASSERIEUX,pers.ind,Person
+Paris,loc.adm.town,Location
+"46, r. des Faures",loc.add.phys,Location
+"217, Rue Lafayette",loc.add.phys,Location
+Bordeaux,loc.adm.town,Location
+Douarnenez,loc.adm.town,Location
+1903,time.date.abs,Time
+Le Goff,pers.ind,Person
+l'Ar Men,loc.fac,Location
+Pierres Noires,loc.fac,Location
+Menez-hom,loc.phys.geo,Location
+pointe de la Chevre,loc.phys.geo,Location
+l'écueil du Chevreau,loc.phys.geo,Location
+Bouc,loc.phys.geo,Location
+Raz de Sein,loc.phys.hydro,Location
+île de Sein,loc.phys.geo,Location
+Pont des Chats,loc.phys.geo,Location
+Atlantique,loc.phys.hydro,Location
+Guennec,pers.ind,Person
+Kermor,pers.ind,Person
+moussé Pierrik,pers.ind,Person
+Yves Tévenne,pers.ind,Person
+Yan Larmor,pers.ind,Person
+Bertrand,pers.ind,Person
+miss Flora,pers.ind,Person
+Mme de Fontluce,pers.ind,Person
+miss Kinsley,pers.ind,Person
+Gironde,loc.adm.nat,Location
+Mme de Fontluce,pers.ind,Person
+LÉON DE TINSEAU,pers.ind.articleauthor,Person

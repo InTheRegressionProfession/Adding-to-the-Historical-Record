@@ -1,0 +1,61 @@
+﻿entity,fine_type,coarse_type
+L'AGRICULTURE MODERNE,prod.media,Product
+Paris,loc.adm.town,Location
+1895,time.date.abs,Time
+Société des courses plates,org.ent,Organization
+Félix,pers.ind,Person
+Carcassonne,loc.adm.town,Location
+Bourges,loc.adm.town,Location
+Oriéans,loc.adm.town,Location
+Etampes,loc.adm.town,Location
+Monsieur Pierre,pers.ind,Person
+M. Pierre,pers.ind,Person
+Tom Petermann,pers.ind,Person
+Petermann,pers.ind,Person
+Myosotis,pers.ind,Person
+Colombes,loc.adm.town,Location
+Tom Lix,pers.ind,Person
+Grand-Prix de Paris,org.ent,Organization
+Ardennes,loc.phys.geo,Location
+M. Pierre,pers.ind,Person
+Max VILLENEUVE,pers.ind,Person
+Guillaume Tell,pers.ind,Person
+Petit Journal,prod.media,Product
+Thimarche,pers.ind,Person
+Sotteville,loc.adm.town,Location
+Eugène R.,pers.ind,Person
+Alphonse L.,pers.ind,Person
+Saint-Gobain,loc.adm.town,Location
+Lonne Roulle,pers.ind,Person
+Marie Beudet,pers.ind,Person
+Mirvaux,loc.adm.town,Location
+Plut Louis,pers.ind,Person
+Pierregot,pers.ind,Person
+Hippolyte,pers.ind,Person
+Petite-Barbare,loc.adm.town,Location
+Eiram F.,pers.ind,Person
+Louis Cros,pers.ind,Person
+Marcellin de Firminy,pers.ind,Person
+Neuilly-l'Evêque,loc.adm.town,Location
+Joseph Grandin,pers.ind,Person
+Bihoirel,loc.adm.town,Location
+Marion,pers.ind,Person
+l'Eure,loc.adm.reg,Location
+Géo Grandin,pers.ind,Person
+Prémontré,loc.adm.town,Location
+Briant,loc.adm.town,Location
+E. Vivian Oyonnax,pers.ind,Person
+B. Jacquet,pers.ind,Person
+Saint-Ouen-sur-Seine,loc.adm.town,Location
+Y. Tergôh,pers.ind,Person
+M. Fayot,pers.ind,Person
+Longepierre,loc.adm.town,Location
+L. Gataud,pers.ind,Person
+Cerizay,loc.adm.town,Location
+Georges Gedon,pers.ind,Person
+Saint-Gervais-les-Bains,loc.adm.town,Location
+Jeanson,pers.ind,Person
+René Lambert Alfortville,pers.ind,Person
+Pharmacie Richelieu,org.ent,Organization
+"93, Rue de Richelieu",loc.add.phys,Location
+Paris,loc.adm.town,Location

@@ -1,0 +1,78 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Un soir,Product,MISC,2030,2037,,"qui devait brusquer le dénouement de l'aventure. [Un soir], l'un des volets légèrement entr'ouvert par mégar"
+Parmentier,Person,PER,3029,3039,,hasard que je demandai hardiment: — Le capitaine [Parmentier] du 3e tireailleurs sollicite l'honneur de déposer
+Diable!,Product,MISC,3242,3249,,"itannique, je étais enchanté. Volez-vô monter? — [Diable!] pensai-je un peu interloqué. Le mari? Je ne l'ava"
+Capitaine,Person,PER,3767,3776,,"menais des regards étonnés tout autour de moi: — [Capitaine], me dit mon interlocuteur, vous cherchez milady?"
+milady,Product,MISC,3818,3824,,"apitaine, me dit mon interlocuteur, vous cherchez [milady]? — Précisément. — Eh bien! milady, c'est moi!"
+Eh bien!,Product,MISC,3845,3853,,"ocuteur, vous cherchez milady? — Précisément. — [Eh bien!] milady, c'est moi! — Hein! fis-je en sursautant."
+Hein,Person,PER,3876,3880,,"— Précisément. — Eh bien! milady, c'est moi! — [Hein]! fis-je en sursautant. — Regardez. En effet, l'"
+Regardez,Location,LOC,3907,3915,,"ady, c'est moi! — Hein! fis-je en sursautant. — [Regardez]. En effet, l'inconnu portait ce costume blanc im"
+Majesté Britannique,Organization,ORG,4209,4228,,"moi: lord Cockerill, commodore de la flotte de sa [Majesté Britannique]. — Ah! par exemple, m'écriai-je involontairement"
+Ah!,Product,MISC,4233,4236,,"modore de la flotte de sa Majesté Britannique. — [Ah!] par exemple, m'écriai-je involontairement. La pla"
+Aoh!,Product,MISC,4379,4383,,"'avez échappé belle. J'étais amoureux de vous. — [Aoh!] shocking, fit l'Anglais. — Je m'explique, mylord"
+Anglais,Location,LOC,4400,4407,,"J'étais amoureux de vous. — Aoh! shocking, fit l'[Anglais]. — Je m'explique, mylord. J'étais amoureux de l'"
+Yes,Organization,ORG,4513,4516,,"le rossignol qui charmait les nuits du désert. — [Yes], vraiment? Je avais une voix de... comment dites-"
+Ténor,Product,MISC,4585,4590,,"s une voix de... comment dites-vous, capitaine... [Ténor], je crois. — Ténor, ténor... Si vous disiez sopr"
+Ténor,Person,PER,4605,4610,,"ment dites-vous, capitaine... Ténor, je crois. — [Ténor], ténor... Si vous disiez soprano? Mais ce n'est p"
+Vô vôlez,Product,MISC,4674,4682,,"vous disiez soprano? Mais ce n'est pas possible? [Vô vôlez] entendre moi? Et sans plus de façon, lord Cocker"
+lord Cockerill,Person,PER,4721,4735,,"? Vô vôlez entendre moi? Et sans plus de façon, [lord Cockerill], commodore de la flotte de sa Majesté Britannique"
+Majesté Britannique,Product,MISC,4766,4785,,"çon, lord Cockerill, commodore de la flotte de sa [Majesté Britannique], se mit au piano. Je fermai instinctivement les"
+Cockerill,Organization,ORG,4988,4997,,"ait avec une voix divine. Très aimablement, lord [Cockerill] m'offrit un doigt de whiskey que j'acceptai, et e"
+lord Cockerill,Person,PER,5841,5855,,"onde. Depuis lors, ai-je besoin de vous le dire, [lord Cockerill], aujourd'hui amiral, est devenu un de mes meilleu"
+"...
+
+NOS BATEAUX DE PLAISIR
+
+Cliché",Product,MISC,6039,6074,,"e commodore, dit-il avec humour, j'ai été aimé par[... NOS BATEAUX DE PLAISIR Cliché] de M. André TABARY. Les excursionnistes du Petit"
+M. André TABARY,Person,PER,6078,6093,,té aimé par... NOS BATEAUX DE PLAISIR Cliché de [M. André TABARY]. Les excursionnistes du Petit Journal débarquant
+Petit Journal débarquant au Pecq,Product,MISC,6119,6151,,liché de M. André TABARY. Les excursionnistes du [Petit Journal débarquant au Pecq] — Une duchesse? ne manque jamais d'intéresser qu
+Oh!,Product,MISC,6239,6242,,"ntéresser quelque flatteur. — Mieux que cela. — [Oh!] Une reine alors? — Non, vous ne trouverez pas. I"
+Parmentier,Person,PER,6461,6471,,"à penser, messieurs, conclut en riant le colonel [Parmentier], la tête que font les auditeurs la première fois!"
+THEANO,Product,MISC,6523,6529,,la tête que font les auditeurs la première fois! [THEANO]. EAU DE JAVEL blanchit le linge sans l'altérer.
+EAU,Location,LOC,6532,6535,,ue font les auditeurs la première fois! THEANO. [EAU] DE JAVEL blanchit le linge sans l'altérer. JOLI-
+DE JAVEL,Person,PER,6536,6544,,ont les auditeurs la première fois! THEANO. EAU [DE JAVEL] blanchit le linge sans l'altérer. JOLI-CŒUR Un
+Mar-seillaise,Location,LOC,7010,7023,,"ent morte. Soudain, les paroles enflammées de la [Mar-seillaise] passent à travers la bise glaciale qui siffle lug"
+la Moskowa,Product,MISC,7325,7335,,"de, vétéran de vingt-huit ans, blessé la veille à [la Moskowa] et laissé pour mort sur le champ de bataille. Re"
+Empereur,Person,PER,7618,7626,,"e, bien persuadé qu'il finirait par retrouver son [Empereur]. Il s'en allait, toujours chantant, quand il s'a"
+Tonnerre,Person,PER,8213,8221,,"soldat, lui jeta cette supplication: — A moi! — [Tonnerre]! rugit le vétéran en désarmant son fusil, j'allai"
+Que diable!,Product,MISC,8505,8516,,"sait-il doucement, il ne faut pas trembler ainsi. [Que diable!] un grenadier de la garde n'a jamais été un épouv"
+Couchant,Location,LOC,8632,8640,,"demoiselles... Mais, d'abord, attendez un peu... [Couchant] son fusil sur la neige, le troupier ôta vivement"
+Marie,Person,PER,9005,9010,,longue... L'enfant avait seize ans et se nommait [Marie]. Elle était fille d'une vivandière du corps d'arm
+Murat,Person,PER,9066,9071,,"était fille d'une vivandière du corps d'armée de [Murat]. Quatre jours auparavant, à la suite d'une rencon"
+Konownitzin,Person,PER,9181,9192,,"les troupes du roi de Naples et celles du général [Konownitzin], amis et ennemis s'étaient trouvés un moment conf"
+Français,Location,LOC,9255,9263,,emis s'étaient trouvés un moment confondus et les [Français] avaient dû se retirer promptement devant des hord
+Cosaques,Product,MISC,9319,9327,,"nt dû se retirer promptement devant des hordes de [Cosaques] accourus au secours des Russes. Alors, les femmes"
+Russes,Location,LOC,9352,9358,,"nt des hordes de Cosaques accourus au secours des [Russes]. Alors, les femmes Eh! eh! ajouta-t-il en ricana"
+Eh!,Product,MISC,9379,9382,,"ccourus au secours des Russes. Alors, les femmes [Eh!] eh! ajouta-t-il en ricanant, on en a vu bien d'au"
+Austerlitz,Product,MISC,9481,9491,,"utres!... Tenez, tel que vous me voyez, j'étais à [Austerlitz]... Ah! ça n'a pas été long: l'armée bordait le Rh"
+Ah!,Product,MISC,9495,9498,,"z, tel que vous me voyez, j'étais à Austerlitz... [Ah!] ça n'a pas été long: l'armée bordait le Rhin depu"
+le Rhin,Location,LOC,9536,9543,,rlitz... Ah! ça n'a pas été long: l'armée bordait [le Rhin] depuis Strasbourg jusqu'à Mayence; l'Empereur arr
+Strasbourg,Location,LOC,9551,9561,,"n'a pas été long: l'armée bordait le Rhin depuis [Strasbourg] jusqu'à Mayence; l'Empereur arrive, fait exécuter"
+Mayence,Location,LOC,9570,9577,,"l'armée bordait le Rhin depuis Strasbourg jusqu'à [Mayence]; l'Empereur arrive, fait exécuter, par une conver"
+l'Empereur,Person,PER,9579,9589,,"ordait le Rhin depuis Strasbourg jusqu'à Mayence; [l'Empereur] arrive, fait exécuter, par une conversion à droit"
+Joli-Cœur,Person,PER,10356,10365,,"nemi à terre. — Vous n'êtes pas blessée? demanda [Joli-Cœur] tout en rechargeant son fusil. — Pas du tout, ré"
+Iéna,Location,LOC,10534,10538,,"me rappelle le brouillard qui nous enveloppait à [Iéna], quand nous avons commencé la fusillade. Encore u"
+Eylau,Product,MISC,10726,10731,,"te généraux tués, blessés ou prisonniers!... Et à [Eylau], quelle purge! Je suis sûr que le roi de Prusse c"
+Prusse,Location,LOC,10773,10779,,"à Eylau, quelle purge! Je suis sûr que le roi de [Prusse] court encore! A partir de ce moment, l'ennemi se"
+"!
+
+A",Product,MISC,10792,10796,,"rge! Je suis sûr que le roi de Prusse court encore[! A] partir de ce moment, l'ennemi sembla s'être rappr"
+Abrité,Product,MISC,10905,10911,,"es détonations se succédèrent sans interruption. [Abrité] derrière son rocher, Joli-Cœur rendait de son mie"
+Friedland,Product,MISC,11049,11058,,"s sans interrompre le récit de ses exploits. — A [Friedland], continua-t-il, les Russes ont laissé sur le terr"
+Russes,Location,LOC,11079,11085,,"ses exploits. — A Friedland, continua-t-il, les [Russes] ont laissé sur le terrain vingt-quatre généraux,"
+Cosaques,Product,MISC,11234,11242,,"e canon!... Là-bas, dans le noir de la nuit, les [Cosaques] tiraient toujours, au hasard, bien certains qu'un"
+Français,Location,LOC,11345,11353,,e leurs décharges aurait enfin raison de l'engagé [Français] qui osait ainsi leur tenir tête. — Nom d'une pip
+Joli-,Person,PER,11423,11428,,r tenir tête. — Nom d'une pipe!... hurla soudain [Joli-]Cœur en secouant sa main gauche dont le petit doig
+Eh!,Product,MISC,12038,12041,,"troublée et pressantant sans doute la réponse. — [Eh!] parce que vous êtes ravissante, qu'en votre quali"
+vivandière,Person,PER,12106,12116,,"êtes ravissante, qu'en votre qualité de fille de [vivandière] vous avez du sang de soldat dans les veines et qu"
+Joli-Cœur,Person,PER,12376,12385,,"ue l'allure martiale et l'insouciance bravoure de [Joli-Cœur] avaient déjà fait rêver. — Alors, je continue..."
+Rrrrran,Person,PER,12614,12621,,"e hommes! Une nouvelle décharge cingla l'air. — [Rrrrran]!... goguenarda Joli-Cœur, qui répliqua aussitôt p"
+Joli-Cœur,Person,PER,12637,12646,,"décharge cingla l'air. — Rrrrran!... goguenarda [Joli-Cœur], qui répliqua aussitôt par l'envoi d'une balle..."
+Ça,Product,MISC,12697,12699,,"qui répliqua aussitôt par l'envoi d'une balle... [Ça] me rappelle Eckmühl, ajouta-t-il, renarrant ainsi"
+Eckmühl,Person,PER,12712,12719,,"ussitôt par l'envoi d'une balle... Ça me rappelle [Eckmühl], ajouta-t-il, renarrant ainsi l'histoire de son o"
+Autrichiens,Location,LOC,12780,12791,,"il, renarrant ainsi l'histoire de son odysée. Les [Autrichiens] étaient si pressés de filer, qu'ils ont oublié su"
+Masséna,Person,PER,13245,13252,,"Moi, je n'ai jamais tant ri!... Figurez-vous que [Masséna], sous le prétexte qu'il s'était blessé la veille"
+l'Empereur,Person,PER,13488,13498,,"e vu, quitte à y laisser sa peau!... C'est là que [l'Empereur] m'a décoré!... conclut-il fièrement. Une lueur s"
+Joli-Cœur,Person,PER,13639,13648,,"horizon! Appuyé sur son rempart de rocs neigeux, [Joli-Cœur], penché en avant, essayait de percer l'ombre épai"
+effara,Person,PER,14176,14182,,"uages gris qui cachait le ciel, et le grenadier s'[effara] devant le spectacle que lui offrit la plaine imme"
+Moscou,Location,LOC,14600,14606,,lairée par les dernières flammes de l'incendie de [Moscou]!

@@ -1,0 +1,29 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+M. LÉPINE,pers.ind,Person,pers.ind,0,9,0.9737,[M. LÉPINE] connu la douce joie qu'il lui avait donnée sans
+Pierrot,pers.ind,Person,pers.ind,313,320,0.9606,"ds votre manuscrit; mais vous avez tort de signer [Pierrot], mettez plutôt Pierrette; vous aurez plus de succ"
+Pierrette,pers.ind,Person,pers.ind,336,345,0.9353,"s vous avez tort de signer Pierrot, mettez plutôt [Pierrette]; vous aurez plus de succès, on est au féminisme."
+Pierrette,pers.ind,Person,pers.ind,439,448,0.9041,"isme. Elle voulut protester... — Si vous signez [Pierrette], reprit le directeur, votre nouvelle passera dans"
+Jeanne,pers.ind,Person,pers.ind,604,610,0.9501,"cette entrevue qui avait si curieusement tourné, [Jeanne] recevait un mot de M. Vidal qui l'invitait à se p"
+M. Vidal,pers.ind,Person,pers.ind,630,638,0.9739,"si curieusement tourné, Jeanne recevait un mot de [M. Vidal] qui l'invitait à se présenter à son bureau... El"
+M. Vidal,pers.ind,Person,pers.ind,1002,1010,0.9722,"es. » Dans l'antichambre, elle donna son nom. — [M. Vidal] est occupé, mademoiselle. Il vous — Oh! non, pas"
+mademoiselle,pers.ind,Person,pers.ind,1023,1035,0.5939,"mbre, elle donna son nom. — M. Vidal est occupé, [mademoiselle]. Il vous — Oh! non, pas moi; mais un... un ami,"
+Jeanne,pers.ind,Person,pers.ind,1207,1213,0.9016,"e. Ceci fut dit avec une emphase qui fit sourire [Jeanne]. — Et tenez, voici une poésie qui est de moi, pu"
+jeune,pers.ind,Person,pers.ind,2206,2211,0.4718,olle de se sauver sans rien dire et de laisser le [jeune] M. PUIBARAUD DIRECTEUR DU SERVICE DES RECHERCHE
+M. PUIBARAUD,pers.ind,Person,pers.ind,2213,2225,0.948,se sauver sans rien dire et de laisser le jeune [M. PUIBARAUD] DIRECTEUR DU SERVICE DES RECHERCHES garder plus
+Jeanne,pers.ind,Person,pers.ind,2318,2324,0.5076,"er plus longtemps, je suis très pressé, ce soir. [Jeanne] se retira. Dans l'antichambre, personne, mais su"
+Jeanne,pers.ind,Person,pers.ind,3252,3258,0.8369,"us unir votre misère à la mienne?... Voulez-vous, [Jeanne], être ma femme?... Et comme ils s'étaient attardé"
+Jeanne,pers.ind,Person,pers.ind,3447,3453,0.7743,"ands arbres ombreux, il murmura: — Je vous aime, [Jeanne]. Jeanne, troublée, poursuivit une idée: — Mais"
+Jeanne,pers.ind,Person,pers.ind,3456,3462,0.7497,"es ombreux, il murmura: — Je vous aime, Jeanne. [Jeanne], troublée, poursuivit une idée: — Mais vous n'éc"
+Jeanne,pers.ind,Person,pers.ind,3751,3757,0.8464,"ule que je voudrai plaire... Serez-vous ma femme, [Jeanne]?... Dans un souffle, il entendit « oui ». Alors,"
+Paul ANDRÉ,pers.ind,Person,pers.ind,3881,3891,0.9295,"de la jeune fille, le poète mit un long baiser. [Paul ANDRÉ]. LE CRIME DE LA RUE CHALGRIN Arrestation de l'a"
+RUE,pers.ind,Person,pers.ind,3909,3912,0.3595,mit un long baiser. Paul ANDRÉ. LE CRIME DE LA [RUE] CHALGRIN Arrestation de l'assassin à Glasgow pr
+CHALGRIN,pers.ind,Person,pers.ind,3913,3921,0.4536,un long baiser. Paul ANDRÉ. LE CRIME DE LA RUE [CHALGRIN] Arrestation de l'assassin à Glasgow présente se
+Glasgow,loc.adm.town,Location,loc.adm.town,3951,3958,0.9572,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+Jeanne,pers.ind,Person,pers.ind,4250,4256,0.8137,un air gauche. Son regard exprima l'étonnement. [Jeanne] le reconnut: c'était le jeune homme qu'elle renco
+M. Vidal,pers.ind,Person,pers.ind,4618,4626,0.9735,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal]? Cet aussi fit tressaillir la jeune fille. — Ou"
+Pierrette,pers.ind,Person,pers.ind,4955,4964,0.9371,"que je ne comprends pas non plus, c'est ce nom de [Pierrette] par lequel ils ont remplacé mon pseudonyme de Pie"
+Pierrot,pers.ind,Person,pers.ind,5011,5018,0.958,tte par lequel ils ont remplacé mon pseudonyme de [Pierrot]... Enfin la signature importe peu... Être imprimé
+M. Vidal,pers.ind,Person,pers.ind,5089,5097,0.9739,"e importe peu... Être imprimé, cela me suffit... [M. Vidal] passa dans l'antichambre; il s'inclina devant la"
+Mademoiselle Pierrette,pers.ind,Person,pers.ind,5163,5185,0.8819,"tichambre; il s'inclina devant la jeune fille. — [Mademoiselle Pierrette], voulez-vous me suivre?... Quand ils furent dans"
+M. HAMARD,pers.ind,Person,pers.ind,5667,5676,0.9483,"us, mademoiselle... Pardonnez-moi de ne pas vous [M. HAMARD] CHEF DE LA SURETÉ M. BERTILLON CHEF DU SERVICE"
+M. BERTILLON,pers.ind,Person,pers.ind,5697,5709,0.943,moi de ne pas vous M. HAMARD CHEF DE LA SURETÉ [M. BERTILLON] CHEF DU SERVICE D'IDENTIFICATION

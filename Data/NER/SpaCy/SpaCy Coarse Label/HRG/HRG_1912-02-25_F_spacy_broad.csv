@@ -1,0 +1,93 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Moi !,Product,MISC,19,24,,"— Mais, et toi ? — [Moi !] je vais repartir de suite, il faut que j'aile à P"
+Paris,Location,LOC,73,78,,"! je vais repartir de suite, il faut que j'aile à [Paris] ! — Oh ! papa ! papa !... c'est mal ! Puis Lisett"
+Oh !,Product,MISC,83,87,,"repartir de suite, il faut que j'aile à Paris ! — [Oh !] papa ! papa !... c'est mal ! Puis Lisette se tut,"
+Lisette,Person,PER,122,129,,"Paris ! — Oh ! papa ! papa !... c'est mal ! Puis [Lisette] se tut, le regard atterré, le visage sérieux. Et"
+M. de Gerfeuil,Person,PER,200,214,,"terré, le visage sérieux. Et cela surprit et émut [M. de Gerfeuil] plus que ne l'eussent fait des larmes. Cependant"
+Adieu,Product,MISC,297,302,,"armes. Cependant il dit, énervé et volontaire : — [Adieu], à bientôt ! Il voulut embrasser l'enfant et il l"
+Lisette,Person,PER,410,417,,"jusqu'à son visage entre ses bras robustes. Mais [Lisette] distraite, répondait à peine à sa caresse. Les br"
+M. de Gerfeuil,Person,PER,530,544,,"détachaient lentement du cou de son père. Alors, [M. de Gerfeuil] comprit que c'était un peu de l'affection de son"
+Pauvre petite ! pauvre petite !,Product,MISC,805,836,,"était sa fille — tirailé entre deux affections. — [Pauvre petite ! pauvre petite !] Une détente brusque se produisit en lui, un sangl"
+M. de Gerfeuil,Person,PER,967,981,,"gne, murmura-t-il. Et quelques minutes plus tard, [M. de Gerfeuil] et sa femme pleuraient dans les bras l'un de l'au"
+Lisette !,Product,MISC,1396,1405,,"rdon. Tous deux, ils la caressaient avec amour. — [Lisette !] ma petite Lisette ! Elle avait ramené vers sa mam"
+Lisette !,Product,MISC,1416,1425,,"la caressaient avec amour. — Lisette ! ma petite [Lisette !] Elle avait ramené vers sa maman son père, en le c"
+HÉNAFF,Product,MISC,1505,1511,,"an son père, en le conduisant par la main. J. LE [HÉNAFF]. ÉCRIRE LE PETIT JOURNAL AGRICOLE Seize pages de"
+ÉCRIRE LE PETIT,Product,MISC,1514,1529,,"re, en le conduisant par la main. J. LE HÉNAFF. [ÉCRIRE LE PETIT] JOURNAL AGRICOLE Seize pages de texte LE NUMÉRO"
+"GRATUIT
+Cours complets
+des Halles",Product,MISC,1602,1635,,pages de texte LE NUMÉRO : 5 CENTIMES COURRIER [GRATUIT Cours complets des Halles] et Marchés Le mieux informé de tous les journaux
+"Marchés
+",Organization,ORG,1639,1647,,ES COURRIER GRATUIT Cours complets des Halles et [Marchés ]Le mieux informé de tous les journaux agricoles L
+"Recommandation
+
+A",Product,MISC,1699,1716,,"mieux informé de tous les journaux agricoles La [Recommandation A] la porte du bureau du colonel, Marchal fit : « To"
+Marchal,Person,PER,1748,1755,,"Recommandation A la porte du bureau du colonel, [Marchal] fit : « Toc ! Toc ! » tout doucement, tandis que,"
+Toc !,Product,MISC,1764,1769,,"A la porte du bureau du colonel, Marchal fit : « [Toc !] Toc ! » tout doucement, tandis que, dans sa poitr"
+Toc !,Product,MISC,1770,1775,,"porte du bureau du colonel, Marchal fit : « Toc ! [Toc !] » tout doucement, tandis que, dans sa poitrine, s"
+Toc !,Product,MISC,1871,1876,,"e, son cœur ne se génaît pas, lui, pour faire : « [Toc !] Toc ! » à coups redoublés. C'est que, de cette e"
+Toc !,Product,MISC,1877,1882,,"cœur ne se génaît pas, lui, pour faire : « Toc ! [Toc !] » à coups redoublés. C'est que, de cette entrevu"
+Schwyz,Location,LOC,2329,2335,,"es amis qui s'offrait à le recommander au colonel [Schwyz], du 182e. Marchal comptait demander au colonel :"
+Marchal,Person,PER,2346,2353,,"rait à le recommander au colonel Schwyz, du 182e. [Marchal] comptait demander au colonel : 1o l'autorisation"
+Marchal,Person,PER,2633,2640,,"il était, de plus, d'une merveilleuse netteté. Et [Marchal] avait mis dans sa valise une rame de papier pour"
+Ah !,Product,MISC,2845,2849,,qui lui feraient une impression particulière. — [Ah !] Parfaitement ! dit le colonel en se retournant. E
+Laterrade,Person,PER,3051,3060,,"égiment. Je tiens en grande estime son capitaine, [Laterrade]. Je lui ai parlé de vous... Mais, dites donc, vou"
+Marchal,Person,PER,3189,3196,,"vail, n'est-ce pas ? — Certes, mon colonel ! dit [Marchal]. A Paris, la vie littéraire est si absorbante ! A"
+Paris,Location,LOC,3200,3205,,"-ce pas ? — Certes, mon colonel ! dit Marchal. A [Paris], la vie littéraire est si absorbante ! Aussi voud"
+Marchal,Person,PER,3476,3483,,"urnaux où, j'en suis sûr, vous n'écrivez point ? [Marchal] le regrettait assez, de n'y pouvoir écrire ! Mais"
+France,Location,LOC,3634,3640,,"re bien venir ! A l'entendre, il n'y avait pas en [France] un patriote plus ardent que lui. — C'est très bi"
+Schwyz,Location,LOC,3716,3722,,"ue lui. — C'est très bien, cela ! dit le colonel [Schwyz]. Il faut aimer sa patrie et la servir. J'espère q"
+Marchal,Person,PER,3893,3900,,"ngt-huit jours le meilleur souvenir. Il se leva. [Marchal] dut prendre congé. En somme, rien de précis. Il s"
+Marchal,Person,PER,4048,4055,,senchanté. Mais il fallait savoir attendre. — ...[Marchal] : 15e escouade ! dit le fourrier. Quatrième tente
+Quatrième,Product,MISC,4090,4099,,". — ...Marchal : 15e escouade ! dit le fourrier. [Quatrième] tente. Alors, il allait coucher sous la tente, a"
+Pardon,Person,PER,4228,4234,,"n, une paillasson large comme les deux mains ? — [Pardon], fourrier ! dit-il. Mais, tout à l'heure, j'ai vu"
+Marchal,Person,PER,4708,4715,,"nt : c'était du propre ! Un quart d'heure après, [Marchal] s'en fut au bureau de la compagnie. Assis, indole"
+Assis,Product,MISC,4752,4757,,"près, Marchal s'en fut au bureau de la compagnie. [Assis], indolemement le capitaine y fumait, à petites bo"
+Marchal,Person,PER,4853,4860,,"s bouffées, un gros cigare. — Mon capitaine, dit [Marchal], le colonel, que j'ai vu tout à l'heure, m'a dit"
+Jean Marchal,Person,PER,4935,4947,,"tout à l'heure, m'a dit vous avoir parlé de moi, [Jean Marchal]... Le capitaine — moustaches grisonnantes, petit"
+Marchal,Person,PER,5455,5462,,à votre place !... Et s'il réclame à son tour ? [Marchal] n'avait pas prévu cette réponse. Il élaucha un sa
+Achille,Person,PER,5540,5547,,"onse. Il élaucha un salut peu militaire et, comme [Achille], rentra sous sa tente. Le lendemain, entre deux"
+Ah !,Product,MISC,5643,5647,,"eux exercices, il errait dans la cour, désespéré. [Ah !] oui ! Il allait s'en servir d'une jolie façon de"
+Marchal,Person,PER,6006,6013,,"vache, en grand seigneur, celui-ci lui fit signe. [Marchal] arriva. — Eh bien ! Marchal, êtes-vous content ?"
+Marchal,Person,PER,6035,6042,,"ui-ci lui fit signe. Marchal arriva. — Eh bien ! [Marchal], êtes-vous content ? — Ma foi, mon colonel, je s"
+Laterrade,Person,PER,6421,6430,,"llent pour vous qui êtes fatigué... N'est-ce pas, [Laterrade], je vous recommande ce jeune réserviste ? D'autr"
+Marchal,Person,PER,6869,6876,,"exercice de l'après-midi, de la marche du matin. [Marchal] se présenta. — Mais, lui dit le capitaine, je vo"
+Marchal,Person,PER,7128,7135,,"nt abattre par une fatigue passagère. Tout, pour [Marchal] devait être excellent ; exercices, marches, servi"
+Marchal,Person,PER,7490,7497,,"n refusa par douzaines. Mais vous pensez bien que [Marchal] fut, malgré lui-même, incorporé dans ce bataillon"
+Marchal,Person,PER,8201,8208,,"nterpellait, du haut de son cheval : — Eh bien ! [Marchal], cela va-t-il ? Qu'eussiez-vous répondu à sa pla"
+Marchal,Person,PER,8380,8387,,"parlait familièrement. Certes, pour de la chance, [Marchal] avait de la chance ! Mais tout à une fin, même l"
+abrutí,Person,PER,8488,8494,,"s manœuvres, même les vingt-huit jours. Il rentra [abrutí], la tête vide, les pieds meurtris. Il s'écria bie"
+Marchal,Person,PER,8819,8826,,"orsque le sergent-major se précipita sur lui : — [Marchal], vite, en tenue ! Et au bureau du colonel ! Alor"
+Marchal,Person,PER,9000,9007,,"content, j'espère. Vous avez une mine superbe ! — [Marchal] avait, en effet, la peau infiniment brunie ; il l"
+Cologne,Location,LOC,9093,9100,,"brunie ; il lui en faudrait des flacons d'eau de [Cologne] ! — Vous aller rentrer à Paris plein de courage,"
+Paris,Location,LOC,9126,9131,,"flacons d'eau de Cologne ! — Vous aller rentrer à [Paris] plein de courage, et nous écrire de ces choses..."
+Ah !,Product,MISC,9241,9245,,"vous savez bien... de ces tirades patriotiques... [Ah !] la vie militaire, croyez-moi, Marchal, il n'y a q"
+Marchal,Person,PER,9276,9283,,"atriotiques... Ah ! la vie militaire, croyez-moi, [Marchal], il n'y a que ça ! Marchal aurait eu beaucoup à"
+Marchal,Person,PER,9304,9311,,"ilitaire, croyez-moi, Marchal, il n'y a que ça ! [Marchal] aurait eu beaucoup à dire, beaucoup trop. Mais, m"
+Pandore,Product,MISC,9476,9483,,"s cinq galons lui en imposaient encore. Et, comme [Pandore] à son brigadier, il répondit tout simplement, ave"
+Toi qui venais le voir ?,Product,MISC,10596,10620,,". Tu dois savoir ce qu'il a fait du magot, toi... [Toi qui venais le voir ?]... il aurait pas mal fait d'ailleurs de te payer"
+Alfred,Product,MISC,10808,10814,,"artiste ! Barbouilleur de toile... — Qui ou non, [Alfred], sais-tu ce qu'il a fait de son argent ? question"
+Ah !,Product,MISC,11087,11091,,s étonné comme vous de voir qu'il disait vrai. — [Ah !] la crapule ! gémit la femme ; il nous a fait dépe
+"...
+
+A",Product,MISC,11541,11547,,". faut s'en défaire sur place. Qu'en pensez-vous ?[... A] ce moment, un cri sonore et traînant un écho prol"
+Chifrons,Location,LOC,11623,11631,,"et traînant un écho prolongé monta de la rue : — [Chifrons] à vendre !... Chand d'habits ! — Appelle-le, Alf"
+Chand,Person,PER,11646,11651,,"longé monta de la rue : — Chifrons à vendre !... [Chand] d'habits ! — Appelle-le, Alfred, ordonna le père"
+Alfred,Product,MISC,11678,11684,,"ons à vendre !... Chand d'habits ! — Appelle-le, [Alfred], ordonna le père. Le jeune homme fit un signe et"
+Vrai !,Product,MISC,11966,11972,,"a marchandise, il se boucha le nez et grogna : — [Vrai !]... ce que ça pue, ici !... C'est pas le palais d'"
+La mère,Person,PER,12525,12532,,il d'un ton prêt à discuter. Tous se récrièrent. [La mère] voulait rentrer dans ses déboursés et exigeait qu
+chand,Product,MISC,12626,12631,,"ait quarante francs. On disputa, batailla, et le [chand] d'habits conclut le marché pour trente francs. P"
+Hiche life,Product,MISC,13166,13176,,"nt un qui vous ira ; il est tout neuf, et sort du [Hiche life]. Je vous le laisserai à quinze francs. Ils l'aid"
+crève-de-faim,Person,PER,13482,13495,,"ils le quittèrent en le traitant de fainéant, de [crève-de-faim]. Mais la mère lui glissa dix francs pour son par"
+"tu t'en rhumeras...
+
+Le fils",Product,MISC,13630,13658,,"recommanda-t-elle, presque émue, tu as froid, et [tu t'en rhumeras... Le fils] les embrassa et ils se dirigèrent vers la gare, e"
+Alfred,Person,PER,15281,15287,,mme vint à la boutique et se trouva en présence d'[Alfred] qui demandait le pardessus. Elle se mit à trembl
+Alfred,Person,PER,15670,15676,,"claquèrent : — Vous êtes malade, madame, demanda [Alfred], gêné par ce trouble ? Elle n'eut pas le temps d"
+Ah !,Product,MISC,15761,15765,,"pas le temps de répondre, son mari accourait. — [Ah !] c'est vous ? jeune homme, dit-il en reconnaissant"
+Alfred,Person,PER,16121,16127,,"nts, s'étonnait qu'ils eussent un fils artiste... [Alfred] donnait des renseignements sans défiance. Il parl"
+"...
+
+L'homme",Product,MISC,16581,16593,,persuadé qu'il aurait fait quelque chose pour moi[... L'homme] et la femme se regardaient. L'artiste était sympa
+Alfred,Person,PER,17193,17199,,lle obéit sans comprendre et le marchand montra à [Alfred] quelques antiquités en attendant son retour. Ell
+Euis,Location,LOC,18166,18170,,"tude d'agrandir notre commerce... Tout va bien ! [Euis], se frottant les mains, il ajouta rayonnant : —"
+BERTHELIER,Location,LOC,18329,18339,,"Sa femme, convaincue, l'embrassa tendrement. Ph. [BERTHELIER]."

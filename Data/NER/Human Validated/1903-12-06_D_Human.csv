@@ -1,0 +1,45 @@
+﻿entity,fine_type,coarse_type
+Mar-seille,loc.adm.town,Location
+José-Maria,pers.ind,Person
+Madrid,loc.adm.town,Location
+THÉANO,pers.ind.articleauthor,Person
+docteur Brunier,pers.ind,Person
+Marseille,loc.adm.town,Location
+M. Claverie,pers.ind,Person
+Paris,loc.adm.town,Location
+Monsieur CLAVERIE,pers.ind,Person
+"80, Cours Lieutaud, Marseille",loc.add.phys,Location
+"234, Faubourg Saint-Martin",loc.add.phys,Location
+JOHN TAVERNIER,pers.ind,Person
+Louis Dereims,pers.ind,Person
+rue de l'Echelle,loc.oro,Location
+Beaux-Arts,loc.fac,Location
+M. de Lesia,pers.ind,Person
+Madeleine,pers.ind,Person
+Yvonne,pers.ind,Person
+Mme Dereims,pers.ind,Person
+place du Palais-Royal,loc.oro,Location
+avenue Hoche,loc.oro,Location
+Mme Dereims,pers.ind,Person
+Lesia,pers.coll,Person
+Dereims,pers.ind,Person
+Mme de Teille,pers.ind,Person
+"3 bis, rue Marbeuf",loc.add.phys,Location
+Labruyère,pers.ind,Person
+Indo-Chine,loc.adm.reg,Location
+Annam,loc.adm.reg,Location
+Jane,pers.ind,Person
+Mme de Teille,pers.ind,Person
+Teille,pers.coll,Person
+Henriette,pers.ind,Person
+Pierre,pers.ind,Person
+Pierre Le Farec,pers.ind,Person
+Le Farec,pers.ind,Person
+Mme Corbin,pers.ind,Person
+Brusselière,loc.adm.town,Location
+Henri de la Chevardaye,pers.ind,Person
+Mme Le Farec,pers.ind,Person
+madame Le Farec,pers.ind,Person
+monsieur Le Farec,pers.ind,Person
+mère Le Farec,pers.ind,Person
+PAUL PERRET,pers.ind.articleauthor,Person

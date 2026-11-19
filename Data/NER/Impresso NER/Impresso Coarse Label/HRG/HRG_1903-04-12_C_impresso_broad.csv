@@ -1,0 +1,112 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+général Daumas,Person,pers,19,33,0.9797,"diner ainsi que le [général Daumas], qui lui servait d'interprète. Au dessert, il se"
+Napoléon III,Person,pers,121,133,0.9663,"sert, il se passa un incident qui gêna un instant [Napoléon III]. Le bey de Tunis tenait sur ses genoux deux écrin"
+Tunis,Location,loc,145,150,0.972,ident qui gêna un instant Napoléon III. Le bey de [Tunis] tenait sur ses genoux deux écrins qui contenaient
+Nicham,Person,pers,267,273,0.9503,"rdon, l'autre la plaque en diamants de l'ordre du [Nicham]. Le général Daumas dit à l'empereur : — Sire, So"
+général Daumas,Person,pers,278,292,0.977,"re la plaque en diamants de l'ordre du Nicham. Le [général Daumas] dit à l'empereur : — Sire, Son Altesse le bey de"
+Tunis,Location,loc,343,348,0.9747,"dit à l'empereur : — Sire, Son Altesse le bey de [Tunis] serait très heureuse si Votre Majesté voulait bie"
+Majesté,Person,pers,379,386,0.3168,sse le bey de Tunis serait très heureuse si Votre [Majesté] voulait bien accepter le grand-cordon de son ordr
+Algérie,Location,loc,627,634,0.9753,nder à son valet de chambre s'il avait apporté en [Algérie] ses insignes de la Légion d'honneur en diamants.
+général Daumas,Person,pers,774,788,0.9793,"deux écrins, et l'empereur, rassuré, dit alors au [général Daumas] : — J'accepte avec plaisir le don de Son Altesse"
+Tunis,Location,loc,849,854,0.9564,epte avec plaisir le don de Son Altesse le bey de [Tunis] et dites-lui que je le nomme grand-croix de la Lé
+Oran,Location,loc,1101,1105,0.984,t la main de l'empereur et la baisa. Le séjour à [Oran] se borna à deux excursions : à Saint-Denis-du-Sig
+Saint-Denis-du-Sig,Location,loc,1137,1155,0.9726,Le séjour à Oran se borna à deux excursions : à [Saint-Denis-du-Sig] et à Sidi-bel-Abbès ; puis on se rendit en poste
+Sidi-bel-Abbès,Location,loc,1161,1175,0.9766,rna à deux excursions : à Saint-Denis-du-Sig et à [Sidi-bel-Abbès] ; puis on se rendit en poste à Mostaganem où l'es
+Mostaganem,Location,loc,1207,1217,0.9812,t à Sidi-bel-Abbès ; puis on se rendit en poste à [Mostaganem] où l'escadre devait rallier deux jours après. Da
+Relizane,Location,loc,1523,1531,0.9693,"récente qui avait eu pour théâtre les environs de [Relizane], à 40 kilomètres environ de Mostaganem, et dans l"
+Mostaganem,Location,loc,1560,1570,0.9625,"environs de Relizane, à 40 kilomètres environ de [Mostaganem], et dans laquelle le colonel Beauprêtre avait été"
+colonel Beauprêtre,Person,pers,1592,1610,0.9824,"mètres environ de Mostaganem, et dans laquelle le [colonel Beauprêtre] avait été surpris dans la nuit et massacré ainsi"
+îles Sainte-Marguerite,Location,loc,1869,1891,0.9699,a détention perpétuelle. Ils étaient internés aux [îles Sainte-Marguerite] en France. Comme la région paraissait être en ce
+France,Location,loc,1895,1901,0.9319,ls étaient internés aux îles Sainte-Marguerite en [France]. Comme la région paraissait être en ce moment da
+maréchal de Mac-Mahon,Person,pers,2047,2068,0.9788,"e désir de la visiter. Mais avant de répondre, le [maréchal de Mac-Mahon] demanda à un chef arabe, qui portait le burnous v"
+Khalifat,Person,pers,2127,2135,0.8693,"à un chef arabe, qui portait le burnous violet de [Khalifat] s'il répondait de la population. Celui-ci, croisa"
+Relizane,Location,loc,2366,2374,0.9511,"les esprits. Le lendemain à midi on était devant [Relizane], mais avant d'y entrer on devait traverser une pe"
+Khalifat,Person,pers,2641,2649,0.7495,ttes de gendarmes à cheval et en avant de tous le [Khalifat] également à cheval. Dès que le cortège parut aux
+Khalifat,Person,pers,2956,2964,0.9005,"a brusquement dans la voiture, et interpellant le [Khalifat] : — Voilà donc la réception que tu nous avais pr"
+El,Person,pers,3478,3480,0.667,"onsieur le gouverneur, ces malheureux demandent à [El]-Kebir (le sultan) la grâce de leurs parents priso"
+-,Location,loc,3480,3481,0.52,"sieur le gouverneur, ces malheureux demandent à El[-]Kebir (le sultan) la grâce de leurs parents prison"
+Kebir,Person,pers,3481,3486,0.5042,"ieur le gouverneur, ces malheureux demandent à El-[Kebir] (le sultan) la grâce de leurs parents prisonniers"
+France,Location,loc,3540,3546,0.9778,"sultan) la grâce de leurs parents prisonniers en [France], promettant de ne plus recommencer et d'être fidè"
+Khalifat,Person,pers,3933,3941,0.6236,"qu'ils deviendront de loyaux sujets ! Dès que le [Khalifat] eut traduit la réponse impériale, un changement à"
+Mostaganem,Location,loc,4184,4194,0.9758,"ui succédaient aux menaces. Le soir, en dinant à [Mostaganem], l'empereur dit en souriant : — C'est une grâce"
+Constantine,Location,loc,4427,4438,0.98,"ables ne se renouvellement plus ! Pour arriver à [Constantine], le souverain alla débarquer à Philippeville, pui"
+Philippeville,Location,loc,4470,4483,0.9785,"iver à Constantine, le souverain alla débarquer à [Philippeville], puis, sans s'arrêter, gagna le chef-lieu de la p"
+Biskra,Location,loc,4605,4611,0.9731,"rs après, il poussa une pointe jusqu'au désert, à [Biskra], passait à Batna et revenait à ensuite à Constant"
+Batna,Location,loc,4623,4628,0.973,"a une pointe jusqu'au désert, à Biskra, passait à [Batna] et revenait à ensuite à Constantine. Enfin, on r"
+Constantine,Location,loc,4653,4664,0.9769,"à Biskra, passait à Batna et revenait à ensuite à [Constantine]. Enfin, on reprit la mer à Philippeville, pour t"
+Philippeville,Location,loc,4693,4706,0.977,"ensuite à Constantine. Enfin, on reprit la mer à [Philippeville], pour terminer le voyage, en visitant toutefois B"
+Bône,Location,loc,4755,4759,0.9792,"e, pour terminer le voyage, en visitant toutefois [Bône] et Bougie. Dans cette dernière ville, l'empereur"
+Bougie,Location,loc,4763,4769,0.9776,"terminer le voyage, en visitant toutefois Bône et [Bougie]. Dans cette dernière ville, l'empereur apprit qu"
+général Pérégau,Person,pers,4851,4866,0.9769,"empereur apprit que la colonne expéditionnaire du [général Pérégau], revenant d'opérer une sévère répression dans les"
+Babors,Location,loc,4917,4923,0.8331,"revenant d'opérer une sévère répression dans les [Babors], était campée au bord de la mer avec de nombreux"
+Aigle,Location,loc,5102,5107,0.9628,"gion d'honneur et l'invita à déjeuner à bord de l'[Aigle], ainsi que l'amiral Willaumez qui commandait la f"
+amiral Willaumez,Person,pers,5121,5137,0.9733,"'invita à déjeuner à bord de l'Aigle, ainsi que l'[amiral Willaumez] qui commandait la flotte. Au dessert il se passa"
+général Pérégau,Person,pers,5538,5553,0.9777,"r pendant huit jours. Alors, se tournant vers le [général Pérégau], l'empereur lui dit avec un bon sourire : — Géné"
+France,Location,loc,5626,5632,0.9705,"ec un bon sourire : — Général, je vous emmène en [France], ainsi que trois mille hommes de votre colonne ex"
+général Pérégau,Person,pers,5834,5849,0.9754,"ectuer cet embarquement le plus tôt possible. Le [général Pérégau], stupéfait, observa qu'il avait 5,000 prisonniers"
+pont de l'Aigle,Location,loc,6274,6289,0.8346,"tement pour son camp, tandis que l'amiral, sur le [pont de l'Aigle], donnait ses ordres aux commandants des cuirassés"
+Aigle,Location,loc,6597,6602,0.9643,"peu à une telle faveur. Deux heures plus tard, l'[Aigle] s'avancé lentement entre la haie étroite formée p"
+Toulon,Location,loc,6894,6900,0.9812,adre s'ébranlait à son tour et mettait le cap sur [Toulon]... H. BOURSEUL. LA MODE du Petit Journal offre
+H. BOURSEUL,Person,pers,6905,6916,0.9593,nlait à son tour et mettait le cap sur Toulon... [H. BOURSEUL]. LA MODE du Petit Journal offre à titre gracieu
+Petit Journal,Product,prod,6930,6943,0.3853,"it le cap sur Toulon... H. BOURSEUL. LA MODE du [Petit Journal] offre à titre gracieux, cette semaine, à toutes"
+FARINE DUTAUT,Person,pers,7425,7438,0.7561,"ntuant l'évasement de la jupe. EN VENTE PARTOUT [FARINE DUTAUT], le meilleur aliment des enfants L'AVERTISSEMENT"
+Pierre Lurat,Person,pers,7603,7615,0.963,"ue le temps était doux, le vent tiède son maître, [Pierre Lurat], « le vieux Pierrou », la conduisait le soir au b"
+vieux,Person,pers,7622,7627,0.7061,"oux, le vent tiède son maître, Pierre Lurat, « le [vieux] Pierrou », la conduisait le soir au bord du Gave."
+Pierrou,Person,pers,7628,7635,0.8366,"e vent tiède son maître, Pierre Lurat, « le vieux [Pierrou] », la conduisait le soir au bord du Gave. Sans m"
+Gave,Location,loc,7672,7676,0.8656,"vieux Pierrou », la conduisait le soir au bord du [Gave]. Sans mouche, sans inquiétude, la vache passait"
+vieux,Person,pers,8798,8803,0.9189,"ux doux voilés de cils longs, le chemin par où le [vieux] Pierrou avait coutume de venir du village. Mais"
+Pierrou,Person,pers,8804,8811,0.6569,"x voilés de cils longs, le chemin par où le vieux [Pierrou] avait coutume de venir du village. Mais ce matin"
+Pierrou,Person,pers,8960,8967,0.9535,"va, « la Blanche » devint impatiente. Que faisait [Pierrou] ? La vache lança de grands appels de reproche et"
+Pierre Lurat,Person,pers,9243,9255,0.9692,"aiguillade au poing. Elle s'arrêta et attendit. [Pierre Lurat] n'était pas seul. Un homme à face blême, au nez c"
+Blanche,Location,loc,9397,9404,0.4414,", l'accompagnait. Lorsqu'ils furent près de « la [Blanche] » le vieux bégaya, désolé : — La voilà. L'autre"
+Jésus,Person,pers,9563,9568,0.876,n : — Elle est vieille ! — Vieille !... Ah! bon [Jésus] ! Cinq ans à la Saint-Jean que je l'achetai toute
+Saint-Jean,Location,loc,9585,9595,0.9644,"e ! — Vieille !... Ah! bon Jésus ! Cinq ans à la [Saint-Jean] que je l'achetai toute petite, si petite que je l"
+Léon,Person,pers,9780,9784,0.7895,"ait d'une autre vache, au beron comme un enfant ! [Léon] l'aimait tant... Oh! il aura bien de la peine, et"
+Catherine,Person,pers,9851,9860,0.7941,"Oh! il aura bien de la peine, et nous aussi ! La [Catherine] pleurait. Voyons Barbé, fit le paysan s'armant de"
+Barbé,Person,pers,9878,9883,0.9405,"ne, et nous aussi ! La Catherine pleurait. Voyons [Barbé], fit le paysan s'armant de courage, retirant son"
+Léonce,Person,pers,10012,10018,0.9449,"humble, renouvez cette créance jusqu'au retour de [Léonce], vous savez combien le garçon est courageux au tr"
+père Moise,Person,pers,10439,10449,0.9143,"e plus avoir assez pour acheter du pain. — Vous, [père Moise], manquer de pain... vous si riche !... — Riche !"
+père Moise,Person,pers,10707,10717,0.9574,"i nul besoin, à l'acheter par force... — Allons, [père Moise], je vous en prie, puisque la vache n'est pas votr"
+Léonce,Person,pers,10787,10793,0.9528,"uisque la vache n'est pas votre affaire, attendez [Léonce], la fin de son service... dix-huit mois... ce n'e"
+Algérie,Location,loc,10884,10891,0.9595,.. ce n'est pas bien long... — Votre fils est en [Algérie]... reviendra-t-il seulement ? Si vous tenez à vot
+Lurat,Person,pers,11238,11243,0.9575,"La vache, votre maison ou l'argent, à votre idée, [Lurat]. — Alors ce sera la vache, fit le vieux comme s'"
+Blanche,Location,loc,11672,11679,0.5104,"iscutant, les hommes revenaient au village. « La [Blanche] », la corde au front, suivait l'oreille droite, l"
+vieux Pierrou,Person,pers,11984,11997,0.7668,"r de grande ferme, devant une étable inconnue, le [vieux Pierrou] la laissa aux mains de Moise, sans oser même un r"
+Moise,Person,pers,12021,12026,0.9555,"inconnue, le vieux Pierrou la laissa aux mains de [Moise], sans oser même un regard, même une dernière care"
+vieux Pierrou,Person,pers,12556,12569,0.8536,"x fixes, la bouche ouverte. Comment, la vache au [vieux Pierrou], à la mère Catherine, la vache aimée par le grand"
+mère Catherine,Person,pers,12576,12590,0.7324,"uverte. Comment, la vache au vieux Pierrou, à la [mère Catherine], la vache aimée par le grand Léonce, le maître l'"
+grand Léonce,Person,pers,12614,12626,0.8068,"errou, à la mère Catherine, la vache aimée par le [grand Léonce], le maître l'amenait ?... L'avait-il achetée de"
+Julie,Person,pers,13138,13143,0.8401,"i vite qu'il n'entendit le maître dire à sa femme [Julie] : — J'ai eu la vache pour ce que je voulais, l'a"
+petit Damien,Person,pers,13439,13451,0.964,"a Blanche »; et les Lurat, et moi ! » grondait le [petit Damien] qui, dans ses habits du dimanche, s'en allait dro"
+petit Damien,Person,pers,13671,13683,0.9628,"sans cesse songeant à l'étable vide des Lurat, le [petit Damien] se disait : « Faudra tout de même que la vache y"
+petit Damien,Person,pers,13923,13935,0.9676,"sur la route, le cœur tout battant de frayeur, le [petit Damien], pourquoi il s'en allait consulter un sorcier. C"
+vieux,Person,pers,14006,14011,0.9144,"lait consulter un sorcier. C'est qu'il aimait le [vieux] Pierrou, la mère Catherine et le grand Léonce de"
+Pierrou,Person,pers,14012,14019,0.6762,"onsulter un sorcier. C'est qu'il aimait le vieux [Pierrou], la mère Catherine et le grand Léonce de toutes s"
+mère Catherine,Person,pers,14024,14038,0.6898,"sorcier. C'est qu'il aimait le vieux Pierrou, la [mère Catherine] et le grand Léonce de toutes ses forces, le pauvr"
+grand Léonce,Person,pers,14045,14057,0.8348,"aimait le vieux Pierrou, la mère Catherine et le [grand Léonce] de toutes ses forces, le pauvre gars ! Ne l'avait"
+Moise,Person,pers,14259,14264,0.9507,", pouvant gagner sa vie, ils l'avaient placé chez [Moise], l'usurier sans entrailles, le gros propriétaire"
+Damien,Person,pers,14324,14330,0.9634,"r sans entrailles, le gros propriétaire ? Oh ! si [Damien] avait pu choisir, comme il aurait préféré rester"
+Pierrou,Person,pers,14492,14499,0.9612,"availler, gagner sa vie, deve- nir un homme. Et, [Pierrou] le lui avait dit : maintenant qu'il était grand,"
+Damien,Person,pers,14741,14747,0.9659,"vait dû faire tant de peine aux vieux que, foi de [Damien] ! la vache leur reviendrait. Comment ?... Mais c"
+Damien,Person,pers,15299,15305,0.967,"tribuer, à sa manière, à un peu de bien. Lorsque [Damien] parut devant lui, le gamin grelottait de peur. Le"
+Damien,Person,pers,15381,15387,0.9666,"n grelottait de peur. Le vieillard le rassura. Et [Damien] parla du vieux Lurat si bon, de la mère Catherine"
+vieux,Person,pers,15397,15402,0.5269,"peur. Le vieillard le rassura. Et Damien parla du [vieux] Lurat si bon, de la mère Catherine, du grand Léon"
+Lurat,Person,pers,15403,15408,0.7702,"Le vieillard le rassura. Et Damien parla du vieux [Lurat] si bon, de la mère Catherine, du grand Léonce, de"
+mère Catherine,Person,pers,15423,15437,0.6183,"ura. Et Damien parla du vieux Lurat si bon, de la [mère Catherine], du grand Léonce, de « la Blanche » qui leur avai"
+grand Léonce,Person,pers,15442,15454,0.7735,"a du vieux Lurat si bon, de la mère Catherine, du [grand Léonce], de « la Blanche » qui leur avait été enlevée par"
+Blanche,Person,pers,15464,15471,0.7129,"n, de la mère Catherine, du grand Léonce, de « la [Blanche] » qui leur avait été enlevée par Moise, un homme"
+Moise,Person,pers,15505,15510,0.9339,"de « la Blanche » qui leur avait été enlevée par [Moise], un homme si méchant qu'on ne pouvait plus compte"
+Lurat,Person,pers,15728,15733,0.8949,"manda au sorcier de l'aider à rendre la vache aux [Lurat], car vraiment seul et si petit, malgré toute sa b"
+Damien,Person,pers,16504,16510,0.9157,"de chat tout au fond de la bourse, et la tendit à [Damien]. Puis, à voix basse, il donna des instructions a"
+Damien,Person,pers,16801,16807,0.9582,"Le lendemain soir, blême, épouvanté sans feinte, [Damien], le petit vacher, entra comme une bourrasque dans"
+Moise,Person,pers,16872,16877,0.9045,"er, entra comme une bourrasque dans la cuisine où [Moise] et sa femme Julie finissaient de souper. — Maîtr"
+Julie,Person,pers,16890,16895,0.9074,e bourrasque dans la cuisine où Moise et sa femme [Julie] finissaient de souper. — Maître !... maître !...
+Julie,Person,pers,17031,17036,0.9313,"qui se passe dans la grange !... A tout hasard, [Julie] se signa. Le maître se leva, les tempes battante"
+vieux,Person,pers,17236,17241,0.9436,sa vie on lui avait répété la dernière parole du [vieux] Pierrou : « Cela ne vous portera point bonheur !
+Pierrou,Person,pers,17242,17249,0.6413,e on lui avait répété la dernière parole du vieux [Pierrou] : « Cela ne vous portera point bonheur ! » qu'il
+Julie,Person,pers,17761,17766,0.88,vache aux Lurat... pour leur rendre la vache... [Julie] appelait les voisins; ils accoururent. Nul n'ava
+petit,Person,pers,18289,18294,0.933,"jour suivant, nouveaux cris, nouveaux hélas ! du [petit] Damien. Mais cette fois au milieu de la nuit. Ce"
+Damien,Person,pers,18295,18301,0.5294,"suivant, nouveaux cris, nouveaux hélas ! du petit [Damien]. Mais cette fois au milieu de la nuit. Ce n'étai"
+Damien,Person,pers,18661,18667,0.8463,"ées contre un mur flambaient aussi, que le vacher [Damien] les mains brillantes, des vers luisants plein ses"
+Damien,Person,pers,19082,19088,0.8934,'usurier parut prendre une résolution énergique. [Damien] l'entendit déclarer à Julie : — L'avertissement
+Julie,Person,pers,19111,19116,0.925,"solution énergique. Damien l'entendit déclarer à [Julie] : — L'avertissement est trop terrible, femme ! J"

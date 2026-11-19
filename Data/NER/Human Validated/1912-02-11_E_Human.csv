@@ -1,0 +1,49 @@
+﻿entity,fine_type,coarse_type
+Baptiste,pers.ind,Person
+Marteaux,pers.ind,Person
+La Croisette,loc.adm.town,Location
+tante Arsène,pers.ind,Person
+Elvire,pers.ind,Person
+mademoiselle Elvire,pers.ind,Person
+Malte,loc.adm.nat,Location
+Marteaux,pers.ind,Person
+Eusèbe,pers.ind,Person
+cousin Philippe,pers.ind,Person
+Philippe,pers.ind,Person
+Adrienne CAMBRY,pers.ind.articleauthor,Person
+M. Vincent,pers.ind,Person
+"8, place Victor-Hugo",loc.add.phys,Location
+Grenoble,loc.adm.town,Location
+Ingolstadt,loc.adm.town,Location
+Bavière,loc.adm.reg,Location
+16 avril 1809,time.date.abs,Time
+Danube,loc.phys.hydro,Location
+Lefebvre,pers.ind,Person
+Dantzig,loc.adm.town,Location
+Isar,loc.phys.hydro,Location
+Napoléon,pers.ind,Person
+Arcol,loc.adm.town,Location
+Austerlitz,loc.adm.town,Location
+Donauwerth,loc.adm.town,Location
+Montyon,pers.ind,Person
+Landshut,loc.adm.town,Location
+Allemagne,loc.adm.nat,Location
+Oberhausen,loc.adm.town,Location
+Latour-d'Auvergne,pers.ind,Person
+Neubourg,loc.adm.town,Location
+Arcène Brantôme,pers.ind,Person
+Linz,loc.adm.town,Location
+Franconi,org.ent,Organization
+Clairon,pers.ind,Person
+Confédération du Rhin,loc.adm.nat,Location
+Autriche,loc.adm.nat,Location
+Moravie,loc.adm.reg,Location
+Brantôme,pers.ind,Person
+Mella,pers.ind,Person
+Danube,loc.phys.hydro,Location
+pont du Danube,loc.fac,Location
+Brantôme,pers.ind,Person
+Vohburg,loc.adm.town,Location
+capi- taine Feldmann,pers.ind,Person
+Claude Marsey,pers.ind,Person
+Alfred MÉRIC,pers.ind.articleauthor,Person

@@ -1,0 +1,102 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Blanche Pompadour,Person,pers,344,361,0.9544,"douceur de ses cheveux d'or et de sa grâce frêle, [Blanche Pompadour] était une intrépide petite femme. Elevée à la dur"
+Saumur,Location,loc,873,879,0.9573,", à cheval, avec autant de fougue qu'un écuyer de [Saumur]; l'été, à Trouville, les meilleurs nageurs s'éfra"
+Trouville,Location,loc,890,899,0.9704,"autant de fougue qu'un écuyer de Saumur; l'été, à [Trouville], les meilleurs nageurs s'éfrayaient de sa hardies"
+comte de la Craux,Person,pers,988,1005,0.8839,"sa hardiesse à braver les lames; en compagnie du [comte de la Craux], l'aéronaute célèbre, elle avait tenté, en pleine"
+Diderot,Person,pers,1263,1270,0.9452,"plan, et de le piloter elle-même. Le Paradoxe de [Diderot] eut fait sourire cette délicieuse « risque-tout »"
+Néris,Location,loc,1407,1412,0.9252,"e sensation qu'elle ignorait, elle avait offert à [Néris], désespéré, de rendre son rôle. Mais lui ne voula"
+Blanche,Person,pers,1480,1487,0.8468,"ndre son rôle. Mais lui ne voulait rien entendre. [Blanche] resterait son interprète, dût-il, de gré ou de fo"
+Guy Larbey,Person,pers,1613,1623,0.9739,"ler. Après tout, pourquoi pas ? dit-il un jour à [Guy Larbey], le directeur des « Petites Marionnettes ». Qu'el"
+directeur des «,Person,pers,1628,1643,0.6247,"t, pourquoi pas ? dit-il un jour à Guy Larbey, le [directeur des «] Petites Marionnettes ». Qu'elle ait peur une fois"
+Petites Marionnettes,Organization,org,1644,1664,0.5212,"? dit-il un jour à Guy Larbey, le directeur des « [Petites Marionnettes] ». Qu'elle ait peur une fois, pour de bon, et je"
+Eusèbe,Person,pers,1858,1864,0.697,le moyen ? Laissez-moi faire. J'ai mon idée... [Eusèbe] Lampluche était le plus irrégulier des figurants.
+Lampluche,Person,pers,1865,1874,0.8191,en ? Laissez-moi faire. J'ai mon idée... Eusèbe [Lampluche] était le plus irrégulier des figurants. Au Châtea
+Lampluche,Person,pers,2111,2120,0.7718,"rait le lendemain. Philosophie et content de peu, [Lampluche] n'avait rien de plus pressé, quand ses poches éta"
+Paris,Location,loc,2771,2776,0.9791,"u le dire. A coup sûr, tous les asiles de nuit de [Paris] l'avaient hébergé à tour de rôle, toutes les « so"
+Saint-Eustache,Location,loc,3020,3034,0.9781,r les légions de faméliques qui vaguent autour de [Saint-Eustache]. Le pêle-mêle des coulisses avait autrefois perm
+Néris,Person,pers,3089,3094,0.9095,"pêle-mêle des coulisses avait autrefois permis à [Néris], durant les entr'actes d'une pièce à grand specta"
+Néris,Person,pers,3411,3416,0.9115,"boue, les doigts engourdis par la bise cinglante. [Néris] avait réchauffé d'une pièce blanche la main tendu"
+Lampluche,Person,pers,3482,3491,0.8639,"d'une pièce blanche la main tendue. Depuis lors, [Lampluche] ne l'apercevait plus sans l'assaillir d'intermina"
+monsieur Néris,Person,pers,3626,3640,0.9129,"ce : Si jamais vous aviez besoin d'un homme sûr, [monsieur Néris], pensez à Eusèbe ! disait le bon pochard d'une vo"
+Eusèbe,Person,pers,3651,3657,0.7417,"z besoin d'un homme sûr, monsieur Néris, pensez à [Eusèbe] ! disait le bon pochard d'une voix attendrie. L'"
+Néris,Person,pers,3787,3792,0.9561,"ttre à l'épreuve ce touchant dévouement. Un soir, [Néris] s'achemina vers le cabaret où il était sûr de ren"
+Lampluche,Person,pers,4216,4225,0.7992,"dispense d'ailleurs de vous montrer trop brutal. [Lampluche] n'avait, certes, jamais lu Ruyt de Don César qu'i"
+Ruyt,Person,pers,4253,4257,0.9246,"rop brutal. Lampluche n'avait, certes, jamais lu [Ruyt] de Don César qu'il accusait l'extraordinaire prop"
+Don César,Person,pers,4261,4270,0.9636,"al. Lampluche n'avait, certes, jamais lu Ruyt de [Don César] qu'il accusait l'extraordinaire proposition : At"
+Néris,Person,pers,4379,4384,0.7404,"e femme, moi ! Mais vous n'y songez pas, monsieur [Néris] ? Je n'ai jamais parlé plus sérieusement, Eusèbe"
+Eusèbe,Person,pers,4428,4434,0.9389,"Néris ? Je n'ai jamais parlé plus sérieusement, [Eusèbe], et vous auriez tort de vous effrayer. Il s'agit"
+Eusèbe,Person,pers,4730,4736,0.9272,i se targue sottement de n'avoir jamais eu peur. [Eusèbe] eût volontiers adopté pour devise le : « Pas d'af
+Néris,Person,pers,4922,4927,0.9274,"de consentir à servir les inquiétants projets de [Néris]. Pour le décider, celui-ci dut recourir au plus c"
+Blanche Pompadour,Person,pers,5356,5373,0.9633,"s Marionnettes » afin de regagner le temps perdu. [Blanche Pompadour] habitait tout près du théâtre, rue Moncey; elle r"
+rue Moncey,Location,loc,5405,5415,0.9471,"Blanche Pompadour habitait tout près du théâtre, [rue Moncey]; elle rentrait chez elle le plus souvent à pied p"
+rue Moncey,Location,loc,5519,5529,0.9558,"prendre l'air. A deux heures du matin, dans cette [rue Moncey] où les passants sont rares, il serait aisé à Eusè"
+Eusèbe,Location,loc,5575,5581,0.9694,"ncey où les passants sont rares, il serait aisé à [Eusèbe] de guetter le retour de l'actrice, de se dissimul"
+Néris,Person,pers,5761,5766,0.9128,", avec le geste terrible d'un bandit prêt à tout. [Néris], qui aurait suivi de loin son interprète, intervi"
+Néris,Person,pers,6130,6135,0.9001,"mettre la main au collet du « dangereux » fuyard. [Néris], qui faisait tous les jours sa manille, au café,"
+Néris,Person,pers,6367,6372,0.9441,"vertirait de l'aventure. Sûr d'avoir tout prévu, [Néris] serra la main de Lampluche en se félicitant de so"
+Lampluche,Person,pers,6390,6399,0.8921,". Sûr d'avoir tout prévu, Néris serra la main de [Lampluche] en se félicitant de son hardi stratagème. Blanche"
+Blanche Pompadour,Person,pers,6442,6459,0.9501,mpluche en se félicitant de son hardi stratagème. [Blanche Pompadour] allait enfin vivre la scène qu'elle avait à jouer
+Blanche Pompadour,Person,pers,6721,6738,0.9585,ar une inquiétude. N'avait-il pas été trop loin ? [Blanche Pompadour] — il s'en avisait brusquement — était femme à por
+Néris,Person,pers,6960,6965,0.9352,avec l'émotion d'un joueur risquant son tout que [Néris] se mit à la suivre d'un pas furtif. La tristesse
+Néris,Person,pers,7148,7153,0.9335,"sse. Un chien errant, au loin, hurla lugubrement. [Néris] fut sur le point d'appeler son interprète, de la"
+Blanche,Person,pers,7342,7349,0.9073,"Encore quelques secondes, et il serait trop tard. [Blanche] venait de traverser la chaussée, de s'engager da"
+Lampluche,Person,pers,7412,7421,0.8525,"averser la chaussée, de s'engager dans la rue où [Lampluche] la guettait, prêt à jouer son rôle, peut-être lou"
+Néris,Person,pers,7487,7492,0.9351,"êt à jouer son rôle, peut-être lourd de risques. [Néris], le cœur battant, s'arrêta pour reprendre haleine"
+Néris,Person,pers,7700,7705,0.9345,"de l'immobiliser en vrai bandit de grand chemin. [Néris] prit sa course, impatient de mettre fin à la lutt"
+Eusèbe,Location,loc,7876,7882,0.7719,"avec une exclamation, l'actrice sautait au cou d'[Eusèbe] et l'embrassait sur les deux joues... L'arrivée"
+Néris,Person,pers,7935,7940,0.9369,"l'embrassait sur les deux joues... L'arrivée de [Néris], stupéfait, fut saluée d'un double éclat de rire"
+Blanche,Person,pers,8015,8022,0.9224,"'un double éclat de rire : Mon cher ami, lui dit [Blanche], ai-je besoin de vous présenter M. Eusèbe Lampluc"
+M. Eusèbe Lampluche,Person,pers,8055,8074,0.9774,", lui dit Blanche, ai-je besoin de vous présenter [M. Eusèbe Lampluche], mon père ? Charles CLERC. Les idées de M. Bomb"
+Charles CLERC,Person,pers,8088,8101,0.9741,"e vous présenter M. Eusèbe Lampluche, mon père ? [Charles CLERC]. Les idées de M. Bombardin Voilà, dit M. Bombar"
+M. Bombardin,Person,pers,8117,8129,0.978,"mpluche, mon père ? Charles CLERC. Les idées de [M. Bombardin] Voilà, dit M. Bombardin en tendant à sa sœur un"
+M. Bombardin,Person,pers,8142,8154,0.9814,"les CLERC. Les idées de M. Bombardin Voilà, dit [M. Bombardin] en tendant à sa sœur un carré de bristol, voilà u"
+Mlle Bombardin,Person,pers,8418,8432,0.9797,s être invitée aussi. C'est déjà fait ! répondit [Mlle Bombardin] en passant sous le nez de son frère un carré de b
+Mlle Bombardin,Person,pers,8897,8911,0.9833,bout de ce dîner !... Quel ciel t'entende ! fit [Mlle Bombardin] en levant les yeux vers le plafond de la chambre
+Emile Bombardin,Person,pers,9057,9072,0.9809,"sa plate poitrine. Oui, que le ciel m'entende ! [Emile Bombardin] était un des ichtyologues les plus distingués de"
+France,Location,loc,9122,9128,0.9792,"était un des ichtyologues les plus distingués de [France] et de Normandie. A l'étude des poissons, du plus"
+Normandie,Location,loc,9135,9144,0.9805,"ichtyologues les plus distingués de France et de [Normandie]. A l'étude des poissons, du plus mince au plus gr"
+Rouen,Location,loc,9447,9452,0.9719,"s que, lorsqu'il déambulait à travers les rues de [Rouen], sa ville natale et le centre de ses opérations,"
+M. Bombardin,Person,pers,9692,9704,0.9794,vanité devant de telles marques de respect. Mais [M. Bombardin] ne s'en apercevait pas. Même quand la nécessité l
+M. Bombardin,Person,pers,10059,10071,0.9813,"umains, ne présentaient aucun intérêt aux yeux de [M. Bombardin]. Il les tenait tous, hommes et femmes, dans le pl"
+Mlle Aglaé Bombardin,Person,pers,10197,10217,0.9799,"le personne trouvait grâce devant lui. Et c'était [Mlle Aglaé Bombardin]. Celle-là, il éprouvait pour elle la plus profon"
+Aglaé,Person,pers,10725,10730,0.9424,"ion pour les beautés de l'ichthyologie. Et, quand [Aglaé] avait atteint la vingtaine, il avait tout mis en"
+Mlle Bombardin,Person,pers,10836,10850,0.9827,"pour la marier. Hélas ! il n'avait pas réussi ! [Mlle Bombardin], en effet, pouvait se vanter d'une intelligence h"
+Aglaé,Person,pers,11000,11005,0.9657,"és de l'esprit, lui avait refusé celles du corps. [Aglaé] était maigre avec excès, plate avec ridicule, jau"
+Aglaé,Person,pers,11274,11279,0.9642,"rait pas le regard des jeunes gens. A trente ans, [Aglaé] attendait encore qu'un homme voulût bien la remar"
+M. Bombardin,Person,pers,11338,11350,0.9798,"t encore qu'un homme voulût bien la remarquer. Et [M. Bombardin], après maintes tentatives inutiles, se désespérai"
+Marseille,Location,loc,11556,11565,0.9707,e. Un Congrès d'Ichthyologie comparée s'ouvrait à [Marseille]. Le savant rouennais fut invité à y prendre part.
+Aglaé,Location,loc,11674,11679,0.6253,"ta et, dans l'espoir confus de trouver un époux à [Aglaé], il résolut d'emmener cette dernière avec lui. S"
+M. Bombardin,Person,pers,11764,11776,0.982,re avec lui. Son titre de congressiste donnait à [M. Bombardin] le droit de jouir d'un tarif réduit sur les chemi
+M. Bombardin,Person,pers,11994,12006,0.9811,"urer à sa sœur les mêmes avantages qu'à lui-même, [M. Bombardin] fit inscrire Mlle Aglaé comme membre du Congrès e"
+Mlle Aglaé,Person,pers,12020,12030,0.9699,"vantages qu'à lui-même, M. Bombardin fit inscrire [Mlle Aglaé] comme membre du Congrès et, du coup, la jeune fil"
+Mlle Bombardin,Person,pers,12271,12285,0.9824,"ce point de vue seul suffisait. Seulement, quand [Mlle Bombardin] fut mise au courant des démarches habiles de son"
+Marseille,Location,loc,12434,12443,0.9702,"exion : C'est une très bonne idée de m'emmener à [Marseille], surtout dans ces conditions-là. Mais, au cours d"
+M. Bombardin,Person,pers,12725,12737,0.9782,"r ? Tous mes corsages s'accrochent dans le dos ! [M. Bombardin] concentra son analyse sur ce grave problème et, a"
+Marie,Person,pers,12876,12881,0.7555,: C'est bien simple ! Nous emmènerons avec nous [Marie]. Notre bonne ? Parbleu ! Mais cela nous coûter
+Marseille,Location,loc,13109,13118,0.9709,arif réduit. D'ailleurs elle sera ravie d'aller à [Marseille]. C'est son pays natal et il y a bien dix ans qu'e
+Marie,Person,pers,13185,13190,0.9619,"natal et il y a bien dix ans qu'elle l'a quitté. [Marie] était née, en effet, non loin de la Cannebière. P"
+Cannebière,Location,loc,13227,13237,0.9171,"uitté. Marie était née, en effet, non loin de la [Cannebière]. Par le jeu imprévu du hasard, elle était venue à"
+Rouen,Location,loc,13288,13293,0.9655,"Par le jeu imprévu du hasard, elle était venue à [Rouen] chercher une place. Elle l'avait trouvée chez le"
+Mlle Aglaé,Person,pers,13416,13426,0.9748,"depuis quelques années, elle les servait, lui et [Mlle Aglaé], en qualité de bonne à tout faire. C'était une be"
+M. Bombardin,Person,pers,13776,13788,0.9809,"de joie elle battit des mains. Et c'est ainsi que [M. Bombardin], Mlle Bombardin et leur bonne se trouvaient réuni"
+Mlle Bombardin,Person,pers,13790,13804,0.9815,"attit des mains. Et c'est ainsi que M. Bombardin, [Mlle Bombardin] et leur bonne se trouvaient réunis dans un hôtel"
+Marseille,Location,loc,13857,13866,0.9574,leur bonne se trouvaient réunis dans un hôtel de [Marseille] pour un sévère Congrès d'ichthyologie comparée...
+Marie,Person,pers,14046,14051,0.6838,"r de se retirer dans leurs chambres. On fit venir [Marie] et, pour lui être agréable, M. Bombardin lui décl"
+M. Bombardin,Person,pers,14080,14092,0.9792,"s. On fit venir Marie et, pour lui être agréable, [M. Bombardin] lui déclara : Nous sommes invités, Mlle Aglaé et"
+Mlle Aglaé,Person,pers,14129,14139,0.9667,"M. Bombardin lui déclara : Nous sommes invités, [Mlle Aglaé] et moi, à dîner demain soir chez le préfet. Quand"
+Hollande,Location,loc,14326,14334,0.9693,ser de votre soirée. PIÈCE A DIRE L'éloge de la [Hollande] Le voyage de M. Fallières en Hollande nous sembl
+M. Fallières,Person,pers,14349,14361,0.9812,IÈCE A DIRE L'éloge de la Hollande Le voyage de [M. Fallières] en Hollande nous semble une occasion pour publier
+Hollande,Location,loc,14365,14373,0.9806,loge de la Hollande Le voyage de M. Fallières en [Hollande] nous semble une occasion pour publier un extrait
+Fleur Merceilleuse,Organization,org,14431,14449,0.4167,"mble une occasion pour publier un extrait de « La [Fleur Merceilleuse] », la charmante pièce de M. Miguel Zamacois, dont"
+M. Miguel Zamacois,Person,pers,14475,14493,0.9792,"« La Fleur Merceilleuse », la charmante pièce de [M. Miguel Zamacois], dont l'action se passe, on le sait, aux Pays-Bas"
+Pays-Bas,Location,loc,14535,14543,0.9728,"Zamacois, dont l'action se passe, on le sait, aux [Pays-Bas]. Je l'aime parce que ses dunes et ses grèves N'o"
+Rhin,Location,loc,14954,14958,0.865,"us beau printemps ; Pour ces fleuves houleux : le [Rhin], l'Escaut, la Meuse Cent bouches vomissant une on"
+Escaut,Location,loc,14962,14968,0.908,"printemps ; Pour ces fleuves houleux : le Rhin, l'[Escaut], la Meuse Cent bouches vomissant une onde limoneu"
+Meuse,Location,loc,14973,14978,0.9362,"Pour ces fleuves houleux : le Rhin, l'Escaut, la [Meuse] Cent bouches vomissant une onde limoneuse ! Nous"
+Miguel Zamacois,Person,pers,16168,16183,0.9734,"s, Il faut faire d'un pas reculer des tempêtes ! [Miguel Zamacois]. Hymne au soleil Toi qui sèches les pleurs des"
+Pyrénées,Location,loc,16372,16380,0.6419,"uillant comme des destinées, Trembler au vent des [Pyrénées] Les amandiers du Roussillon, Je t'adore ! Soleil"
+Roussillon,Location,loc,16398,16408,0.9617,"s, Trembler au vent des Pyrénées Les amandiers du [Roussillon], Je t'adore ! Soleil ! ô toi dont la lumière, Po"
+Soleil,Person,pers,17700,17706,0.7302,"bre Souvent plus charmante que lui ! Je t'adore, [Soleil] ! Tu mets dans l'air des roses, Des flammes dans"
+Soleil,Person,pers,17842,17848,0.4667,Tu prends un arbre obscur et tu l'apothéoses ! O [Soleil] ! toi sans qui les choses Ne seraient que ce qu'e
+Edmond Rostand,Person,pers,17911,17925,0.9586,"ui les choses Ne seraient que ce qu'elles sont ! [Edmond Rostand], de l'Académie française."
+Académie française,Organization,org,17932,17950,0.4705,"ient que ce qu'elles sont ! Edmond Rostand, de l'[Académie française]."

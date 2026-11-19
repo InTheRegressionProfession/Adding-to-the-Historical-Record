@@ -1,0 +1,124 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Oh !,Product,MISC,203,207,,"rée, se sentit tout à coup une violente envie... [Oh !] il n'en fallait pas laisser échapper une aussi b"
+Ah !,Product,MISC,679,683,,"cessaires... Vous le savez bien !... — Vous ?... [Ah !] oui !... je ne me souve- nais plus, murmura-t-il"
+Lise !,Product,MISC,801,807,,"vec force... Mais je ne veux pas !... non, non, [Lise !]... gardez votre argent !... — C'est mal, cela !.."
+Lise,Person,PER,904,908,,"!... Pourquoi ne pas accepter, implora Mam'zelle [Lise]... Cet ar- gent ne sera-t-il pas bientôt à vous."
+Lise,Person,PER,1153,1157,,". Le jeune homme refusait toujours avec énergie. [Lise], ardente, suppliait, accumu- lait les arguments."
+Midi,Location,LOC,1256,1260,,". Elle aimerait tant habi- ter la province... le [Midi]... voir la mer... Et puis, être patronne... Lui-m"
+Lise,Person,PER,1676,1680,,"jours après, munis des 6.200 francs de Mam'zelle [Lise], Jules Lehart partait pour Marseille. Sa fiancée"
+Jules Lehart,Person,PER,1682,1694,,"après, munis des 6.200 francs de Mam'zelle Lise, [Jules Lehart] partait pour Marseille. Sa fiancée le conduisit"
+Marseille,Location,LOC,1709,1718,,"cs de Mam'zelle Lise, Jules Lehart partait pour [Marseille]. Sa fiancée le conduisit à la gare, l'embrassa t"
+Lise,Person,PER,1929,1933,,"jours... Seulement, le jeune homme de- manda à [Lise] de ne pas lui envoyer de let- tre avant d'avoir"
+Mar-,Location,LOC,2044,2048,,"ême de ses nouvelles lui annonçant son arrivée à [Mar-] seille... Quant à l'adresse, c'était celle de s"
+"...
+
+La Fiancée difficile
+
+LA",Product,MISC,2131,2160,,était celle de ses parents... elle la connaissait[... La Fiancée difficile LA] FIANCÉE. — Je ne demande pas mieux que de vous o
+FIANCÉE,Organization,ORG,2161,2168,,elle la connaissait... La Fiancée difficile LA [FIANCÉE]. — Je ne demande pas mieux que de vous offrir ma
+FIANCÉE,Organization,ORG,2438,2445,,sir qui s'or- ganise pour vous la rapporter. LA [FIANCÉE]. — Non... LE PRÉTENDANT. — Désirez-vous que je
+"Non...
+
+LE PRÉTENDANT",Product,MISC,2449,2470,,r- ganise pour vous la rapporter. LA FIANCÉE. — [Non... LE PRÉTENDANT]. — Désirez-vous que je gravisse le Mont-Blanc à
+Désirez,Person,PER,2474,2481,,apporter. LA FIANCÉE. — Non... LE PRÉTENDANT. — [Désirez]-vous que je gravisse le Mont-Blanc à quatre patt
+gravisse le Mont-Blanc,Location,LOC,2495,2517,,. — Non... LE PRÉTENDANT. — Désirez-vous que je [gravisse le Mont-Blanc] à quatre pattes (se reprenant) pardon... à genou
+Terre-de-Feu,Location,LOC,2627,2639,,-vous que j'apprenne à lire aux indigènes de la [Terre-de-Feu] ? Sont-ce des peaux arra- chées aux lions de l'A
+Atlas,Product,MISC,2688,2693,,u ? Sont-ce des peaux arra- chées aux lions de l'[Atlas] qu'il faut pour parvenir au couronnement de vos
+FIANCÉE,Organization,ORG,2756,2763,,our parvenir au couronnement de vos désirs ? LA [FIANCÉE]. — C'est plus encore. LE PRÉTENDANT. — Voulez-vo
+"sauvages
+
+de la Nouvelle-Guinée",Product,MISC,2987,3018,,me amoureux sève de repas à vingt-trois sous aux [sauvages de la Nouvelle-Guinée] ?... LA FIANCÉE. — Non... (Très simplement) : F
+FIANCÉE,Organization,ORG,3028,3035,,sous aux sauvages de la Nouvelle-Guinée ?... LA [FIANCÉE]. — Non... (Très simplement) : Faites-moi rire ?.
+"Ah !
+
+comme ça",Product,MISC,3128,3142,,rire ?... LE PRÉTENDANT (se grattant la tête). — [Ah ! comme ça]... tout de suite ?... LA FIANCÉE. — Dame ! pas l
+"...
+
+LA",Product,MISC,3161,3168,,tant la tête). — Ah ! comme ça... tout de suite ?[... LA] FIANCÉE. — Dame ! pas lorsque vous aurez servi d
+FIANCÉE,Organization,ORG,3169,3176,,tête). — Ah ! comme ça... tout de suite ?... LA [FIANCÉE]. — Dame ! pas lorsque vous aurez servi de gigot
+Dame,Location,LOC,3180,3184,,! comme ça... tout de suite ?... LA FIANCÉE. — [Dame] ! pas lorsque vous aurez servi de gigot aux anth
+"...
+
+LA",Product,MISC,3454,3461,,ls du grand mon- d de avec son unique chaussure ?[... LA] FIANCÉE. — Parce qu'il avait une jam- be de bois
+FIANCÉE,Organization,ORG,3462,3469,,and mon- d de avec son unique chaussure ?... LA [FIANCÉE]. — Parce qu'il avait une jam- be de bois ?... L
+FIANCÉE,Organization,ORG,3581,3588,,(désolé). — Je vois que vous la connaissez. LA [FIANCÉE]. — Je l'ai lue dans l'almanach de 1809... LE PR
+Ça,Product,MISC,3675,3677,,809... LE PRÉTENDANT (cherchant autre chose). — [Ça] ne nous rajeunit pas... Et celle du nè- gre dévo
+FIANCÉE,Organization,ORG,3799,3806,,u de ses jam- bes pour fabriquer du cirage ? LA [FIANCÉE]. — Pour les bottes de son ma- tre ? LE PRÉTENDA
+FIANCÉE,Organization,ORG,3884,3891,,"a- tre ? LE PRÉTENDANT. — Oui, justement... LA [FIANCÉE]. — Je l'ai eue en dictée à la pension. LE PRÉTE"
+FIANCÉE,Organization,ORG,4099,4106,,de division au bout de cinquante-sept ans ? LA [FIANCÉE]. — Grâce à l'anneau qu'il lui avait glissé dans
+"...
+
+LE PRÉTENDANT",Product,MISC,4186,4204,,avait glissé dans le nez à l'âge de sept mois ?[... LE PRÉTENDANT]. — Diable !... (à part) Je vais essayer mon coup
+Diable !,Product,MISC,4208,4216,,nez à l'âge de sept mois ?... LE PRÉTENDANT. — [Diable !]... (à part) Je vais essayer mon coup de poète d'
+FIANCÉE,Organization,ORG,4315,4322,,'occa- sion... et des rimes extraordinaires. LA [FIANCÉE]. — Allons faites-moi rire. Vous comprenez que le
+Allons faites-moi rire,Product,MISC,4326,4348,,n... et des rimes extraordinaires. LA FIANCÉE. — [Allons faites-moi rire]. Vous comprenez que le mariage est une trop gra
+Bifteck,Person,PER,4502,4509,,e... LE PRÉTENDANT (subitement très sérieux). — [Bifteck] aux pommes... LA FIANCÉE (un peu étonnée). — ...
+"...
+
+LA FIANCÉE",Product,MISC,4520,4535,,T (subitement très sérieux). — Bifteck aux pommes[... LA FIANCÉE] (un peu étonnée). — ...Qui sau- ra dissiper à me
+Turbot,Person,PER,4752,4758,,hagrins de notre vie si âpre... LE PRÉTENDANT. — [Turbot] sauce câpres. LA FIANCÉE (se déridant). — Je vie
+FIANCÉE,Organization,ORG,4777,4784,,pre... LE PRÉTENDANT. — Turbot sauce câpres. LA [FIANCÉE] (se déridant). — Je viens de me demander si je r
+"Fromage...
+
+LA FIANCÉE",Product,MISC,4981,5003,,"ous voulez me mettre en rage ? LE PRÉTENDANT. — [Fromage... LA FIANCÉE] (éclatant de rire). — Ah ! vrai- ment, vous n'av"
+Ah !,Product,MISC,5026,5030,,"T. — Fromage... LA FIANCÉE (éclatant de rire). — [Ah !] vrai- ment, vous n'avez pas de cœur... LE PRÉTE"
+Café,Location,LOC,5089,5093,,"ent, vous n'avez pas de cœur... LE PRÉTENDANT. — [Café], cognac et liqueurs, (pendant que la fiancée rit"
+FIANCÉE,Organization,ORG,5253,5260,,"e gagné mon procès... vous ai-je fait rire ? LA [FIANCÉE] (s'essuyant les yeux). — Non, vraiment, ça ne co"
+Charles QUINEL,Person,PER,5343,5357,,"raiment, ça ne compte pas... c'est trop bête... [Charles QUINEL]. LE CODE POUR TOUS Contributions directes Juri"
+"POUR TOUS
+
+Contributions",Product,MISC,5368,5392,,... c'est trop bête... Charles QUINEL. LE CODE [POUR TOUS Contributions] directes Jurisprudence Déménagement d'un contri
+"Jurisprudence
+
+Déménagement d'un contribuable",Product,MISC,5403,5448,,INEL. LE CODE POUR TOUS Contributions directes [Jurisprudence Déménagement d'un contribuable]. Défaut d'indication de sa nouvelle résidence. —
+Conseil d'Etat,Organization,ORG,6068,6082,,"e présumé quitter le ressort de la perception. ([Conseil d'Etat], 1er juillet 1910.) Veuve. Contribution inscrite"
+Contribution,Product,MISC,6111,6123,,"ion. (Conseil d'Etat, 1er juillet 1910.) Veuve. [Contribution] inscrite au nom de son mari. — Lorsqu'une veuve"
+Conseil d'Etat,Organization,ORG,6605,6619,,"r le libellé du rôle, ne lui fait aucun grief. ([Conseil d'Etat], 21 juillet 1909.) Patentes. Marchand forain. —"
+Patentes,Product,MISC,6640,6648,,"ucun grief. (Conseil d'Etat, 21 juillet 1909.) [Patentes]. Marchand forain. — Un com- merçant qui effectue"
+patente,Location,LOC,6942,6949,,"d forain et est imposable en cette qualité à la [patente]. Bien que n'ayant ni chevaux ni voitures, il pe"
+Conseil d'Etat,Organization,ORG,7164,7178,,"in ayant voiture à deux roues et à un collier. ([Conseil d'Etat], 28 avril 1909.) Réclamations. Modification par"
+Réclamations,Product,MISC,7197,7209,,"à un collier. (Conseil d'Etat, 28 avril 1909.) [Réclamations]. Modification par l'admi- nistration des proposi"
+Conseil d'Etat,Organization,ORG,7533,7547,,"eine d'annulation de la décision à intervenir. ([Conseil d'Etat], 27 mai 1909.) Réclamations. Non-recevabilité de"
+Réclamations,Location,LOC,7564,7576,,"on à intervenir. (Conseil d'Etat, 27 mai 1909.) [Réclamations]. Non-recevabilité de la ré- clamation ne portant"
+Est non-recevable,Location,LOC,7661,7678,,tion ne portant pas la signature du réclamant. — [Est non-recevable] une récla- mation ne portant pas la signature du
+Conseil d'Etat,Organization,ORG,8168,8182,,"ar ap- plication de la loi du 13 juillet 1903. ([Conseil d'Etat], 31 juillet 1908.) Réclamations. Désistement du"
+Conseil d'Etat,Organization,ORG,8557,8571,,"ans- mis avant la notification du désistement. ([Conseil d'Etat], 22 avril 1910.) Recours au Conseil d'Etat en ma"
+Conseil d'Etat,Organization,ORG,8601,8615,,"nt. (Conseil d'Etat, 22 avril 1910.) Recours au [Conseil d'Etat] en matière d'évaluations cadastrales. — Un recou"
+Conseil d'Etat,Organization,ORG,8672,8686,,ière d'évaluations cadastrales. — Un recours au [Conseil d'Etat] est ouvert à toute per- sonne intéressée contre
+Conseil d'Etat,Organization,ORG,9207,9221,,"appuyant principalement sur les baux en cours. ([Conseil d'Etat], 28 juillet 1911.) SAINT-YVES. Mot en triangle"
+SAINT-YVES,Location,LOC,9242,9252,,"x en cours. (Conseil d'Etat, 28 juillet 1911.) [SAINT-YVES]. Mot en triangle Le moindre ornement d'un disco"
+Mot,Product,MISC,9255,9258,,"(Conseil d'Etat, 28 juillet 1911.) SAINT-YVES. [Mot] en triangle Le moindre ornement d'un discours."
+Ville,Location,LOC,9361,9366,,rique ou caillou le sont toujours Dans un mur. — [Ville] d'un empire. — Demi-dieu. — Un gibier charmant.
+Demi-dieu,Product,MISC,9383,9392,,nt toujours Dans un mur. — Ville d'un empire. — [Demi-dieu]. — Un gibier charmant. — Ce qui sur la terre res
+Suisse,Location,LOC,9454,9460,,r charmant. — Ce qui sur la terre respire. — En [Suisse] se trouve aisément. — Ile française. — En tout s
+Ile française,Location,LOC,9484,9497,,erre respire. — En Suisse se trouve aisément. — [Ile française]. — En tout serment Un Allibroge. SOLUTION de l
+"SOLUTION
+
+de l'anagramme",Product,MISC,9533,9557,,Ile française. — En tout serment Un Allibroge. [SOLUTION de l'anagramme] (N° 1.132) Algérien. Galérien. Régalien. SOLU
+Algérien,Location,LOC,9570,9578,,Allibroge. SOLUTION de l'anagramme (N° 1.132) [Algérien]. Galérien. Régalien. SOLUTIONS JUSTES Mot car
+Galérien,Location,LOC,9581,9589,,SOLUTION de l'anagramme (N° 1.132) Algérien. [Galérien]. Régalien. SOLUTIONS JUSTES Mot carré (N° 1.13
+Régalien,Location,LOC,9592,9600,,de l'anagramme (N° 1.132) Algérien. Galérien. [Régalien]. SOLUTIONS JUSTES Mot carré (N° 1.131) A. Lefe
+"JUSTES
+
+",Product,MISC,9613,9621,,.132) Algérien. Galérien. Régalien. SOLUTIONS [JUSTES ]Mot carré (N° 1.131) A. Lefebvre. — O. Clin. — No
+O. Clin,Person,PER,9658,9665,,IONS JUSTES Mot carré (N° 1.131) A. Lefebvre. — [O. Clin]. — Nortrop. — Léo- pold Gros. — Spirite. — Chauq
+Nortrop,Person,PER,9669,9676,,Mot carré (N° 1.131) A. Lefebvre. — O. Clin. — [Nortrop]. — Léo- pold Gros. — Spirite. — Chauquettes. — M
+Spirite,Person,PER,9699,9706,,ebvre. — O. Clin. — Nortrop. — Léo- pold Gros. — [Spirite]. — Chauquettes. — M. T. — Va vite. — Haël. — E.
+Chauquettes,Location,LOC,9710,9721,,Clin. — Nortrop. — Léo- pold Gros. — Spirite. — [Chauquettes]. — M. T. — Va vite. — Haël. — E. Terrion. — Loui
+Haël,Person,PER,9745,9749,,. — Spirite. — Chauquettes. — M. T. — Va vite. — [Haël]. — E. Terrion. — Louis Cros. — Jean et Antoine.
+E. Terrion,Person,PER,9753,9763,,ite. — Chauquettes. — M. T. — Va vite. — Haël. — [E. Terrion]. — Louis Cros. — Jean et Antoine. — C. Pierron.
+"Louis
+
+Cros",Person,PER,9767,9778,,ttes. — M. T. — Va vite. — Haël. — E. Terrion. — [Louis Cros]. — Jean et Antoine. — C. Pierron. — F. Crémont.
+Jean,Person,PER,9782,9786,,— Va vite. — Haël. — E. Terrion. — Louis Cros. — [Jean] et Antoine. — C. Pierron. — F. Crémont. — Kloklo
+Antoine,Product,MISC,9790,9797,,e. — Haël. — E. Terrion. — Louis Cros. — Jean et [Antoine]. — C. Pierron. — F. Crémont. — Kloklo. — Q. de M
+C. Pierron,Person,PER,9801,9811,,— E. Terrion. — Louis Cros. — Jean et Antoine. — [C. Pierron]. — F. Crémont. — Kloklo. — Q. de Meigneux. — Ch
+"F.
+
+Crémont",Person,PER,9815,9826,,— Louis Cros. — Jean et Antoine. — C. Pierron. — [F. Crémont]. — Kloklo. — Q. de Meigneux. — Cherche trouve. —
+Kloklo,Location,LOC,9830,9836,,— Jean et Antoine. — C. Pierron. — F. Crémont. — [Kloklo]. — Q. de Meigneux. — Cherche trouve. — C. Desser
+Q. de Meigneux,Person,PER,9840,9854,,Antoine. — C. Pierron. — F. Crémont. — Kloklo. — [Q. de Meigneux]. — Cherche trouve. — C. Desserville. — Albert P.
+Cherche,Location,LOC,9859,9866,,on. — F. Crémont. — Kloklo. — Q. de Meigneux. — [Cherche] trouve. — C. Desserville. — Albert P. — Tante Lé
+C. Desserville,Person,PER,9877,9891,,— Kloklo. — Q. de Meigneux. — Cherche trouve. — [C. Desserville]. — Albert P. — Tante Léonie. — Salze. — Al-ben-S
+Albert P.,Person,PER,9895,9904,,Meigneux. — Cherche trouve. — C. Desserville. — [Albert P.] — Tante Léonie. — Salze. — Al-ben-Sehrka. —
+Salze,Person,PER,9924,9929,,— C. Desserville. — Albert P. — Tante Léonie. — [Salze]. — Al-ben-Sehrka. —

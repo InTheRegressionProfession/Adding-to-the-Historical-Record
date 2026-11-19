@@ -1,0 +1,114 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+San-sconnet,Person,PER,175,186,0.9786,des parties de campagne organisées par l'amusant [San-sconnet]. Raoul VERNEUIL. LE CODE POUR TOUS Servitudes.
+Raoul VERNEUIL,Person,PER,189,203,0.9898,e campagne organisées par l'amusant San-sconnet. [Raoul VERNEUIL]. LE CODE POUR TOUS Servitudes. — Jurisprudence
+"LE CODE POUR TOUS
+
+Servitudes",Product,MISC,206,235,0.9091,sées par l'amusant San-sconnet. Raoul VERNEUIL. [LE CODE POUR TOUS Servitudes]. — Jurisprudence Exercice des servitudes. — Une
+Périgueux,Location,LOC,465,474,0.9885,t le locataire et le sous-locataire. (Trib. civ. [Périgueux]. 22 nov. 1909.) Destination du père de famille.
+22 nov. 1909,Time,DATE,476,488,0.9955,ire et le sous-locataire. (Trib. civ. Périgueux. [22 nov. 1909].) Destination du père de famille. Conditions d'e
+Lyon,Location,LOC,1094,1098,0.9757,"euve par écrit qu'il n'est pas usuel d'établir. ([Lyon], 2e ch., 29 avril 1910.) Mitoyenneté de la clôtu"
+29 avril 1910,Time,DATE,1108,1121,0.9958,"qu'il n'est pas usuel d'établir. (Lyon, 2e ch., [29 avril 1910].) Mitoyenneté de la clôture. Présomption légale."
+Code,Product,MISC,1567,1571,0.376,deux héritages n'est édicée par l'article 666 du [Code] civil que pour le cas où il n'est pas prouvé par
+Douai,Location,LOC,1835,1840,0.564,"frais est prouvée d'une manière incontestable. ([Douai], 2e ch., 27 janvier 1910.) Enclave. Passage. Pos"
+27 janvier 1910,Time,DATE,1850,1865,0.9952,"vée d'une manière incontestable. (Douai, 2e ch., [27 janvier 1910].) Enclave. Passage. Possession trentenaire. — Il"
+trente ans,Time,DATE,2027,2037,0.9909,"par la loi au fonds enclavé a été exercé pendant [trente ans], suivant un mode et une assiette déterminés, cett"
+Bourg,Person,PER,2352,2357,0.9582,"'enclave qui en avait été la cause originaires. ([Bourg], trib. civ. 15 nov. 1910.) Enclave. Chemin défec"
+15 nov. 1910,Time,DATE,2370,2382,0.9953,"ait été la cause originaires. (Bourg, trib. civ. [15 nov. 1910].) Enclave. Chemin défectueux. Chemin d'exploitat"
+Pontivy,Location,LOC,3129,3136,0.6566,"héritages qu'ils bordent ou qu'ils traversent. ([Pontivy], trib. civ., 3 mars 1909.) Vue droite. Prescript"
+3 mars 1909,Time,DATE,3150,3161,0.9951,"dent ou qu'ils traversent. (Pontivy, trib. civ., [3 mars 1909].) Vue droite. Prescription trentenaire. — Une se"
+Montpellier,Location,LOC,3480,3491,0.9938,"constructions nouvelles, aux distances légales. ([Montpellier]. 9 août 1906.) Arbres. Chemins publics ou d'expl"
+9 août 1906,Time,DATE,3493,3504,0.9958,"nouvelles, aux distances légales. (Montpellier. [9 août 1906].) Arbres. Chemins publics ou d'exploitation. — L"
+Code,Product,MISC,3570,3574,0.4018,ins publics ou d'exploitation. — L'article 671 du [Code] civil qui fixe la distance de plantation des arbr
+Cass. Reg,Product,MISC,3713,3722,0.5628,"ls soient publics ou simplement d'exploitation. ([Cass. Reg]., 12 avril 1910.) Echelage. Nature de ce droit."
+12 avril 1910,Time,DATE,3725,3738,0.9951,"blics ou simplement d'exploitation. (Cass. Reg., [12 avril 1910].) Echelage. Nature de ce droit. Propriété ou ser"
+Luhans,Person,PER,4140,4146,0.9446,"échelage ne constitue qu'un droit de servitude. ([Luhans], trib. civ., 16 juillet 1909.) SAINT-YVES. LOGO"
+16 juillet 1909,Time,DATE,4160,4175,0.9959,"e qu'un droit de servitude. (Luhans, trib. civ., [16 juillet 1909].) SAINT-YVES. LOGOGRIPHE - D'une grève ou d'un"
+SAINT-YVES,Location,LOC,4179,4189,0.9554,"rvitude. (Luhans, trib. civ., 16 juillet 1909.) [SAINT-YVES]. LOGOGRIPHE - D'une grève ou d'un litige Le com"
+Volontairement,Product,MISC,4281,4295,0.9389,e Le commencement. — Pénitence que l'on s'inflige [Volontairement]. — Femme d'un pays d'Afrique. — Sorte d'aliment.
+d'Afrique,Location,LOC,4315,4324,0.9635,l'on s'inflige Volontairement. — Femme d'un pays [d'Afrique]. — Sorte d'aliment. — Modeste instrument de musiq
+Thabor,Location,LOC,4437,4443,0.8831,cament. — Poète français. — Un village Au pied du [Thabor]. — Recueil. — Chacun accroît notre âge — Chef du
+Nestor,Location,LOC,4499,4505,0.7883,cueil. — Chacun accroît notre âge — Chef du vieux [Nestor]. Un Allobroge. SOLUTION Mots en triangle (N° 1
+Un Allobroge,Product,MISC,4508,4520,0.8483,Chacun accroît notre âge — Chef du vieux Nestor. [Un Allobroge]. SOLUTION Mots en triangle (N° 1.077) P R A B
+Logogriphe,Person,PER,4674,4684,0.8101,O L A U S G A R S N I D A S N. SOLUTIONS JUSTES [Logogriphe] (N° 1.076) - E. Terrion. — Va vite. — Marc Assin
+E. Terrion,Person,PER,4699,4709,0.9693,S N. SOLUTIONS JUSTES Logogriphe (N° 1.076) - [E. Terrion]. — Va vite. — Marc Assin. — Léopold Gros. — M. Ch
+Va,Product,MISC,4713,4715,0.5071,NS JUSTES Logogriphe (N° 1.076) - E. Terrion. — [Va] vite. — Marc Assin. — Léopold Gros. — M. Cholet.
+Marc Assin,Person,PER,4724,4734,0.9943,Logogriphe (N° 1.076) - E. Terrion. — Va vite. — [Marc Assin]. — Léopold Gros. — M. Cholet. — C. Desserville. —
+Léopold Gros,Person,PER,4738,4750,0.9945,1.076) - E. Terrion. — Va vite. — Marc Assin. — [Léopold Gros]. — M. Cholet. — C. Desserville. — Chauquettes. —
+M. Cholet,Person,PER,4754,4763,0.9926,rrion. — Va vite. — Marc Assin. — Léopold Gros. — [M. Cholet]. — C. Desserville. — Chauquettes. — M. T. — F. Cr
+C. Desserville,Person,PER,4767,4781,0.991,ite. — Marc Assin. — Léopold Gros. — M. Cholet. — [C. Desserville]. — Chauquettes. — M. T. — F. Crémont. — A. Godaux
+Chauquettes,Person,PER,4785,4796,0.9855,— Léopold Gros. — M. Cholet. — C. Desserville. — [Chauquettes]. — M. T. — F. Crémont. — A. Godaux. — Fou-je-romp
+M. T,Person,PER,4800,4804,0.978,. — M. Cholet. — C. Desserville. — Chauquettes. — [M. T]. — F. Crémont. — A. Godaux. — Fou-je-romps. — Klo
+F. Crémont,Person,PER,4808,4818,0.9907,holet. — C. Desserville. — Chauquettes. — M. T. — [F. Crémont]. — A. Godaux. — Fou-je-romps. — Kloklo. AMERICA
+A. Godaux,Person,PER,4822,4831,0.9883,sserville. — Chauquettes. — M. T. — F. Crémont. — [A. Godaux]. — Fou-je-romps. — Kloklo. AMERICA Fabrication
+Fou-je-romps,Person,PER,4835,4847,0.6984,Chauquettes. — M. T. — F. Crémont. — A. Godaux. — [Fou-je-romps]. — Kloklo. AMERICA Fabrication de premier ordre
+Kloklo,Person,PER,4851,4857,0.9836,. T. — F. Crémont. — A. Godaux. — Fou-je-romps. — [Kloklo]. AMERICA Fabrication de premier ordre absolumen
+AMERICA,Product,MISC,4860,4867,0.6998,Crémont. — A. Godaux. — Fou-je-romps. — Kloklo. [AMERICA] Fabrication de premier ordre absolument garantie
+ICYCL,Product,MISC,4921,4926,0.5133,"brication de premier ordre absolument garantie. B[ICYCL]ETTE DE ROUTE Garantie solide, légère et élégante."
+Tourisme,Product,MISC,5053,5061,0.8514,"nt construite pour l'usage journalier et le grand [Tourisme]. PRIX NET : (Tous les renseignements techniques,"
+Gratis,Product,MISC,5266,5272,0.5437,NITURE IMMÉDIATE RIEN A PAYER D'AVANCE Emballage [Gratis] 28 MOIS DE CREDIT Faculté de retour en cas de n
+28 MOIS,Time,DATE,5274,5281,0.8348,MMÉDIATE RIEN A PAYER D'AVANCE Emballage Gratis [28 MOIS] DE CREDIT Faculté de retour en cas de non-conven
+Bowden,Organization,ORG,5459,5465,0.8936,"reté sur roue avant; 1 sur jante arrière, licence [Bowden]. CHAÎNE SUPÉRIEURE, Acier spécial, au pas de 12-7"
+"""HUTCHINSON""",Organization,ORG,5543,5555,0.7863,"pécial, au pas de 12-7. PNEUMATIQUES, Fabrication [""HUTCHINSON""] 1RE MARQUE NOTA. — Nos machines sont livrées ind"
+12-7,Time,DATE,6411,6415,0.8317,"acier laminé, modèle déposé, 52 dents, au pas de [12-7]. — Moyeux à cônes indérégables. — Jantes acier à"
+"""Etoile",Organization,ORG,6517,6524,0.6481,"rds nickelés. — Rayons tangents renforcés, marque [""Etoile]"". — Roue libre Eadie véritable, à 2 rangées de bi"
+Eadie,Product,MISC,6540,6545,0.885,"tangents renforcés, marque ""Etoile"". — Roue libre [Eadie] véritable, à 2 rangées de billes. — Frein de sûre"
+Bowden,Organization,ORG,6655,6661,0.8217,"roue avant. — Frein sur la jante arrière, licence [Bowden]. — Chaîne acier, supérieure, au pas de 12-7. — Ga"
+12-7,Time,DATE,6701,6705,0.7513,"nce Bowden. — Chaîne acier, supérieure, au pas de [12-7]. — Garde-boue érablé poli et verni. — Selles, 4 s"
+BULLETIN,Product,MISC,6929,6937,0.7541,"uivre. — Poids en ordre de marche : 13 kilos. 43 [BULLETIN] DE SOUSCRIPTION Je soussigné, déclare acheter à l"
+Maison GIRARD & BOITTE,Organization,ORG,6989,7011,0.9416,"E SOUSCRIPTION Je soussigné, déclare acheter à la [Maison GIRARD & BOITTE], à Paris, la Bicyclette AMERICA, comme détaillé c"
+Paris,Location,LOC,7015,7020,0.9939,"é, déclare acheter à la Maison GIRARD & BOITTE, à [Paris], la Bicyclette AMERICA, comme détaillé ci-dessus,"
+Bicyclette AMERICA,Product,MISC,7025,7043,0.9732,"acheter à la Maison GIRARD & BOITTE, à Paris, la [Bicyclette AMERICA], comme détaillé ci-dessus, aux conditions énoncée"
+1,Time,DATE,7256,7257,0.5265,"me de 196 francs, prix total. Fait à ... le ... 19[1] ... Nom et Prénoms ... Profession ou Qualité ..."
+Bulletin,Product,MISC,7407,7415,0.8979,... Signature : ... Prière de remplir le présent [Bulletin] et de l'envoyer sous enveloppe à l'adresse de :
+GIRARD & BOITTE,Organization,ORG,7465,7480,0.9476,"et de l'envoyer sous enveloppe à l'adresse de : [GIRARD & BOITTE] 46, Rue de l'Échiquier, 46, PARIS (Xe Arrt). GRA"
+"46, Rue de l'Échiquier",Location,LOC,7481,7503,0.9592,"sous enveloppe à l'adresse de : GIRARD & BOITTE [46, Rue de l'Échiquier], 46, PARIS (Xe Arrt). GRATIS ET FRANCO ! Demande"
+46,Location,LOC,7505,7507,0.7961,"sse de : GIRARD & BOITTE 46, Rue de l'Échiquier, [46], PARIS (Xe Arrt). GRATIS ET FRANCO ! Demandez, s"
+PARIS,Location,LOC,7509,7514,0.9929,"de : GIRARD & BOITTE 46, Rue de l'Échiquier, 46, [PARIS] (Xe Arrt). GRATIS ET FRANCO ! Demandez, suivant"
+Xe Arrt,Location,LOC,7516,7523,0.8681,"IRARD & BOITTE 46, Rue de l'Échiquier, 46, PARIS ([Xe Arrt]). GRATIS ET FRANCO ! Demandez, suivant vos goûts"
+UN A DEUX ANS,Time,DATE,7923,7936,0.9096,"S, MACHINES A COUDRE, etc., etc. A tout le monde: [UN A DEUX ANS] DE CREDIT. Plaies Variqueuses Maladies de la pe"
+Plaies Variqueuses,Organization,ORG,7949,7967,0.8032,", etc. A tout le monde: UN A DEUX ANS DE CREDIT. [Plaies Variqueuses] Maladies de la peau, eczéma, acné, boutons, déma"
+Traitement Végétal,Product,MISC,8119,8137,0.9798,"éris rapidement et infailliblement par le nouveau [Traitement Végétal] du Dr Wolf. Ecrire à M. Passerieux, pharmacien-sp"
+Dr Wolf,Person,PER,8141,8148,0.9479,"ailliblement par le nouveau Traitement Végétal du [Dr Wolf]. Ecrire à M. Passerieux, pharmacien-spécialiste,"
+M,Person,PER,8159,8160,0.5958,"e nouveau Traitement Végétal du Dr Wolf. Ecrire à [M]. Passerieux, pharmacien-spécialiste, 46, rue des"
+Passerieux,Person,PER,8162,8172,0.9908,"ouveau Traitement Végétal du Dr Wolf. Ecrire à M. [Passerieux], pharmacien-spécialiste, 46, rue des Faures, à Bo"
+rue des Faures,Location,LOC,8202,8216,0.9405,"rire à M. Passerieux, pharmacien-spécialiste, 46, [rue des Faures], à Bordeaux, qui envoie gratuitement tous conseil"
+Bordeaux,Location,LOC,8220,8228,0.9941,"ux, pharmacien-spécialiste, 46, rue des Faures, à [Bordeaux], qui envoie gratuitement tous conseils et renseig"
+Paris,Location,LOC,8322,8327,0.9917,"enseignements sur cette belle découverte. Dépôt à [Paris] : Pharmacie Girard, 21, rue Lafayette. VALSE Gar"
+Pharmacie Girard,Location,LOC,8330,8346,0.8614,"ments sur cette belle découverte. Dépôt à Paris : [Pharmacie Girard], 21, rue Lafayette. VALSE Gardez adres, et qd v."
+rue Lafayette,Location,LOC,8352,8365,0.9771,"découverte. Dépôt à Paris : Pharmacie Girard, 21, [rue Lafayette]. VALSE Gardez adres, et qd v. vendrez app. SEUL,"
+Prof. LAGUS,Person,PER,8478,8489,0.7394,"R, p 11.20, ou p tou danses liv. 125 pag. 1 f.60, [Prof. LAGUS], Palais d'Hiver. Pau (B.-P.) ACHETEZ LA MONTRE p"
+Palais d'Hiver,Location,LOC,8491,8505,0.9911,"u p tou danses liv. 125 pag. 1 f.60, Prof. LAGUS, [Palais d'Hiver]. Pau (B.-P.) ACHETEZ LA MONTRE précise et garant"
+Pau,Location,LOC,8507,8510,0.9936,"iv. 125 pag. 1 f.60, Prof. LAGUS, Palais d'Hiver. [Pau] (B.-P.) ACHETEZ LA MONTRE précise et garantie le"
+B,Location,LOC,8512,8513,0.7693,"25 pag. 1 f.60, Prof. LAGUS, Palais d'Hiver. Pau ([B].-P.) ACHETEZ LA MONTRE précise et garantie le BI"
+FÈVRIER,Product,MISC,8598,8605,0.5197,"garantie le BIJOU élégant et solide l'inusable OR[FÈVRIER]IE chez TRIBAUDEAU Fab à BESANÇON 58 Récompenses,"
+TRIBAUDEAU,Person,PER,8613,8623,0.6969,"JOU élégant et solide l'inusable ORFÈVRIERIE chez [TRIBAUDEAU] Fab à BESANÇON 58 Récompenses, Concours des Chron"
+BESANÇON,Location,LOC,8630,8638,0.9897,"lide l'inusable ORFÈVRIERIE chez TRIBAUDEAU Fab à [BESANÇON] 58 Récompenses, Concours des Chronomètres à l'Obs"
+Récompense,Product,MISC,8642,8652,0.5909,"ble ORFÈVRIERIE chez TRIBAUDEAU Fab à BESANÇON 58 [Récompense]s, Concours des Chronomètres à l'Observatoire, deu"
+Concours des Chronomètres à l'Observatoire,Product,MISC,8655,8697,0.9049,"IE chez TRIBAUDEAU Fab à BESANÇON 58 Récompenses, [Concours des Chronomètres à l'Observatoire], deux fois prix, 11 Médailles d'Or, etc. Prime à"
+Médailles d'Or,Product,MISC,8718,8732,0.9706,"Chronomètres à l'Observatoire, deux fois prix, 11 [Médailles d'Or], etc. Prime à tout achat. FRANCO TARIF ILLUSTRÉ"
+L'Extrait Capillaire Végétal,Product,MISC,8816,8844,0.9425,TARIF ILLUSTRÉ PLUS D'IMBERBES! PLUS DE CHAUVES! [L'Extrait Capillaire Végétal] fait pousser la barbe et les moustaches magnifiqu
+à 15 ans,Time,DATE,8902,8910,0.9943,"usser la barbe et les moustaches magnifiques même [à 15 ans], il fait repousser cheveux, cils et sourcils. — S"
+Léopold POUJADE,Person,PER,9074,9089,0.9919,"fr. 75. F. essai 0 fr. 75, franco. tim. en mand. [Léopold POUJADE], Chimiste, à FIGEAC (Lot). LA PHOTOGRAPHIE du Pe"
+Chimiste,Organization,ORG,9091,9099,0.5024,"0 fr. 75, franco. tim. en mand. Léopold POUJADE, [Chimiste], à FIGEAC (Lot). LA PHOTOGRAPHIE du Petit Journa"
+FIGEAC,Location,LOC,9103,9109,0.9911,"ranco. tim. en mand. Léopold POUJADE, Chimiste, à [FIGEAC] (Lot). LA PHOTOGRAPHIE du Petit Journal G. LIÉBE"
+Lot,Location,LOC,9111,9114,0.993,"im. en mand. Léopold POUJADE, Chimiste, à FIGEAC ([Lot]). LA PHOTOGRAPHIE du Petit Journal G. LIÉBERT, d"
+Petit Journal,Product,MISC,9137,9150,0.9116,"DE, Chimiste, à FIGEAC (Lot). LA PHOTOGRAPHIE du [Petit Journal] G. LIÉBERT, directeur HOTEL DU « PETIT JOURNAL »"
+G. LIÉBERT,Person,PER,9151,9161,0.9629,"à FIGEAC (Lot). LA PHOTOGRAPHIE du Petit Journal [G. LIÉBERT], directeur HOTEL DU « PETIT JOURNAL » 61, Rue Laf"
+PETIT JOURNAL,Product,MISC,9184,9197,0.8014,"du Petit Journal G. LIÉBERT, directeur HOTEL DU « [PETIT JOURNAL] » 61, Rue Lafayette, 61 Ouvert tous les jours de"
+Rue Lafayette,Location,LOC,9204,9217,0.9884,"LIÉBERT, directeur HOTEL DU « PETIT JOURNAL » 61, [Rue Lafayette], 61 Ouvert tous les jours de 9 h. du matin à 6 h."
+LE PETIT JOURNAL AG,Product,MISC,9918,9937,0.8644,"trique. Envoi du tarif complet sur demande. LIRE [LE PETIT JOURNAL AG]RICOLE CYCLES MERICANT 13, Av. des Moulineaux, PA"
+RIC,Organization,ORG,9937,9940,0.4233,"rif complet sur demande. LIRE LE PETIT JOURNAL AG[RIC]OLE CYCLES MERICANT 13, Av. des Moulineaux, PARIS"
+OLE,Product,MISC,9940,9943,0.5286,"complet sur demande. LIRE LE PETIT JOURNAL AGRIC[OLE] CYCLES MERICANT 13, Av. des Moulineaux, PARIS-BI"
+CYCLES,Organization,ORG,9945,9951,0.6104,"let sur demande. LIRE LE PETIT JOURNAL AGRICOLE [CYCLES] MERICANT 13, Av. des Moulineaux, PARIS-BILLANCOUR"
+MERICANT 13,Location,LOC,9952,9963,0.5173,"demande. LIRE LE PETIT JOURNAL AGRICOLE CYCLES [MERICANT 13], Av. des Moulineaux, PARIS-BILLANCOURT Catalogue"
+Av. des Moulineaux,Location,LOC,9965,9983,0.9892,"RE LE PETIT JOURNAL AGRICOLE CYCLES MERICANT 13, [Av. des Moulineaux], PARIS-BILLANCOURT Catalogue franco. PRIX de GROS"
+PARIS-BILLANCOURT,Location,LOC,9985,10002,0.994,"AGRICOLE CYCLES MERICANT 13, Av. des Moulineaux, [PARIS-BILLANCOURT] Catalogue franco. PRIX de GROS aux Intermédiaires"
+GROS,Product,MISC,10029,10033,0.7901,"eaux, PARIS-BILLANCOURT Catalogue franco. PRIX de [GROS] aux Intermédiaires Le Gérant : G. LASSEUR IMPRIM"
+Intermédiaires,Product,MISC,10038,10052,0.7835,IS-BILLANCOURT Catalogue franco. PRIX de GROS aux [Intermédiaires] Le Gérant : G. LASSEUR IMPRIMERIE DU Petit Journ
+G. LASSEUR,Person,PER,10066,10076,0.9225,"nco. PRIX de GROS aux Intermédiaires Le Gérant : [G. LASSEUR] IMPRIMERIE DU Petit Journal (C. MARTY, imp.) Impr"
+PRIMERIE,Organization,ORG,10079,10087,0.6351,"GROS aux Intermédiaires Le Gérant : G. LASSEUR IM[PRIMERIE] DU Petit Journal (C. MARTY, imp.) Imprimé sur la"
+DU Petit Journal,Product,MISC,10088,10104,0.8469,"Intermédiaires Le Gérant : G. LASSEUR IMPRIMERIE [DU Petit Journal] (C. MARTY, imp.) Imprimé sur la Machine rotative"
+MARTY,Person,PER,10109,10114,0.9387,"rant : G. LASSEUR IMPRIMERIE DU Petit Journal (C. [MARTY], imp.) Imprimé sur la Machine rotative chromo-typ"
+Machine rotative chr,Product,MISC,10137,10157,0.6543,"DU Petit Journal (C. MARTY, imp.) Imprimé sur la [Machine rotative chr]omo-typo de MARINONI (Encre LORILLEUX)"
+MARINONI,Organization,ORG,10169,10177,0.8621,.) Imprimé sur la Machine rotative chromo-typo de [MARINONI] (Encre LORILLEUX)
+LORILLEUX,Organization,ORG,10185,10194,0.4622,a Machine rotative chromo-typo de MARINONI (Encre [LORILLEUX])

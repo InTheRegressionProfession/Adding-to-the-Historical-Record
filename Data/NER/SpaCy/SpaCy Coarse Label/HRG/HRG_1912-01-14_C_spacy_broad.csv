@@ -1,0 +1,78 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+"CHIEN
+
+Son maître",Product,MISC,11,28,,LA MORT DU [CHIEN Son maître] l'avait appelé Turc. Il n'avait pourtant rien d'u
+Turc,Location,LOC,44,48,,"LA MORT DU CHIEN Son maître l'avait appelé [Turc]. Il n'avait pourtant rien d'un Turc, le pauvre :"
+Turc,Location,LOC,80,84,,"'avait appelé Turc. Il n'avait pourtant rien d'un [Turc], le pauvre : bien au contraire. Il était maigre,"
+Turc,Location,LOC,329,333,,"derrière comme un point d'interrogation. L'été, [Turc] était aux champs, gardait les vaches, aboyait le"
+Turc,Location,LOC,911,915,,"nt à l'étable, engourdis sur leur litière chaude, [Turc], lui, restait à la niche : un misérable tonneau d"
+Turc,Location,LOC,2201,2205,,it inconnus et qui le chassèrent à coups de pied. [Turc] s'en alla. Le village était bâti sur un carrefou
+Turc,Person,PER,3135,3139,,"se levait, montait dans le ciel, rose et triste, [Turc] s'assit sur son derrière, et le col étiré, la têt"
+Houou,Location,LOC,3256,3261,,"ciel, longtemps, longtemps, il cria au perdu : — [Houou] ! Houou ! Houou ! Seuls les chiens des fermes voi"
+Houou,Location,LOC,3264,3269,,"ngtemps, longtemps, il cria au perdu : — Houou ! [Houou] ! Houou ! Seuls les chiens des fermes voisines ré"
+Houou,Location,LOC,3272,3277,,"longtemps, il cria au perdu : — Houou ! Houou ! [Houou] ! Seuls les chiens des fermes voisines répondiren"
+Bernard,Product,MISC,3391,3398,,"urs de la nuit aux sanglots du pauvre animal. M. [Bernard], notaire, sortait de chez lui, à pointe d'aube, e"
+casimir noir,Person,PER,3525,3537,,"romenade accoutumée. Il était entièrement vêtu de [casimir noir], ainsi qu'il convient à un notaire. Mais comme on"
+Bernard,Product,MISC,3626,3633,,"is comme on se trouvait au plus fort de l'été, M. [Bernard] avait cru pouvoir égayer sa tenue sévère d'une om"
+Bernard,Person,PER,3944,3951,,"d à l'ouvrage. — Toujours matinal donc, monsieur [Bernard] ! dit l'un d'eux, en saluant avec respect. M. Be"
+Bernard,Product,MISC,3999,4006,,"rd ! dit l'un d'eux, en saluant avec respect. M. [Bernard] allait répondre, car il n'était pas fier, quand i"
+Bernard,Product,MISC,4169,4176,,"te, si crotté, et qui semblait si fatigué, que M. [Bernard], instinctivement, se gara contre un platane. Ce c"
+Turc,Location,LOC,4240,4244,,"ent, se gara contre un platane. Ce chien, c'était [Turc], le pauvre, le lamentable Turc. — Oh ! oh ! se d"
+Turc,Product,MISC,4271,4275,,"Ce chien, c'était Turc, le pauvre, le lamentable [Turc]. — Oh ! oh ! se dit M. Bernard, voilà un chien q"
+Oh !,Product,MISC,4280,4284,,", c'était Turc, le pauvre, le lamentable Turc. — [Oh !] oh ! se dit M. Bernard, voilà un chien que je ne"
+Bernard,Product,MISC,4300,4307,,"auvre, le lamentable Turc. — Oh ! oh ! se dit M. [Bernard], voilà un chien que je ne connais pas. Oh ! oh !"
+Oh !,Product,MISC,4347,4351,,"M. Bernard, voilà un chien que je ne connais pas. [Oh !] oh ! Dans les petites villes on connaît tous les"
+Oh !,Product,MISC,4661,4665,,"au centre de la promenade et ne s'arrêta pas. — [Oh !] oh - se dit M. Bernard, ce chien que je ne connai"
+Bernard,Product,MISC,4681,4688,,"menade et ne s'arrêta pas. — Oh ! oh - se dit M. [Bernard], ce chien que je ne connais pas, ne s'arrête pas"
+Oh !,Product,MISC,4753,4757,,"je ne connais pas, ne s'arrête pas à la fontaine. [Oh !] oh ! ce chien est enragé, évidemment enragé... T"
+"...
+
+Tremblant",Product,MISC,4801,4815,,". Oh ! oh ! ce chien est enragé, évidemment enragé[... Tremblant], il se munit d'une grosse pierre. Le chien avança"
+Oh !,Product,MISC,4909,4913,,"avançait, trottinant doucement, la tête basse. — [Oh !] oh ! se dit M. Bernard, devenu tout pâle, je vois"
+Bernard,Product,MISC,4929,4936,,"doucement, la tête basse. — Oh ! oh ! se dit M. [Bernard], devenu tout pâle, je vois l'écume. Oh ! oh ! l'é"
+Oh !,Product,MISC,4973,4977,,"it M. Bernard, devenu tout pâle, je vois l'écume. [Oh !] oh ! l'écume !... au secours !... au secours ! E"
+Bernard,Product,MISC,5746,5753,,"de défense, et que s'exaltaient les courageux, M. [Bernard] avait réveillé le maire et lui contait la terribl"
+Bernard,Product,MISC,5932,5939,,"a failli me mordre, monsieur le maire ! s'écriait [Bernard] en se tâtant les cuisses, les mollets, le ventre."
+Oh !,Product,MISC,5990,5994,,"en se tâtant les cuisses, les mollets, le ventre. [Oh !] oh ! j'ai vu bien des chiens enragés dans ma vie,"
+Oh !,Product,MISC,6162,6166,,"is, je n'en vis de plus enragé, de plus terrible. [Oh !] oh ! Le maire, très digne, mais aussi très perpl"
+Bernard,Product,MISC,6379,6386,,"enragé que cela ? — Si enragé que cela ! s'écria [Bernard], indigné ; si vous l'aviez vu, l'écume et les yeu"
+Ecoutez,Product,MISC,6607,6614,,"da le maire bien en face et reprit lentement : — [Ecoutez] : il ne s'agit plus de politique ici, Monsieur le"
+Monsieur le Maire,Person,PER,6653,6670,,"— Ecoutez : il ne s'agit plus de politique ici, [Monsieur le Maire] ; il s'agit du salut des habitants, de la protect"
+Monsieur le Maire,Person,PER,6910,6927,,"un parti énergique, vous le regretterez bientôt, [Monsieur le Maire], c'est moi qui vous le dis, moi, Bernard, notaire"
+Bernard,Product,MISC,6961,6968,,"onsieur le Maire, c'est moi qui vous le dis, moi, [Bernard], notaire. M. Bernard était le chef de l'oppositi"
+Bernard,Product,MISC,6983,6990,,"t moi qui vous le dis, moi, Bernard, notaire. M. [Bernard] était le chef de l'opposition radicale et l'ennem"
+Turc,Location,LOC,7110,7114,,"i n'hésita plus et le garde-champêtre fut mandé. [Turc], réfugié sur la place où personne n'osait l'appro"
+Bernard,Product,MISC,7489,7496,,"lle, le maire, qui assistait au spectacle avec M. [Bernard], ne put s'empêcher de dire à celui-ci : « Et cepe"
+Galilée,Person,PER,7595,7602,,"endant il mange ! » de la même voix que dut avoir [Galilée] en prononçant la phrase célèbre. — Oui, il mange"
+Bernard,Product,MISC,7698,7705,,"ange l'horrible animal, le sournois ! répondit M. [Bernard]. Et s'adressant au garde-champêtre, il commanda"
+"Attention !
+
+",Product,MISC,8216,8229,,"te brusque rouler derrière lui dans la poussière. [Attention ! ]Et il ajusta le chien, le pauvre chien, le lamenta"
+Pan !,Product,MISC,8770,8775,,horrible. Le garde-champêtre ajustait toujours. [Pan !] pan ! Et en même temps éclata un cri de douleur
+Bernard,Person,PER,9185,9192,,"tre, et le maire, la bouche ouverte, regardait M. [Bernard] saisi d'horreur et d'indignation. Turc a couru t"
+Turc,Location,LOC,9228,9232,,ait M. Bernard saisi d'horreur et d'indignation. [Turc] a couru toute la journée dansant affreusement sur
+Octave MIRBEAU,Person,PER,10396,10410,,"s'assouplit, sans pousser une plainte, il meurt. [Octave MIRBEAU]. UN MONSIEUR offre gratuitement de faire connaît"
+UN MONSIEUR,Organization,ORG,10413,10424,,"pousser une plainte, il meurt. Octave MIRBEAU. [UN MONSIEUR] offre gratuitement de faire connaître à tous ceux"
+Ecrire,Product,MISC,10888,10894,,"le but humanitaire, est la conséquence d'un vœu. [Ecrire] par lettre ou carte postale à M. Vincent, 8, plac"
+M. Vincent,Person,PER,10925,10935,,"e d'un vœu. Ecrire par lettre ou carte postale à [M. Vincent], 8, place Victor-Hugo, à Grenoble, qui répondra g"
+Victor-Hugo,Person,PER,10946,10957,,"ar lettre ou carte postale à M. Vincent, 8, place [Victor-Hugo], à Grenoble, qui répondra gratis et franco par co"
+Grenoble,Location,LOC,10961,10969,,"rte postale à M. Vincent, 8, place Victor-Hugo, à [Grenoble], qui répondra gratis et franco par courrier, et e"
+"OEUVRES
+
+Sur la vallée",Product,MISC,11063,11085,,", et enverra les indications demandées. LES DEUX [OEUVRES Sur la vallée], novembre étendait sa mélancolie. Le long des riv"
+"...
+
+Presque chaque jour",Product,MISC,11771,11795,,"te sous-préfecture n'étaient pas morts tout à fait[... Presque chaque jour], Maurice, le jeune sculpteur, et Fabienne, son mo"
+Maurice,Person,PER,11797,11804,,"nt pas morts tout à fait... Presque chaque jour, [Maurice], le jeune sculpteur, et Fabienne, son modèle et s"
+Fabienne,Person,PER,11829,11837,,"sque chaque jour, Maurice, le jeune sculpteur, et [Fabienne], son modèle et son amie, se retrouvaient. La tris"
+Maurice,Person,PER,12318,12325,,"olie aventure que celle de ces deux jeunes gens. [Maurice], contraint à demeurer en province, n'avait jamais"
+Fabienne,Person,PER,13030,13038,,"voilà qu'un jour, le jeune homme avait rencontré [Fabienne]. C'était une amie d'enfance qu'il avait perdue de"
+Maurice et Fabienne,Product,MISC,13554,13573,,"près de rougisants aveux, en amour. Et maintenant [Maurice et Fabienne], attendant qu'il leur fut possible de s'épouser,"
+Fabienne,Person,PER,13718,13726,,"ait pas entré seul dans l'âme du jeune sculpteur. [Fabienne] était si parfaite de visage, si pure de lignes qu"
+Maurice,Person,PER,13778,13785,,"tait si parfaite de visage, si pure de lignes que [Maurice] avait tout de suite découvert en elle le modèle d"
+Maurice,Person,PER,14405,14412,,"rer à sa façon à l'œuvre de celui qu'elle aimait. [Maurice], doublement heureux, s'était mis au travail sans"
+DRANER,Product,MISC,14737,14743,,"loyale poignée de LES GAITÉS DE LA SEMAINE, par [DRANER] — On te verra au Banquet de la Saint-Charlemagne"
+Banquet de la Saint-Charlemagne,Product,MISC,14762,14793,,"AITÉS DE LA SEMAINE, par DRANER — On te verra au [Banquet de la Saint-Charlemagne], pas vrai ? — Jamais de la vie !... Ça manque de"
+Ça,Product,MISC,14830,14832,,"t-Charlemagne, pas vrai ? — Jamais de la vie !... [Ça] manque de tennies. La nouvelle tenue Nouvelle te"
+tennies,Location,LOC,14843,14850,,", pas vrai ? — Jamais de la vie !... Ça manque de [tennies]. La nouvelle tenue Nouvelle tenue pour nos brave"
+Nouvelle,Location,LOC,14871,14879,,vie !... Ça manque de tennies. La nouvelle tenue [Nouvelle] tenue pour nos braves garçons de recettes. — Pou

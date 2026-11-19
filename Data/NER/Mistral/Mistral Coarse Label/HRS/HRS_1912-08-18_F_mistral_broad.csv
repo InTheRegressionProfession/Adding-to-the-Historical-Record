@@ -1,0 +1,34 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Michel,Person,Person,612,618,,"désir de maternité, de protection. — Parce que, [Michel], je vous aime ! Roger Régis. LE CODE POUR TOUS"
+Roger Régis,Person,Person,636,647,,"protection. — Parce que, Michel, je vous aime ! [Roger Régis]. LE CODE POUR TOUS De la constitution de rente"
+LE CODE POUR TOUS,Product,Product,650,667,,"Parce que, Michel, je vous aime ! Roger Régis. [LE CODE POUR TOUS] De la constitution de rente On peut stipuler un"
+SAINT-YVES,Person,Person,4089,4099,,"que lorsqu'elle a été concédée à titre gratuit. [SAINT-YVES]. Mme Sophie Mil... 58 ans, propriétaire à Rouen."
+Mme Sophie Mil...,Person,Person,4102,4119,,"lle a été concédée à titre gratuit. SAINT-YVES. [Mme Sophie Mil...] 58 ans, propriétaire à Rouen. — Tête totalement d"
+Rouen,Location,Location,4143,4148,,"T-YVES. Mme Sophie Mil... 58 ans, propriétaire à [Rouen]. — Tête totalement dénudée depuis 3 ans à la suit"
+F. OLBÉ,Person,Person,4399,4406,,que la célèbre Sève Capillaire du dermatologiste [F. OLBÉ] n'arrête pas la chute des cheveux en deux jours e
+"22, Rue des Martyrs",Location,Location,4911,4930,,"grands détails ou se rendre au Laboratoire OLBÉ, [22, Rue des Martyrs], 22, Section 476 PARIS Octave Tsr... 32 ans, méc"
+Section 476 PARIS,Location,Location,4936,4953,,"dre au Laboratoire OLBÉ, 22, Rue des Martyrs, 22, [Section 476 PARIS] Octave Tsr... 32 ans, mécanicien aux Angles. — P"
+Octave Tsr,Person,Person,4955,4965,,"OLBÉ, 22, Rue des Martyrs, 22, Section 476 PARIS [Octave Tsr]... 32 ans, mécanicien aux Angles. — Pelade remont"
+Asnières,Location,Location,5151,5159,,"lète en 2 mois. Photographie faite 4 mois après. [Asnières], le 11 mars. A 66 ans j'étais atteint d'une calvi"
+11 mars,Time,Time,5164,5171,,"s. Photographie faite 4 mois après. Asnières, le [11 mars]. A 66 ans j'étais atteint d'une calvitie complète"
+Beaulieu,Location,Location,5629,5637,,"prie de me dire si le résultat est satisfaisant. [Beaulieu], 3 mars. J'avais perdu depuis 4 ans presque tous"
+3 mars,Time,Time,5639,5645,,"dire si le résultat est satisfaisant. Beaulieu, [3 mars]. J'avais perdu depuis 4 ans presque tous mes chev"
+15 avril,Time,Time,5938,5946,,"est redevenue ce qu'elle était avant. Beaulieu, [15 avril]. C'est pour me faire plaisir que mon mari avait c"
+Bagnoux,Location,Location,6366,6373,,"prie de me dire si le résultat est satisfaisant. [Bagnoux], le 24 avril. Ainsi que vous le savez j'avais per"
+24 avril,Time,Time,6378,6386,,"ire si le résultat est satisfaisant. Bagnoux, le [24 avril]. Ainsi que vous le savez j'avais perdu à peu près"
+17 avril,Time,Time,6833,6841,,prie de me dire si le résultat est satisfaisant. [17 avril]. La pelade grâce dont j'étais atteint à 67 ans en
+Dépurase,Product,Product,7304,7312,,es humeurs engendrées par un sang âcre et vicié. [Dépurase] du Dr Daru réalise le type parfait du spécifique
+Dr Daru,Person,Person,7316,7323,,ngendrées par un sang âcre et vicié. Dépurase du [Dr Daru] réalise le type parfait du spécifique des affect
+Docteur Daru,Person,Person,7728,7740,,"Dartres, Eczémas, Psoriasis, etc. La Dépurase du [Docteur Daru] se trouve dans les bonnes pharmacies seulement de"
+Paris,Location,Location,7791,7796,,se trouve dans les bonnes pharmacies seulement de [Paris] et de Province ou au Dépôt général : Monsieur H.
+Province,Location,Location,7803,7811,,"ns les bonnes pharmacies seulement de Paris et de [Province] ou au Dépôt général : Monsieur H. LINDEUX, pharma"
+Monsieur H. LINDEUX,Person,Person,7834,7853,,"ent de Paris et de Province ou au Dépôt général : [Monsieur H. LINDEUX], pharmacien, 10, rue Richelieu, à Paris. 1 franc"
+Monsieur H. LINDEUX,Person,Person,7834,7853,,"ent de Paris et de Province ou au Dépôt général : [Monsieur H. LINDEUX], pharmacien, 10, rue Richelieu, à Paris. 1 franc"
+"10, rue Richelieu",Location,Location,7867,7884,,"Dépôt général : Monsieur H. LINDEUX, pharmacien, [10, rue Richelieu], à Paris. 1 franc la boîte de 14 paquets (Franco"
+PIERRE LOUYS,Person,Person,8065,8077,,ES LE N° 19 CONTIENT ON DIT Chanson Paroles de [PIERRE LOUYS] Musique de HENRI SCHMITT BLONDINETTE Polka A. B
+HENRI SCHMITT,Person,Person,8089,8102,,N DIT Chanson Paroles de PIERRE LOUYS Musique de [HENRI SCHMITT] BLONDINETTE Polka A. BOSC LES DEUX GRENADIERS
+A. BOSC,Person,Person,8123,8130,,OUYS Musique de HENRI SCHMITT BLONDINETTE Polka [A. BOSC] LES DEUX GRENADIERS Mélodie de SCHUMANN Transcr
+SCHUMANN,Person,Person,8164,8172,,E Polka A. BOSC LES DEUX GRENADIERS Mélodie de [SCHUMANN] Transcription de V. SIGHICELLI 15 CENTIMES LE NU
+V. SIGHICELLI,Person,Person,8190,8203,,GRENADIERS Mélodie de SCHUMANN Transcription de [V. SIGHICELLI] 15 CENTIMES LE NUMÉRO Parait tous les quinze jou
+15 CENTIMES LE NUMÉRO,Product,Product,8205,8226,,lodie de SCHUMANN Transcription de V. SIGHICELLI [15 CENTIMES LE NUMÉRO] Parait tous les quinze jours EN VENTE CHEZ TOUS L
+rue Cadet,Location,Location,8361,8370,,"abonnement : 5 fr. par an. — Administration : 19, [rue Cadet], Paris"

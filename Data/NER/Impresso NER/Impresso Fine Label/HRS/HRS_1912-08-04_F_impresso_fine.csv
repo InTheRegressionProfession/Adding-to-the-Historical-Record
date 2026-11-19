@@ -1,0 +1,86 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+M. Jules,pers.ind,Person,pers.ind,361,369,0.9538,"n sourire contraint, au jeune homme soucieux : — [M. Jules] !... il y a un moyen de ne pas vous obliger à res"
+Lise,pers.ind,Person,pers.ind,774,778,0.8637,"avec force... Mais je ne veux pas !... non, non, [Lise] !... gardez votre argent !... — C'est mal, cela"
+Mam'zelle Lise,pers.ind,Person,pers.ind,867,881,0.9085,"mal, cela !... Pourquoi ne pas accepter, implora [Mam'zelle Lise]... Cet argent ne sera-t-il pas bientôt à vous. Ne"
+Lise,pers.ind,Person,pers.ind,1119,1123,0.8167,". Le jeune homme refusait toujours avec énergie. [Lise], ardente, suppliait, accumulait les arguments. El"
+Mam'zelle Lise,pers.ind,Person,pers.ind,1617,1631,0.9163,"cier. Deux jours après, muni des 6.200 francs de [Mam'zelle Lise], Jules Lehart partait pour Marseille. Sa fiancée"
+Jules Lehart,pers.ind,Person,pers.ind,1633,1645,0.9695,"s après, muni des 6.200 francs de Mam'zelle Lise, [Jules Lehart] partait pour Marseille. Sa fiancée le conduisit à"
+Marseille,loc.adm.town,Location,loc.adm.town,1659,1668,0.928,"ancs de Mam'zelle Lise, Jules Lehart partait pour [Marseille]. Sa fiancée le conduisit à la gare, l'embrassa te"
+Lise,loc.adm.town,Location,loc.adm.town,1870,1874,0.4334,"les jours... Seulement, le jeune homme demanda à [Lise] de ne pas lui envoyer de lettre avant d'avoir reç"
+Marseille,loc.adm.town,Location,loc.adm.town,1981,1990,0.9356,"même de ses nouvelles lui annonçant son arrivée à [Marseille]... Quant à l'adresse, c'était celle de ses parent"
+Mam'zelle Lise,pers.ind,Person,pers.ind,2094,2108,0.9376,"elle la connaissait... Le lendemain s'écoula... [Mam'zelle Lise], qui n'avait pas voulu parler de l'achat de la qu"
+Jules,pers.ind,Person,pers.ind,2250,2255,0.946,"re ne fût conclue, pensait avoir un télégramme de [Jules]... Elle revint vite chez elle, le soir... Rien !."
+M. Jules Lehart,pers.ind,Person,pers.ind,2578,2593,0.9707,"dépêche, demandant des nouvelles et l'expédia à « [M. Jules Lehart], chez son père, négociant, 4, cours St-Louis, Mar"
+cours St,pers.ind,Person,pers.ind,2624,2632,0.2058,"à « M. Jules Lehart, chez son père, négociant, 4, [cours St]-Louis, Marseille... ». Elle fut plus calme, dès l"
+-Louis,loc.adm.town,Location,loc.adm.town,2632,2638,0.4814,"ules Lehart, chez son père, négociant, 4, cours St[-Louis], Marseille... ». Elle fut plus calme, dès lors, c"
+Marseille,loc.adm.town,Location,loc.adm.town,2640,2649,0.8919,"art, chez son père, négociant, 4, cours St-Louis, [Marseille]... ». Elle fut plus calme, dès lors, comptant viv"
+M. Jules Lehart,pers.ind,Person,pers.ind,2802,2817,0.9729,"... son télégramme lui revenait avec la mention « [M. Jules Lehart], complètement inconnu à Marseille, ainsi que M. L"
+Marseille,loc.adm.town,Location,loc.adm.town,2842,2851,0.8958,"mention « M. Jules Lehart, complètement inconnu à [Marseille], ainsi que M. Lehart père, négociant... » René d"
+"M. Lehart père, négociant",pers.ind,Person,pers.ind,2863,2888,0.9031,"hart, complètement inconnu à Marseille, ainsi que [M. Lehart père, négociant]... » René de BARGIS. La Fiancée difficile LA F"
+René de BARGIS,pers.ind,Person,pers.ind,2895,2909,0.9688,"seille, ainsi que M. Lehart père, négociant... » [René de BARGIS]. La Fiancée difficile LA FIANCÉE. — Je ne deman"
+Mont,loc.adm.reg,Location,loc.adm.reg,3271,3275,0.156,LE PRÉTENDANT. — Désirez-vous que je gravisse le [Mont]-Blanc à quatre pattes (se reprenant) pardon... à
+-Blanc,loc.adm.town,Location,loc.adm.town,3275,3281,0.4792,PRÉTENDANT. — Désirez-vous que je gravisse le Mont[-Blanc] à quatre pattes (se reprenant) pardon... à genoux
+Terre,loc.adm.reg,Location,loc.adm.reg,3388,3393,0.2629,ez-vous que j'apprenne à lire aux indigènes de la [Terre]-de-Feu ? Sont-ce des peaux arrachées aux lions de
+-de-Feu,loc.adm.town,Location,loc.adm.town,3393,3400,0.5984,us que j'apprenne à lire aux indigènes de la Terre[-de-Feu] ? Sont-ce des peaux arrachées aux lions de l'Atla
+Nouvelle,loc.adm.nat,Location,loc.adm.nat,3754,3762,0.808,ve de repas à vingt-trois sous aux sauvages de la [Nouvelle]-Guinée ?... LA FIANCÉE. — Non... (Très simplemen
+-Guinée,loc.adm.reg,Location,loc.adm.reg,3762,3769,0.2346,pas à vingt-trois sous aux sauvages de la Nouvelle[-Guinée] ?... LA FIANCÉE. — Non... (Très simplement) : Fa
+PRÉTENDANT,pers.ind,Person,pers.ind,4259,4269,0.5197,E. — Parce qu'il avait une jambe de bois ?... LE [PRÉTENDANT] (désolé). — Je vois que vous la connaissez. LA F
+de 1809,time.date.abs,Time,time.date.abs,4357,4364,0.8468,issez. LA FIANCÉE. — Je l'ai lue dans l'almanach [de 1809]... LE PRÉTENDANT (cherchant autre chose). — Ça n
+PRÉTENDANT,pers.ind,Person,pers.ind,4372,4382,0.504,CÉE. — Je l'ai lue dans l'almanach de 1809... LE [PRÉTENDANT] (cherchant autre chose). — Ça ne nous rajeunit pa
+PRÉTENDANT,pers.ind,Person,pers.ind,4662,4672,0.3629,IANCÉE. — Je l'ai eue en dictée à la pension. LE [PRÉTENDANT] (de plus en plus perplexe). — Et le petit enfant
+PRÉTENDANT,pers.ind,Person,pers.ind,4915,4925,0.3805,glissé dans le nez à l'âge de sept mois ?... LE [PRÉTENDANT]. — Diable !... (à part) Je vais essayer mon coup
+FIANCÉE,org.ent,Organization,org.ent,5032,5039,0.3546,e d'occasion... et des rimes extraordinaires. LA [FIANCÉE]. — Allons faites-moi rire. Vous comprenez que le
+FIANCÉE,org.ent,Organization,org.ent,5241,5248,0.392,tement très sérieux). — Bifteck aux pommes... LA [FIANCÉE] (un peu étonnée). — ...Qui saura dissiper à mes y
+FIANCÉE,org.ent,Organization,org.ent,5366,5373,0.3788,. LE PRÉTENDANT. — Vol-au-vent financière... LA [FIANCÉE] (stupéfiée). — ...Des ennuis et des chagrins de n
+FIANCÉE,org.ent,Organization,org.ent,5486,5493,0.3967,pre... LE PRÉTENDANT. — Turbot sauce câpres. LA [FIANCÉE] (se déridant). — Je viens de me demander si je rê
+FIANCÉE,org.ent,Organization,org.ent,5613,5620,0.3697,NT (toujours sérieux). — Camard aux navets... LA [FIANCÉE] (souriant). — Vous voulez me mettre en rage ? LE
+FIANCÉE,org.ent,Organization,org.ent,5700,5707,0.3756,"mettre en rage ? LE PRÉTENDANT. — Fromage... LA [FIANCÉE] (éclatant de rire). — Ah ! vraiment, vous n'avez"
+Charles QUINEL,pers.ind,Person,pers.ind,6037,6051,0.9439,"vraiment, ça ne compte pas... c'est trop bête... [Charles QUINEL]. LE CODE POUR TOUS Contributions directes Juri"
+du 21 avril 1832,time.date.abs,Time,time.date.abs,6256,6272,0.7761,"dispositions combinées des articles 22 de la loi [du 21 avril 1832] et 30 de la loi du 15 juillet 1880, que les contr"
+du 15 juillet 1880,time.date.abs,Time,time.date.abs,6289,6307,0.8032,"les 22 de la loi du 21 avril 1832 et 30 de la loi [du 15 juillet 1880], que les contributions imposées à chaque contribu"
+1er juillet 1910,time.date.abs,Time,time.date.abs,6758,6774,0.8375,"er le ressort de la perception. (Conseil d'Etat, [1er juillet 1910].) Veuve. Contribution inscrite au nom de son mar"
+21 juillet 1909,time.date.abs,Time,time.date.abs,7278,7293,0.7119,"rôle, ne lui fait aucun grief. (Conseil d'Etat, [21 juillet 1909].) Patentes. Marchand forain. — Un commerçant qui"
+28 avril 1909,time.date.abs,Time,time.date.abs,7822,7835,0.7456,"é à deux roues et à un collier. (Conseil d'Etat, [28 avril 1909].) Réclamations. Modification par l'administratio"
+27 mai 1909,time.date.abs,Time,time.date.abs,8179,8190,0.7818,"on de la décision à intervenir. (Conseil d'Etat, [27 mai 1909].) Réclamations. Non-recevabilité de la réclamati"
+du 13 juillet 1903,time.date.abs,Time,time.date.abs,8752,8770,0.872,"e signaler au réclamant par application de la loi [du 13 juillet 1903]. (Conseil d'Etat, 31 juillet 1908.) Réclamation"
+31 juillet 1908,time.date.abs,Time,time.date.abs,8790,8805,0.7713,"n de la loi du 13 juillet 1903. (Conseil d'Etat, [31 juillet 1908].) Réclamations. Désistement du réclamant. Frais"
+22 avril 1910,time.date.abs,Time,time.date.abs,9166,9179,0.7664,"la notification du désistement. (Conseil d'Etat, [22 avril 1910].) Recours au Conseil d'Etat en matière d'évaluat"
+du 30 novembre 1874,time.date.abs,Time,time.date.abs,9527,9546,0.8404,ans les formes prescrites par l'art. 56 de la loi [du 30 novembre 1874]. Leur travail est irrégulier s'ils ont simplement
+28 juillet 1911,time.date.abs,Time,time.date.abs,9796,9811,0.7831,"palement sur les baux en cours. (Conseil d'Etat, [28 juillet 1911].) SAINT-YVES. Mot en triangle Le moindre ornem"
+SAINT-YVES,loc.adm.town,Location,loc.adm.town,9815,9825,0.831,"ux en cours. (Conseil d'Etat, 28 juillet 1911.) [SAINT-YVES]. Mot en triangle Le moindre ornement d'un disco"
+Suisse,loc.adm.nat,Location,loc.adm.nat,10036,10042,0.8275,charmant. - — Ce qui sur la terre respire. - — En [Suisse] se trouve aisément. - — Île française. — En tout
+Algérienne,loc.adm.nat,Location,loc.adm.nat,10156,10166,0.7122,llébroge. SOLUTION de l'anagramme (N° 1.132) - [Algérienne]. - Galerien. - Régalien. SOLUTIONS JUSTES Mot c
+Galerien,loc.adm.nat,Location,loc.adm.nat,10170,10178,0.5668,UTION de l'anagramme (N° 1.132) - Algérienne. - [Galerien]. - Régalien. SOLUTIONS JUSTES Mot carré (N° 1.1
+Régalien,loc.adm.nat,Location,loc.adm.nat,10182,10190,0.7068,anagramme (N° 1.132) - Algérienne. - Galerien. - [Régalien]. SOLUTIONS JUSTES Mot carré (N° 1.131) - A. Le
+A. Lefebvre,pers.ind,Person,pers.ind,10235,10246,0.9288,alien. SOLUTIONS JUSTES Mot carré (N° 1.131) - [A. Lefebvre]. — O. Clin. — Nortrop. — Léopold Gros. — Spirite.
+O. Clin,pers.ind,Person,pers.ind,10250,10257,0.9276,NS JUSTES Mot carré (N° 1.131) - A. Lefebvre. — [O. Clin]. — Nortrop. — Léopold Gros. — Spirite. — Chauvett
+Nortrop,pers.ind,Person,pers.ind,10261,10268,0.5667,Mot carré (N° 1.131) - A. Lefebvre. — O. Clin. — [Nortrop]. — Léopold Gros. — Spirite. — Chauvettes. — M. T.
+Léopold Gros,pers.ind,Person,pers.ind,10272,10284,0.9369,N° 1.131) - A. Lefebvre. — O. Clin. — Nortrop. — [Léopold Gros]. — Spirite. — Chauvettes. — M. T. — Va vite. — Ha
+Chauvettes,loc.adm.town,Location,loc.adm.town,10299,10309,0.4849,O. Clin. — Nortrop. — Léopold Gros. — Spirite. — [Chauvettes]. — M. T. — Va vite. — Haël. — E. Terrion. — Louis
+M. T.,pers.ind,Person,pers.ind,10313,10318,0.7904,rtrop. — Léopold Gros. — Spirite. — Chauvettes. — [M. T.] — Va vite. — Haël. — E. Terrion. — Louis Cros. —
+Haël,pers.ind,Person,pers.ind,10332,10336,0.9448,os. — Spirite. — Chauvettes. — M. T. — Va vite. — [Haël]. — E. Terrion. — Louis Cros. — Jean et Antoine. —
+E. Terrion,pers.ind,Person,pers.ind,10340,10350,0.9293,irite. — Chauvettes. — M. T. — Va vite. — Haël. — [E. Terrion]. — Louis Cros. — Jean et Antoine. — C. Pierron. —
+Louis Cros,pers.ind,Person,pers.ind,10354,10364,0.9441,ettes. — M. T. — Va vite. — Haël. — E. Terrion. — [Louis Cros]. — Jean et Antoine. — C. Pierron. — F. Crémont. —
+Jean,pers.ind,Person,pers.ind,10368,10372,0.9632,— Va vite. — Haël. — E. Terrion. — Louis Cros. — [Jean] et Antoine. — C. Pierron. — F. Crémont. — Kloklo.
+Antoine,pers.ind,Person,pers.ind,10376,10383,0.5112,te. — Haël. — E. Terrion. — Louis Cros. — Jean et [Antoine]. — C. Pierron. — F. Crémont. — Kloklo. — O. de Me
+C. Pierron,pers.ind,Person,pers.ind,10387,10397,0.9308,— E. Terrion. — Louis Cros. — Jean et Antoine. — [C. Pierron]. — F. Crémont. — Kloklo. — O. de Meigneux. — Cher
+F. Crémont,pers.ind,Person,pers.ind,10401,10411,0.9338,— Louis Cros. — Jean et Antoine. — C. Pierron. — [F. Crémont]. — Kloklo. — O. de Meigneux. — Cherche trouve. —
+Kloklo,pers.ind,Person,pers.ind,10415,10421,0.8645,— Jean et Antoine. — C. Pierron. — F. Crémont. — [Kloklo]. — O. de Meigneux. — Cherche trouve. — C. Desserv
+O. de Meigneux,pers.ind,Person,pers.ind,10425,10439,0.9327,Antoine. — C. Pierron. — F. Crémont. — Kloklo. — [O. de Meigneux]. — Cherche trouve. — C. Desserville. — Albert P.
+C. Desserville,pers.ind,Person,pers.ind,10461,10475,0.9261,. — Kloklo. — O. de Meigneux. — Cherche trouve. — [C. Desserville]. — Albert P. — Tante Léonie. — Salze. — Al-ben-Se
+Albert P.,pers.ind,Person,pers.ind,10479,10488,0.9202,e Meigneux. — Cherche trouve. — C. Desserville. — [Albert P.] — Tante Léonie. — Salze. — Al-ben-Sehrka. — D. Mo
+Tante Léonie,pers.ind,Person,pers.ind,10491,10503,0.9005,— Cherche trouve. — C. Desserville. — Albert P. — [Tante Léonie]. — Salze. — Al-ben-Sehrka. — D. Mortagnès. — J. B
+Salze,pers.ind,Person,pers.ind,10507,10512,0.9325,. — C. Desserville. — Albert P. — Tante Léonie. — [Salze]. — Al-ben-Sehrka. — D. Mortagnès. — J. B. P. — A.
+Al-ben-Sehrka,pers.ind,Person,pers.ind,10516,10529,0.8844,sserville. — Albert P. — Tante Léonie. — Salze. — [Al-ben-Sehrka]. — D. Mortagnès. — J. B. P. — A. Marphaing. VIEN
+D. Mortagnès,pers.ind,Person,pers.ind,10533,10545,0.9371,rt P. — Tante Léonie. — Salze. — Al-ben-Sehrka. — [D. Mortagnès]. — J. B. P. — A. Marphaing. VIENT DE PARAITRE L
+J. B. P.,pers.ind,Person,pers.ind,10549,10557,0.8914,onie. — Salze. — Al-ben-Sehrka. — D. Mortagnès. — [J. B. P.] — A. Marphaing. VIENT DE PARAITRE LA MUSIQUE 3
+A. Marphaing,pers.ind,Person,pers.ind,10560,10572,0.933,ze. — Al-ben-Sehrka. — D. Mortagnès. — J. B. P. — [A. Marphaing]. VIENT DE PARAITRE LA MUSIQUE 3 MORCEAUX de MU
+Edmond MISSA,pers.ind,Person,pers.ind,10712,10724,0.9257,T : NOËL DES ROSES Mélodie Paroles et musique de [Edmond MISSA] Caprice Villageois Pièce pour piano Par Marius C
+Caprice Villageois,pers.ind,Person,pers.ind,10726,10744,0.5249,ROSES Mélodie Paroles et musique de Edmond MISSA [Caprice Villageois] Pièce pour piano Par Marius CARMAN Les Noces de
+Marius CARMAN,pers.ind,Person,pers.ind,10766,10779,0.931,nd MISSA Caprice Villageois Pièce pour piano Par [Marius CARMAN] Les Noces de Jeannette Fantaisie pour violon Tra
+Jeannette,pers.ind,Person,pers.ind,10794,10803,0.8098,Pièce pour piano Par Marius CARMAN Les Noces de [Jeannette] Fantaisie pour violon Transcription par HERMAN 1
+HERMAN,pers.ind,Person,pers.ind,10844,10850,0.8639,Jeannette Fantaisie pour violon Transcription par [HERMAN] 15 CENTIMES LE NUMÉRO Parait tous les quinze jou
+rue Cadei,loc.adm.town,Location,loc.adm.town,11008,11017,0.1461,"abonnement : 5 fr. par an. — Administration : 19, [rue Cadei], Paris Cette importance ! est donnée au petit d"
+Paris,loc.adm.town,Location,loc.adm.town,11019,11024,0.3063,": 5 fr. par an. — Administration : 19, rue Cadei, [Paris] Cette importance ! est donnée au petit déjeuner"
+Instantané François-Meunier,pers.ind,Person,pers.ind,11171,11198,0.8153,le goût exquis et les qualités digestives de l' [Instantané François-Meunier] en poudre de chocolat C'est le régulateur de la
+JEP,pers.ind,Person,pers.ind,11391,11394,0.5983,er 10 cent. tout sucré pour préparé en 2 minutes [JEP]

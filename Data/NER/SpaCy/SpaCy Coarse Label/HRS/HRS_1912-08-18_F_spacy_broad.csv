@@ -1,0 +1,77 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Michel,Person,PER,612,618,,"désir de maternité, de protection. — Parce que, [Michel], je vous aime ! Roger Régis. LE CODE POUR TOUS"
+Roger Régis,Person,PER,636,647,,"protection. — Parce que, Michel, je vous aime ! [Roger Régis]. LE CODE POUR TOUS De la constitution de rente"
+"POUR TOUS
+
+De la constitution de rente
+
+On peut",Product,MISC,658,705,,"ue, Michel, je vous aime ! Roger Régis. LE CODE [POUR TOUS De la constitution de rente On peut] stipuler un intérêt moyennant un capital que le p"
+Code civil,Product,MISC,2387,2397,,"at est réglementé par les articles 1968 à 1983 du [Code civil], au titre des contrats aléatoires. Nous en résumo"
+SAINT-YVES,Location,LOC,4089,4099,,"que lorsqu'elle a été concédée à titre gratuit. [SAINT-YVES]. Mme Sophie Mil... 58 ans, propriétaire à Rouen."
+Mme Sophie Mil,Person,PER,4102,4116,,"lle a été concédée à titre gratuit. SAINT-YVES. [Mme Sophie Mil]... 58 ans, propriétaire à Rouen. — Tête totalemen"
+Rouen,Location,LOC,4143,4148,,"T-YVES. Mme Sophie Mil... 58 ans, propriétaire à [Rouen]. — Tête totalement dénudée depuis 3 ans à la suit"
+Tête,Location,LOC,4152,4156,,"Mme Sophie Mil... 58 ans, propriétaire à Rouen. — [Tête] totalement dénudée depuis 3 ans à la suite d'un e"
+Chevelure,Location,LOC,4244,4253,,"suite d'un ergipèle, portait une légère perruque. [Chevelure] complètement reconstituée après 2 mois 1/2 de tra"
+Fr,Location,LOC,4330,4332,,après 2 mois 1/2 de traitement. JE DONNE 100.000 [Fr]. à qui prouvera que la célèbre Sève Capillaire d
+Sève Capillaire,Person,PER,4365,4380,,DONNE 100.000 Fr. à qui prouvera que la célèbre [Sève Capillaire] du dermatologiste F. OLBÉ n'arrête pas la chute d
+OLBÉ,Product,MISC,4402,4406,,e la célèbre Sève Capillaire du dermatologiste F. [OLBÉ] n'arrête pas la chute des cheveux en deux jours e
+Régénérateur infallible,Product,MISC,4572,4595,,"ves et dans leur nuance naturelle. C'est le seul [Régénérateur infallible] et rapide de la chevelure, le seul recommandé par"
+GRATIS,Product,MISC,4795,4801,,"osition de tous à mon laboratoire. Pour recevoir [GRATIS] sous pli fermé l'exposé de la Méthode, écrire ave"
+Méthode,Product,MISC,4832,4839,,"our recevoir GRATIS sous pli fermé l'exposé de la [Méthode], écrire avec les plus grands détails ou se rendre"
+Laboratoire OLBÉ,Location,LOC,4893,4909,,"rire avec les plus grands détails ou se rendre au [Laboratoire OLBÉ], 22, Rue des Martyrs, 22, Section 476 PARIS Octa"
+Rue des Martyrs,Location,LOC,4915,4930,,"nds détails ou se rendre au Laboratoire OLBÉ, 22, [Rue des Martyrs], 22, Section 476 PARIS Octave Tsr... 32 ans, méc"
+"Section 476 PARIS
+
+Octave Tsr",Product,MISC,4936,4965,,"dre au Laboratoire OLBÉ, 22, Rue des Martyrs, 22, [Section 476 PARIS Octave Tsr]... 32 ans, mécanicien aux Angles. — Pelade remont"
+Angles,Location,LOC,4992,4998,,"n 476 PARIS Octave Tsr... 32 ans, mécanicien aux [Angles]. — Pelade remontant à 2 ans, 5 grandes plaques qu"
+Pelade,Location,LOC,5002,5008,,"S Octave Tsr... 32 ans, mécanicien aux Angles. — [Pelade] remontant à 2 ans, 5 grandes plaques qui avaient"
+Asnières,Location,LOC,5151,5159,,"lète en 2 mois. Photographie faite 4 mois après. [Asnières], le 11 mars. A 66 ans j'étais atteint d'une calvi"
+Beaulieu,Location,LOC,5629,5637,,"prie de me dire si le résultat est satisfaisant. [Beaulieu], 3 mars. J'avais perdu depuis 4 ans presque tous"
+votre Sève,Person,PER,5732,5742,,tous mes cheveux sans cause apparente. L'effet de [votre Sève] a été extraordinaire. Au bout du premier flacon j
+Beaulieu,Location,LOC,5928,5936,,"chevelure est redevenue ce qu'elle était avant. [Beaulieu], 15 avril. C'est pour me faire plaisir que mon ma"
+votre Sève,Person,PER,6102,6112,,us. Il consentit cependant à essayer un flacon de [votre Sève]; que ne l'avais-je fait plus tôt! En deux mois et
+Bagnoux,Location,LOC,6366,6373,,"prie de me dire si le résultat est satisfaisant. [Bagnoux], le 24 avril. Ainsi que vous le savez j'avais per"
+Sève,Person,PER,6575,6579,,ne de mes amies m'avait conseillé d'essayer votre [Sève]; que ne l'avais-je fait plus tôt! En deux mois et
+votre Sève,Person,PER,6944,6954,,"on. — A 67 ans, j'étais atteint à 6 semaines avec [votre Sève]; les places dénudées sont complètement recouverte"
+Dr Daru,Person,PER,7316,7323,,ngendrées par un sang âcre et vicié. Dépurase du [Dr Daru] réalise le type parfait du spécifique des affect
+Boutons,Person,PER,7663,7670,,"la peau sa netteté. C'est la guérison assurée des [Boutons], Acné, Dartres, Eczémas, Psoriasis, etc. La Dépu"
+Acné,Product,MISC,7672,7676,,"a netteté. C'est la guérison assurée des Boutons, [Acné], Dartres, Eczémas, Psoriasis, etc. La Dépurase d"
+Dartres,Person,PER,7678,7685,,"eté. C'est la guérison assurée des Boutons, Acné, [Dartres], Eczémas, Psoriasis, etc. La Dépurase du Docteur"
+Eczémas,Product,MISC,7687,7694,,"t la guérison assurée des Boutons, Acné, Dartres, [Eczémas], Psoriasis, etc. La Dépurase du Docteur Daru se"
+Psoriasis,Product,MISC,7696,7705,,"ison assurée des Boutons, Acné, Dartres, Eczémas, [Psoriasis], etc. La Dépurase du Docteur Daru se trouve dans"
+La Dépurase,Product,MISC,7713,7724,,"Boutons, Acné, Dartres, Eczémas, Psoriasis, etc. [La Dépurase] du Docteur Daru se trouve dans les bonnes pharmac"
+Paris,Location,LOC,7791,7796,,se trouve dans les bonnes pharmacies seulement de [Paris] et de Province ou au Dépôt général : Monsieur H.
+Province,Location,LOC,7803,7811,,"ns les bonnes pharmacies seulement de Paris et de [Province] ou au Dépôt général : Monsieur H. LINDEUX, pharma"
+Dépôt,Location,LOC,7818,7823,,"harmacies seulement de Paris et de Province ou au [Dépôt] général : Monsieur H. LINDEUX, pharmacien, 10, ru"
+rue Richelieu,Location,LOC,7871,7884,,"ôt général : Monsieur H. LINDEUX, pharmacien, 10, [rue Richelieu], à Paris. 1 franc la boîte de 14 paquets (Franco"
+Paris,Location,LOC,7888,7893,,"ieur H. LINDEUX, pharmacien, 10, rue Richelieu, à [Paris]. 1 franc la boîte de 14 paquets (Franco poste 1."
+Franco,Person,PER,7928,7934,,"helieu, à Paris. 1 franc la boîte de 14 paquets ([Franco] poste 1.20) VIENT DE PARAITRE LA MUSIQUE 3 MOR"
+VIENT,Organization,ORG,7948,7953,,franc la boîte de 14 paquets (Franco poste 1.20) [VIENT] DE PARAITRE LA MUSIQUE 3 MORCEAUX de MUSIQUE po
+PARAITRE,Organization,ORG,7957,7965,,boîte de 14 paquets (Franco poste 1.20) VIENT DE [PARAITRE] LA MUSIQUE 3 MORCEAUX de MUSIQUE pour 15 CENTIM
+"LA MUSIQUE
+
+3",Product,MISC,7967,7980,,4 paquets (Franco poste 1.20) VIENT DE PARAITRE [LA MUSIQUE 3] MORCEAUX de MUSIQUE pour 15 CENTIMES LE N° 19 CO
+MORCEAUX,Product,MISC,7981,7989,,nco poste 1.20) VIENT DE PARAITRE LA MUSIQUE 3 [MORCEAUX] de MUSIQUE pour 15 CENTIMES LE N° 19 CONTIENT O
+MUSIQUE,Product,MISC,7993,8000,,20) VIENT DE PARAITRE LA MUSIQUE 3 MORCEAUX de [MUSIQUE] pour 15 CENTIMES LE N° 19 CONTIENT ON DIT Chan
+"CENTIMES
+
+LE N° 19",Product,MISC,8009,8027,,RAITRE LA MUSIQUE 3 MORCEAUX de MUSIQUE pour 15 [CENTIMES LE N° 19] CONTIENT ON DIT Chanson Paroles de PIERRE LOUYS
+"DIT
+
+Chanson
+Paroles de PIERRE",Product,MISC,8041,8071,,e MUSIQUE pour 15 CENTIMES LE N° 19 CONTIENT ON [DIT Chanson Paroles de PIERRE] LOUYS Musique de HENRI SCHMITT BLONDINETTE Polk
+Musique de HENRI SCHMITT,Product,MISC,8078,8102,,CONTIENT ON DIT Chanson Paroles de PIERRE LOUYS [Musique de HENRI SCHMITT] BLONDINETTE Polka A. BOSC LES DEUX GRENADIERS
+"BLONDINETTE
+
+Polka",Product,MISC,8104,8122,,Paroles de PIERRE LOUYS Musique de HENRI SCHMITT [BLONDINETTE Polka] A. BOSC LES DEUX GRENADIERS Mélodie de SCHUMANN
+"GRENADIERS
+
+Mélodie",Product,MISC,8141,8160,,NRI SCHMITT BLONDINETTE Polka A. BOSC LES DEUX [GRENADIERS Mélodie] de SCHUMANN Transcription de V. SIGHICELLI 15 CE
+"SCHUMANN
+Transcription",Product,MISC,8164,8186,,E Polka A. BOSC LES DEUX GRENADIERS Mélodie de [SCHUMANN Transcription] de V. SIGHICELLI 15 CENTIMES LE NUMÉRO Parait to
+CENTIMES,Product,MISC,8208,8216,,ie de SCHUMANN Transcription de V. SIGHICELLI 15 [CENTIMES] LE NUMÉRO Parait tous les quinze jours EN VENTE C
+NUMÉRO,Organization,ORG,8220,8226,,NN Transcription de V. SIGHICELLI 15 CENTIMES LE [NUMÉRO] Parait tous les quinze jours EN VENTE CHEZ TOUS L
+EN VENTE CHEZ,Product,MISC,8256,8269,,5 CENTIMES LE NUMÉRO Parait tous les quinze jours [EN VENTE CHEZ] TOUS LES MARCHANDS DE JOURNAUX Prix de l'abonneme
+Administration,Organization,ORG,8340,8354,,"E JOURNAUX Prix de l'abonnement : 5 fr. par an. — [Administration] : 19, rue Cadet, Paris"
+rue Cadet,Location,LOC,8361,8370,,"abonnement : 5 fr. par an. — Administration : 19, [rue Cadet], Paris"
+Paris,Location,LOC,8372,8377,,": 5 fr. par an. — Administration : 19, rue Cadet, [Paris]"

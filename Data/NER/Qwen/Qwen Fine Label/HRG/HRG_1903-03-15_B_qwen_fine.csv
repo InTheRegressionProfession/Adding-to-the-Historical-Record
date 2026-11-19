@@ -1,0 +1,96 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+pays d'Alost,loc.adm.reg,Location,loc.adm.reg,47,59,,EXPLICATION DE NOS GRAVURES Les chauffeurs du [pays d'Alost] Des scènes d'une sauvagerie révoltante et digne
+pays d'Alost,loc.adm.reg,Location,loc.adm.reg,47,59,,EXPLICATION DE NOS GRAVURES Les chauffeurs du [pays d'Alost] Des scènes d'une sauvagerie révoltante et digne
+Belgique,loc.adm.nat,Location,loc.adm.nat,209,217,,"pays des plus civilisés du monde, je veux dire en [Belgique]. Des malfaiteurs organisés en bande de six ou se"
+Van den Neucker,pers.ind,Person,pers.ind,1306,1321,,"hissement, par ces sinistres bandits, de la ferme [Van den Neucker], à Santhergen. Le fait se passait à la fin de la"
+Santhergen,loc.adm.town,Location,loc.adm.town,1325,1335,,"sinistres bandits, de la ferme Van den Neucker, à [Santhergen]. Le fait se passait à la fin de la semaine derniè"
+Union des Sociétés Françaises de Sport,org.ent,Organization,org.ent,1753,1791,,de nos soldats de demain. Le spectacle auquel l'[Union des Sociétés Françaises de Sport] nous a donné d'assister pour la quinzaine fois a
+Jardin du Trocadéro,loc.fac,Location,loc.fac,2319,2338,,"t sur le parcours, et dans l'enceinte réservée du [Jardin du Trocadéro]. L'organisation, d'ailleurs, fut parfaite. C'est"
+Union athlétique de Montreux,org.ent,Organization,org.ent,2391,2419,,"'organisation, d'ailleurs, fut parfaite. C'est l'[Union athlétique de Montreux] qui a gagné, battant le Racing-Club de France qui"
+Racing-Club de France,org.ent,Organization,org.ent,2444,2465,,"on athlétique de Montreux qui a gagné, battant le [Racing-Club de France] qui délenait le Challenge depuis trois ans. Cela"
+Saint-Cloud,loc.adm.town,Location,loc.adm.town,2544,2555,,puis trois ans. Cela se passait dans les bois de [Saint-Cloud] et de Ville-d'Avray; la distance à couvrir était
+Ville-d'Avray,loc.adm.town,Location,loc.adm.town,2562,2575,,ela se passait dans les bois de Saint-Cloud et de [Ville-d'Avray]; la distance à couvrir était de 7 kil. 700; le pa
+petit,pers.ind,Person,pers.ind,2768,2773,,"e cette belle manifestation athlétique : - 1° Le [petit] et nerveux coureur, sortant du service militaire,"
+Ragueneau,pers.ind,Person,pers.ind,2824,2833,,"et nerveux coureur, sortant du service militaire, [Ragueneau] (Société athlétique de Montreux), en 1 h. 22 55""."
+Société athlétique de Montreux,org.ent,Organization,org.ent,2835,2865,,"coureur, sortant du service militaire, Ragueneau ([Société athlétique de Montreux]), en 1 h. 22 55"". - 2° De Fleurac (Racing-Club de"
+De Fleurac,pers.ind,Person,pers.ind,2889,2899,,"été athlétique de Montreux), en 1 h. 22 55"". - 2° [De Fleurac] (Racing-Club de France). - 3° Gautier (Football-C"
+Gautier,pers.ind,Person,pers.ind,2930,2937,,"5"". - 2° De Fleurac (Racing-Club de France). - 3° [Gautier] (Football-Club de Lyon). - 4° Modet (Metropolitan"
+Football-Club de Lyon,org.ent,Organization,org.ent,2939,2960,,De Fleurac (Racing-Club de France). - 3° Gautier ([Football-Club de Lyon]). - 4° Modet (Metropolitan-Club). - 5° Dravault (
+Modet,pers.ind,Person,pers.ind,2968,2973,,ance). - 3° Gautier (Football-Club de Lyon). - 4° [Modet] (Metropolitan-Club). - 5° Dravault (Société athlé
+Metropolitan-Club,org.ent,Organization,org.ent,2975,2992,,- 3° Gautier (Football-Club de Lyon). - 4° Modet ([Metropolitan-Club]). - 5° Dravault (Société athlétique de Montreux).
+Dravault,pers.ind,Person,pers.ind,3000,3008,,ub de Lyon). - 4° Modet (Metropolitan-Club). - 5° [Dravault] (Société athlétique de Montreux). - 6° Bouchard (
+Bouchard,pers.ind,Person,pers.ind,3048,3056,,° Dravault (Société athlétique de Montreux). - 6° [Bouchard] (Société athlétique de Montreux). - 7° Chastanié
+Chastanié,pers.ind,Person,pers.ind,3096,3105,,° Bouchard (Société athlétique de Montreux). - 7° [Chastanié] (Racing-Club de France). - 8° Petit (Club des spo
+Club des sports athlétiques,org.ent,Organization,org.ent,3143,3170,,7° Chastanié (Racing-Club de France). - 8° Petit ([Club des sports athlétiques]). - 9° Millerot (Union athlétique de Saint-Cloud)
+Millerot,pers.ind,Person,pers.ind,3178,3186,,). - 8° Petit (Club des sports athlétiques). - 9° [Millerot] (Union athlétique de Saint-Cloud). - 10° Fletcher
+Union athlétique de Saint-Cloud,org.ent,Organization,org.ent,3188,3219,,tit (Club des sports athlétiques). - 9° Millerot ([Union athlétique de Saint-Cloud]). - 10° Fletcher (Union athlétique de Saint-Cloud
+Fletcher,pers.ind,Person,pers.ind,3228,3236,,Millerot (Union athlétique de Saint-Cloud). - 10° [Fletcher] (Union athlétique de Saint-Cloud). Deux cent qua
+Stade français,org.ent,Organization,org.ent,3539,3553,,", Union athlétique de Saint-Cloud, 85 points; 4°, [Stade français], 120 points; 5°, Metropolitan-Club, 124 points. -"
+Union sportive dijonnaise,org.ent,Organization,org.ent,3659,3684,,"rie. — 1°, Football-Club de Lyon, 134 points; 2°, [Union sportive dijonnaise], 159 points; 3°, Sport athlétique bordelais, 171;"
+Sport athlétique bordelais,org.ent,Organization,org.ent,3702,3728,,"s; 2°, Union sportive dijonnaise, 159 points; 3°, [Sport athlétique bordelais], 171; 4°, Club des sports athlétiques, 178; 5°, S"
+Stade bordelais,org.ent,Organization,org.ent,3777,3792,,"s, 171; 4°, Club des sports athlétiques, 178; 5°, [Stade bordelais] et 6°, Groupe militaire du Nord-Est, 202; 7°, Spo"
+Groupe militaire du Nord-Est,org.ent,Organization,org.ent,3800,3828,,"orts athlétiques, 178; 5°, Stade bordelais et 6°, [Groupe militaire du Nord-Est], 202; 7°, Sporting-Club de Marseille; 8°, Associa"
+Sporting-Club de Marseille,org.ent,Organization,org.ent,3839,3865,,"ais et 6°, Groupe militaire du Nord-Est, 202; 7°, [Sporting-Club de Marseille]; 8°, Association pédestre française; 9°, Cercle p"
+Association pédestre française,org.ent,Organization,org.ent,3871,3901,,"ord-Est, 202; 7°, Sporting-Club de Marseille; 8°, [Association pédestre française]; 9°, Cercle pédestre châlonnais, etc. - 3° série."
+Cercle pédestre châlonnais,org.ent,Organization,org.ent,3907,3933,,"arseille; 8°, Association pédestre française; 9°, [Cercle pédestre châlonnais], etc. - 3° série. — 1°, Association sportive de l"
+Association sportive de la Seine,org.ent,Organization,org.ent,3958,3990,,"ercle pédestre châlonnais, etc. - 3° série. — 1°, [Association sportive de la Seine], 63 points; 2°, Association sportive de Neuilly,"
+Association sportive de Neuilly,org.ent,Organization,org.ent,4007,4038,,"Association sportive de la Seine, 63 points; 2°, [Association sportive de Neuilly], 119; 3°, Paris-Athlétique-Club, 159; 4°, Sportin"
+Paris-Athlétique-Club,org.ent,Organization,org.ent,4049,4070,,"ts; 2°, Association sportive de Neuilly, 119; 3°, [Paris-Athlétique-Club], 159; 4°, Sporting-Club Lafayette; 5°, Club athlé"
+Sporting-Club Lafayette,org.ent,Organization,org.ent,4081,4104,,"Neuilly, 119; 3°, Paris-Athlétique-Club, 159; 4°, [Sporting-Club Lafayette]; 5°, Club athlétique du 14e arrondissement, 166;"
+Club athlétique du 14e arrondissement,org.ent,Organization,org.ent,4110,4147,,"tique-Club, 159; 4°, Sporting-Club Lafayette; 5°, [Club athlétique du 14e arrondissement], 166; 6°, Union sportive versalaise; 7°, Union sp"
+Union sportive versalaise,org.ent,Organization,org.ent,4158,4183,,", Club athlétique du 14e arrondissement, 166; 6°, [Union sportive versalaise]; 7°, Union sportive de Gagny; 8°, Athlétique-Club"
+Union sportive de Gagny,org.ent,Organization,org.ent,4189,4212,,"issement, 166; 6°, Union sportive versalaise; 7°, [Union sportive de Gagny]; 8°, Athlétique-Club de Montmorency; 9°, Union cy"
+Athlétique-Club de Montmorency,org.ent,Organization,org.ent,4218,4248,,"tive versalaise; 7°, Union sportive de Gagny; 8°, [Athlétique-Club de Montmorency]; 9°, Union cycliste d'Orléans, etc. PRINCE MAX"
+Union cycliste d'Orléans,org.ent,Organization,org.ent,4254,4278,,"de Gagny; 8°, Athlétique-Club de Montmorency; 9°, [Union cycliste d'Orléans], etc. PRINCE MAX Dans son grand lit gothique, a"
+PRINCE MAX,pers.ind,Person,pers.ind,4286,4296,,"Montmorency; 9°, Union cycliste d'Orléans, etc. [PRINCE MAX] Dans son grand lit gothique, aux lourds rideaux"
+Unbekanntreich,loc.adm.nat,Location,loc.adm.nat,4558,4572,,"tons morts des broderies aux armes de la maison d'[Unbekanntreich]... C'est un rayon de soleil hivernal, et de sole"
+Dreistirnen,loc.adm.nat,Location,loc.adm.nat,4671,4682,,"eil allemand, pâle comme le sourire des filles de [Dreistirnen]... Mais, depuis tant de semaines la ville s'envel"
+Dreistirnen,loc.adm.town,Location,loc.adm.town,5019,5030,,"elques minutes les habitants de la bonne ville de [Dreistirnen], qui passent devant la royale demeure, peuvent vo"
+Prince Max,pers.ind,Person,pers.ind,5263,5273,,"ed des arbres et le rez-de-chaussée des maisons. [Prince Max] sourit à ce paysage familier, contemplé depuis sa"
+Saint-Aloysius,loc.fac,Location,loc.fac,5861,5875,,"e percée de trous en ogive, c'est la basilique de [Saint-Aloysius], où le prince a été baptisé. Ces toits pointus, v"
+Reinwald,loc.phys.geo,Location,loc.phys.geo,6132,6140,,"irnen. Plus loin encore, c'est la grande forêt du [Reinwald], maintenant dénudée par l'hiver, l'immense forêt"
+empire allemand,loc.adm.nat,Location,loc.adm.nat,6366,6381,,"regard. Derrière ces montagnes chauves — c'est l'[empire allemand]. ... Max quitte les fenêtres, revient à son lit"
+Freitag,pers.ind,Person,pers.ind,6709,6716,,"il garde sur sa tête, immobile et respectueux. — [Freitag], lui dit le prince — allez me seller Kobold. Je v"
+Kobold,pers.ind,Person,pers.ind,6754,6760,,". — Freitag, lui dit le prince — allez me seller [Kobold]. Je veux faire ce matin un tour jusqu'à la forêt."
+Unbekanntreich,loc.adm.nat,Location,loc.adm.nat,7302,7316,,", sous son costume de cadet, le prince héritier d'[Unbekanntreich] a vraiment bonne mine. Et il se sourit à lui-mêm"
+Dreistirnen,loc.adm.town,Location,loc.adm.town,7418,7429,,"le joli prince — du sourire qu'ont les filles de [Dreistirnen], quand elles le voient passer dans les rues de la"
+Kobold,pers.ind,Person,pers.ind,7501,7507,,"t passer dans les rues de la capitale. Vorwärts, [Kobold]! Le cheval et son noble cavalier quittent la cou"
+Freitag,pers.ind,Person,pers.ind,7600,7607,,"la cour du palais, suivis par le regard du vieux [Freitag]. Un peu de joie éclaire la physionomie ravagée du"
+Max,pers.ind,Person,pers.ind,8036,8039,,.. Les portes du palais se sont refermées; prince [Max] traverse au pas la place qu'il regardait tout à l
+Saint-Aloysius,loc.fac,Location,loc.fac,8532,8546,,"vant la maison de ville, puis devant le parvis de [Saint-Aloysius]. Un temps de trot sur les pavés pointus et il att"
+Unbekanntreich,loc.adm.nat,Location,loc.adm.nat,10324,10338,,ans l'âme du prince héritier... Tout le royaume d'[Unbekanntreich] — depuis Dreistirnen jusqu'aux montagnes chauves
+Dreistirnen,loc.adm.town,Location,loc.adm.town,10348,10359,,tier... Tout le royaume d'Unbekanntreich — depuis [Dreistirnen] jusqu'aux montagnes chauves qui le séparent de l'
+Empire allemand,loc.adm.nat,Location,loc.adm.nat,10409,10424,,"jusqu'aux montagnes chauves qui le séparent de l'[Empire allemand], était libre sous le gouvernement du vieux roi —"
+bulgare,loc.adm.nat,Location,loc.adm.nat,10580,10587,,n jour — sous prétexte de troubles à la frontière [bulgare] — le chancelier allemand a persuadé au roi d'acce
+prussiens,pers.coll,Person,pers.coll,10662,10671,,a persuadé au roi d'accepter quelques bataillons [prussiens] pour renforcer les garnisons des villes fortes du
+Reubenkerbel,pers.ind,Person,pers.ind,10857,10869,,"mouvements d'automate, — qui s'appelle le général [Reubenkerbel]. C'est lui que le chancelier a chargé de faire l'"
+Kobold,pers.ind,Person,pers.ind,11225,11231,,"ongles et leur partent dans les yeux. Vorwärts, [Kobold]! Le prince reprend le trot, essayant de secouer"
+Reinwald,loc.phys.geo,Location,loc.phys.geo,11487,11495,,temps où il se promenait encore dans la forêt de [Reinwald] — Max a suivi ce sentier qui conduit à la demeure
+Max,pers.ind,Person,pers.ind,11498,11501,,l se promenait encore dans la forêt de Reinwald — [Max] a suivi ce sentier qui conduit à la demeure du vi
+Peeter,pers.ind,Person,pers.ind,11561,11567,,"e sentier qui conduit à la demeure du vieux garde [Peeter]! Comme son cœur battait alors, aux abords de la m"
+Mina,pers.ind,Person,pers.ind,11817,11821,,"sur le seuil, la fille du vieux Peeter, la blonde [Mina], attendait le royal cavalier. Lui, sautait leste"
+Prince Max,pers.ind,Person,pers.ind,11981,11991,,"in dans la maison, où Mina lui versait la bière. [Prince Max], souvenez-vous de ces matinées de juin! Dans la m"
+Max,pers.ind,Person,pers.ind,11988,11991,,"la maison, où Mina lui versait la bière. Prince [Max], souvenez-vous de ces matinées de juin! Dans la m"
+Reinwald,loc.phys.geo,Location,loc.phys.geo,12297,12305,,ise aromatique qui vous venait des profondeurs du [Reinwald] avait passé sur tant de nids qu'elle vous envrait
+Kobold,pers.ind,Person,pers.ind,12714,12720,,"ait traversé la clairière en quelques bonds... ou [Kobold], impatient, qui avait henní pour appeler son maît"
+Peeter,pers.ind,Person,pers.ind,12883,12889,,"es taillis... Déjà il aperçoit la maison du vieux [Peeter], à travers les branches défeuillées. Mais soudain"
+Mina,pers.ind,Person,pers.ind,13408,13412,,"la vaste salle où flambe un feu de hêtre, il voit [Mina] la blonde versant comme autrefois la bière, coule"
+Dreistirnen,loc.adm.town,Location,loc.adm.town,13660,13671,,"us tôt, Max eût donné sans regret les remparts de [Dreistirnen], les toits pointus de la maison de ville et le cl"
+Saint-Aloysius,loc.fac,Location,loc.fac,13730,13744,,ts pointus de la maison de ville et le clocher de [Saint-Aloysius]. Voici que le cavalier se retourne... Horreur! c
+général prussien Reubenkerbel,pers.ind,Person,pers.ind,13884,13913,,détesté... Max ne se trompe point: c'est bien le [général prussien Reubenkerbel]... Le prince Max a regagné au galop les portes d
+Reubenkerbel,pers.ind,Person,pers.ind,13901,13913,,e se trompe point: c'est bien le général prussien [Reubenkerbel]... Le prince Max a regagné au galop les portes d
+Freitag,pers.ind,Person,pers.ind,14080,14087,,"son cheval, jetant rageusement les rênes au vieux [Freitag], — et il a couru s'enfermer dans sa chambre, où i"
+Empire allemand,loc.adm.nat,Location,loc.adm.nat,14326,14341,,"a d'abattre ce colosse tyrannique qui s'appelle l'[Empire allemand]! Marcel Prévost. EN RÊVE — Enfin, dit Pierre S"
+Marcel Prévost,pers.ind.articleauthor,Person,pers.ind.articleauthor,14344,14358,,"osse tyrannique qui s'appelle l'Empire allemand! [Marcel Prévost]. EN RÊVE — Enfin, dit Pierre Sarlier, apprends-"
+Pierre Sarlier,pers.ind,Person,pers.ind,14383,14397,,"allemand! Marcel Prévost. EN RÊVE — Enfin, dit [Pierre Sarlier], apprends-nous, Jacques, ce qui s'est passé. — M"
+Jacques,pers.ind,Person,pers.ind,14414,14421,,"RÊVE — Enfin, dit Pierre Sarlier, apprends-nous, [Jacques], ce qui s'est passé. — Mais... rien. J'avais ass"
+Mme Sarlier,pers.ind,Person,pers.ind,14597,14608,,"us... voilà tout. — Voilà tout! répéta la petite [Mme Sarlier]. Je vous avertis que, pas plus que mon mari, je n"
+Mme Sarlier,pers.ind,Person,pers.ind,14597,14608,,"us... voilà tout. — Voilà tout! répéta la petite [Mme Sarlier]. Je vous avertis que, pas plus que mon mari, je n"
+Paris,loc.adm.town,Location,loc.adm.town,14791,14796,,"é à vos amis que vous avez découvert, pas loin de [Paris], un coin délicieux, une oasis de paix, de solitud"
+Jacques,pers.ind,Person,pers.ind,15197,15204,,"e n'est pas naturel... Voyons, avouez la vérité. [Jacques] Cézère hésita — visiblement il lui répugnait de p"
+Jacques Cézère,pers.ind,Person,pers.ind,15197,15211,,"e n'est pas naturel... Voyons, avouez la vérité. [Jacques Cézère] hésita — visiblement il lui répugnait de parler."
+Garbois,pers.ind,Person,pers.ind,16953,16960,,"is personne dans le pays, sauf mon ami le docteur [Garbois], celui-là même qui, sachant mon désir de solitude"
+Paris,loc.adm.town,Location,loc.adm.town,17814,17819,,"pouvais me croire à des centaines de lieues de ce [Paris] que je fuyais, et que j'ai regagné, aujourd'hui,"
+Simon,pers.ind,Person,pers.ind,17956,17961,,"ma thébaïde au soir tombant, suivi de mon fidèle [Simon]. La gardienne de la villa — une vieille qui para"
+Mme Sarlier,pers.ind,Person,pers.ind,18273,18284,,"lement. — Pas très gentil pour nous, interrompit [Mme Sarlier]. — Parfaitement heureux, reprit Cézère; malgré,"
+Cézère,pers.ind,Person,pers.ind,18318,18324,,"mpit Mme Sarlier. — Parfaitement heureux, reprit [Cézère]; malgré, cependant, une bizarre impression, une g"

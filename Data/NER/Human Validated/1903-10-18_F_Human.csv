@@ -1,0 +1,93 @@
+﻿entity,fine_type,coarse_type
+Bresse,loc.adm.reg,Location
+Champagne,loc.adm.reg,Location
+Arles,loc.adm.town,Location
+Crau,loc.phys.geo,Location
+Marseille,loc.adm.town,Location
+Adolphe CHENEVIÈRE,pers.ind.articleauthor,Person
+L'AGRICULTURE MODERNE,prod.media,Product
+Brésil,loc.adm.nat,Location
+Athènes,loc.adm.town,Location
+Méditerranée,loc.phys.hydro,Location
+Petit Journal,prod.media,Product
+Julies Houlbrecque,pers.ind,Person
+Bolbec,loc.adm.town,Location
+Mimi de Servigesnot,pers.ind,Person
+Lentendu E.,pers.ind,Person
+L. Charpentier,pers.ind,Person
+Remo Zeillet,pers.ind,Person
+Pierregot,pers.ind,Person
+Joseph Grandin,pers.ind,Person
+Bihorel,loc.adm.town,Location
+J. Deler,pers.ind,Person
+Tante Léonie,pers.ind,Person
+Louis Cros fils,pers.ind,Person
+Mamzelle Trompette,pers.ind,Person
+René Lambert,pers.ind,Person
+Alfortville,loc.adm.town,Location
+Jeanson d'Arday,pers.ind,Person
+L. Gougon,pers.ind,Person
+Coulamer,loc.adm.town,Location
+Philipine Varlet,pers.ind,Person
+Clémence,pers.ind,Person
+E. Monnet,pers.ind,Person
+Rugles,loc.adm.town,Location
+Octave Clin,pers.ind,Person
+Nini Calurof,pers.ind,Person
+R. des Rosiers,pers.ind,Person
+Démesthène,pers.ind,Person
+Wassy,loc.adm.town,Location
+Prémontré,loc.adm.town,Location
+Brig-four,pers.ind,Person
+Givet,loc.adm.town,Location
+Edmond Leroy,pers.ind,Person
+Pernois,loc.adm.town,Location
+Brie,pers.ind,Person
+Pressaint,loc.adm.town,Location
+M. du Peint seau,pers.ind,Person
+Morlain,loc.adm.town,Location
+Rubempé,loc.adm.town,Location
+Louis Lamontagne,pers.ind,Person
+Cherbourg,loc.adm.town,Location
+Thérèse,pers.ind,Person
+Auguste,pers.ind,Person
+Nogent,loc.adm.town,Location
+Bouchaud,pers.ind,Person
+Angoulême,loc.adm.town,Location
+Mme Léonie Lory,pers.ind,Person
+Mézières-Epône,loc.adm.town,Location
+Seine-et-Oise,loc.adm.reg,Location
+M. Langronet,pers.ind,Person
+Gablin et Co,org.ent,Organization
+"23, Rue Ballu, Paris",loc.add.phys,Location
+Paris,loc.adm.town,Location
+M. REVERDY,pers.ind,Person
+RAINCY,loc.adm.town,Location
+Photo-Withe,org.ent,Organization
+"23, rue St-Sabin, Paris",loc.add.phys,Location
+"83, r. Lafayette, Paris",loc.add.phys,Location
+J. RATIE,pers.ind,Person
+" 5, passage Verdeau, Paris",loc.add.phys,Location
+ACHILLE,pers.ind,Person
+"75, r. Montmartre, Paris",loc.add.phys,Location
+J. PIERRE,pers.ind,Person
+BOUAIN,loc.adm.town,Location
+AISNE,loc.adm.reg,Location
+La Médecine des Sens,prod.media,Product
+Institut de la Surdité,org.ent,Organization
+"19, rue de la Pépinière",loc.add.phys,Location
+Paris,loc.adm.town,Location
+E. Renom,pers.ind,Person
+"23, rue Saint-Sabin, PARIS",loc.add.phys,Location
+PATRELLE,pers.ind,Person
+S. PATRELLE,pers.ind,Person
+G. Rigolet,pers.ind,Person
+Dr SANDEN,pers.ind,Person
+Jean QUESNE,pers.ind,Person
+Rue Ferdinand,loc.oro,Location
+LE HAVRE,loc.adm.town,Location
+LA SANTÉ RETROUVÉE DANS LA NATURE,prod.media,Product
+"15, Rue de la Paix, PARIS",loc.add.phys,Location
+J.A. VINCENT,pers.ind,Person
+Belgique,loc.adm.nat,Location
+"BRUXELLES, 89, Rue du Marché-aux-Herbes",loc.add.phys,Location

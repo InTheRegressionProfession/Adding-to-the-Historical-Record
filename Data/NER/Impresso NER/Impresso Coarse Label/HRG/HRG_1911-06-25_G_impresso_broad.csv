@@ -1,0 +1,185 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Miette,Person,pers,60,66,0.7963,"gt francs, toute sa fortune. A la tombée du jour, [Miette] s'enfuit par la petite porte du jardin, chargée p"
+Cécile,Person,pers,226,232,0.8739,"âteaux, « pour au moins six mois » ! dit la bonne [Cécile] avec conviction. Les adieux furent courts mais ém"
+Cécile,Person,pers,336,342,0.9234,"nts dans leur simplicité enfantine. — Au revoir, [Cécile], fit Miette affairée comme une vraie voyageuse."
+Miette,Person,pers,348,354,0.8989,"r simplicité enfantine. — Au revoir, Cécile, fit [Miette] affairée comme une vraie voyageuse. — Bon voyage"
+Miette,Person,pers,406,412,0.889,"ffairée comme une vraie voyageuse. — Bon voyage, [Miette], reviens vite ! cria Cécile. Et Miette qui courai"
+Cécile,Person,pers,434,440,0.9392,"geuse. — Bon voyage, Miette, reviens vite ! cria [Cécile]. Et Miette qui courait déjà disparut très vite au"
+Miette,Person,pers,445,451,0.7588,"on voyage, Miette, reviens vite ! cria Cécile. Et [Miette] qui courait déjà disparut très vite au coin du mu"
+Miette,Person,pers,916,922,0.8909,fant qui passe... un enfant en grand deuil. C'est [Miette] qui va rejoindre sa mère par le chemin le plus co
+Miette,Person,pers,1315,1321,0.8358,"s parfums qui ne sont plus de la terre. La petite [Miette], en extase, parle tout haut, d'une voix singulièr"
+Cécile,Person,pers,2139,2145,0.9465,"refaire le même chemin pour s'en retourner, alors [Cécile] aura beaucoup de chagrin à son tour, pauvre Cécil"
+Cécile,Person,pers,2190,2196,0.9136,"écile aura beaucoup de chagrin à son tour, pauvre [Cécile]... Mais elle butte contre une pierre, elle va tom"
+Marie,Person,pers,2419,2424,0.8663,"mme elle pleure ! — Toujours tout droit... Merci, [Marie]... — Du reste, ce n'est pas une pierre que heurte"
+petite,Person,pers,2584,2590,0.5021,utes... Encore un effort !... C'est si dur que la [petite] Miette en perd le souffle. Encore un effort ! Et
+Miette,Person,pers,2591,2597,0.5399,Encore un effort !... C'est si dur que la petite [Miette] en perd le souffle. Encore un effort ! Et Miette
+Miette,Person,pers,2640,2646,0.6921,"Miette en perd le souffle. Encore un effort ! Et [Miette] libérée monte dans la Lumière ; Miette suit, touj"
+Lumière,Location,loc,2669,2676,0.4579,"ncore un effort ! Et Miette libérée monte dans la [Lumière] ; Miette suit, toujours courant, une rue spacieus"
+Miette,Person,pers,2679,2685,0.701,"ffort ! Et Miette libérée monte dans la Lumière ; [Miette] suit, toujours courant, une rue spacieuse, bordée"
+Miette,Person,pers,2981,2987,0.8108,portant dans ses bras un tout petit ange endormi. [Miette] entend distinctement la voix chérie qui l'appelle
+Miette,Person,pers,3042,3048,0.8047,"nd distinctement la voix chérie qui l'appelle : « [Miette], ma petite fille bien aimée ! » Elle répond en co"
+Miette,Person,pers,3283,3289,0.8082,"t, de bien-être et d'indicible bonheur. La petite [Miette] est entrée dans l'Éternité heureuse. Ici bas, on"
+Camille DE VÉRINE,Person,pers,3350,3367,0.9607,"dans l'Éternité heureuse. Ici bas, on pleure... [Camille DE VÉRINE]. LE CODE POUR TOUS Contributions Indirectes Jur"
+du 28 avril 1816,Time,time,3558,3574,0.8349,par application des articles 50 et 144 de la loi [du 28 avril 1816] et de l'article unique de la loi du 28 avril 1838
+du 28 avril 1838,Time,time,3608,3624,0.8233,"du 28 avril 1816 et de l'article unique de la loi [du 28 avril 1838], ceux qui, moyennant paiement, donnent à manger,"
+Rouen,Product,prod,3951,3956,0.3059,bénéfice sur la somme versée au nom de chacun. ([Rouen]. Corr. 6 fév. 1909.) Double caractère des peines
+Corr,Product,prod,3958,3962,0.3061,ce sur la somme versée au nom de chacun. (Rouen. [Corr]. 6 fév. 1909.) Double caractère des peines pécuni
+6 fév. 1909,Time,time,3964,3975,0.7769,la somme versée au nom de chacun. (Rouen. Corr. [6 fév. 1909].) Double caractère des peines pécuniaires en mati
+Douai,Location,loc,4477,4482,0.3617,uelle elle croit pouvoir légitimement prétendre. ([Douai]. Corr. 11 janv. 1910.) Peines. Caractère spécial
+.,Product,prod,4482,4483,0.3838,elle croit pouvoir légitimement prétendre. (Douai[.] Corr. 11 janv. 1910.) Peines. Caractère spécial d
+Corr,Time,time,4484,4488,0.2517,lle croit pouvoir légitimement prétendre. (Douai. [Corr]. 11 janv. 1910.) Peines. Caractère spécial de l'a
+. 11 janv. 1910,Time,time,4488,4503,0.6947,croit pouvoir légitimement prétendre. (Douai. Corr[. 11 janv. 1910].) Peines. Caractère spécial de l'amende fiscale.
+Peines,Person,pers,4506,4512,0.3706,timement prétendre. (Douai. Corr. 11 janv. 1910.) [Peines]. Caractère spécial de l'amende fiscale. — En mati
+Cass,Organization,org,4977,4981,0.5785,"ve, du vivant ou après le décès du contrevenant. ([Cass]. crim. 4 juin 1910.) Perquisitions. Formalités d"
+4 juin 1910,Time,time,4989,5000,0.7626,t ou après le décès du contrevenant. (Cass. crim. [4 juin 1910].) Perquisitions. Formalités de l'article 237 de
+du 28 avril 1816,Time,time,5057,5073,0.8442,"quisitions. Formalités de l'article 237 de la loi [du 28 avril 1816]. Marchand en gros. — Si, aux termes de l'article"
+du 28 avril 1816,Time,time,5137,5153,0.845,"gros. — Si, aux termes de l'article 101 de la loi [du 28 avril 1816], les employés de la Régie peuvent faire chez les"
+du 18 avril 1816,Time,time,5639,5655,0.8387,"protégés, à ce titre, par l'article 237 de la loi [du 18 avril 1816]. (Cas. crim. 28 oct. 1910.) Perquisitions chez l"
+. crim. 28 oct. 1910,Time,time,5661,5681,0.6433,par l'article 237 de la loi du 18 avril 1816. (Cas[. crim. 28 oct. 1910].) Perquisitions chez les particuliers. Condition
+Grenoble,Location,loc,6621,6629,0.9627,elles comprises dans ces catégories limitatives. ([Grenoble]. Corr. 7 mai 1910.) Monopole des allumettes chim
+7 mai 1910,Time,time,6637,6647,0.72,dans ces catégories limitatives. (Grenoble. Corr. [7 mai 1910].) Monopole des allumettes chimiques. Briquets. —
+Seine,Location,loc,7056,7061,0.4119,caractère chimique que réside la contravention. ([Seine]. Corr. 3 déc. 1910.) Taxes municipales. Droits d
+Corr,Product,prod,7063,7067,0.2274,ère chimique que réside la contravention. (Seine. [Corr]. 3 déc. 1910.) Taxes municipales. Droits de plac
+. 3 déc. 1910,Time,time,7067,7080,0.7097,chimique que réside la contravention. (Seine. Corr[. 3 déc. 1910].) Taxes municipales. Droits de place. Procédure
+Cass.,Organization,org,7582,7587,0.5349,ries et sur les conclusions du ministère public. ([Cass.] civ. 11 janvier 1910.) SAINT-YVES. Mots Carrés
+11 janvier 1910,Time,time,7593,7608,0.7458,"les conclusions du ministère public. (Cass. civ. [11 janvier 1910].) SAINT-YVES. Mots Carrés Port d'Afrique, rude"
+SAINT-YVES,Location,loc,7612,7622,0.9595,"ministère public. (Cass. civ. 11 janvier 1910.) [SAINT-YVES]. Mots Carrés Port d'Afrique, rude d'accès — Son"
+Port d'Afrique,Location,loc,7638,7652,0.7406,"civ. 11 janvier 1910.) SAINT-YVES. Mots Carrés [Port d'Afrique], rude d'accès — Son vice le rend ridicule. — Vill"
+Allobrog,Organization,org,7768,7776,0.2319,"n véhicule. — Philosophe, historien français. Un [Allobrog]. SOLUTION Logographe (N° 1.074). S O R N E T E"
+1,Time,time,7804,7805,0.5915,français. Un Allobrog. SOLUTION Logographe (N° [1].074). S O R N E T E E N T O R S E N E S T O R T O
+074,Time,time,7806,7809,0.4823,ançais. Un Allobrog. SOLUTION Logographe (N° 1.[074]). S O R N E T E E N T O R S E N E S T O R T O R S
+C. Pierron,Person,pers,7925,7935,0.9762,. SOLUTIONS JUSTES Mots en hexagone (N° 1.073) [C. Pierron]. — M. Assin. — Haël. — Spirite. — C. Desserville.
+M. Assin,Person,pers,7939,7947,0.9761,USTES Mots en hexagone (N° 1.073) C. Pierron. — [M. Assin]. — Haël. — Spirite. — C. Desserville. — O. Clin.
+Haël,Person,pers,7951,7955,0.4318,en hexagone (N° 1.073) C. Pierron. — M. Assin. — [Haël]. — Spirite. — C. Desserville. — O. Clin. — Va Vit
+C. Desserville,Person,pers,7970,7984,0.9713,73) C. Pierron. — M. Assin. — Haël. — Spirite. — [C. Desserville]. — O. Clin. — Va Vite. — Léopold Gros. — M. Chole
+O. Clin,Person,pers,7988,7995,0.9744,M. Assin. — Haël. — Spirite. — C. Desserville. — [O. Clin]. — Va Vite. — Léopold Gros. — M. Cholet. — Kloklo
+Va Vite,Location,loc,7999,8006,0.8141,— Haël. — Spirite. — C. Desserville. — O. Clin. — [Va Vite]. — Léopold Gros. — M. Cholet. — Kloklo. — Q. de M
+Léopold Gros,Person,pers,8010,8022,0.9771,pirite. — C. Desserville. — O. Clin. — Va Vite. — [Léopold Gros]. — M. Cholet. — Kloklo. — Q. de Meigneux. — Lord
+M. Cholet,Person,pers,8026,8035,0.9773,serville. — O. Clin. — Va Vite. — Léopold Gros. — [M. Cholet]. — Kloklo. — Q. de Meigneux. — Lord Ensot. — Fou-
+Kloklo,Person,pers,8039,8045,0.9323,. Clin. — Va Vite. — Léopold Gros. — M. Cholet. — [Kloklo]. — Q. de Meigneux. — Lord Ensot. — Fou-le-romps.
+Q. de Meigneux,Person,pers,8049,8063,0.9726,Va Vite. — Léopold Gros. — M. Cholet. — Kloklo. — [Q. de Meigneux]. — Lord Ensot. — Fou-le-romps. — Louis et Léontin
+Lord Ensot,Person,pers,8067,8077,0.9811,Gros. — M. Cholet. — Kloklo. — Q. de Meigneux. — [Lord Ensot]. — Fou-le-romps. — Louis et Léontine. — M. T. — A
+Fou-le-romps,Location,loc,8081,8093,0.854,olet. — Kloklo. — Q. de Meigneux. — Lord Ensot. — [Fou-le-romps]. — Louis et Léontine. — M. T. — A. de Cabannes. —
+Louis,Person,pers,8097,8102,0.9678,— Q. de Meigneux. — Lord Ensot. — Fou-le-romps. — [Louis] et Léontine. — M. T. — A. de Cabannes. — Louis Cr
+Léontine,Person,pers,8106,8114,0.9358,eigneux. — Lord Ensot. — Fou-le-romps. — Louis et [Léontine]. — M. T. — A. de Cabannes. — Louis Cros. — Lagarç
+M. T.,Person,pers,8118,8123,0.9517,ord Ensot. — Fou-le-romps. — Louis et Léontine. — [M. T.] — A. de Cabannes. — Louis Cros. — Lagarçois. — E.
+A. de Cabannes,Person,pers,8126,8140,0.9612,t. — Fou-le-romps. — Louis et Léontine. — M. T. — [A. de Cabannes]. — Louis Cros. — Lagarçois. — E. Terrion. — Edipe
+Louis Cros,Person,pers,8144,8154,0.9735,— Louis et Léontine. — M. T. — A. de Cabannes. — [Louis Cros]. — Lagarçois. — E. Terrion. — Edipe. Une minute
+Lagarçois,Location,loc,8158,8167,0.953,ontine. — M. T. — A. de Cabannes. — Louis Cros. — [Lagarçois]. — E. Terrion. — Edipe. Une minute suffit ! Une
+E. Terrion,Person,pers,8171,8181,0.9714,T. — A. de Cabannes. — Louis Cros. — Lagarçois. — [E. Terrion]. — Edipe. Une minute suffit ! Une minute suffit
+Edipe,Person,pers,8185,8190,0.7778,annes. — Louis Cros. — Lagarçois. — E. Terrion. — [Edipe]. Une minute suffit ! Une minute suffit pour com
+Pilules,Organization,org,8298,8305,0.3247,pourquoi l'on souffre de l'estomac et comment les [Pilules] Pink guérissent les maux d'estomac. Quand vous s
+Pink,Person,pers,8306,8310,0.4164,l'on souffre de l'estomac et comment les Pilules [Pink] guérissent les maux d'estomac. Quand vous souffr
+Pilules Pink,Organization,org,9018,9030,0.5721,ortifiant tout votre organisme. C'est le rôle des [Pilules Pink] de fortifier tout l'organisme et elles le font av
+Pilules Pink,Organization,org,9108,9120,0.6601,me et elles le font avec sûreté et rapidité. Les [Pilules Pink] donnent du sang avec chaque dose. Ce sang riche e
+Pilules Pink,Organization,org,9288,9300,0.6941,"c en prend sa part. A mesure que vous prenez les [Pilules Pink], vous sentez vos forces renaître et vous constate"
+M. Demars Victorien,Person,pers,9413,9432,0.9493,"estions se font mieux. Une guérison remarquable [M. Demars Victorien], maison Laroche, à Chabannes le Cheylard (Ardèche"
+maison Laroche,Person,pers,9434,9448,0.4247,". Une guérison remarquable M. Demars Victorien, [maison Laroche], à Chabannes le Cheylard (Ardèche), s'exprime ain"
+Chabannes,Location,loc,9452,9461,0.9311,"marquable M. Demars Victorien, maison Laroche, à [Chabannes] le Cheylard (Ardèche), s'exprime ainsi : « Penda"
+Cheylard,Location,loc,9465,9473,0.4575,"Demars Victorien, maison Laroche, à Chabannes le [Cheylard] (Ardèche), s'exprime ainsi : « Pendant 18 ans, j"
+Ardèche,Location,loc,9475,9482,0.9404,"ctorien, maison Laroche, à Chabannes le Cheylard ([Ardèche]), s'exprime ainsi : « Pendant 18 ans, je n'ai pa"
+M. Demars,Person,pers,9751,9760,0.9792,ée d'essayer vos Pilules et elles m'ont guéri. » [M. Demars] ajoute qu'il était si malade qu'il avait été obli
+Pilules Pink,Organization,org,9941,9953,0.6397,yeux de tous ceux qui souffrent de l'estomac. Les [Pilules Pink] peuvent les guérir. Les Pilules Pink par leur ac
+Pilules Pink,Organization,org,9979,9991,0.5923,stomac. Les Pilules Pink peuvent les guérir. Les [Pilules Pink] par leur action sur le sang et sur le système ner
+Pilules Pink,Organization,org,10198,10210,0.5908,"ularités des femmes, neurasthénie. On trouve les [Pilules Pink] dans toutes les pharmacies et au dépôt : Pharmaci"
+Gablin,Person,pers,10262,10268,0.7296,"ans toutes les pharmacies et au dépôt : Pharmacie [Gablin], 23, rue Ballu, Paris ; 3 fr. 50 la boîte, 17 fr."
+rue Ballu,Location,loc,10274,10283,0.599,"es pharmacies et au dépôt : Pharmacie Gablin, 23, [rue Ballu], Paris ; 3 fr. 50 la boîte, 17 fr. 50 les 6 boîte"
+Paris,Location,loc,10285,10290,0.7066,"es et au dépôt : Pharmacie Gablin, 23, rue Ballu, [Paris] ; 3 fr. 50 la boîte, 17 fr. 50 les 6 boîtes, fran"
+PHOTO,Organization,org,10485,10490,0.4427,tanés. Demandez Splendide Catalogue Illustré à la [PHOTO] - VULGARISATrice à la PHOTO - VULGARISATrice. Mar
+VULGARISATrice,Organization,org,10493,10507,0.3473,"emandez Splendide Catalogue Illustré à la PHOTO - [VULGARISATrice] à la PHOTO - VULGARISATrice. Marque ""INCROYABLE"""
+PHOTO,Organization,org,10513,10518,0.4787,"talogue Illustré à la PHOTO - VULGARISATrice à la [PHOTO] - VULGARISATrice. Marque ""INCROYABLE"" - Rue des P"
+VULGARISATrice,Organization,org,10521,10535,0.4158,"Illustré à la PHOTO - VULGARISATrice à la PHOTO - [VULGARISATrice]. Marque ""INCROYABLE"" - Rue des Petites-Ecuries, 1"
+Rue des,Location,loc,10559,10566,0.4553,"la PHOTO - VULGARISATrice. Marque ""INCROYABLE"" - [Rue des] Petites-Ecuries, 12, Paris. 30 A 50 francs par s"
+Petites,Organization,org,10567,10574,0.4515,"O - VULGARISATrice. Marque ""INCROYABLE"" - Rue des [Petites]-Ecuries, 12, Paris. 30 A 50 francs par semaine -"
+-,Location,loc,10574,10575,0.6971,"GARISATrice. Marque ""INCROYABLE"" - Rue des Petites[-]Ecuries, 12, Paris. 30 A 50 francs par semaine -"
+Ecuries,Organization,org,10575,10582,0.4811,"ARISATrice. Marque ""INCROYABLE"" - Rue des Petites-[Ecuries], 12, Paris. 30 A 50 francs par semaine - travail"
+12,Organization,org,10584,10586,0.3816,"e. Marque ""INCROYABLE"" - Rue des Petites-Ecuries, [12], Paris. 30 A 50 francs par semaine - travail fac"
+Paris,Location,loc,10588,10593,0.5442,"arque ""INCROYABLE"" - Rue des Petites-Ecuries, 12, [Paris]. 30 A 50 francs par semaine - travail facile - s"
+Gazette,Product,prod,10720,10727,0.4488,"toute l'année, sur nos TRICOTEUSES BREVETÉES. La [Gazette]. Paris, 194, rue Lapayette, VIII R. N° 31.421. —"
+.,Organization,org,10727,10728,0.5635,"l'année, sur nos TRICOTEUSES BREVETÉES. La Gazette[.] Paris, 194, rue Lapayette, VIII R. N° 31.421. —"
+Paris,Product,prod,10729,10734,0.242,"année, sur nos TRICOTEUSES BREVETÉES. La Gazette. [Paris], 194, rue Lapayette, VIII R. N° 31.421. — August"
+rue Lapayette,Location,loc,10741,10754,0.6772,"os TRICOTEUSES BREVETÉES. La Gazette. Paris, 194, [rue Lapayette], VIII R. N° 31.421. — Auguste FORM.... Chevelure"
+Auguste FORM,Person,pers,10778,10790,0.9299,"Paris, 194, rue Lapayette, VIII R. N° 31.421. — [Auguste FORM].... Chevelure obtenue en 49 jours. il a été CHAU"
+Célèbre Sève Capillaire OLBÉ,Organization,org,10979,11007,0.7422,"s, étaient complètement tombés; en 7 semaines, la [Célèbre Sève Capillaire OLBÉ] lui a donné la chevelure et la barbe dont on voit"
+dermatologiste Olbé,Person,pers,11116,11135,0.9081,"duction photographique ci-contre. D'ailleurs, le [dermatologiste Olbé] donne toujours 100.000 fr. à quiconque prouvera q"
+dermatologiste OLBÉ,Person,pers,11527,11546,0.8869,de quiconque veut les parcourir au laboratoire du [dermatologiste OLBÉ]. JAMAIS D'INSUCCS POUR RECEVOIR GRATIS sous pli
+OLBÉ,Organization,org,11660,11664,0.2968,"e explicative, écrire ou se rendre au Laboratoire [OLBÉ], 22, Rue des Martyrs, 22, Section 286, PARIS 915"
+Rue des Martyrs,Location,loc,11670,11685,0.7832,"ive, écrire ou se rendre au Laboratoire OLBÉ, 22, [Rue des Martyrs], 22, Section 286, PARIS 915 MILLIONS de Garantie"
+PARIS,Location,loc,11704,11709,0.6124,"toire OLBÉ, 22, Rue des Martyrs, 22, Section 286, [PARIS] 915 MILLIONS de Garanties Tel est le chiffre de"
+Compagnie d'Assurances Générales sur la Vie,Organization,org,11778,11821,0.9058,aranties Tel est le chiffre des garanties que la [Compagnie d'Assurances Générales sur la Vie] (entreprise privée assujettie au contrôle de l'Et
+Paris,Location,loc,11967,11972,0.9607,"s et de rentiers-viagers, savoir : - Immeubles à [Paris], Rouen, Le Havre, Nantes, Marseille, etc..... Fr."
+Rouen,Location,loc,11974,11979,0.9803,"rentiers-viagers, savoir : - Immeubles à Paris, [Rouen], Le Havre, Nantes, Marseille, etc..... Fr. 119.22"
+Le,Location,loc,11981,11983,0.9851,"rs-viagers, savoir : - Immeubles à Paris, Rouen, [Le] Havre, Nantes, Marseille, etc..... Fr. 119.225.00"
+Havre,Location,loc,11984,11989,0.7993,"viagers, savoir : - Immeubles à Paris, Rouen, Le [Havre], Nantes, Marseille, etc..... Fr. 119.225.000 » -"
+Nantes,Location,loc,11991,11997,0.9834,", savoir : - Immeubles à Paris, Rouen, Le Havre, [Nantes], Marseille, etc..... Fr. 119.225.000 » - Valeurs"
+Marseille,Location,loc,11999,12008,0.9797,": - Immeubles à Paris, Rouen, Le Havre, Nantes, [Marseille], etc..... Fr. 119.225.000 » - Valeurs mobilières,"
+Paris,Location,loc,12196,12201,0.9278,"it de notices et tarifs sur demande, adressée : à [Paris], soit au siège social, 87, rue de Richelieu, soit"
+87,Location,loc,12225,12227,0.5231,"emande, adressée : à Paris, soit au siège social, [87], rue de Richelieu, soit aux bureaux auxiliaires d"
+rue de Richelieu,Location,loc,12229,12245,0.8992,"de, adressée : à Paris, soit au siège social, 87, [rue de Richelieu], soit aux bureaux auxiliaires de quartier — dans"
+Dr Institut,Person,pers,12470,12481,0.6507,"Méthode Externe. Rente Gratuits de l'Etat, Ecrire [Dr Institut], 11, rue Lacharrière, Paris. CYCLES ""GRANIT"" DEP"
+11,Location,loc,12483,12485,0.5523,"ne. Rente Gratuits de l'Etat, Ecrire Dr Institut, [11], rue Lacharrière, Paris. CYCLES ""GRANIT"" DEPUIS"
+rue Lacharrière,Location,loc,12487,12502,0.7432,"Rente Gratuits de l'Etat, Ecrire Dr Institut, 11, [rue Lacharrière], Paris. CYCLES ""GRANIT"" DEPUIS 41, Rue de l'Oasi"
+Paris,Location,loc,12504,12509,0.8888,"l'Etat, Ecrire Dr Institut, 11, rue Lacharrière, [Paris]. CYCLES ""GRANIT"" DEPUIS 41, Rue de l'Oasis, PUTE"
+Rue de l'Oasis,Location,loc,12539,12553,0.823,"e Lacharrière, Paris. CYCLES ""GRANIT"" DEPUIS 41, [Rue de l'Oasis], PUTEAUX Gar. 5 ans. - Facil. de paiement. - Cata"
+PUTEAUX,Location,loc,12555,12562,0.521,"aris. CYCLES ""GRANIT"" DEPUIS 41, Rue de l'Oasis, [PUTEAUX] Gar. 5 ans. - Facil. de paiement. - Catal. gratui"
+Barret,Person,pers,12697,12703,0.8485,"em. TROUBLES MENSUELS IRRÉGULARITES DES EPOQUES. [Barret], 112, rue Beaumarchais, Paris. ACHETEZ La MONTRE"
+112,Location,loc,12705,12708,0.459,"UBLES MENSUELS IRRÉGULARITES DES EPOQUES. Barret, [112], rue Beaumarchais, Paris. ACHETEZ La MONTRE préc"
+rue Beaumarchais,Location,loc,12710,12726,0.6287,"MENSUELS IRRÉGULARITES DES EPOQUES. Barret, 112, [rue Beaumarchais], Paris. ACHETEZ La MONTRE précieuse et garantie"
+Paris,Location,loc,12728,12733,0.3852,"RITES DES EPOQUES. Barret, 112, rue Beaumarchais, [Paris]. ACHETEZ La MONTRE précieuse et garantie le BIJO"
+TRIBAUDEAU,Person,pers,12830,12840,0.8607,"IJOU élégant et solide l'inusable ORFEVRERIE chez [TRIBAUDEAU] Fab à BESANÇON 50 Récompenses, Concours des Chron"
+BESANÇON,Location,loc,12847,12855,0.9383,"olide l'inusable ORFEVRERIE chez TRIBAUDEAU Fab à [BESANÇON] 50 Récompenses, Concours des Chronomètres à l'Obs"
+"J. Ratié, ph.",Person,pers,13163,13176,0.9318,"la santé - Placon av. notice 6/35 fr. Env. discr. [J. Ratié, ph.], 5, passage Verneau, Paris. Bruxelles : Ph. St-Mi"
+5,Person,pers,13178,13179,0.4558,"on av. notice 6/35 fr. Env. discr. J. Ratié, ph., [5], passage Verneau, Paris. Bruxelles : Ph. St-Miche"
+passage Verneau,Location,loc,13181,13196,0.5256,"av. notice 6/35 fr. Env. discr. J. Ratié, ph., 5, [passage Verneau], Paris. Bruxelles : Ph. St-Michel. Genève : Carti"
+Paris,Location,loc,13198,13203,0.5138,"r. Env. discr. J. Ratié, ph., 5, passage Verneau, [Paris]. Bruxelles : Ph. St-Michel. Genève : Cartier et J"
+Bruxelles,Location,loc,13205,13214,0.9454,"discr. J. Ratié, ph., 5, passage Verneau, Paris. [Bruxelles] : Ph. St-Michel. Genève : Cartier et Jorin. Bueno"
+Ph. St-Michel,Person,pers,13217,13230,0.7865,"atié, ph., 5, passage Verneau, Paris. Bruxelles : [Ph. St-Michel]. Genève : Cartier et Jorin. Buenos-Ayres : Ph. Fr"
+Genève,Location,loc,13232,13238,0.9606,"assage Verneau, Paris. Bruxelles : Ph. St-Michel. [Genève] : Cartier et Jorin. Buenos-Ayres : Ph. Franco Ing"
+Cartier,Person,pers,13241,13248,0.9164,"rneau, Paris. Bruxelles : Ph. St-Michel. Genève : [Cartier] et Jorin. Buenos-Ayres : Ph. Franco Inglesa. Mont"
+Jorin,Person,pers,13252,13257,0.8801,s. Bruxelles : Ph. St-Michel. Genève : Cartier et [Jorin]. Buenos-Ayres : Ph. Franco Inglesa. Montréal : A.
+Buenos-Ayres,Location,loc,13259,13271,0.969,elles : Ph. St-Michel. Genève : Cartier et Jorin. [Buenos-Ayres] : Ph. Franco Inglesa. Montréal : A. Décey. APIL
+Ph. Franco Inglesa,Person,pers,13274,13292,0.915,Michel. Genève : Cartier et Jorin. Buenos-Ayres : [Ph. Franco Inglesa]. Montréal : A. Décey. APIL dét. cult pour toujou
+Montréal,Location,loc,13294,13302,0.9793,tier et Jorin. Buenos-Ayres : Ph. Franco Inglesa. [Montréal] : A. Décey. APIL dét. cult pour toujours la raci
+A. Décey,Person,pers,13305,13313,0.9551,in. Buenos-Ayres : Ph. Franco Inglesa. Montréal : [A. Décey]. APIL dét. cult pour toujours la racine des POIL
+NICOLET,Person,pers,13430,13437,0.8328,"douleur, en 15 J. Repousse impos. Notice gratis. [NICOLET], 2, rue Amelet, Paris ANGLAIS ALLEM. ITAL. ESP R"
+rue Amelet,Location,loc,13442,13452,0.4623,"15 J. Repousse impos. Notice gratis. NICOLET, 2, [rue Amelet], Paris ANGLAIS ALLEM. ITAL. ESP RUSS PORTU. appr"
+Paris,Location,loc,13454,13459,0.7548,"sse impos. Notice gratis. NICOLET, 2, rue Amelet, [Paris] ANGLAIS ALLEM. ITAL. ESP RUSS PORTU. apprit SEUL"
+RUSS PORTU,Location,loc,13486,13496,0.3652,"T, 2, rue Amelet, Paris ANGLAIS ALLEM. ITAL. ESP [RUSS PORTU]. apprit SEUL en 4 mois, beaucoup mieux qu'avec pr"
+Maître Populaire,Organization,org,13781,13797,0.5975,"ors France 1.10) mandat ou timb. poste français à [Maître Populaire], 13-2 r. Montholon, Paris TOITS EN TOLE ONDULÉE,"
+. Montholon,Location,loc,13805,13816,0.4764,"ou timb. poste français à Maître Populaire, 13-2 r[. Montholon], Paris TOITS EN TOLE ONDULÉE, CHARPENTES, HANGAR"
+Paris,Location,loc,13818,13823,0.7139,"e français à Maître Populaire, 13-2 r. Montholon, [Paris] TOITS EN TOLE ONDULÉE, CHARPENTES, HANGARS. Ecri"
+HANGARS,Location,loc,13860,13867,0.9261,"tholon, Paris TOITS EN TOLE ONDULÉE, CHARPENTES, [HANGARS]. Ecrire : LAILLET, Ingénieur, AMIENS. LA TIMIDIT"
+"LAILLET, Ingénieur",Person,pers,13878,13896,0.7527,"TS EN TOLE ONDULÉE, CHARPENTES, HANGARS. Ecrire : [LAILLET, Ingénieur], AMIENS. LA TIMIDITE N'EXISTE PLUS Céphalose don"
+AMIENS,Location,loc,13898,13904,0.9492,"CHARPENTES, HANGARS. Ecrire : LAILLET, Ingénieur, [AMIENS]. LA TIMIDITE N'EXISTE PLUS Céphalose donne confi"
+. MODERNE,Person,pers,14085,14094,0.5319,"arole, détermine succès. - Notice gratuite. Ec. Ph[. MODERNE], 6, J. Aumale, Paris. VARICES Immédiatement et"
+J. Aumale,Location,loc,14099,14108,0.6649,"ne succès. - Notice gratuite. Ec. Ph. MODERNE, 6, [J. Aumale], Paris. VARICES Immédiatement et radicalement s"
+Paris,Location,loc,14110,14115,0.3954,"- Notice gratuite. Ec. Ph. MODERNE, 6, J. Aumale, [Paris]. VARICES Immédiatement et radicalement soulagée"
+V,Person,pers,14225,14226,0.6506,"ort rationnel des Bas élastiques perfectionnés de [V].-A. CLAVERIE, 234, Faubourg Saint-Martin, Paris."
+.,Organization,org,14226,14227,0.5975,"rt rationnel des Bas élastiques perfectionnés de V[.]-A. CLAVERIE, 234, Faubourg Saint-Martin, Paris. L"
+-,Person,pers,14227,14228,0.4588,"t rationnel des Bas élastiques perfectionnés de V.[-]A. CLAVERIE, 234, Faubourg Saint-Martin, Paris. La"
+A,Organization,org,14228,14229,0.59,"rationnel des Bas élastiques perfectionnés de V.-[A]. CLAVERIE, 234, Faubourg Saint-Martin, Paris. La"
+. CLAVERIE,Person,pers,14229,14239,0.4723,"rationnel des Bas élastiques perfectionnés de V.-A[. CLAVERIE], 234, Faubourg Saint-Martin, Paris. La Notice sur"
+Faubourg Saint-Martin,Location,loc,14246,14267,0.7905,"élastiques perfectionnés de V.-A. CLAVERIE, 234, [Faubourg Saint-Martin], Paris. La Notice sur les Varices est envoyée gra"
+Paris,Location,loc,14269,14274,0.5064,"és de V.-A. CLAVERIE, 234, Faubourg Saint-Martin, [Paris]. La Notice sur les Varices est envoyée gratuiteme"
+rue Lacharrière,Location,loc,14603,14618,0.6995,"avec ses clients. C. La Prévoyante, bureau T, 41, [rue Lacharrière], Paris Vin Extra 35 cent. le litre. Echanton ROU"
+Paris,Location,loc,14620,14625,0.4591,"C. La Prévoyante, bureau T, 41, rue Lacharrière, [Paris] Vin Extra 35 cent. le litre. Echanton ROUX, à FO"
+ROUX,Person,pers,14665,14669,0.6312,"ère, Paris Vin Extra 35 cent. le litre. Echanton [ROUX], à FONS (Gard) Gratis Avec belle écriture, l'ind"
+FONS,Location,loc,14673,14677,0.8884,"is Vin Extra 35 cent. le litre. Echanton ROUX, à [FONS] (Gard) Gratis Avec belle écriture, l'indiq. moye"
+Gard,Location,loc,14679,14683,0.8111,"n Extra 35 cent. le litre. Echanton ROUX, à FONS ([Gard]) Gratis Avec belle écriture, l'indiq. moyen cert"
+Etr.,Location,loc,14823,14827,0.6838,"h. de trav. p.j. sans quit. emp. en prov. et à l'[Etr.] (Seine except.). Ecr. avec 0,25 de timb. en chèqu"
+Seine except.,Location,loc,14829,14842,0.6529,"trav. p.j. sans quit. emp. en prov. et à l'Etr. ([Seine except.]). Ecr. avec 0,25 de timb. en chèque et réponse. M"
+M. LEZINA,Person,pers,14891,14900,0.9724,".). Ecr. avec 0,25 de timb. en chèque et réponse. [M. LEZINA], 11, r. Bupatoria, Paris CYCLES MERICANT 13, Av."
+11,Person,pers,14902,14904,0.3868,"ec 0,25 de timb. en chèque et réponse. M. LEZINA, [11], r. Bupatoria, Paris CYCLES MERICANT 13, Av. des"
+r,Organization,org,14906,14907,0.311,",25 de timb. en chèque et réponse. M. LEZINA, 11, [r]. Bupatoria, Paris CYCLES MERICANT 13, Av. des Mo"
+. Bupatoria,Location,loc,14907,14918,0.6087,"25 de timb. en chèque et réponse. M. LEZINA, 11, r[. Bupatoria], Paris CYCLES MERICANT 13, Av. des Moulins, PARI"
+Paris,Location,loc,14920,14925,0.3691,"n chèque et réponse. M. LEZINA, 11, r. Bupatoria, [Paris] CYCLES MERICANT 13, Av. des Moulins, PARIS-BILLA"
+Av. des Moulins,Location,loc,14947,14962,0.7457,"INA, 11, r. Bupatoria, Paris CYCLES MERICANT 13, [Av. des Moulins], PARIS-BILLANCOURT Catalogue franco. PRIX de GROS"
+PARIS,Location,loc,14964,14969,0.5966,"oria, Paris CYCLES MERICANT 13, Av. des Moulins, [PARIS]-BILLANCOURT Catalogue franco. PRIX de GROS aux In"
+BILLANCOURT,Location,loc,14970,14981,0.646,"Paris CYCLES MERICANT 13, Av. des Moulins, PARIS-[BILLANCOURT] Catalogue franco. PRIX de GROS aux Intermédiaires"
+G. LASSEUR,Person,pers,15045,15055,0.9473,"nco. PRIX de GROS aux Intermédiaires Le Gérant : [G. LASSEUR] IMPRIMERIE DU Petit Journal (C. MARTY, imp.) Impr"
+IMPRIMERIE,Organization,org,15056,15066,0.3615,"e GROS aux Intermédiaires Le Gérant : G. LASSEUR [IMPRIMERIE] DU Petit Journal (C. MARTY, imp.) Imprimé sur la"
+Petit Journal,Organization,org,15070,15083,0.5043,"ermédiaires Le Gérant : G. LASSEUR IMPRIMERIE DU [Petit Journal] (C. MARTY, imp.) Imprimé sur la Machine rotative"
+"C. MARTY, imp.",Person,pers,15085,15099,0.9124,"Gérant : G. LASSEUR IMPRIMERIE DU Petit Journal ([C. MARTY, imp.]) Imprimé sur la Machine rotative chromo-type de M"
+MARINONI,Person,pers,15148,15156,0.9265,.) Imprimé sur la Machine rotative chromo-type de [MARINONI] (Encrex LORILLEUX)
+Encrex,Person,pers,15158,15164,0.3658,sur la Machine rotative chromo-type de MARINONI ([Encrex] LORILLEUX)
+LORILLEUX,Person,pers,15165,15174,0.549,Machine rotative chromo-type de MARINONI (Encrex [LORILLEUX])

@@ -1,0 +1,56 @@
+﻿entity,fine_type,coarse_type,impresso_type,change,model_label,start,end,confidence,context
+Jean,pers.ind,Person,pers.ind,confirmed,pers.ind,267,271,,"la jeune femme avait reculé, comme pris d'effroi. [Jean] se meurt!... se hâte de dire André sourdement. Il"
+André,pers.ind,Person,pers.ind,confirmed,pers.ind,301,306,,"pris d'effroi. Jean se meurt!... se hâte de dire [André] sourdement. Il veut vous voir... Cette fois, l'a"
+Claire,pers.ind,Person,pers.ind,confirmed,pers.ind,760,766,,"Déjà vous devriez avoir bondi hors de ce wagon... [Claire], votre cruauté envers moi, vos trahisons, j'oubli"
+petit Jean,pers.ind,Person,pers.ind,confirmed,pers.ind,1776,1786,,"— Claire, Claire, répétait-il, si vous venez, le [petit Jean] ne mourra pas... Votre présence va le sauver!..."
+PIERRE VERNOU,pers.ind,Person,pers.ind,confirmed,pers.ind,2599,2612,,habilitée par la minute exquisite de son retour. [PIERRE VERNOU]. Une Exposition capillaire Les journaux scienti
+professeur Busch,pers.ind,Person,pers.ind,confirmed,pers.ind,2732,2748,,e du monde entier ont relaté la découverte par le [professeur Busch] des curieuses propriétés que possède un alcaloïde
+illustre Jenner,pers.ind,Person,pers.ind,confirmed,pers.ind,3551,3566,,"les premières manifestations du phonographe, et l'[illustre Jenner] lui-même, qui découvrit la vaccine, n'est-il pas"
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,3799,3804,,"rtir de ce jour, il ouvre dans son laboratoire de [Paris], 10, rue des Bons-Enfants, une Exposition publiqu"
+rue des Bons-Enfants,loc.oro,Location,,added,loc.oro,3810,3830,,"jour, il ouvre dans son laboratoire de Paris, 10, [rue des Bons-Enfants], une Exposition publique des milliers d'attestati"
+Docteur RIOU-DELMET,pers.ind,Person,pers.ind,confirmed,pers.ind,4528,4547,,rouver rapidement une chevelure digne d'Absalon. [Docteur RIOU-DELMET]. SI VOUS TOUSSEZ ne prenez que les tablettes COQ
+inventeur JOHN TAVERNIER,pers.ind,Person,pers.ind,confirmed,pers.ind,4627,4651,,"ue les tablettes COQUELIGOTS marquées au nom de l'[inventeur JOHN TAVERNIER], seules efficaces contre le rhume. MOTS POUR RIR"
+docteur Daudolat,pers.ind,Person,pers.ind,confirmed,pers.ind,5000,5016,,"? demandait une cuisinière à une autre. — Chez le [docteur Daudolat], un spirite. — Qu'est-ce que c'est que ça, un spi"
+M. Pasteur,pers.ind,Person,pers.ind,confirmed,pers.ind,5464,5474,,"E GUÉRIE sans opération et sans souffrance Quand [M. Pasteur] découvrit le vaccin de la rage, on ne voulut pas"
+M. Claverie,pers.ind,Person,pers.ind,confirmed,pers.ind,5642,5653,,"tre en doute sa bonne foi. Il en a été de même de [M. Claverie], de Paris. Il a inventé, pour contenir et guérir"
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,5658,5663,,"bonne foi. Il en a été de même de M. Claverie, de [Paris]. Il a inventé, pour contenir et guérir les hernie"
+Monsieur Claverie,pers.ind,Person,pers.ind,confirmed,pers.ind,6731,6748,,"r de vos appareils perfectionnés. « Recevez, cher [Monsieur Claverie], mes hommages et mon admiration pour cette œuvre"
+Enson VAUTIER,pers.ind,Person,pers.ind,confirmed,pers.ind,6836,6849,,"cette œuvre humanitaire car je suis bien guéri. » [Enson VAUTIER], « (Cuisinier), Villa des Pins, à Lamotte-Beuvron"
+Cuisinier,loc.adm.reg,Location,loc.adm.reg,confirmed,loc.adm.reg,6854,6863,,"taire car je suis bien guéri. » Enson VAUTIER, « ([Cuisinier]), Villa des Pins, à Lamotte-Beuvron (Loir-et-Cher"
+Villa des Pins,loc.fac,Location,,added,loc.fac,6866,6880,,"suis bien guéri. » Enson VAUTIER, « (Cuisinier), [Villa des Pins], à Lamotte-Beuvron (Loir-et-Cher). Après un semb"
+Lamotte-Beuvron,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,6884,6899,,"» Enson VAUTIER, « (Cuisinier), Villa des Pins, à [Lamotte-Beuvron] (Loir-et-Cher). Après un semblable témoignage, n"
+Loir-et-Cher,loc.adm.reg,Location,,added,loc.adm.reg,6901,6913,,"« (Cuisinier), Villa des Pins, à Lamotte-Beuvron ([Loir-et-Cher]). Après un semblable témoignage, nous sommes per"
+M. Claverie,pers.ind,Person,pers.ind,confirmed,pers.ind,7329,7340,,"ment et sans frais à tous ceux qui le demandent à [M. Claverie], 234, Faubourg Saint-Martin, à Paris. Visite et a"
+234,loc.add.phys,Location,pers.ind,retyped,loc.add.phys,7342,7345,,"frais à tous ceux qui le demandent à M. Claverie, [234], Faubourg Saint-Martin, à Paris. Visite et applic"
+Faubourg Saint-Martin,loc.oro,Location,,added,loc.oro,7347,7368,,"à tous ceux qui le demandent à M. Claverie, 234, [Faubourg Saint-Martin], à Paris. Visite et application tous les jours, m"
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,7372,7377,,"dent à M. Claverie, 234, Faubourg Saint-Martin, à [Paris]. Visite et application tous les jours, même les d"
+M. Vincent,pers.ind,Person,pers.ind,confirmed,pers.ind,7997,8007,,"e d'un vœu. Écrire par lettre ou carte postale à [M. Vincent], 8, place Victor-Hugo, à Grenoble, qui répondra g"
+place Victor-Hugo,loc.oro,Location,,added,loc.oro,8012,8029,,"rire par lettre ou carte postale à M. Vincent, 8, [place Victor-Hugo], à Grenoble, qui répondra gratis et franco par co"
+Grenoble,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,8033,8041,,"rte postale à M. Vincent, 8, place Victor-Hugo, à [Grenoble], qui répondra gratis et franco par courrier, et e"
+Monsieur Prud'homme,pers.ind,Person,pers.ind,confirmed,pers.ind,9001,9020,,"avé, ce doit être le pas d'une femme... Alors?... [Monsieur Prud'homme] qui, par hasard, prenait encore l'air à sa fenêtr"
+Jeanne Bertin,pers.ind,Person,pers.ind,confirmed,pers.ind,9297,9310,,"gaz, il reconnaît les traits doux et fatigués de [Jeanne Bertin], Jeanne la vertueuse et jolie couturière, la peti"
+M. Prud'homme,pers.ind,Person,pers.ind,confirmed,pers.ind,9375,9388,,"tueuse et jolie couturière, la petite orpheline. [M. Prud'homme] eut un soubresaut d'inquiétude, puis il se rappel"
+Jeanne,pers.ind,Person,pers.ind,confirmed,pers.ind,9724,9730,,ma sans bruit sa fenêtre et s'en fut se coucher. [Jeanne] marchait vite. Elle avait hâte de se retrouver en
+Monsieur Henri VIDAL,pers.ind,Person,,added,pers.ind,10383,10403,,"amina sa trouvaille. Elle lut une souscription : [Monsieur Henri VIDAL], Rédacteur en chef de l'Echo des Poètes (En ville"
+ville,loc.adm.town,Location,pers.ind,retyped,loc.adm.town,10448,10453,,"VIDAL, Rédacteur en chef de l'Echo des Poètes (En [ville].) Ce devait être quelque manuscrit perdu par un"
+Loin du Monde,prod.media,Product,,added,prod.media,10618,10631,,bien ce qu'elle avait pensé. Le titre lui plut : [Loin du Monde] Quel pouvait être l'idéal de cet inconnu : loin
+Pierrot,pers.ind,Person,pers.ind,confirmed,pers.ind,12359,12366,,naît peut-être. La ville n'est pas si grande... « [Pierrot]! » C'est un pseudonyme... Pas de chance. Le pauvr
+miss Kinsley,pers.ind,Person,pers.ind,confirmed,pers.ind,12705,12717,,mme l'enveloppe du rouleau prince qui va épouser [miss Kinsley]. Pauvre homme! Il mourra sans savoir ce que c'est
+Bertrand,pers.ind,Person,pers.ind,confirmed,pers.ind,13252,13260,,"elle, se joignait une instruction solide. Quant à [Bertrand], il avait fini par trouver un cheval à peu près m"
+Bordighera,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,13427,13437,,"la côte. Mais, le second dimanche de son séjour à [Bordighera], il fit une rencontre qui devait lui procurer des"
+LÉON DE TINSEAU,pers.ind,Person,pers.ind,confirmed,pers.ind,14284,14299,,ment la consolation sortie d'une bouche humaine! [LÉON DE TINSEAU]. (La suite au prochain numéro.) FEUILLETON DU S
+"FONTLUCE
+
+IX",pers.ind,Person,pers.ind,confirmed,pers.ind,14394,14406,,"DU SUPPLÉMENT ILLUSTRÉ du Petit Journal — 24 — [FONTLUCE IX] — Si je demandais à rester, expliqua-t-il en sou"
+rue de Monceau,loc.add.phys,Location,,added,loc.add.phys,14587,14601,,"idées subversives. Revenue dans son hôtel de la [rue de Monceau] qu'elle tenait de son père, la marquise, en dépit"
+Bertrand,pers.ind,Person,pers.ind,confirmed,pers.ind,14737,14745,,"des invitations pour un dîner. La date arrivée, [Bertrand] eut la migraine et resta couché jusqu'au lendemai"
+Midi,loc.adm.reg,Location,loc.adm.nat,retyped,loc.adm.reg,15118,15122,,"santé est le premier des biens: un hiver dans le [Midi] remettra la vôtre. Aux premières gelées, nous par"
+Nice,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,15182,15186,,"la vôtre. Aux premières gelées, nous parlons pour [Nice]. Mme de Fontluc, en parlant ainsi, faisait contr"
+Mme de Fontluc,pers.ind,Person,pers.ind,confirmed,pers.ind,15189,15203,,"e. Aux premières gelées, nous parlons pour Nice. [Mme de Fontluc], en parlant ainsi, faisait contre mauvaise fortun"
+faubourg Saint-Germain,loc.add.phys,Location,,added,loc.add.phys,16012,16034,,"peu trop que Mme de Fontluc était entrée dans le [faubourg Saint-Germain], comme elle était entrée dans l'église militante:"
+Flora Kinsley,pers.ind,Person,pers.ind,confirmed,pers.ind,16385,16398,,"s, la consola quand il fallut se mettre en route: [Flora Kinsley] et sa tante passaient régulièrement tous leurs hi"
+Nice,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,16455,16459,,tante passaient régulièrement tous leurs hivers à [Nice]. Une nouvelle chance s'offrait. Hélas! en mettan
+Bertrand,pers.ind,Person,pers.ind,confirmed,pers.ind,16549,16557,,"en mettant le pied sur la promenade des Anglais, [Bertrand] et sa mère furent salués par la grande nouvelle d"
+Europe,loc.adm.sup,Location,loc.adm.nat,retyped,loc.adm.sup,16805,16811,,"esse, qui passe pour la plus méchante langue de l'[Europe]. Et, permettez-moi de vous le dire, vous arrivez"
+Bordighera,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,17087,17097,,aire mes malles. J'ai une petite maison retenue à [Bordighera]; j'y couche demain et je compte bien que vous vie
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,17711,17716,,", ma mère n'en pourra plus, et nous reviendrons à [Paris]. C'est presque la banlieue des Bretons. Ainsi, p"

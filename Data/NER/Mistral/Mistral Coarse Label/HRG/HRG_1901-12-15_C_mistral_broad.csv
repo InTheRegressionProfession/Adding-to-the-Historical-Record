@@ -1,0 +1,45 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Dubois,Person,Person,507,513,,e l'ai dit ! A ce concert d'amateurs organisé par [Dubois]... et puis... MADELEINE. — Et puis ?... CLAUDE. —
+MADELEINE,Person,Person,2514,2523,,"our te faire plaisir ! Seulement, pour bouffer... [MADELEINE]. — Prends garde ! A faire la bête tu vas devenir"
+CLAUDE,Person,Person,2584,2590,,garde ! A faire la bête tu vas devenir grossier ! [CLAUDE]. — Je fais la bête et c'est toi qui mords ! C'est
+CLAUDE,Person,Person,5003,5009,,"donc ? MADELEINE, sans broncher. — Le béguin !!! [CLAUDE], avec stupeur. — Tu dis ? Qu'est-ce que tu viens"
+MADELEINE,Person,Person,5106,5115,,"ns de dire là ? Quel mot viens-tu de prononcer ?? [MADELEINE], très vite. — Ton ami Dubois... celui du concert."
+Vincennes,Location,Location,5202,5211,,i du concert... Quand nous l'avons ren- contré à [Vincennes] avec cette femme... si drôle... Je t'ai questionn
+CLAUDE,Person,Person,5402,5408,,"Et tu m'as expliqué... une panade... un béguin... [CLAUDE], remis, mais toujours dans l'énigme. — Quel rappo"
+MADELEINE,Person,Person,5463,5472,,"is, mais toujours dans l'énigme. — Quel rapport ? [MADELEINE], prête à pleurer. — Toi aussi ! Toi aussi, tu l'a"
+Chose,Person,Person,5701,5706,,"as bien ! comme il y a sept ans... avec la petite [Chose]... Vieux habits, vieux souvenirs !... Moi aussi.."
+Casque,Product,Product,5967,5973,,"souffre, retrouve enfin la voix pour hurler. — Le [Casque] ! C'est le Casque ! MADELEINE, apeurée, se rejeta"
+Albert DELVALLE,Person,Person,7517,7532,,ivrot ! Ah ! tu m'en apprends de jolies choses !! [Albert DELVALLE]. SI VOUS TOUSSEZ ne prenez que les tablettes COQ
+COQUELICOTS,Product,Product,7579,7590,,"LLE. SI VOUS TOUSSEZ ne prenez que les tablettes [COQUELICOTS] marquées au nom de l'inventeur JOHN TAVERNIER, se"
+JOHN TAVERNIER,Person,Person,7622,7636,,"lettes COQUELICOTS marquées au nom de l'inventeur [JOHN TAVERNIER], seules efficaces contre le rhume. LA VIE DE PAR"
+Mme X...,Person,Person,7992,8000,,"n'êtes pas intelligente ou même, comme l'affirme [Mme X...], votre meilleure amie, que vous êtes parfois un p"
+monsieur On,Person,Person,8526,8537,,"e, si on voulait m'imposer une mode stupide, Ah ! [monsieur On], couturier tortionnaire, ce que je vous enverrais"
+Mimi Pinson,Person,Person,10828,10839,,"t épiderme royal une marque qui, sur le cou d'une [Mimi Pinson] quelconque, s'appellerait... comme vous savez. Ma"
+LA MODE du Petit Journal,Organization,Organization,11315,11339,,s le carcan qui n'en est pas. UN VIEUX-PARISIEN. [LA MODE du Petit Journal] donne gratuitement à ses aimables lectrices le pa
+CORSAGE DE BAL,Product,Product,11422,11436,,s lectrices le patron soigneusement découpé d'un [CORSAGE DE BAL] facile à exécuter et n'exigeant pas des garniture
+DOUBLE QUIPROQUO,Product,Product,11756,11772,,"t qui obtient un grand succès. EN VENTE PARTOUT [DOUBLE QUIPROQUO] I Ce matin-là, Saturnien s'éveilla plus tard qu'"
+Mme Saturnien,Person,Person,12139,12152,,"que le bureau m'attend ! — N'y va pas, conseille [Mme Saturnien], écris à ton chef que tu es malade. — Ne me tente"
+M. Aperasse,Person,Person,12261,12272,,"velle Ève ! — Ou plutôt je vais écrire moi-même à [M. Aperasse], il jugera ainsi de la gravité de ton état ! — cr"
+la Varenne,Location,Location,12451,12461,,"voyait le médecin de l'administration ? — Ici, à [la Varenne], aujourd'hui même ? O lâcheté masculine ! riposta"
+docteur de Salolles,Person,Person,12767,12786,,"volumineux formulaire de médecine appartenant au [docteur de Salolles], leur locataire et leur voisin. Car Saturnien éta"
+la Marne,Location,Location,12918,12926,,"aïs, et notez ceci : sa maison, située au bord de [la Marne], comportait deux pavillons identiques, frères sia"
+M. de Salolles,Person,Person,13008,13022,,"tiques, frères siamois accolés. Il habitait l'un, [M. de Salolles] habitait l'autre. Mme Saturnien écrivit donc : «"
+Femme SATURNIEN,Person,Person,13425,13440,,"éer l'expression de son respectueux dévouement. » [Femme SATURNIEN]. » — Simple et de bon goût, approuva le bureaucra"
+Darblaiouse,Person,Person,13653,13664,,"ecrétaire, portez cette touchante missive à l'ami [Darblaiouse]. Vous le trouverez à la gare. Le moment approche"
+M. Aperasse,Person,Person,13989,14000,,"l'ouverture de la pêche, pour nous... II Lorsque [M. Aperasse], chef de bureau au ministère des Formalités, eut"
+ministère des Formalités,Organization,Organization,14020,14044,,"ous... II Lorsque M. Aperasse, chef de bureau au [ministère des Formalités], eut pris connaissance de la lettre de Saturnien,"
+Saturnien,Person,Person,14084,14093,,"Formalités, eut pris connaissance de la lettre de [Saturnien], le péché mignon de son subordonné lui revint en"
+La Marne,Location,Location,14556,14564,,"rnien, heureux comme un dieu, prenait du poisson. [La Marne] coulait lumineuse, ensoleillée ; les heures passa"
+docteur de Salolles,Person,Person,15536,15555,,"nfortuné !... Portez-le vite à la maison... Et le [docteur de Salolles] qui est absent !... Abandonnant pêche et repas, l"
+Mme Juliette,Person,Person,15876,15888,,"a le noyé et lui prodigua ses soins. De son côté, [Mme Juliette], aussitôt rentrée, s'empressa d'allumer un feu cl"
+"rue du Colombier, n° 106",Location,Location,16418,16442,,"porter aujourd'hui même, dans le plus bref délai, [rue du Colombier, n° 106], à la Varenne. M. Louis Saturnien (expéditionnair"
+la Varenne,Location,Location,16446,16456,,"s le plus bref délai, rue du Colombier, n° 106, à [la Varenne]. M. Louis Saturnien (expéditionnaire-stagiaire au"
+Louis Saturnien,Person,Person,16461,16476,,"délai, rue du Colombier, n° 106, à la Varenne. M. [Louis Saturnien] (expéditionnaire-stagiaire au ministère) nous fai"
+ministère,Organization,Organization,16507,16516,,M. Louis Saturnien (expéditionnaire-stagiaire au [ministère]) nous fait avertir qu'une enflure grave à l'ortei
+P. APERASSE,Person,Person,16779,16790,,"onsieur le docteur, mes salutations empressées. » [P. APERASSE]. » — Tonnerre ! jura le bureaucrate, cette lettre"
+docteur Bonenfant,Person,Person,17152,17169,,"moi je vais changer de vêtements... IV Lorsque le [docteur Bonenfant] sortit de son évanouissement, il aperçut le compa"
+Docteur de Salolles,Person,Person,17950,17969,,"retrouva sur ses pieds. — Seriez-vous médecin ? — [Docteur de Salolles], de la Varenne, répondit Saturnien, s'étudiant à"
+la Varenne,Location,Location,17974,17984,,"— Seriez-vous médecin ? — Docteur de Salolles, de [la Varenne], répondit Saturnien, s'étudiant à paraître calme."
+Paris,Location,Location,18170,18175,,"ous : je suis Bonenfant, le docteur Bonenfant, de [Paris] !... Mille fois merci !... Maintenant que je vais"
+rue du Colombier,Location,Location,18351,18367,,"ncore... A propos, où se trouve, à la Varenne, la [rue du Colombier], je vous prie ? — La rue du Colombier ? répéta Sa"
+ministère des Formalités,Organization,Organization,19096,19120,,"ournir demain, sans plus attendre, mon rapport au [ministère des Formalités]. — Parfait ! Ce rapport, je vous l'enverrai donc"

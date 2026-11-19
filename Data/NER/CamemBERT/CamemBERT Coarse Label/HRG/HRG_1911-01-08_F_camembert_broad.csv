@@ -1,0 +1,131 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Quarante heures,Time,DATE,143,158,0.9833,"xible loi d'immersion ? Que faire ? Que décider ? [Quarante heures] les séparaient environ, de l'arrivée... Quarante"
+Quarante heures,Time,DATE,199,214,0.9919,"te heures les séparaient environ, de l'arrivée... [Quarante heures] pendant lesquelles il faudrait déjouer les soupço"
+Arlette,Person,PER,421,428,0.8122,issaient dans les couloirs... Déjà ! Il considéra [Arlette] et frissonna sous l'étrange regard. Il fallait le
+Maurice,Person,PER,525,532,0.909,"les fermer ces yeux qui dévoileraient la mort et [Maurice], à genoux, abaissa les longs cils... Un coup vif"
+Maurice,Person,PER,1021,1028,0.8168,"un plateau chargé de deux déjeuners... Haletant, [Maurice] guette le regard qui va droit à la couchette. Mai"
+Ah,Product,MISC,1150,1152,0.5811,"te aucune impression : indifférent, il s'éloigne. [Ah] !... Mais la porte refermée se ouvre et le domest"
+Madame,Person,PER,1328,1334,0.8104,"de chambre devra-t-elle venir pour la toilette de [Madame] ?... Maurice frémit. Cependant, avec calme il déc"
+Maurice,Person,PER,1340,1347,0.8018,"evra-t-elle venir pour la toilette de Madame ?... [Maurice] frémit. Cependant, avec calme il déclare qu'il so"
+qu,Person,PER,1626,1628,0.493,"? Il a le corps brisé l'âme absente, mais il faut [qu]'Arlette soit ramenée au Havre... Deux heures se"
+',Product,MISC,1628,1629,0.6378,"Il a le corps brisé l'âme absente, mais il faut qu[']Arlette soit ramenée au Havre... Deux heures se p"
+Arlette,Person,PER,1629,1636,0.5538,"l a le corps brisé l'âme absente, mais il faut qu'[Arlette] soit ramenée au Havre... Deux heures se passent"
+Havre,Location,LOC,1653,1658,0.9854,"absente, mais il faut qu'Arlette soit ramenée au [Havre]... Deux heures se passent dans une pose non trou"
+Deux heures,Time,DATE,1663,1674,0.9952,"mais il faut qu'Arlette soit ramenée au Havre... [Deux heures] se passent dans une pose non troublée. Pourtant,"
+Maurice,Person,PER,1867,1874,0.7808,n fort roulis. Il fallait l'entière attention de [Maurice] pour que le petit corps ne vint à rouler à terre
+Maurice,Person,PER,2726,2733,0.8488,"appels réitérés du docteur, envoyé en mandataire, [Maurice] avait bondi, terrifié... Mais, se ressaisissant,"
+Mme de Holberg,Person,PER,3489,3503,0.9906,"Elles allèrent jusqu'à la douce, la compatissante [Mme de Holberg], qui les écouta, les recueillit. Le cœur battant,"
+Maurice Le Courant,Person,PER,3649,3667,0.9922,"redoutée et de sa voix au timbre bas, elle appela [Maurice Le Courant]. Une exclamation de colère retentit. Mais sans s"
+Maurice,Person,PER,3815,3822,0.9901,"l'amour d'elle, écoute-moi ! Et à cette requête, [Maurice] qui s'était juré que, lui vivant, le seuil de cet"
+Mme de Stolberg,Person,PER,4084,4099,0.987,"n regardez-là, dit-il. Et l'électricité jaillit. [Mme de Stolberg] contempla Arlette et : — C'est bien ce que j'ava"
+Arlette,Person,PER,4110,4117,0.9534,l'électricité jaillit. Mme de Stolberg contempla [Arlette] et : — C'est bien ce que j'avais pressenti... E
+Immerger,Person,PER,4423,4431,0.9486,"des traverses ; il faut immerger les morts... — [Immerger] ? répéta-t-elle suffoquée... — Oui, et moi je do"
+terre de France,Location,LOC,4567,4582,0.9155,l'avaient donnée. Il faut qu'elle soit inhumée en [terre de France]... — songez-y... est-il possible que ce petit êt
+docteur Chanteloup,Person,PER,4806,4824,0.9083,"Elle se glissa hors de la cabine et se heurta au [docteur Chanteloup]. — Docteur, prêtez-moi l'appui de votre bras et"
+Mme de Stolberg,Person,PER,4938,4953,0.9895,r sur le pont. J'ai à vous parler. L'autorité de [Mme de Stolberg] s'impulsait partout où il lui plaisait de la fair
+Maurice Le Courant,Person,PER,5266,5284,0.995,"ne d'acquiescement. Quelques instants plus tard, [Maurice Le Courant] savait qu'il arriverait au port avec sa précieuse"
+Neva,Person,PER,5475,5479,0.5342,"lle tension des nerfs... ...Et ce pendant que la [Neva] à tire d'ailes regagnait la France, tous deux se"
+la France,Location,LOC,5505,5514,0.8546,"t ce pendant que la Neva à tire d'ailes regagnait [la France], tous deux se prosternèrent et l'enveloppe d'Arle"
+d'Arlette,Person,PER,5558,5567,0.8375,"France, tous deux se prosternèrent et l'enveloppe [d'Arlette] commut le calme et le recueillement dont il convi"
+Max REBOUL,Person,PER,5665,5675,0.9702,vient d'entourer ceux dont l'âme nous a quittés. [Max REBOUL]. UN MONSIEUR offre gratuitement de faire connaît
+M. Vincent,Person,PER,6194,6204,0.8078,"e d'un vœu. Ecrire par lettre ou carte postale à [M. Vincent], 8, place Victor-Hugo, à Grenoble, qui répondra g"
+place Victor-Hugo,Location,LOC,6209,6226,0.7702,"rire par lettre ou carte postale à M. Vincent, 8, [place Victor-Hugo], à Grenoble, qui répondra gratis et franco par co"
+Grenoble,Location,LOC,6230,6238,0.9927,"rte postale à M. Vincent, 8, place Victor-Hugo, à [Grenoble], qui répondra gratis et franco par courrier, et e"
+rue des Chantiers,Location,LOC,6363,6380,0.8445,"mandées. SABOTEUR Dans un petit estaminet de la [rue des Chantiers], à Versailles, cinq grévistes causaient à voix ba"
+Versailles,Location,LOC,6384,6394,0.9938,"ans un petit estaminet de la rue des Chantiers, à [Versailles], cinq grévistes causaient à voix basse. Au dehor"
+maintenant,Time,DATE,6833,6843,0.9064,"s'alignaient cinq verres d'eau-de-vie, gandaient [maintenant] le silence. Sauf un seul, tous étaient jeunes, av"
+Riaux,Person,PER,7590,7595,0.9911,"vaincus. Restait à se venger. L'un d'entre eux, [Riaux], un ajusteur, grand garçon maigre et pâle, se lev"
+A onze heures,Time,DATE,7789,7802,0.9694,"ster ensemble... C'est compris, n'est-ce pas ?... [A onze heures], nous suivons isolément la pièce d'eau des Suisse"
+Suisses,Location,LOC,7846,7853,0.9143,"heures, nous suivons isolément la pièce d'eau des [Suisses]... Nous allons nous grouper au bas du talus, à la"
+gare des Chantiers,Location,LOC,7928,7946,0.9161,"per au bas du talus, à la hauteur du tunnel de la [gare des Chantiers]... C'est Provost qui posera la bombe à l'entrée d"
+Provost,Person,PER,7956,7963,0.9914,uteur du tunnel de la gare des Chantiers... C'est [Provost] qui posera la bombe à l'entrée du tunnel... » To
+Provost,Person,PER,8041,8048,0.9924,rée du tunnel... » Tous les yeux se fixèrent sur [Provost]. — « Tu ne vas pas flancher au moins ? » Il y eu
+Provost,Person,PER,8129,8136,0.9882,"u moins ? » Il y eut un silence presque menaçant. [Provost], un mécanicien d'une cinquantaine d'années, vida"
+Rioux,Person,PER,8318,8323,0.9926,y aura une sentinelle. » — « Parbleu ! répliqua [Rioux]... et après ? Il fait noir comme dans un four...
+Prévost,Person,PER,8469,8476,0.9863,'ailleurs nous serons là pour prêter main forte à [Prévost]... Vous avez vos revolvers ? » Machinalement ils
+Provost,Person,PER,8781,8788,0.9927,es directions différentes. La pluie avait cessé. [Provost] enfonça sa casquette sur sa tête et serra autour
+rue des Réservoirs,Location,LOC,8916,8934,0.9553,de mécanicien. Il se dirigea vers un débit de la [rue des Réservoirs]. Il ne voulait pas rentrer chez lui en attendant
+onze heures,Time,DATE,8984,8995,0.9941,. Il ne voulait pas rentrer chez lui en attendant [onze heures]. Qu'aurait-il raconté à sa brave femme pour expli
+l,Location,LOC,9136,9137,0.5777,"eux mains dans les poches, il remontait lentement [l]'avenue de Paris, un peu moins brave tout de même"
+avenue de Paris,Location,LOC,9138,9153,0.7993,"x mains dans les poches, il remontait lentement l'[avenue de Paris], un peu moins brave tout de même maintenant qu'il"
+maintenant,Time,DATE,9187,9197,0.9708,"'avenue de Paris, un peu moins brave tout de même [maintenant] qu'il était seul, secoué malgré lui par la pensée"
+Provost,Person,PER,9482,9489,0.9925,Puis elle se précipita. — « Ah ! c'est toi ! » [Provost] fit un bond en arrière. — « Maria !... Qu'est-ce
+Maria,Person,PER,9519,9524,0.7249,est toi ! » Provost fit un bond en arrière. — « [Maria] !... Qu'est-ce que tu fiches ici à cette heure ?
+neuf heures,Time,DATE,9611,9622,0.9948,ette heure ? » — « Je t'attends chez nous depuis [neuf heures]... On m'a dit que tu étais au café de la rue des
+rue des Chantiers,Location,LOC,9664,9681,0.9292,f heures... On m'a dit que tu étais au café de la [rue des Chantiers]. J'allais te chercher. » Provost eut un geste de
+Provost,Person,PER,9708,9715,0.9932,"de la rue des Chantiers. J'allais te chercher. » [Provost] eut un geste de colère, la révolte de l'ouvrier q"
+vingt ans,Time,DATE,10303,10312,0.9143,rentrons chez nous... Tu parles comme si t'avais [vingt ans]... Il est tard... T'as besoin de te reposer... »
+Provost,Person,PER,10363,10370,0.9929,".. Il est tard... T'as besoin de te reposer... » [Provost] fit quelques pas, puis s'arrêta. Ses yeux se fixè"
+demain,Time,DATE,10816,10822,0.98,!... On veut s'entendre pour une manifestation... [demain] matin... devant la préfecture... » Elle lui prit
+dans cinq ans,Time,DATE,11163,11176,0.9581,"langue... Mais n'oublie pas, mon brave homme, que [dans cinq ans] tu as ta retraite... Nous avons trois enfants qui"
+Banque de France,Organization,ORG,11275,11291,0.9742,"i sont de bons gosses. Notre fille va entrer à la [Banque de France]. Jacquot, notre dernier, va terminer son service"
+Jacquot,Person,PER,11293,11300,0.9441,"ses. Notre fille va entrer à la Banque de France. [Jacquot], notre dernier, va terminer son service militaire"
+Provost,Person,PER,11435,11442,0.9913,"lettre de lui ce soir... » — « Ah ! fit vivement [Provost], qu'est-ce qu'il dit, le même ? » — « La lettre"
+Dieu,Product,MISC,11827,11831,0.7652,"nt peur... On a beau dire, quand on ne croit ni à [Dieu], ni à diable... » La voix de Provost se fit plus"
+Provost,Person,PER,11862,11869,0.9906,"ne croit ni à Dieu, ni à diable... » La voix de [Provost] se fit plus âpre : — « Tu sais bien que j'ai tou"
+Provost,Person,PER,12047,12054,0.9924,"Tu vois bien que tu manigances quelque chose. » [Provost] se mit à rire. — « Mais non, la bourgeoise, mais"
+demain,Time,DATE,12226,12232,0.9931,"e promets de dire aux camarades d'être bien sages [demain] matin... Allons, embrasse-moi, ma vieille, et ren"
+Provost,Person,PER,12684,12691,0.99,nue. L'un d'eux lui cria : — « Eh ! l'homme ! » [Provost] s'avança. — « Faut pas flâner comme ça dans les
+Provost,Person,PER,12844,12851,0.9876,"on vous ramasse ! » Ils s'éloignèrent en riant. [Provost], gouailler, eut un geste de satisfaction. — « Me"
+Suisses,Location,LOC,13040,13047,0.8736,"Il se dirigea rapidement vers la pièce d'eau des [Suisses]. Arrivé à la grille de l'octroi, il tourna à gauc"
+Rioux,Person,PER,13252,13257,0.9938,"s se reconnurent à voix basse, dans les ténèbres. [Rioux] dit : — « C'est le moment. L'express de Chartres"
+L'express de Chartres,Location,LOC,13286,13307,0.5804,s les ténèbres. Rioux dit : — « C'est le moment. [L'express de Chartres] doit passer dans dix minutes. Le passage du train
+dans dix minutes,Time,DATE,13320,13336,0.9559,'est le moment. L'express de Chartres doit passer [dans dix minutes]. Le passage du train fera éclater la bombe... Fai
+Provost,Person,PER,13399,13406,0.9892,"du train fera éclater la bombe... Fais attention, [Provost], il y a un soldat à gauche de l'entrée du tunnel."
+Provost,Person,PER,13460,13467,0.9927,y a un soldat à gauche de l'entrée du tunnel. » [Provost] eut un mouvement. — « Faut sacrifier le tourlour
+Rioux,Person,PER,13525,13530,0.9934,mouvement. — « Faut sacrifier le tourlourou ? » [Rioux] lui serra le poignet. — « Trop tard pour flanche
+Provost,Person,PER,13716,13723,0.9897,"r nous que la révolution se fera !... Tu as juré, [Provost]. » — « J'ai juré. » — « A la moindre alerte, no"
+Provost,Person,PER,13806,13813,0.9933,"oindre alerte, nous tombons sur la sentinelle. » [Provost] prit la petite boîte de fer blanc. Les lettres s"
+Pilules Pink,Organization,ORG,13921,13933,0.6114,t... et se ressemblent ! Encore une guérison des [Pilules Pink] ! Nous publions aujourd'hui la lettre par laquel
+aujourd'hui,Time,DATE,13951,13962,0.995,re une guérison des Pilules Pink ! Nous publions [aujourd'hui] la lettre par laquelle Mme Jeanne Dufex a annoncé
+Jeanne Dufex,Person,PER,13990,14002,0.995,"s publions aujourd'hui la lettre par laquelle Mme [Jeanne Dufex] a annoncé à M. Gablin, que les Pilules Pink l'ava"
+M. Gablin,Person,PER,14015,14024,0.8955,"lettre par laquelle Mme Jeanne Dufex a annoncé à [M. Gablin], que les Pilules Pink l'avaient guérie. Mme Dufex"
+P,Organization,ORG,14034,14035,0.5457,"e Mme Jeanne Dufex a annoncé à M. Gablin, que les [P]ilules Pink l'avaient guérie. Mme Dufex est une je"
+ilules Pink,Product,MISC,14035,14046,0.5202,"Mme Jeanne Dufex a annoncé à M. Gablin, que les P[ilules Pink] l'avaient guérie. Mme Dufex est une jeune employé"
+Mme Dufex,Person,PER,14065,14074,0.8972,"M. Gablin, que les Pilules Pink l'avaient guérie. [Mme Dufex] est une jeune employée lyonnaise. Elle a 19 ans e"
+a 19 ans et,Time,DATE,14114,14125,0.823,"Mme Dufex est une jeune employée lyonnaise. Elle [a 19 ans et] habite 18, rue Crillon, à Lyon (Rhône). Nous dédi"
+rue Crillon,Location,LOC,14137,14148,0.9677,"e employée lyonnaise. Elle a 19 ans et habite 18, [rue Crillon], à Lyon (Rhône). Nous dédions son exemple aux jeu"
+Lyon,Location,LOC,14152,14156,0.9936,"naise. Elle a 19 ans et habite 18, rue Crillon, à [Lyon] (Rhône). Nous dédions son exemple aux jeunes fill"
+Rhône,Location,LOC,14158,14163,0.9922,"Elle a 19 ans et habite 18, rue Crillon, à Lyon ([Rhône]). Nous dédions son exemple aux jeunes filles dont"
+a un an environ,Time,DATE,14356,14371,0.8701,"les aide à vivre ou même les fait vivre. « Il y [a un an environ], écrit Mme Dufex, ma santé s'altéra tout à coup."
+Mme Dufex,Person,PER,14379,14388,0.9273,"me les fait vivre. « Il y a un an environ, écrit [Mme Dufex], ma santé s'altéra tout à coup. Je pensais avoir"
+Pilules Pink,Product,MISC,15146,15158,0.7466,sans que mon état de santé ait été amélioré. Les [Pilules Pink] sont très en faveur à Lyon et on en parle beaucou
+Lyon,Location,LOC,15181,15185,0.9834,amélioré. Les Pilules Pink sont très en faveur à [Lyon] et on en parle beaucoup parce qu'elles ont guéri
+Pilules Pink,Product,MISC,15262,15274,0.9788,rce qu'elles ont guéri beaucoup de personnes. Les [Pilules Pink] m'avaient été recommandées de différents côtés et
+Pilules Pink,Product,MISC,15532,15544,0.9795,"us mes malaises ont disparu. » Le traitement des [Pilules Pink] donne du sang et des forces, et cela est précieux"
+Pilules Pink,Product,MISC,15908,15920,0.9792,"t de régime, à aucun changement d'habitudes. Les [Pilules Pink] guérissent : anémie, chlorose, faiblesse générale"
+Pharmacie Gablin,Location,LOC,16129,16145,0.8938,"en vente dans toutes les pharmacies et au dépôt : [Pharmacie Gablin], 23, rue Ballu, Paris : 3 fr. 50 la boîte ; 17 fr"
+rue Ballu,Location,LOC,16151,16160,0.9687,"es pharmacies et au dépôt : Pharmacie Gablin, 23, [rue Ballu], Paris : 3 fr. 50 la boîte ; 17 fr. 50 les 6 boît"
+Paris,Location,LOC,16162,16167,0.9925,"es et au dépôt : Pharmacie Gablin, 23, rue Ballu, [Paris] : 3 fr. 50 la boîte ; 17 fr. 50 les 6 boîtes, fra"
+Mlle Jeanne DUFEX Cl. Cavaroc,Person,PER,16223,16252,0.9254,"r. 50 la boîte ; 17 fr. 50 les 6 boîtes, franco. [Mlle Jeanne DUFEX Cl. Cavaroc] JE GUÉRISS LA HERNIE. Suppression du bandage."
+GUÉRISS,Product,MISC,16257,16264,0.6424,"oîtes, franco. Mlle Jeanne DUFEX Cl. Cavaroc JE [GUÉRISS] LA HERNIE. Suppression du bandage. Si vous êtes"
+Méthode de Guérison,Product,MISC,16414,16433,0.9732,", vous devriez immédiatement vous intéresser à ma [Méthode de Guérison]. Mon système diffère de tous les autres par le fa"
+Docteurs,Product,MISC,17018,17026,0.5835,s plus sévères et ont été reconnus guéris par les [Docteurs]. Aucun hernieux n'est trop vieux ou trop jeune po
+Méthode,Product,MISC,17090,17097,0.923,ux n'est trop vieux ou trop jeune pour adopter ma [Méthode] : aucune hernie n'est trop mauvaise pour être gué
+Méthode,Product,MISC,17235,17242,0.9363,ecevoir tes renseignements complets concernant ma [Méthode] et je vous enverrai gratuitement et franco un éch
+Wm. S. Rice,Person,PER,17467,17478,0.9918,"ncertain), le seul moyen de vous sauver la vie. — [Wm. S. Rice], Spécialiste (F. 661), 8/9, STONECUTTER STREET, L"
+",",Organization,ORG,17478,17479,0.3725,"le seul moyen de vous sauver la vie. — Wm. S. Rice[,] Spécialiste (F. 661), 8/9, STONECUTTER STREET, LO"
+F,Location,LOC,17493,17494,0.511,"e vous sauver la vie. — Wm. S. Rice, Spécialiste ([F]. 661), 8/9, STONECUTTER STREET, LONDRES, E.C., AN"
+1),Location,LOC,17498,17500,0.5085,"s sauver la vie. — Wm. S. Rice, Spécialiste (F. 66[1)], 8/9, STONECUTTER STREET, LONDRES, E.C., ANGLETER"
+8/9,Location,LOC,17502,17505,0.4255,"uver la vie. — Wm. S. Rice, Spécialiste (F. 661), [8/9], STONECUTTER STREET, LONDRES, E.C., ANGLETERRE."
+STONECUTTER STREET,Location,LOC,17507,17525,0.8902,"la vie. — Wm. S. Rice, Spécialiste (F. 661), 8/9, [STONECUTTER STREET], LONDRES, E.C., ANGLETERRE. ACCORDEONS ! Nous l"
+LONDRES,Location,LOC,17527,17534,0.9806,"e, Spécialiste (F. 661), 8/9, STONECUTTER STREET, [LONDRES], E.C., ANGLETERRE. ACCORDEONS ! Nous livrons en"
+E.C.,Location,LOC,17536,17540,0.8749,"liste (F. 661), 8/9, STONECUTTER STREET, LONDRES, [E.C.], ANGLETERRE. ACCORDEONS ! Nous livrons en excel"
+ANGLETERRE,Location,LOC,17542,17552,0.9908,"(F. 661), 8/9, STONECUTTER STREET, LONDRES, E.C., [ANGLETERRE]. ACCORDEONS ! Nous livrons en excellente qualit"
+Herfeld & Comp.,Organization,ORG,17819,17834,0.9407,"gratis et franco. (Port de lettres 25 centimes). [Herfeld & Comp.], à Neuenrade, No 34 (Allemagne), la plus grande d"
+Neuenrade,Location,LOC,17838,17847,0.993,"Port de lettres 25 centimes). Herfeld & Comp., à [Neuenrade], No 34 (Allemagne), la plus grande des fabriques"
+No 34,Location,LOC,17849,17854,0.5511,"tres 25 centimes). Herfeld & Comp., à Neuenrade, [No 34] (Allemagne), la plus grande des fabriques d'accor"
+Allemagne,Location,LOC,17856,17865,0.9939,"centimes). Herfeld & Comp., à Neuenrade, No 34 ([Allemagne]), la plus grande des fabriques d'accordeons de Ne"
+Neuenrade,Location,LOC,17913,17922,0.9935,"ne), la plus grande des fabriques d'accordeons de [Neuenrade]. SURDITÉ Cette pénible infirmité est enfin vain"
+l'AUDIOPHONEX Lucq,Product,MISC,18045,18063,0.9425,"ce de la médecine gràce à l'heureuse invention de [l'AUDIOPHONEX Lucq]. A tout âge et dans tous les cas, sans remède ni"
+Inol,Product,MISC,18163,18167,0.4104,"électricité, ce merveilleux appareil complètement [Inol]uble, augmente l'ouïe dès les premiers jours, réta"
+Bruits,Product,MISC,18278,18284,0.8372,ssivement le sens auditif et fait disparaître les [Bruits] ou Bourdonnements. Le Directeur de l'AUDIOPHONEX
+Bourdonnements,Product,MISC,18288,18302,0.8395,"le sens auditif et fait disparaître les Bruits ou [Bourdonnements]. Le Directeur de l'AUDIOPHONEX Lucq, 27, Boulevar"
+l'AUDIOPHONEX Lucq,Product,MISC,18320,18338,0.8501,"tre les Bruits ou Bourdonnements. Le Directeur de [l'AUDIOPHONEX Lucq], 27, Boulevard St-Martin, à Paris, envoie gratuit"
+Boulevard St-Martin,Location,LOC,18344,18363,0.9884,"nnements. Le Directeur de l'AUDIOPHONEX Lucq, 27, [Boulevard St-Martin], à Paris, envoie gratuitement sa brochure illustr"
+Paris,Location,LOC,18367,18372,0.9943,"de l'AUDIOPHONEX Lucq, 27, Boulevard St-Martin, à [Paris], envoie gratuitement sa brochure illustrée. Occa"
+Bicyclettes,Product,MISC,18442,18453,0.6164,t sa brochure illustrée. Occasion Exceptionnelle [Bicyclettes] neuves garanties 5 ans 15 Mois de Crédit Dessins
+5 ans 15 Mois,Time,DATE,18471,18484,0.9812,asion Exceptionnelle Bicyclettes neuves garanties [5 ans 15 Mois] de Crédit Dessins et descriptions gratis et franc
+Fernand CLEMENT,Person,PER,18537,18552,0.9906,"Crédit Dessins et descriptions gratis et franco. [Fernand CLEMENT], à Levallois-Perret (Seine)"
+Levallois-Perret,Location,LOC,18556,18572,0.9954,"descriptions gratis et franco. Fernand CLEMENT, à [Levallois-Perret] (Seine)"
+Seine,Location,LOC,18574,18579,0.9952,"s et franco. Fernand CLEMENT, à Levallois-Perret ([Seine])"

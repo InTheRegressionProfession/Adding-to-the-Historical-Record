@@ -1,0 +1,36 @@
+﻿entity,fine_type,coarse_type
+Toutes-Bises,loc.adm.town,Location
+sainte Consorce,loc.adm.town,Location
+Myon,pers.ind,Person
+Riou,loc.phys.hydro,Location
+Roset,pers.ind,Person
+Durancettes,loc.phys.hydro,Location
+Gros-Rocher,loc.phys.geo,Location
+Véronique,pers.ind,Person
+Planchut,pers.ind,Person
+Père Eternel ,pers.ind,Person
+curé Planchut,pers.ind,Person
+Paul ARÈNE,pers.ind.articleauthor,Person
+ONCLE SÉBASTIEN,pers.ind,Person
+Saint-Romain,pers.ind,Person
+Paris,loc.adm.town,Location
+rue de Vaugirard,loc.oro,Location
+Maroc,loc.adm.nat,Location
+l'Algérie,loc.adm.nat,Location
+Tunisie,loc.adm.nat,Location
+Tripolitaine,loc.adm.nat,Location
+Égypte,loc.adm.nat,Location
+Nil,loc.phys.hydro,Location
+Mahdi,pers.coll,Person
+l'Orient,loc.adm.sup,Location
+l'Européen,pers.coll,Person
+Mecque,loc.adm.town,Location
+rue du Mail,loc.oro,Location
+Asie,loc.adm.sup,Location
+Europe,loc.adm.sup,Location
+France,loc.adm.nat,Location
+rue Laffitte,loc.oro,Location
+Delphine,pers.ind,Person
+Louise,pers.ind,Person
+Palais-Royal,loc.fac,Location
+Louis XIII,pers.ind,Person

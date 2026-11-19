@@ -1,0 +1,100 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Thérèse,Person,PER,602,609,0.9794,"un obscur désir de maternité, de protection. Chez [Thérèse], ce sentiment, fortifié par la conscience... — P"
+Michel,Person,PER,669,675,0.9486,"ment, fortifié par la conscience... — Parce que, [Michel], je vous aime ! Roger REGIS. LE CODE POUR TOUS"
+Roger REGIS,Person,PER,692,703,0.9361,"onscience... — Parce que, Michel, je vous aime ! [Roger REGIS]. LE CODE POUR TOUS De la constitution de rente"
+"cinq ans.
+
+Après vingt-huit ans",Time,DATE,1145,1176,0.8402,"rente. Les arrérages de rente se prescrivent par [cinq ans. Après vingt-huit ans] de la date du dernier titre, le débiteur d'une re"
+dix ans ou,Time,DATE,1964,1974,0.8751,ura pas lieu avant un délai qui ne pourra excéder [dix ans ou] sans avoir averti le créancier au terme d'avance
+deux ans,Time,DATE,2169,2177,0.9958,1° s'il cesse de remplir ses obligations pendant [deux ans] ; 2° s'il manque à fournir au prêteur les sûretés
+1968 à 1983,Time,DATE,2428,2439,0.9479,"res. — Ce contrat est réglementé par les articles [1968 à 1983] du Code civil, au titre des contrats aléatoires."
+Code,Product,MISC,2443,2447,0.3073,"at est réglementé par les articles 1968 à 1983 du [Code] civil, au titre des contrats aléatoires. La rent"
+SAINT-YVES,Location,LOC,3879,3889,0.9862,que lorsqu'elle a été concédée à titre gratuit. [SAINT-YVES]. JE DONNE 100.000 Fr. à qui prouvera que la cél
+Sève Capillaire,Location,LOC,3944,3959,0.9436,DONNE 100.000 Fr. à qui prouvera que la célèbre [Sève Capillaire] du dermatologue F. OLBÉ n'arrête pas la chute des
+F. OLBÉ,Person,PER,3976,3983,0.9888,ra que la célèbre Sève Capillaire du dermatologue [F. OLBÉ] n'arrête pas la chute des cheveux en deux jours e
+en deux jours et,Time,DATE,4018,4034,0.9653,tologue F. OLBÉ n'arrête pas la chute des cheveux [en deux jours et] ne les fait pas repousser à tout âge sur les tête
+Mme Sophie Mil...,Person,PER,4135,4152,0.8494,"les plus chauves et dans leur nuance naturelle. [Mme Sophie Mil...], 33 ans, propriétaire à Rouen. — Tête totalement"
+33 ans,Time,DATE,4154,4160,0.9579,"t dans leur nuance naturelle. Mme Sophie Mil..., [33 ans], propriétaire à Rouen. — Tête totalement dénudée"
+Rouen,Location,LOC,4177,4182,0.9944,"relle. Mme Sophie Mil..., 33 ans, propriétaire à [Rouen]. — Tête totalement dénudée depuis 3 ans à la suit"
+3 ans à,Time,DATE,4217,4224,0.9017,"iétaire à Rouen. — Tête totalement dénudée depuis [3 ans à] la suite d'un érysipèle, portait une légère perru"
+après 2 mois 1/2,Time,DATE,4315,4331,0.9642,"ère perruque. Chevelure complètement reconstituée [après 2 mois 1/2] de traitement. Octave Terr..., 32 ans, mécanicie"
+Octave Terr...,Person,PER,4348,4362,0.9569,"ent reconstituée après 2 mois 1/2 de traitement. [Octave Terr...], 32 ans, mécanicien aux Angles. — Pelade remontan"
+32 ans,Time,DATE,4364,4370,0.9128,"après 2 mois 1/2 de traitement. Octave Terr..., [32 ans], mécanicien aux Angles. — Pelade remontant à 2 an"
+Angles,Location,LOC,4387,4393,0.9943,"aitement. Octave Terr..., 32 ans, mécanicien aux [Angles]. — Pelade remontant à 2 ans. 50 grandes plaques q"
+à 2 ans,Time,DATE,4414,4421,0.9877,"32 ans, mécanicien aux Angles. — Pelade remontant [à 2 ans]. 50 grandes plaques qui avaient envahi presque to"
+en 2 mois,Time,DATE,4502,4511,0.9867,"t envahi presque toute la tête. Repousse complète [en 2 mois]. Photographie faite 4 mois après. Asnières, le 1"
+4 mois après,Time,DATE,4532,4544,0.989,". Repousse complète en 2 mois. Photographie faite [4 mois après]. Asnières, le 11 mars. A 66 ans j'étais atteint"
+Asnières,Location,LOC,4547,4555,0.9947,"lète en 2 mois. Photographie faite 4 mois après. [Asnières], le 11 mars. A 66 ans j'étais atteint d'une calvi"
+le 11 mars,Time,DATE,4557,4567,0.9915,"mois. Photographie faite 4 mois après. Asnières, [le 11 mars]. A 66 ans j'étais atteint d'une calvitie complète"
+A 66 ans,Time,DATE,4569,4577,0.9707,"raphie faite 4 mois après. Asnières, le 11 mars. [A 66 ans] j'étais atteint d'une calvitie complète venue peu"
+votre Sève,Product,MISC,4803,4813,0.8582,"mes cheveux, lorsque j'on me conseilla d'user de [votre Sève]. L'effet fut prodigieux, à peine croyable. En moi"
+6 semaines,Time,DATE,4869,4879,0.9925,"fet fut prodigieux, à peine croyable. En moins de [6 semaines] ma tête fut recouverte d'une chevelure non pas tr"
+15 jours,Time,DATE,5094,5102,0.988,"redevenue ce qu'elle était avant : la seconde de [15 jours], et vous autorise à oublier cette lettre. Beauie"
+et,Time,DATE,5104,5106,0.7575,"ce qu'elle était avant : la seconde de 15 jours, [et] vous autorise à oublier cette lettre. Beauieu, 3"
+Beauieu,Location,LOC,5146,5153,0.9583,"jours, et vous autorise à oublier cette lettre. [Beauieu], 3 mars. J'avais perdu depuis 4 ans presque tous"
+3 mars,Time,DATE,5155,5161,0.9957,"t vous autorise à oublier cette lettre. Beauieu, [3 mars]. J'avais perdu depuis 4 ans presque tous mes chev"
+4 ans,Time,DATE,5184,5189,0.996,"te lettre. Beauieu, 3 mars. J'avais perdu depuis [4 ans] presque tous mes cheveux sans cause apparente. L'"
+Sève,Product,MISC,5254,5258,0.8855,es cheveux sans cause apparente. L'effet de votre [Sève] a été extraordinaire. Au bout de 3 mois déjà très
+3 mois,Time,DATE,5292,5298,0.9962,"et de votre Sève a été extraordinaire. Au bout de [3 mois] déjà très satisfait, après l'emploi qui amena un"
+2 ans,Time,DATE,5549,5554,0.9959,"us adresse 2 photographies, la première datant de [2 ans], et la seconde de 15 jours, et vous autorise à ou"
+15 jours,Time,DATE,5573,5581,0.9949,"es, la première datant de 2 ans, et la seconde de [15 jours], et vous autorise à oublier cette lettre. Beauie"
+et,Time,DATE,5583,5585,0.6266,"mière datant de 2 ans, et la seconde de 15 jours, [et] vous autorise à oublier cette lettre. Beauieu, 1"
+Beauieu,Location,LOC,5625,5632,0.9933,"jours, et vous autorise à oublier cette lettre. [Beauieu], 16 avril. C'est pour me faire plaisir que mon ma"
+16 avril,Time,DATE,5634,5642,0.9945,"t vous autorise à oublier cette lettre. Beauieu, [16 avril]. C'est pour me faire plaisir que mon mari avait c"
+15 ans environ,Time,DATE,5746,5760,0.8395,"nti à traiter sa calvitie, sans me coiffer. Avant [15 ans environ], il consentit cependant à essayer un flacon de vo"
+Sève,Product,MISC,5814,5818,0.9796,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Il consentit cependant"
+Sève,Product,MISC,5897,5901,0.9794,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Il consentit cependant"
+Sève,Product,MISC,5980,5984,0.9787,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Bagnoux, le 21 avril."
+Bagnoux,Location,LOC,6012,6019,0.991,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+le 21 avril,Time,DATE,6021,6032,0.9892,"de votre Sève, et il en a fait de plus. Bagnoux, [le 21 avril]. Alors que vous le savez j'avais perdu à peu près"
+15 ans,Time,DATE,6140,6146,0.9755,"s cheveux et je ne pouvais plus me coiffer. Avant [15 ans] environ, il consentit cependant à essayer un flac"
+Sève,Product,MISC,6208,6212,0.9784,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Il consentit cependant"
+Sève,Product,MISC,6291,6295,0.9783,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Bagnoux, le 21 avril."
+Bagnoux,Location,LOC,6323,6330,0.982,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+le 21 avril,Time,DATE,6332,6343,0.9897,"de votre Sève, et il en a fait de plus. Bagnoux, [le 21 avril]. Alors que vous le savez j'avais perdu à peu près"
+15 ans environ,Time,DATE,6451,6465,0.9016,"s cheveux et je ne pouvais plus me coiffer. Avant [15 ans environ], il consentit cependant à essayer un flacon de vo"
+Sève,Product,MISC,6519,6523,0.9818,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Il consentit cependant"
+Sève,Product,MISC,6602,6606,0.9815,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Bagnoux, le 21 avril."
+Bagnoux,Location,LOC,6634,6641,0.9804,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+le 21 avril,Time,DATE,6643,6654,0.9723,"de votre Sève, et il en a fait de plus. Bagnoux, [le 21 avril]. Alors que vous le savez j'avais perdu à peu près"
+15 ans environ,Time,DATE,6762,6776,0.8808,"s cheveux et je ne pouvais plus me coiffer. Avant [15 ans environ], il consentit cependant à essayer un flacon de vo"
+Sève,Product,MISC,6830,6834,0.9815,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Il consentit cependant"
+Sève,Product,MISC,6913,6917,0.9813,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Bagnoux, le 21 avril."
+Bagnoux,Location,LOC,6945,6952,0.9848,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+le 21 avril,Time,DATE,6954,6965,0.9959,"de votre Sève, et il en a fait de plus. Bagnoux, [le 21 avril]. Alors que vous le savez j'avais perdu à peu près"
+15 ans environ,Time,DATE,7073,7087,0.9652,"s cheveux et je ne pouvais plus me coiffer. Avant [15 ans environ], il consentit cependant à essayer un flacon de vo"
+Sève,Product,MISC,7141,7145,0.9823,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. Il consentit cependant"
+Sève,Product,MISC,7224,7228,0.9817,"consentit cependant à essayer un flacon de votre [Sève], et il en a fait de plus. JEP sont, vous ne l'i"
+aujourd'hui,Time,DATE,7323,7334,0.9956,"e l'ignorez pas, les maladies de la peau. On sait [aujourd'hui] que toutes ces affections cutanées sont causées p"
+Dé,Product,MISC,7535,7537,0.554,gique d'avoir recours à un traitement intérieur. [Dé]purase du Dr Daru réalise le type parfait du spéc
+Dr Daru,Person,PER,7547,7554,0.8089,r recours à un traitement intérieur. Dépurase du [Dr Daru] réalise le type parfait du spécifique des affect
+Boutons,Product,MISC,7894,7901,0.7655,"la peau sa netteté. C'est la guérison assurée des [Boutons], Acné, Dartres, Eczémas, Psoriasis, etc. La Dépu"
+Acné,Product,MISC,7903,7907,0.6589,"a netteté. C'est la guérison assurée des Boutons, [Acné], Dartres, Eczémas, Psoriasis, etc. La Dépurase d"
+Dartres,Product,MISC,7909,7916,0.6855,"eté. C'est la guérison assurée des Boutons, Acné, [Dartres], Eczémas, Psoriasis, etc. La Dépurase du Docteur"
+Eczémas,Product,MISC,7918,7925,0.7081,"t la guérison assurée des Boutons, Acné, Dartres, [Eczémas], Psoriasis, etc. La Dépurase du Docteur Daru se"
+Psoriasis,Product,MISC,7927,7936,0.7315,"ison assurée des Boutons, Acné, Dartres, Eczémas, [Psoriasis], etc. La Dépurase du Docteur Daru se trouve dans"
+Dépurase,Product,MISC,7947,7955,0.9066,"tons, Acné, Dartres, Eczémas, Psoriasis, etc. La [Dépurase] du Docteur Daru se trouve dans les bonnes pharmac"
+Docteur Daru,Person,PER,7959,7971,0.9535,"Dartres, Eczémas, Psoriasis, etc. La Dépurase du [Docteur Daru] se trouve dans les bonnes pharmacies seulement de"
+Paris,Location,LOC,8022,8027,0.9933,se trouve dans les bonnes pharmacies seulement de [Paris] et de Province ou au Dépôt général : Monsieur H.
+Province,Location,LOC,8034,8042,0.9935,"ns les bonnes pharmacies seulement de Paris et de [Province] ou au Dépôt général : Monsieur H. LINDEUX, pharma"
+Dépôt général,Location,LOC,8049,8062,0.6521,"harmacies seulement de Paris et de Province ou au [Dépôt général] : Monsieur H. LINDEUX, pharmacien, 10, rue Richel"
+H. LINDEUX,Person,PER,8074,8084,0.9364,"ris et de Province ou au Dépôt général : Monsieur [H. LINDEUX], pharmacien, 10, rue Richelieu, à Paris. 1 franc"
+rue Richelieu,Location,LOC,8102,8115,0.9826,"ôt général : Monsieur H. LINDEUX, pharmacien, 10, [rue Richelieu], à Paris. 1 franc la boîte de 14 paquets (Franco"
+Paris,Location,LOC,8119,8124,0.994,"ieur H. LINDEUX, pharmacien, 10, rue Richelieu, à [Paris]. 1 franc la boîte de 14 paquets (Franco poste 1."
+Franc,Product,MISC,8159,8164,0.4576,"helieu, à Paris. 1 franc la boîte de 14 paquets ([Franc]o poste 1.20) VIENT DE PARAÎTRE LA MUSIQUE 3 MORC"
+ENT,Product,MISC,8181,8184,0.5084,anc la boîte de 14 paquets (Franco poste 1.20) VI[ENT] DE PARAÎTRE LA MUSIQUE 3 MORCEAUX de MUSIQUE pour
+PARAÎTRE,Product,MISC,8188,8196,0.5401,boîte de 14 paquets (Franco poste 1.20) VIENT DE [PARAÎTRE] LA MUSIQUE 3 MORCEAUX de MUSIQUE pour 15 CENTIMES
+MUSIQUE 3 MORCEAUX,Product,MISC,8200,8218,0.6572,paquets (Franco poste 1.20) VIENT DE PARAÎTRE LA [MUSIQUE 3 MORCEAUX] de MUSIQUE pour 15 CENTIMES. LE N° 19 CONTIENT ON
+MUSIQUE,Product,MISC,8222,8229,0.6595,1.20) VIENT DE PARAÎTRE LA MUSIQUE 3 MORCEAUX de [MUSIQUE] pour 15 CENTIMES. LE N° 19 CONTIENT ON DIT Chanso
+TIENT ON DIT Chanson,Product,MISC,8260,8280,0.683,MORCEAUX de MUSIQUE pour 15 CENTIMES. LE N° 19 CON[TIENT ON DIT Chanson] Paroles de PIERRE LOUVS Musique de HENRI SCHMITT
+PIERRE LOUVS,Person,PER,8292,8304,0.9921,IMES. LE N° 19 CONTIENT ON DIT Chanson Paroles de [PIERRE LOUVS] Musique de HENRI SCHMITT BLONDINETTE Polka A. BOS
+HENRI SCHMITT,Person,PER,8316,8329,0.9926,ON DIT Chanson Paroles de PIERRE LOUVS Musique de [HENRI SCHMITT] BLONDINETTE Polka A. BOSC LES DEUX GRENADIERS Mél
+BLONDINETTE,Product,MISC,8330,8341,0.8976,Paroles de PIERRE LOUVS Musique de HENRI SCHMITT [BLONDINETTE] Polka A. BOSC LES DEUX GRENADIERS Mélodie de SCHU
+Polka A. BOSC,Person,PER,8342,8355,0.8479,PIERRE LOUVS Musique de HENRI SCHMITT BLONDINETTE [Polka A. BOSC] LES DEUX GRENADIERS Mélodie de SCHUMANN Transcrip
+LES DEUX GRENADIERS,Product,MISC,8356,8375,0.9094,usique de HENRI SCHMITT BLONDINETTE Polka A. BOSC [LES DEUX GRENADIERS] Mélodie de SCHUMANN Transcription de V. SIGHICELL
+SCHUMANN,Person,PER,8387,8395,0.9717,ETTE Polka A. BOSC LES DEUX GRENADIERS Mélodie de [SCHUMANN] Transcription de V. SIGHICELLI. 15 CENTIMES LE NU
+V. SIGHICELLI,Person,PER,8413,8426,0.9896,X GRENADIERS Mélodie de SCHUMANN Transcription de [V. SIGHICELLI]. 15 CENTIMES LE NUMÉRO. Parait tous les quinze jo
+CENTIMES,Product,MISC,8431,8439,0.7935,ie de SCHUMANN Transcription de V. SIGHICELLI. 15 [CENTIMES] LE NUMÉRO. Parait tous les quinze jours EN VENTE
+ÉRO,Product,MISC,8446,8449,0.5227,Transcription de V. SIGHICELLI. 15 CENTIMES LE NUM[ÉRO]. Parait tous les quinze jours EN VENTE CHEZ TOUS
+rue Cadet,Location,LOC,8586,8595,0.9597,"abonnement : 5 fr. par an. — Administration : 19, [rue Cadet], Paris."
+Paris,Location,LOC,8597,8602,0.9928,": 5 fr. par an. — Administration : 19, rue Cadet, [Paris]."

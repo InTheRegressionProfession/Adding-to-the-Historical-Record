@@ -1,0 +1,99 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Arlette,pers.ind,Person,pers.ind,421,428,0.9007,issaient dans les couloirs... Déjà ! Il considéra [Arlette] et frissonna sous l'étrange regard. Il fallait le
+Maurice,pers.ind,Person,pers.ind,525,532,0.8668,"les fermer ces yeux qui dévoileraient la mort et [Maurice], à genoux, abaissa les longs cils... Un coup vif"
+Maurice,pers.ind,Person,pers.ind,1021,1028,0.9534,"un plateau chargé de deux déjeuners... Haletant, [Maurice] guette le regard qui va droit à la couchette. Mai"
+Maurice,pers.ind,Person,pers.ind,1340,1347,0.9426,"evra-t-elle venir pour la toilette de Madame ?... [Maurice] frémit. Cependant, avec calme il déclare qu'il so"
+Arlette,pers.ind,Person,pers.ind,1629,1636,0.6911,"l a le corps brisé l'âme absente, mais il faut qu'[Arlette] soit ramenée au Havre... Deux heures se passent"
+Havre,loc.adm.town,Location,loc.adm.town,1653,1658,0.6699,"absente, mais il faut qu'Arlette soit ramenée au [Havre]... Deux heures se passent dans une pose non trou"
+Maurice,pers.ind,Person,pers.ind,1867,1874,0.9277,n fort roulis. Il fallait l'entière attention de [Maurice] pour que le petit corps ne vint à rouler à terre
+Maurice,pers.ind,Person,pers.ind,2726,2733,0.9153,"appels réitérés du docteur, envoyé en mandataire, [Maurice] avait bondi, terrifié... Mais, se ressaisissant,"
+Mme de Holberg,pers.ind,Person,pers.ind,3489,3503,0.9727,"Elles allèrent jusqu'à la douce, la compatissante [Mme de Holberg], qui les écouta, les recueillit. Le cœur battant,"
+Maurice Le Courant,pers.ind,Person,pers.ind,3649,3667,0.9543,"redoutée et de sa voix au timbre bas, elle appela [Maurice Le Courant]. Une exclamation de colère retentit. Mais sans s"
+Mme de Stolberg,pers.ind,Person,pers.ind,4084,4099,0.9773,"n regardez-là, dit-il. Et l'électricité jaillit. [Mme de Stolberg] contempla Arlette et : — C'est bien ce que j'ava"
+Arlette,pers.ind,Person,pers.ind,4110,4117,0.9465,l'électricité jaillit. Mme de Stolberg contempla [Arlette] et : — C'est bien ce que j'avais pressenti... E
+France,loc.adm.nat,Location,loc.adm.nat,4576,4582,0.8253,donnée. Il faut qu'elle soit inhumée en terre de [France]... — songez-y... est-il possible que ce petit êt
+docteur Chanteloup,pers.ind,Person,pers.ind,4806,4824,0.9782,"Elle se glissa hors de la cabine et se heurta au [docteur Chanteloup]. — Docteur, prêtez-moi l'appui de votre bras et"
+Mme de Stolberg,pers.ind,Person,pers.ind,4938,4953,0.9784,r sur le pont. J'ai à vous parler. L'autorité de [Mme de Stolberg] s'impulsait partout où il lui plaisait de la fair
+Maurice Le Courant,pers.ind,Person,pers.ind,5266,5284,0.9588,"ne d'acquiescement. Quelques instants plus tard, [Maurice Le Courant] savait qu'il arriverait au port avec sa précieuse"
+Neva,loc.adm.nat,Location,loc.adm.nat,5475,5479,0.6648,"lle tension des nerfs... ...Et ce pendant que la [Neva] à tire d'ailes regagnait la France, tous deux se"
+France,loc.adm.nat,Location,loc.adm.nat,5508,5514,0.9003,"e pendant que la Neva à tire d'ailes regagnait la [France], tous deux se prosternèrent et l'enveloppe d'Arle"
+Arlette,pers.ind,Person,pers.ind,5560,5567,0.8017,"ance, tous deux se prosternèrent et l'enveloppe d'[Arlette] commut le calme et le recueillement dont il convi"
+Max REBOUL,pers.ind,Person,pers.ind,5665,5675,0.9417,vient d'entourer ceux dont l'âme nous a quittés. [Max REBOUL]. UN MONSIEUR offre gratuitement de faire connaît
+M. Vincent,pers.ind,Person,pers.ind,6194,6204,0.9696,"e d'un vœu. Ecrire par lettre ou carte postale à [M. Vincent], 8, place Victor-Hugo, à Grenoble, qui répondra g"
+place,loc.adm.reg,Location,loc.adm.reg,6209,6214,0.127,"rire par lettre ou carte postale à M. Vincent, 8, [place] Victor-Hugo, à Grenoble, qui répondra gratis et f"
+Victor,loc.oro,Location,loc.oro,6215,6221,0.2581,"ar lettre ou carte postale à M. Vincent, 8, place [Victor]-Hugo, à Grenoble, qui répondra gratis et franco p"
+-Hugo,loc.adm.town,Location,loc.adm.town,6221,6226,0.2687,"tre ou carte postale à M. Vincent, 8, place Victor[-Hugo], à Grenoble, qui répondra gratis et franco par co"
+Grenoble,loc.adm.town,Location,loc.adm.town,6230,6238,0.8618,"rte postale à M. Vincent, 8, place Victor-Hugo, à [Grenoble], qui répondra gratis et franco par courrier, et e"
+rue,loc.adm.reg,Location,loc.adm.reg,6363,6366,0.1501,"mandées. SABOTEUR Dans un petit estaminet de la [rue] des Chantiers, à Versailles, cinq grévistes causa"
+des Chantiers,loc.oro,Location,loc.oro,6367,6380,0.2803,"ées. SABOTEUR Dans un petit estaminet de la rue [des Chantiers], à Versailles, cinq grévistes causaient à voix ba"
+Versailles,loc.adm.town,Location,loc.adm.town,6384,6394,0.8984,"ans un petit estaminet de la rue des Chantiers, à [Versailles], cinq grévistes causaient à voix basse. Au dehor"
+Riaux,pers.ind,Person,pers.ind,7590,7595,0.9594,"vaincus. Restait à se venger. L'un d'entre eux, [Riaux], un ajusteur, grand garçon maigre et pâle, se lev"
+gare,loc.adm.reg,Location,loc.adm.reg,7928,7932,0.1316,"per au bas du talus, à la hauteur du tunnel de la [gare] des Chantiers... C'est Provost qui posera la bomb"
+des,loc.adm.town,Location,loc.adm.town,7933,7936,0.1991,"u bas du talus, à la hauteur du tunnel de la gare [des] Chantiers... C'est Provost qui posera la bombe à"
+Chantiers,loc.oro,Location,loc.oro,7937,7946,0.2455,"s du talus, à la hauteur du tunnel de la gare des [Chantiers]... C'est Provost qui posera la bombe à l'entrée d"
+Provost,pers.ind,Person,pers.ind,7956,7963,0.9516,uteur du tunnel de la gare des Chantiers... C'est [Provost] qui posera la bombe à l'entrée du tunnel... » To
+Provost,pers.ind,Person,pers.ind,8041,8048,0.9548,rée du tunnel... » Tous les yeux se fixèrent sur [Provost]. — « Tu ne vas pas flancher au moins ? » Il y eu
+Provost,pers.ind,Person,pers.ind,8129,8136,0.9627,"u moins ? » Il y eut un silence presque menaçant. [Provost], un mécanicien d'une cinquantaine d'années, vida"
+Rioux,pers.ind,Person,pers.ind,8318,8323,0.9406,y aura une sentinelle. » — « Parbleu ! répliqua [Rioux]... et après ? Il fait noir comme dans un four...
+Prévost,pers.ind,Person,pers.ind,8469,8476,0.8965,'ailleurs nous serons là pour prêter main forte à [Prévost]... Vous avez vos revolvers ? » Machinalement ils
+Provost,pers.ind,Person,pers.ind,8781,8788,0.9562,es directions différentes. La pluie avait cessé. [Provost] enfonça sa casquette sur sa tête et serra autour
+rue des Réservoirs,loc.oro,Location,loc.oro,8916,8934,0.2601,de mécanicien. Il se dirigea vers un débit de la [rue des Réservoirs]. Il ne voulait pas rentrer chez lui en attendant
+avenue de Paris,loc.oro,Location,loc.oro,9138,9153,0.2438,"x mains dans les poches, il remontait lentement l'[avenue de Paris], un peu moins brave tout de même maintenant qu'il"
+Provost,pers.ind,Person,pers.ind,9482,9489,0.9682,Puis elle se précipita. — « Ah ! c'est toi ! » [Provost] fit un bond en arrière. — « Maria !... Qu'est-ce
+rue des Chantiers,loc.oro,Location,loc.oro,9664,9681,0.2084,f heures... On m'a dit que tu étais au café de la [rue des Chantiers]. J'allais te chercher. » Provost eut un geste de
+Provost,pers.ind,Person,pers.ind,10363,10370,0.6671,".. Il est tard... T'as besoin de te reposer... » [Provost] fit quelques pas, puis s'arrêta. Ses yeux se fixè"
+Banque de France,org.ent,Organization,org.ent,11275,11291,0.5754,"i sont de bons gosses. Notre fille va entrer à la [Banque de France]. Jacquot, notre dernier, va terminer son service"
+Jacquot,pers.ind,Person,pers.ind,11293,11300,0.9604,"ses. Notre fille va entrer à la Banque de France. [Jacquot], notre dernier, va terminer son service militaire"
+Provost,pers.ind,Person,pers.ind,11435,11442,0.9686,"lettre de lui ce soir... » — « Ah ! fit vivement [Provost], qu'est-ce qu'il dit, le même ? » — « La lettre"
+Provost,pers.ind,Person,pers.ind,11862,11869,0.97,"ne croit ni à Dieu, ni à diable... » La voix de [Provost] se fit plus âpre : — « Tu sais bien que j'ai tou"
+Provost,pers.ind,Person,pers.ind,12047,12054,0.9665,"Tu vois bien que tu manigances quelque chose. » [Provost] se mit à rire. — « Mais non, la bourgeoise, mais"
+Provost,pers.ind,Person,pers.ind,12684,12691,0.9505,nue. L'un d'eux lui cria : — « Eh ! l'homme ! » [Provost] s'avança. — « Faut pas flâner comme ça dans les
+Provost,pers.ind,Person,pers.ind,12844,12851,0.9461,"on vous ramasse ! » Ils s'éloignèrent en riant. [Provost], gouailler, eut un geste de satisfaction. — « Me"
+Rioux,pers.ind,Person,pers.ind,13252,13257,0.9536,"s se reconnurent à voix basse, dans les ténèbres. [Rioux] dit : — « C'est le moment. L'express de Chartres"
+Chartres,loc.adm.town,Location,loc.adm.town,13299,13307,0.9128,s. Rioux dit : — « C'est le moment. L'express de [Chartres] doit passer dans dix minutes. Le passage du train
+Provost,pers.ind,Person,pers.ind,13399,13406,0.9647,"du train fera éclater la bombe... Fais attention, [Provost], il y a un soldat à gauche de l'entrée du tunnel."
+Provost,pers.ind,Person,pers.ind,13460,13467,0.9706,y a un soldat à gauche de l'entrée du tunnel. » [Provost] eut un mouvement. — « Faut sacrifier le tourlour
+Rioux,pers.ind,Person,pers.ind,13525,13530,0.9564,mouvement. — « Faut sacrifier le tourlourou ? » [Rioux] lui serra le poignet. — « Trop tard pour flanche
+Provost,pers.ind,Person,pers.ind,13716,13723,0.9689,"r nous que la révolution se fera !... Tu as juré, [Provost]. » — « J'ai juré. » — « A la moindre alerte, no"
+Pilules Pink,org.ent,Organization,org.ent,13921,13933,0.4916,t... et se ressemblent ! Encore une guérison des [Pilules Pink] ! Nous publions aujourd'hui la lettre par laquel
+Mme Jeanne Dufex,pers.ind,Person,pers.ind,13986,14002,0.9781,"Nous publions aujourd'hui la lettre par laquelle [Mme Jeanne Dufex] a annoncé à M. Gablin, que les Pilules Pink l'ava"
+M. Gablin,pers.ind,Person,pers.ind,14015,14024,0.966,"lettre par laquelle Mme Jeanne Dufex a annoncé à [M. Gablin], que les Pilules Pink l'avaient guérie. Mme Dufex"
+Pink,org.ent,Organization,org.ent,14042,14046,0.579,"anne Dufex a annoncé à M. Gablin, que les Pilules [Pink] l'avaient guérie. Mme Dufex est une jeune employé"
+Mme Dufex,pers.ind,Person,pers.ind,14065,14074,0.9724,"M. Gablin, que les Pilules Pink l'avaient guérie. [Mme Dufex] est une jeune employée lyonnaise. Elle a 19 ans e"
+rue,loc.adm.town,Location,loc.adm.town,14137,14140,0.2311,"e employée lyonnaise. Elle a 19 ans et habite 18, [rue] Crillon, à Lyon (Rhône). Nous dédions son exemple"
+Crillon,loc.oro,Location,loc.oro,14141,14148,0.1589,"ployée lyonnaise. Elle a 19 ans et habite 18, rue [Crillon], à Lyon (Rhône). Nous dédions son exemple aux jeu"
+Lyon,loc.adm.town,Location,loc.adm.town,14152,14156,0.9013,"naise. Elle a 19 ans et habite 18, rue Crillon, à [Lyon] (Rhône). Nous dédions son exemple aux jeunes fill"
+Rhône,loc.adm.town,Location,loc.adm.town,14158,14163,0.4781,"Elle a 19 ans et habite 18, rue Crillon, à Lyon ([Rhône]). Nous dédions son exemple aux jeunes filles dont"
+Mme Dufex,pers.ind,Person,pers.ind,14379,14388,0.9769,"me les fait vivre. « Il y a un an environ, écrit [Mme Dufex], ma santé s'altéra tout à coup. Je pensais avoir"
+Pilules Pink,org.ent,Organization,org.ent,15146,15158,0.4979,sans que mon état de santé ait été amélioré. Les [Pilules Pink] sont très en faveur à Lyon et on en parle beaucou
+Lyon,loc.adm.town,Location,loc.adm.town,15181,15185,0.9356,amélioré. Les Pilules Pink sont très en faveur à [Lyon] et on en parle beaucoup parce qu'elles ont guéri
+Pilules Pink,org.ent,Organization,org.ent,15262,15274,0.5159,rce qu'elles ont guéri beaucoup de personnes. Les [Pilules Pink] m'avaient été recommandées de différents côtés et
+Pilules Pink,org.ent,Organization,org.ent,15532,15544,0.547,"us mes malaises ont disparu. » Le traitement des [Pilules Pink] donne du sang et des forces, et cela est précieux"
+Pilules Pink,org.ent,Organization,org.ent,15908,15920,0.4435,"t de régime, à aucun changement d'habitudes. Les [Pilules Pink] guérissent : anémie, chlorose, faiblesse générale"
+Pharmacie Gablin,pers.ind,Person,pers.ind,16129,16145,0.8624,"en vente dans toutes les pharmacies et au dépôt : [Pharmacie Gablin], 23, rue Ballu, Paris : 3 fr. 50 la boîte ; 17 fr"
+rue Ballu,pers.ind,Person,pers.ind,16151,16160,0.3293,"es pharmacies et au dépôt : Pharmacie Gablin, 23, [rue Ballu], Paris : 3 fr. 50 la boîte ; 17 fr. 50 les 6 boît"
+Paris,loc.adm.town,Location,loc.adm.town,16162,16167,0.7326,"es et au dépôt : Pharmacie Gablin, 23, rue Ballu, [Paris] : 3 fr. 50 la boîte ; 17 fr. 50 les 6 boîtes, fra"
+Mlle Jeanne DUFEX Cl.,pers.ind,Person,pers.ind,16223,16244,0.8288,"r. 50 la boîte ; 17 fr. 50 les 6 boîtes, franco. [Mlle Jeanne DUFEX Cl.] Cavaroc JE GUÉRISS LA HERNIE. Suppression du ba"
+Cavaroc,loc.adm.town,Location,loc.adm.town,16245,16252,0.5504,". 50 les 6 boîtes, franco. Mlle Jeanne DUFEX Cl. [Cavaroc] JE GUÉRISS LA HERNIE. Suppression du bandage."
+"Wm. S. Rice, Spécialiste",pers.ind,Person,pers.ind,17467,17491,0.9013,"ncertain), le seul moyen de vous sauver la vie. — [Wm. S. Rice, Spécialiste] (F. 661), 8/9, STONECUTTER STREET, LONDRES, E.C.,"
+. 661,pers.ind,Person,pers.ind,17494,17499,0.5531,"vous sauver la vie. — Wm. S. Rice, Spécialiste (F[. 661]), 8/9, STONECUTTER STREET, LONDRES, E.C., ANGLETE"
+STONECUTTER STREET,loc.adm.town,Location,loc.adm.town,17507,17525,0.3363,"la vie. — Wm. S. Rice, Spécialiste (F. 661), 8/9, [STONECUTTER STREET], LONDRES, E.C., ANGLETERRE. ACCORDEONS ! Nous l"
+LONDRES,loc.adm.town,Location,loc.adm.town,17527,17534,0.7445,"e, Spécialiste (F. 661), 8/9, STONECUTTER STREET, [LONDRES], E.C., ANGLETERRE. ACCORDEONS ! Nous livrons en"
+E.C.,org.ent,Organization,org.ent,17536,17540,0.4552,"liste (F. 661), 8/9, STONECUTTER STREET, LONDRES, [E.C.], ANGLETERRE. ACCORDEONS ! Nous livrons en excel"
+ANGLETERRE,loc.adm.town,Location,loc.adm.town,17542,17552,0.5964,"(F. 661), 8/9, STONECUTTER STREET, LONDRES, E.C., [ANGLETERRE]. ACCORDEONS ! Nous livrons en excellente qualit"
+Herfeld,pers.ind,Person,pers.ind,17819,17826,0.4313,"gratis et franco. (Port de lettres 25 centimes). [Herfeld] & Comp., à Neuenrade, No 34 (Allemagne), la plus"
+& Comp.,org.ent,Organization,org.ent,17827,17834,0.362,"t franco. (Port de lettres 25 centimes). Herfeld [& Comp.], à Neuenrade, No 34 (Allemagne), la plus grande d"
+Neuenrade,loc.adm.town,Location,loc.adm.town,17838,17847,0.8919,"Port de lettres 25 centimes). Herfeld & Comp., à [Neuenrade], No 34 (Allemagne), la plus grande des fabriques"
+No,loc.adm.town,Location,loc.adm.town,17849,17851,0.2257,"tres 25 centimes). Herfeld & Comp., à Neuenrade, [No] 34 (Allemagne), la plus grande des fabriques d'ac"
+Allemagne,loc.adm.town,Location,loc.adm.town,17856,17865,0.4167,"centimes). Herfeld & Comp., à Neuenrade, No 34 ([Allemagne]), la plus grande des fabriques d'accordeons de Ne"
+Neuenrade,loc.adm.town,Location,loc.adm.town,17913,17922,0.8275,"ne), la plus grande des fabriques d'accordeons de [Neuenrade]. SURDITÉ Cette pénible infirmité est enfin vain"
+AUDIOPHONEX Lucq,pers.ind,Person,pers.ind,18047,18063,0.5859,"de la médecine gràce à l'heureuse invention de l'[AUDIOPHONEX Lucq]. A tout âge et dans tous les cas, sans remède ni"
+Directeur de l',pers.ind,Person,pers.ind,18307,18322,0.6519,"fait disparaître les Bruits ou Bourdonnements. Le [Directeur de l']AUDIOPHONEX Lucq, 27, Boulevard St-Martin, à Paris"
+AUDIOPHONEX,org.ent,Organization,org.ent,18322,18333,0.2863,"e les Bruits ou Bourdonnements. Le Directeur de l'[AUDIOPHONEX] Lucq, 27, Boulevard St-Martin, à Paris, envoie gr"
+Lucq,pers.ind,Person,pers.ind,18334,18338,0.8911,"ou Bourdonnements. Le Directeur de l'AUDIOPHONEX [Lucq], 27, Boulevard St-Martin, à Paris, envoie gratuit"
+Boulevard St,pers.ind,Person,pers.ind,18344,18356,0.2137,"nnements. Le Directeur de l'AUDIOPHONEX Lucq, 27, [Boulevard St]-Martin, à Paris, envoie gratuitement sa brochure"
+-Martin,loc.adm.town,Location,loc.adm.town,18356,18363,0.338,"Directeur de l'AUDIOPHONEX Lucq, 27, Boulevard St[-Martin], à Paris, envoie gratuitement sa brochure illustr"
+Paris,loc.adm.town,Location,loc.adm.town,18367,18372,0.8623,"de l'AUDIOPHONEX Lucq, 27, Boulevard St-Martin, à [Paris], envoie gratuitement sa brochure illustrée. Occa"
+Fernand CLEMENT,pers.ind,Person,pers.ind,18537,18552,0.9451,"Crédit Dessins et descriptions gratis et franco. [Fernand CLEMENT], à Levallois-Perret (Seine)"
+Levallois-Perret,loc.adm.town,Location,loc.adm.town,18556,18572,0.7255,"descriptions gratis et franco. Fernand CLEMENT, à [Levallois-Perret] (Seine)"
+Seine,loc.adm.reg,Location,loc.adm.reg,18574,18579,0.217,"s et franco. Fernand CLEMENT, à Levallois-Perret ([Seine])"

@@ -1,0 +1,33 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Thérèse,Person,pers,602,609,0.947,"un obscur désir de maternité, de protection. Chez [Thérèse], ce sentiment, fortifié par la conscience... — P"
+Michel,Person,pers,669,675,0.7145,"ment, fortifié par la conscience... — Parce que, [Michel], je vous aime ! Roger REGIS. LE CODE POUR TOUS"
+Roger REGIS,Person,pers,692,703,0.958,"onscience... — Parce que, Michel, je vous aime ! [Roger REGIS]. LE CODE POUR TOUS De la constitution de rente"
+articles 1968 à 1983,Time,time,2419,2439,0.7655,"tes viagères. — Ce contrat est réglementé par les [articles 1968 à 1983] du Code civil, au titre des contrats aléatoires."
+SAINT-YVES,Location,loc,3879,3889,0.9682,que lorsqu'elle a été concédée à titre gratuit. [SAINT-YVES]. JE DONNE 100.000 Fr. à qui prouvera que la cél
+F. OLBÉ,Person,pers,3976,3983,0.7986,ra que la célèbre Sève Capillaire du dermatologue [F. OLBÉ] n'arrête pas la chute des cheveux en deux jours e
+"Mme Sophie Mil..., 33 ans, propriétaire à",Person,pers,4135,4176,0.8614,"les plus chauves et dans leur nuance naturelle. [Mme Sophie Mil..., 33 ans, propriétaire à] Rouen. — Tête totalement dénudée depuis 3 ans à l"
+Rouen,Location,loc,4177,4182,0.6024,"relle. Mme Sophie Mil..., 33 ans, propriétaire à [Rouen]. — Tête totalement dénudée depuis 3 ans à la suit"
+"Octave Terr..., 32 ans, mécanicien aux",Person,pers,4348,4386,0.8267,"ent reconstituée après 2 mois 1/2 de traitement. [Octave Terr..., 32 ans, mécanicien aux] Angles. — Pelade remontant à 2 ans. 50 grandes pl"
+Angles,Location,loc,4387,4393,0.51,"aitement. Octave Terr..., 32 ans, mécanicien aux [Angles]. — Pelade remontant à 2 ans. 50 grandes plaques q"
+Pelade,Person,pers,4397,4403,0.5461,"Octave Terr..., 32 ans, mécanicien aux Angles. — [Pelade] remontant à 2 ans. 50 grandes plaques qui avaient"
+Asnières,Location,loc,4547,4555,0.9579,"lète en 2 mois. Photographie faite 4 mois après. [Asnières], le 11 mars. A 66 ans j'étais atteint d'une calvi"
+Beauieu,Location,loc,5146,5153,0.8769,"jours, et vous autorise à oublier cette lettre. [Beauieu], 3 mars. J'avais perdu depuis 4 ans presque tous"
+Beauieu,Location,loc,5625,5632,0.9125,"jours, et vous autorise à oublier cette lettre. [Beauieu], 16 avril. C'est pour me faire plaisir que mon ma"
+Bagnoux,Location,loc,6012,6019,0.9279,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+Bagnoux,Location,loc,6323,6330,0.9201,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+Bagnoux,Location,loc,6634,6641,0.9315,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+Bagnoux,Location,loc,6945,6952,0.9107,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+Dr Daru,Person,pers,7547,7554,0.9716,r recours à un traitement intérieur. Dépurase du [Dr Daru] réalise le type parfait du spécifique des affect
+Docteur Daru,Person,pers,7959,7971,0.9254,"Dartres, Eczémas, Psoriasis, etc. La Dépurase du [Docteur Daru] se trouve dans les bonnes pharmacies seulement de"
+Paris,Location,loc,8022,8027,0.8938,se trouve dans les bonnes pharmacies seulement de [Paris] et de Province ou au Dépôt général : Monsieur H.
+"Monsieur H. LINDEUX, pharmacien",Person,pers,8065,8096,0.9621,"ent de Paris et de Province ou au Dépôt général : [Monsieur H. LINDEUX, pharmacien], 10, rue Richelieu, à Paris. 1 franc la boîte de"
+rue Richelieu,Location,loc,8102,8115,0.7151,"ôt général : Monsieur H. LINDEUX, pharmacien, 10, [rue Richelieu], à Paris. 1 franc la boîte de 14 paquets (Franco"
+Paris,Location,loc,8119,8124,0.8734,"ieur H. LINDEUX, pharmacien, 10, rue Richelieu, à [Paris]. 1 franc la boîte de 14 paquets (Franco poste 1."
+PIERRE LOUVS,Person,pers,8292,8304,0.9647,IMES. LE N° 19 CONTIENT ON DIT Chanson Paroles de [PIERRE LOUVS] Musique de HENRI SCHMITT BLONDINETTE Polka A. BOS
+HENRI SCHMITT,Person,pers,8316,8329,0.9666,ON DIT Chanson Paroles de PIERRE LOUVS Musique de [HENRI SCHMITT] BLONDINETTE Polka A. BOSC LES DEUX GRENADIERS Mél
+BLONDINETTE,Person,pers,8330,8341,0.7708,Paroles de PIERRE LOUVS Musique de HENRI SCHMITT [BLONDINETTE] Polka A. BOSC LES DEUX GRENADIERS Mélodie de SCHU
+A. BOSC,Person,pers,8348,8355,0.9124,LOUVS Musique de HENRI SCHMITT BLONDINETTE Polka [A. BOSC] LES DEUX GRENADIERS Mélodie de SCHUMANN Transcrip
+SCHUMANN,Person,pers,8387,8395,0.9056,ETTE Polka A. BOSC LES DEUX GRENADIERS Mélodie de [SCHUMANN] Transcription de V. SIGHICELLI. 15 CENTIMES LE NU
+V. SIGHICELLI,Person,pers,8413,8426,0.9371,X GRENADIERS Mélodie de SCHUMANN Transcription de [V. SIGHICELLI]. 15 CENTIMES LE NUMÉRO. Parait tous les quinze jo
+rue Cadet,Location,loc,8586,8595,0.6989,"abonnement : 5 fr. par an. — Administration : 19, [rue Cadet], Paris."
+Paris,Location,loc,8597,8602,0.7474,": 5 fr. par an. — Administration : 19, rue Cadet, [Paris]."

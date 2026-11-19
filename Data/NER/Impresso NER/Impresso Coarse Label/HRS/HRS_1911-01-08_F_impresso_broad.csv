@@ -1,0 +1,86 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Maurice,Person,pers,899,906,0.933,"n plateau chargé des deux déjeuners... Haletant, [Maurice] guette le regard qui va droit à la couchette. Mai"
+Maurice,Person,pers,1219,1226,0.8835,"evra-t-elle venir pour la toilette de Madame ?... [Maurice] frémit. Cependant, avec calme il déclare qu'il so"
+Arlette,Person,pers,1508,1515,0.7749,"l a le corps brisé l'âme absente, mais il faut qu'[Arlette] soit ramenée au Havre... Deux heures se passèren"
+Havre,Location,loc,1532,1537,0.9766,"absente, mais il faut qu'Arlette soit ramenée au [Havre]... Deux heures se passèrent dans une pose non tr"
+Maurice,Person,pers,1748,1755,0.9032,n fort roulis. Il fallait l'entière attention de [Maurice] pour que le petit corps ne vint à rouler à terre
+Maurice,Person,pers,2610,2617,0.8864,"appels réitérés du docteur, envoyé en mandataire, [Maurice] avait bondi, terrifié... Mais, se ressaisissant,"
+Mme de Holberg,Person,pers,3373,3387,0.976,"Elles allèrent jusqu'à la douce, la compatissante [Mme de Holberg], qui les écouta, les recueillit. Le cœur battant,"
+Maurice Le Courant,Person,pers,3533,3551,0.9639,"redoutée et de sa voix au timbre bas, elle appela [Maurice Le Courant]. Une exclamation de colère retentit. Mais sans"
+Mme de Stolberg,Person,pers,3970,3985,0.9825,"n regardez-là, dit-il. Et l'électricité jaillit. [Mme de Stolberg] contempla Arlette et : — C'est bien ce que j'ava"
+Arlette,Person,pers,3996,4003,0.9511,l'électricité jaillit. Mme de Stolberg contempla [Arlette] et : — C'est bien ce que j'avais pressenti... E
+France,Location,loc,4463,4469,0.9763,donnée. Il faut qu'elle soit inhumée en terre de [France]... — Songez-y... est-il possible que ce petit êt
+docteur Chanteloup,Person,pers,4693,4711,0.98,"Elle se glissa hors de la cabine et se heurta au [docteur Chanteloup]. — Docteur, prêtez-moi l'appui de votre bras et"
+Mme de Stolberg,Person,pers,4825,4840,0.9826,r sur le pont. J'ai à vous parler. L'autorité de [Mme de Stolberg] s'imposait partout où il lui plaisait de la faire
+Maurice Le Courant,Person,pers,5151,5169,0.9658,"ne d'acquiescement. Quelques instants plus tard, [Maurice Le Courant] savait qu'il arriverait au port avec sa précieuse"
+Neva,Location,loc,5359,5363,0.9126,"olle tension des nerfs... ..Et ce pendant que la [Neva] à tire d'ailes regagnait la France, tous deux se"
+France,Location,loc,5392,5398,0.965,"e pendant que la Neva à tire d'ailes regagnait la [France], tous deux se prosternèrent et l'enveloppe d'Arle"
+Arlette,Person,pers,5444,5451,0.8927,"ance, tous deux se prosternèrent et l'enveloppe d'[Arlette] connut le calme et le recueillement dont il convi"
+Max REBOUL,Person,pers,5549,5559,0.9572,vient d'entourer ceux dont l'âme nous a quittés. [Max REBOUL]. UN MONSIEUR offre gratuitement de faire connaît
+M. Vincent,Person,pers,6075,6085,0.9785,"e d'un vœu. Ecrire par lettre ou carte postale à [M. Vincent], 8, place Victor-Hugo, à Grenoble, qui répondra g"
+place Victor-Hugo,Location,loc,6090,6107,0.8821,"rire par lettre ou carte postale à M. Vincent, 8, [place Victor-Hugo], à Grenoble, qui répondra gratis et franco par co"
+Grenoble,Location,loc,6111,6119,0.8515,"rte postale à M. Vincent, 8, place Victor-Hugo, à [Grenoble], qui répondra gratis et franco par courrier, et e"
+rue des Chantiers,Location,loc,6244,6261,0.9586,"mandées. SABOTEUR Dans un petit estaminet de la [rue des Chantiers], à Versailles, cinq grévistes causaient à voix ba"
+Versailles,Location,loc,6265,6275,0.9088,"ans un petit estaminet de la rue des Chantiers, à [Versailles], cinq grévistes causaient à voix basse. Au dehor"
+Riaux,Person,pers,7471,7476,0.9442,"vaincus. Restait à se venger. L'un d'entre eux, [Riaux], un ajusteur, grand garçon maigre et pâle, se lev"
+gare des Chantiers,Location,loc,7805,7823,0.9303,"per au bas du talus, à la hauteur du tunnel de la [gare des Chantiers]... C'est Provost qui posera la bombe à l'entrée d"
+Provost,Person,pers,7833,7840,0.9333,uteur du tunnel de la gare des Chantiers... C'est [Provost] qui posera la bombe à l'entrée du tunnel... Tous
+Provost,Person,pers,7916,7923,0.9346,ntrée du tunnel... Tous les yeux se fixèrent sur [Provost]. — Tu ne vas pas flancher au moins ? Il y eut u
+Provost,Person,pers,8001,8008,0.9475,"au moins ? Il y eut un silence presque menaçant. [Provost], un mécanicien d'une cinquantaine d'années, vira"
+Rioux,Person,pers,8180,8185,0.9208,— Il y aura une sentinelle. — Parbleu ! répliqua [Rioux]... et après ? Il fait noir comme dans un four...
+Provost,Person,pers,8332,8339,0.9045,'ailleurs nous serons là pour prêter main forte à [Provost]... Vous avez vos revolvers ? Machinalement ils p
+rue des Réservoirs,Location,loc,8773,8791,0.9546,de mécanicien. Il se dirigea vers un débit de la [rue des Réservoirs]. Il ne voulait pas rentrer chez lui en attendant
+avenue de Paris,Location,loc,8995,9010,0.9503,"x mains dans les poches, il remontait lentement l'[avenue de Paris], un peu moins brave tout de même maintenant qu'il"
+rue des Chantiers,Location,loc,9511,9528,0.9148,f heures... On m'a dit que tu étais au café de la [rue des Chantiers]. J'allais te chercher. Provost eut un geste de c
+Banque de France,Organization,org,11081,11097,0.8252,"i sont de bons gosses. Notre fille va entrer à la [Banque de France]. Jacquot, notre dernier, va terminer son service"
+Jacquot,Person,pers,11099,11106,0.9565,"ses. Notre fille va entrer à la Banque de France. [Jacquot], notre dernier, va terminer son service militaire"
+Provost,Person,pers,11237,11244,0.9471,"une lettre de lui ce soir... — Ah ! fit vivement [Provost], qu'est-ce qu'il dit, le même ? — La lettre est"
+Pilules Pink,Organization,org,11566,11578,0.513,nt... et se ressemblent ! Encore une guérison des [Pilules Pink] ! Nous publions aujourd'hui la lettre par laquel
+Mlle Jeanne Dufex,Person,pers,11631,11648,0.9823,"Nous publions aujourd'hui la lettre par laquelle [Mlle Jeanne Dufex] a annoncé à M. Gablin, que les Pilules Pink l'ava"
+M. Gablin,Person,pers,11661,11670,0.9733,"lettre par laquelle Mlle Jeanne Dufex a annoncé à [M. Gablin], que les Pilules Pink l'avaient guérie. Mlle Dufe"
+Pilules Pink,Organization,org,11680,11692,0.5623,"Mlle Jeanne Dufex a annoncé à M. Gablin, que les [Pilules Pink] l'avaient guérie. Mlle Dufex est une jeune employ"
+Mlle Dufex,Person,pers,11711,11721,0.9802,"M. Gablin, que les Pilules Pink l'avaient guérie. [Mlle Dufex] est une jeune employée lyonnaise. Elle a 19 ans e"
+rue Crillon,Location,loc,11784,11795,0.8717,"e employée lyonnaise. Elle a 19 ans et habite 18, [rue Crillon], à Lyon (Rhône). Nous dédions son exemple aux jeu"
+Lyon,Location,loc,11799,11803,0.962,"naise. Elle a 19 ans et habite 18, rue Crillon, à [Lyon] (Rhône). Nous dédions son exemple aux jeunes fill"
+Rhône,Location,loc,11805,11810,0.9622,"Elle a 19 ans et habite 18, rue Crillon, à Lyon ([Rhône]). Nous dédions son exemple aux jeunes filles dont"
+Mlle Dufex,Person,pers,12026,12036,0.9802,"me les fait vivre. « Il y a un an environ, écrit [Mlle Dufex], ma santé s'altéra tout à coup. Je pensais avoir"
+Pilules Pink,Organization,org,12796,12808,0.5948,sans que mon état de santé ait été amélioré. Les [Pilules Pink] sont très en faveur à Lyon et on en parle beaucou
+Lyon,Location,loc,12831,12835,0.9699,amélioré. Les Pilules Pink sont très en faveur à [Lyon] et on en parle beaucoup parce qu'elles ont guéri
+Pilules Pink,Organization,org,12912,12924,0.599,rce qu'elles ont guéri beaucoup de personnes. Les [Pilules Pink] m'avaient été recommandées de différents côtés et
+Pilules Pink,Organization,org,13142,13154,0.604,"us mes malaises ont disparu. » Le traitement des [Pilules Pink] donne du sang et des forces, et cela est précieux"
+Pilules Pink,Organization,org,13518,13530,0.5595,"t de régime, à aucun changement d'habitudes. Les [Pilules Pink] guérissent : anémie, chlorose, faiblesse générale"
+Pharmacie Gablin,Person,pers,13738,13754,0.8691,"en vente dans toutes les pharmacies et au dépôt : [Pharmacie Gablin], 23, rue Ballu, Paris : 3 fr. 50 la boîte ; 17 fr"
+rue Ballu,Location,loc,13760,13769,0.4932,"es pharmacies et au dépôt : Pharmacie Gablin, 23, [rue Ballu], Paris : 3 fr. 50 la boîte ; 17 fr. 50 les 6 boît"
+Paris,Location,loc,13771,13776,0.7038,"es et au dépôt : Pharmacie Gablin, 23, rue Ballu, [Paris] : 3 fr. 50 la boîte ; 17 fr. 50 les 6 boîtes, fra"
+Mlle Jeanne DUFEX,Person,pers,13832,13849,0.9792,"r. 50 la boîte ; 17 fr. 50 les 6 boîtes, franco. [Mlle Jeanne DUFEX] et Cavarec bonnet... On te monte facilement le c"
+Cavarec,Person,pers,13853,13860,0.9058,"r. 50 les 6 boîtes, franco. Mlle Jeanne DUFEX et [Cavarec] bonnet... On te monte facilement le ciboulot. Le"
+Provost,Person,pers,14023,14030,0.9664,"on ne croit ni à Dieu, ni à diable... La voix de [Provost] se fit plus âpre : — Tu sais bien que j'ai toujo"
+Provost,Person,pers,14200,14207,0.961,"— Tu vois bien que tu manigances quelque chose. [Provost] se mit à rire. — Mais non, la bourgeoise, mais n"
+Provost,Person,pers,14984,14991,0.9364,"u on vous ramasse ! Ils s'éloignèrent en riant. [Provost], gouailler, eut un geste de satisfaction. — Merc"
+Suisses,Location,loc,15176,15183,0.5556,"Il se dirigea rapidement vers la pièce d'eau des [Suisses]. Arrivé à la grille de l'octroi, il tourna à gauc"
+Rioux,Person,pers,15388,15393,0.9188,"s se reconnurent à voix basse, dans les ténèbres. [Rioux] dit : — C'est le moment. L'express de Chartres d"
+Chartres,Location,loc,15433,15441,0.9728,res. Rioux dit : — C'est le moment. L'express de [Chartres] doit passer dans dix minutes. Le passage du train
+Provost,Person,pers,15533,15540,0.9307,"du train fera éclater la bombe... Fais attention, [Provost], il y a un soldat à gauche de l'entrée du tunnel."
+Provost,Person,pers,15592,15599,0.9445,il y a un soldat à gauche de l'entrée du tunnel. [Provost] eut un mouvement. — Faut sacrifier le tourlourou
+Rioux,Person,pers,15653,15658,0.9159,un mouvement. — Faut sacrifier le tourlourou ? [Rioux] lui serra le poignet. — Trop tard pour flancher
+Provost,Person,pers,15842,15849,0.9044,"r nous que la révolution se fera !... Tu as juré, [Provost]. — J'ai juré. — A la moindre alerte, nous tombo"
+Provost,Person,pers,15922,15929,0.918,"moindre alerte, nous tombons sur la sentinelle. [Provost] prit la petite boîte de fer blanc. JE GUÉRIS LA"
+"Wm. S. Rice, Spécialiste",Person,pers,17180,17204,0.9292,"ncertain), le seul moyen de vous sauver la vie. — [Wm. S. Rice, Spécialiste] (F. 661), 8/9, STONECUTTER STREET, LONDRES, E.C.,"
+. 661,Person,pers,17207,17212,0.4942,"vous sauver la vie. — Wm. S. Rice, Spécialiste (F[. 661]), 8/9, STONECUTTER STREET, LONDRES, E.C., ANGLETE"
+STONECUTTER STREET,Location,loc,17220,17238,0.8982,"la vie. — Wm. S. Rice, Spécialiste (F. 661), 8/9, [STONECUTTER STREET], LONDRES, E.C., ANGLETERRE. ACCORDEONS! Nous li"
+LONDRES,Location,loc,17240,17247,0.9621,"e, Spécialiste (F. 661), 8/9, STONECUTTER STREET, [LONDRES], E.C., ANGLETERRE. ACCORDEONS! Nous livrons en"
+E.C.,Location,loc,17249,17253,0.5503,"liste (F. 661), 8/9, STONECUTTER STREET, LONDRES, [E.C.], ANGLETERRE. ACCORDEONS! Nous livrons en excell"
+ANGLETERRE,Location,loc,17255,17265,0.9769,"(F. 661), 8/9, STONECUTTER STREET, LONDRES, E.C., [ANGLETERRE]. ACCORDEONS! Nous livrons en excellente qualité"
+Hierfeld,Person,pers,17527,17535,0.692,"gratis et franco. (Port de lettres 25 centimes). [Hierfeld] & Comp., à Neuenrade, No 34 (Allemagne), la plus"
+Comp.,Organization,org,17538,17543,0.5796,"franco. (Port de lettres 25 centimes). Hierfeld & [Comp.], à Neuenrade, No 34 (Allemagne), la plus grande d"
+Neuenrade,Location,loc,17547,17556,0.9661,"Port de lettres 25 centimes). Hierfeld & Comp., à [Neuenrade], No 34 (Allemagne), la plus grande des fabriques"
+Allemagne,Location,loc,17565,17574,0.9822,"centimes). Hierfeld & Comp., à Neuenrade, No 34 ([Allemagne]), la plus grande des fabriques d'accordeons de Ne"
+Neuenrade,Location,loc,17622,17631,0.9729,"ne), la plus grande des fabriques d'accordeons de [Neuenrade]. SURDITÉ Cette pénible infirmité est enfin vain"
+AUDIOPHONEX Lucq,Person,pers,17757,17773,0.6365,"de la médecine grâce à l'heureuse invention de l'[AUDIOPHONEX Lucq]. A tout âge et dans tous les cas, sans remède ni"
+Directeur de l',Person,pers,18017,18032,0.6517,"fait disparaître les Bruits ou Bourdonnements. Le [Directeur de l']AUDIOPHONEX Lucq, 27, Boulevard St-Martin, à Paris"
+AUDIOPHONEX Lucq,Person,pers,18032,18048,0.5801,"e les Bruits ou Bourdonnements. Le Directeur de l'[AUDIOPHONEX Lucq], 27, Boulevard St-Martin, à Paris, envoie gratuit"
+Boulevard St-Martin,Location,loc,18054,18073,0.7834,"nnements. Le Directeur de l'AUDIOPHONEX Lucq, 27, [Boulevard St-Martin], à Paris, envoie gratuitement sa brochure illustr"
+Paris,Location,loc,18077,18082,0.7923,"de l'AUDIOPHONEX Lucq, 27, Boulevard St-Martin, à [Paris], envoie gratuitement sa brochure illustrée. OCCA"
+Fernand CLEMENT,Person,pers,18246,18261,0.9646,"e Crédit Dessins et descriptions gratis et franco [Fernand CLEMENT], à Levallois-Perret (Seine) 170"
+Levallois-Perret,Location,loc,18265,18281,0.9243,"descriptions gratis et franco Fernand CLEMENT, à [Levallois-Perret] (Seine) 170"
+Seine,Location,loc,18283,18288,0.7944,"is et franco Fernand CLEMENT, à Levallois-Perret ([Seine]) 170"

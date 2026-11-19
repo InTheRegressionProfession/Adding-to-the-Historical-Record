@@ -1,0 +1,62 @@
+﻿entity,fine_type,coarse_type
+Alost,loc.adm.town,Location
+Belgique,loc.adm.nat,Location
+Van den Neucker,pers.coll,Person
+Santhergen,loc.adm.town,Location
+Union des Sociétés Françaises de Sport,org.ent,Organization
+Jardin du Trocadéro,loc.fac,Location
+Union athlétique de Montreux,org.ent,Organization
+Racing-Club de France,org.ent,Organization
+Saint-Cloud,loc.adm.town,Location
+Ville-d'Avray,loc.adm.town,Location
+Ragueneau,pers.ind,Person
+Société athlétique de Montreux,org.ent,Organization
+De Fleurac,pers.ind,Person
+Gautier,pers.ind,Person
+Football-Club de Lyon,org.ent,Organization
+Modet,pers.ind,Person
+Metropolitan-Club,org.ent,Organization
+Dravault,pers.ind,Person
+Bouchard,pers.ind,Person
+Chastanié,pers.ind,Person
+Club des sports athlétiques,org.ent,Organization
+Millerot,pers.ind,Person
+Union athlétique de Saint-Cloud,org.ent,Organization
+Fletcher,pers.ind,Person
+Stade français,org.ent,Organization
+Union sportive dijonnaise,org.ent,Organization
+Sport athlétique bordelais,org.ent,Organization
+Stade bordelais,org.ent,Organization
+Groupe militaire du Nord-Est,org.ent,Organization
+Sporting-Club de Marseille,org.ent,Organization
+Association pédestre française,org.ent,Organization
+Cercle pédestre châlonnais,org.ent,Organization
+Association sportive de la Seine,org.ent,Organization
+Association sportive de Neuilly,org.ent,Organization
+Paris-Athlétique-Club,org.ent,Organization
+Sporting-Club Lafayette,org.ent,Organization
+Club athlétique du 14e arrondissement,org.ent,Organization
+Union sportive versalaise,org.ent,Organization
+Union sportive de Gagny,org.ent,Organization
+Athlétique-Club de Montmorency,org.ent,Organization
+Union cycliste d'Orléans,org.ent,Organization
+PRINCE MAX,pers.ind,Person
+Unbekanntreich,loc.adm.nat,Location
+Dreistirnen,loc.adm.town,Location
+basilique de Saint-Aloysius,loc.fac,Location
+Saint-Aloysius,loc.fac,Location
+royaume d'Unbekanntreich,loc.adm.nat,Location
+Empire allemand,loc.adm.nat,Location
+général Reubenkerbel,pers.ind,Person
+Reinwald,​loc​.phys.geo,Location
+Peeter,pers.ind,Person
+Mina,pers.ind,Person
+Marcel Prévost,pers.ind.articleauthor,Person
+Pierre Sarlier,pers.ind,Person
+Jacques,pers.ind,Person
+Mme Sarlier,pers.ind,Person
+Paris,loc.adm.town,Location
+Jacques Cézère,pers.ind,Person
+docteur Garbois,pers.ind,Person
+Simon,pers.ind,Person
+Cézère,pers.ind,Person

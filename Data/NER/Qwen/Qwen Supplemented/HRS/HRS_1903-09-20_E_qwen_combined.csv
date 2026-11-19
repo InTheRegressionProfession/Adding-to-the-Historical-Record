@@ -1,0 +1,33 @@
+﻿entity,fine_type,coarse_type,impresso_type,change,model_label,start,end,confidence,context
+capitaine Parmentier,pers.ind,Person,,added,pers.ind,2481,2501,,t à tout hasard que je demandai hardiment : — Le [capitaine Parmentier] du 3e tireailleurs sollicite l'honneur de déposer
+lord Cockerill,pers.ind,Person,pers.ind,confirmed,pers.ind,3631,3645,,". — Excusez de n'avoir pas encore présenté moi : [lord Cockerill], commodore de la flotte de sa Majesté Britannique"
+lord Cockerill,pers.ind,Person,pers.ind,confirmed,pers.ind,5272,5286,,"onde. Depuis lors, ai-je besoin de vous le dire, [lord Cockerill], aujourd'hui amiral, est devenu un de mes meilleu"
+Marie,pers.ind,Person,pers.ind,confirmed,pers.ind,5919,5924,,longue... L'enfant avait seize ans et se nommait [Marie]. Elle était fille d'une vivandière du corps d'arm
+Murat,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,5980,5985,,"était fille d'une vivandière du corps d'armée de [Murat]. Quatre jours auparavant, à la suite d'une rencon"
+Naples,loc.adm.nat,Location,loc.adm.nat,confirmed,loc.adm.nat,6067,6073,,"suite d'une rencontre entre les troupes du roi de [Naples] et celles du général Konownitzin, amis et ennemis"
+général Konownitzin,pers.ind,Person,pers.ind,confirmed,pers.ind,6087,6106,,"e entre les troupes du roi de Naples et celles du [général Konownitzin], amis et ennemis s'étaient trouvés un moment conf"
+Cosaques,pers.coll,Person,,added,pers.coll,6233,6241,,"nt dû se retirer promptement devant des hordes de [Cosaques] accourus au secours des Russes. Alors, les femmes"
+M. André TABARY,pers.ind,Person,pers.ind,confirmed,pers.ind,6327,6342,,"rs, les femmes NOS BATEAUX DE PLAISIR Cliché de [M. André TABARY]. Les excursionnistes du Petit Journal débarquant"
+Petit Journal,prod.media,Product,prod.media,confirmed,prod.media,6368,6381,,liché de M. André TABARY. Les excursionnistes du [Petit Journal] débarquant au Pecq — Une duchesse ? ne manque ja
+Pecq,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,6396,6400,,es excursionnistes du Petit Journal débarquant au [Pecq] — Une duchesse ? ne manque jamais d'intéresser q
+colonel Parmentier,pers.ind,Person,pers.ind,confirmed,pers.ind,6701,6719,,"s laisse à penser, messieurs, conclut en riant le [colonel Parmentier], la tête que font les auditeurs la première fois"
+Mar-seillaise,loc.adm.town,Location,,added,loc.adm.town,7258,7271,,"ent morte. Soudain, les paroles enflammées de la [Mar-seillaise] passent à travers la bise glaciale qui souffle lu"
+Moskowa,loc.adm.nat,Location,loc.adm.nat,confirmed,loc.adm.nat,7577,7584,,"vétéran de vingt-huit ans, blessé la veille à la [Moskowa] et laissé pour mort sur le champ de bataille. Re"
+Joli-Cœur,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,9474,9483,,"; car, dans la garde, tous savaient ce que valait [Joli-Cœur], décoré à Wagram de la main même de l'Empereur !"
+Wagram,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,9494,9500,,", tous savaient ce que valait Joli-Cœur, décoré à [Wagram] de la main même de l'Empereur ! Il s'agissaient"
+Marie,pers.ind,Person,pers.ind,confirmed,pers.ind,9915,9920,,"à boire, dit-il alors en caressant sa moustache. [Marie], qui connaissait de longue date la réputation don"
+Austerlitz,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,11801,11811,,"tres !... Tenez, tel que vous me voyez, j'étais à [Austerlitz]... Ah ! ça n'a pas été long : l'armée bordait le"
+Rhin,loc.phys.hydro,Location,loc.adm.reg,retyped,loc.phys.hydro,11861,11865,,... Ah ! ça n'a pas été long : l'armée bordait le [Rhin] depuis Strasbourg jusqu'à Mayence ; l'Empereur ar
+Strasbourg,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,11873,11883,,"n'a pas été long : l'armée bordait le Rhin depuis [Strasbourg] jusqu'à Mayence ; l'Empereur arrive, fait exécute"
+Mayence,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,11892,11899,,"l'armée bordait le Rhin depuis Strasbourg jusqu'à [Mayence] ; l'Empereur arrive, fait exécuter, par une conve"
+Joli-Cœur,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,12348,12357,,ente mille prisonniers !... La nuit était venue. [Joli-Cœur] ne pouvait plus compter que sur les détonations p
+Iéna,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,12850,12854,,"me rappelle le brouillard qui nous enveloppait à [Iéna], quand nous avons commencé la fusillade. Encore u"
+Eylau,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,13044,13049,,"e généraux tués, blessés ou prisonniers !... Et à [Eylau], quelle purge ! Je suis sûr que le roi de Prusse"
+Prusse,loc.adm.nat,Location,loc.adm.nat,confirmed,loc.adm.nat,13092,13098,,"à Eylau, quelle purge ! Je suis sûr que le roi de [Prusse] court encore ! À partir de ce moment, l'ennemi s"
+Friedland,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,13369,13378,,"s sans interrompre le récit de ses exploits. — A [Friedland], continua-t-il, les Russes ont laissé sur le terr"
+Joli-Cœur,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,14698,14707,,", que l'allure martiale et l'insouciance brave de [Joli-Cœur] avaient déjà fait rêver. — Alors, je continue..."
+Friedland,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,14801,14810,,"nue... Voyons, j'en étais... — Vous me parliez de [Friedland]. — C'est vrai. Je venais de tuer vingt-quatre gé"
+Eckmühl,loc.adm.town,Location,pers.ind,retyped,loc.adm.town,15035,15042,,"ussitôt par l'envoï d'une balle... Ça me rappelle [Eckmühl], ajouta-t-il, reprenant ainsi l'histoire de son o"
+Masséna,pers.ind,Person,pers.ind,confirmed,pers.ind,15572,15579,,"Moi, je n'ai jamais tant ri !... Figurez-vous que [Masséna], sous le prétexte qu'il s'était blessé la veille"
+Grande Armée,org.adm,Organization,loc.adm.nat,retyped,org.adm,16855,16867,,"ue continuait le morne défilé. La retraite de la [Grande Armée] commençait, éclairée par les dernières flammes de"
+Moscou,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,16932,16938,,lairée par les dernières flammes de l'incendie de [Moscou] !

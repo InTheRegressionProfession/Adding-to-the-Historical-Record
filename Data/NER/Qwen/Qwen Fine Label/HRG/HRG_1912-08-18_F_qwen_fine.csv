@@ -1,0 +1,28 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Thérèse,pers.ind,Person,pers.ind,602,609,,"un obscur désir de maternité, de protection. Chez [Thérèse], ce sentiment, fortifié par la conscience... — P"
+Michel,pers.ind,Person,pers.ind,669,675,,"ment, fortifié par la conscience... — Parce que, [Michel], je vous aime ! Roger REGIS. LE CODE POUR TOUS"
+Roger REGIS,pers.ind.articleauthor,Person,pers.ind.articleauthor,692,703,,"onscience... — Parce que, Michel, je vous aime ! [Roger REGIS]. LE CODE POUR TOUS De la constitution de rente"
+SAINT-YVES,pers.ind,Person,pers.ind,3879,3889,,que lorsqu'elle a été concédée à titre gratuit. [SAINT-YVES]. JE DONNE 100.000 Fr. à qui prouvera que la cél
+F. OLBÉ,pers.ind,Person,pers.ind,3976,3983,,ra que la célèbre Sève Capillaire du dermatologue [F. OLBÉ] n'arrête pas la chute des cheveux en deux jours e
+Mme Sophie Mil...,pers.ind,Person,pers.ind,4135,4152,,"les plus chauves et dans leur nuance naturelle. [Mme Sophie Mil...], 33 ans, propriétaire à Rouen. — Tête totalement"
+Rouen,loc.adm.town,Location,loc.adm.town,4177,4182,,"relle. Mme Sophie Mil..., 33 ans, propriétaire à [Rouen]. — Tête totalement dénudée depuis 3 ans à la suit"
+Octave Terr...,pers.ind,Person,pers.ind,4348,4362,,"ent reconstituée après 2 mois 1/2 de traitement. [Octave Terr...], 32 ans, mécanicien aux Angles. — Pelade remontan"
+Asnières,loc.adm.town,Location,loc.adm.town,4547,4555,,"lète en 2 mois. Photographie faite 4 mois après. [Asnières], le 11 mars. A 66 ans j'étais atteint d'une calvi"
+11 mars,time.date.abs,Time,time.date.abs,4560,4567,,"s. Photographie faite 4 mois après. Asnières, le [11 mars]. A 66 ans j'étais atteint d'une calvitie complète"
+Beauieu,loc.adm.town,Location,loc.adm.town,5146,5153,,"jours, et vous autorise à oublier cette lettre. [Beauieu], 3 mars. J'avais perdu depuis 4 ans presque tous"
+3 mars,time.date.abs,Time,time.date.abs,5155,5161,,"t vous autorise à oublier cette lettre. Beauieu, [3 mars]. J'avais perdu depuis 4 ans presque tous mes chev"
+16 avril,time.date.abs,Time,time.date.abs,5634,5642,,"t vous autorise à oublier cette lettre. Beauieu, [16 avril]. C'est pour me faire plaisir que mon mari avait c"
+Bagnoux,loc.adm.town,Location,loc.adm.town,6012,6019,,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+21 avril,time.date.abs,Time,time.date.abs,6024,6032,,"votre Sève, et il en a fait de plus. Bagnoux, le [21 avril]. Alors que vous le savez j'avais perdu à peu près"
+Bagnoux,loc.adm.town,Location,loc.adm.town,6945,6952,,"n flacon de votre Sève, et il en a fait de plus. [Bagnoux], le 21 avril. Alors que vous le savez j'avais per"
+21 avril,time.date.abs,Time,time.date.abs,6957,6965,,"votre Sève, et il en a fait de plus. Bagnoux, le [21 avril]. Alors que vous le savez j'avais perdu à peu près"
+Dr Daru,pers.ind,Person,pers.ind,7547,7554,,r recours à un traitement intérieur. Dépurase du [Dr Daru] réalise le type parfait du spécifique des affect
+Paris,loc.adm.town,Location,loc.adm.town,8022,8027,,se trouve dans les bonnes pharmacies seulement de [Paris] et de Province ou au Dépôt général : Monsieur H.
+Monsieur H. LINDEUX,pers.ind,Person,pers.ind,8065,8084,,"ent de Paris et de Province ou au Dépôt général : [Monsieur H. LINDEUX], pharmacien, 10, rue Richelieu, à Paris. 1 franc"
+"10, rue Richelieu",loc.add.phys,Location,loc.add.phys,8098,8115,,"Dépôt général : Monsieur H. LINDEUX, pharmacien, [10, rue Richelieu], à Paris. 1 franc la boîte de 14 paquets (Franco"
+PIERRE LOUVS,pers.ind,Person,pers.ind,8292,8304,,IMES. LE N° 19 CONTIENT ON DIT Chanson Paroles de [PIERRE LOUVS] Musique de HENRI SCHMITT BLONDINETTE Polka A. BOS
+HENRI SCHMITT,pers.ind,Person,pers.ind,8316,8329,,ON DIT Chanson Paroles de PIERRE LOUVS Musique de [HENRI SCHMITT] BLONDINETTE Polka A. BOSC LES DEUX GRENADIERS Mél
+A. BOSC,pers.ind,Person,pers.ind,8348,8355,,LOUVS Musique de HENRI SCHMITT BLONDINETTE Polka [A. BOSC] LES DEUX GRENADIERS Mélodie de SCHUMANN Transcrip
+SCHUMANN,pers.ind,Person,pers.ind,8387,8395,,ETTE Polka A. BOSC LES DEUX GRENADIERS Mélodie de [SCHUMANN] Transcription de V. SIGHICELLI. 15 CENTIMES LE NU
+V. SIGHICELLI,pers.ind,Person,pers.ind,8413,8426,,X GRENADIERS Mélodie de SCHUMANN Transcription de [V. SIGHICELLI]. 15 CENTIMES LE NUMÉRO. Parait tous les quinze jo
+"19, rue Cadet",loc.add.phys,Location,loc.add.phys,8582,8595,,"e l'abonnement : 5 fr. par an. — Administration : [19, rue Cadet], Paris."

@@ -1,0 +1,50 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Germaine,pers.ind,Person,pers.ind,168,176,,"dien, n'en étiez pas... très... très pressé... la [Germaine] avec embarras. bien, écoutez, mademoiselle Germai"
+Philippe,pers.ind,Person,pers.ind,387,395,,"aiment... Comment, je vous cède ma place ! reprit [Philippe], d'un ton enjoué, mais pas tout, je la garde ma p"
+M. Philippe Lyvoire,pers.ind,Person,pers.ind,2149,2168,,"tin, un homme vint chez Germaine. — De la part de [M. Philippe Lyvoire], dit-il. Avec précaution, il déposa un tableau, u"
+Philippe,pers.ind,Person,pers.ind,2356,2364,,"ira l'enveloppe, fut et fondit en larmes. C'était [Philippe], brisant d'amour que lui écrivait Philippe, une m"
+Colette,pers.ind,Person,pers.ind,2997,3004,,"ir toute mon existence. Un exemple ce serait pour [Colette] ! Elle essuya ses yeux, de crainte que la lettre"
+Colette,pers.ind,Person,pers.ind,3508,3515,,"éflexions, dans l'après-midi, avant la rentrée de [Colette]. A la porte, elle reconnut Mme Lyvoire et son fil"
+Mme Lyvoire,pers.ind,Person,pers.ind,3543,3554,,"la rentrée de Colette. A la porte, elle reconnut [Mme Lyvoire] et son fils. — Philippe m'a parlé de vous, mademo"
+Philippe,pers.ind,Person,pers.ind,3570,3578,,"a porte, elle reconnut Mme Lyvoire et son fils. — [Philippe] m'a parlé de vous, mademoiselle Germaine, et des"
+Germaine,pers.ind,Person,pers.ind,3611,3619,,"fils. — Philippe m'a parlé de vous, mademoiselle [Germaine], et des épreuves que vous avez traversées, commen"
+E.-G. BRÉZOL.,pers.ind.articleauthor,Person,pers.ind.articleauthor,4991,5004,,n'était pas un rêve ; c'était bien une réalité. [E.-G. BRÉZOL.] Le Vieux Domestique ... J'avais vingt-quatre an
+Cécile Liran,pers.ind,Person,pers.ind,5084,5096,,"vais vingt-quatre ans quand je tombai amoureux de [Cécile Liran], raconta Stéphane. Cette jolie aventure s'annonça"
+Stéphane,pers.ind,Person,pers.ind,5106,5114,,"quand je tombai amoureux de Cécile Liran, raconta [Stéphane]. Cette jolie aventure s'annonçait plutôt mal. Le"
+Monte-Carlo,loc.adm.town,Location,loc.adm.town,5555,5566,,"mon échec, ayant obtenu un congé, je partais pour [Monte-Carlo] avec Antoine Dubreuil, un vieux domestique qui m'"
+Antoine Dubreuil,pers.ind,Person,pers.ind,5572,5588,,"obtenu un congé, je partais pour Monte-Carlo avec [Antoine Dubreuil], un vieux domestique qui m'avait vu naître et qui"
+monsieur,pers.ind,Person,pers.ind,7572,7580,,"ixement et ajouta d'un ton sentencieux : — Ce que [monsieur] a gagné hier, il le perdra aujourd'hui, voilà tou"
+Antoine,pers.ind,Person,pers.ind,7954,7961,,soleil. — C'est que d'ici à ce soir... fit encore [Antoine]. — Vieux rabat-joie !... Je les déposerai à une b
+Monsieur Stéphane,pers.ind,Person,pers.ind,8800,8817,,"re, et il exprima les raisons de sa répugnance. — [Monsieur Stéphane] n'ignore pas, expliqua-t-il, que je n'ai jamais s"
+la Principauté,loc.adm.reg,Location,loc.adm.reg,9078,9092,,ôt que lorsque je lui eus promis de m'éloigner de [la Principauté] durant toute la journée. — Comme cela tu n'auras
+San-Remo,loc.adm.town,Location,loc.adm.town,9219,9227,,"ités, mon vieil Antoine. Je vais aller déjeuner à [San-Remo] où je passerai l'après-midi, loin des tentations."
+trattoria,org.ent,Organization,org.ent,9399,9408,,"enant ma promesse, à midi, je m'attablai dans une [trattoria] de San-Remo où je me régalaai innocemment de soup"
+soupe au poisson,prod.media,Product,prod.media,9454,9470,,"oria de San-Remo où je me régalaai innocemment de [soupe au poisson], de frutti di mare et de rizotto arrosés de vin d"
+frutti di mare,prod.media,Product,prod.media,9475,9489,,"e me régalaai innocemment de soupe au poisson, de [frutti di mare] et de rizotto arrosés de vin d'Asti. Et tout alla"
+rizotto,prod.media,Product,prod.media,9496,9503,,"ment de soupe au poisson, de frutti di mare et de [rizotto] arrosés de vin d'Asti. Et tout allait bien jusqu'"
+vin d'Asti,prod.media,Product,prod.media,9515,9525,,"isson, de frutti di mare et de rizotto arrosés de [vin d'Asti]. Et tout allait bien jusqu'au moment du café où,"
+Antoine,pers.ind,Person,pers.ind,10137,10144,,"s trente, j'arrivais à l'hôtel, décidé à exiger d'[Antoine] qu'il me restituât mes fonds. Pas d'Antoine. Les"
+commissaire de police,org.adm,Organization,org.adm,10519,10540,,"? Ce soupçon tragique, j'allai en faire part à un [commissaire de police] auquel j'exposai la situation. Il m'écouta avec p"
+Paris,loc.adm.town,Location,loc.adm.town,11778,11783,,"ise, par le train de onze heures trente cinq, sur [Paris]. Les agents de la gare, les hommes du personnel e"
+Marseille,loc.adm.town,Location,loc.adm.town,12307,12316,,"r directement jusqu'à Paris ? Il a dû descendre à [Marseille], et allez donc le retrouver à présent ! Il ne me"
+Antoine,pers.ind,Person,pers.ind,12599,12606,,"le rapide que j'aurais dû prendre en compagnie d'[Antoine] et de mon gain. Cet Antoine, tout de même ! A qui"
+Antoine,pers.ind,Person,pers.ind,12599,12606,,"le rapide que j'aurais dû prendre en compagnie d'[Antoine] et de mon gain. Cet Antoine, tout de même ! A qui"
+Paris,loc.adm.town,Location,loc.adm.town,12956,12961,,"ythme herceur des roues. Je m'éveillai en gare de [Paris]. Sous le ciel noir, dans les bises agressives cha"
+rue Bellechasse,loc.oro,Location,loc.oro,13074,13089,,"e fondue, je dus gagner à pied mon entresol de la [rue Bellechasse]. Comme j'insinuai ma clef dans la serrure, la por"
+Monsieur Stéphane,pers.ind,Person,pers.ind,13282,13299,,"e, froid, rasé de frais, s'informait aussitôt ? — [Monsieur Stéphane] a fait bon voyage ? — Toi ici !... Il ne prit pas"
+FEUILLETON DU SUPPLEMENT ILLUSTRE du Petit Journal,prod.media,Product,prod.media,13435,13485,,-il avec sollicitude. Monsieur est tout mouillé. [FEUILLETON DU SUPPLEMENT ILLUSTRE du Petit Journal] Une Mystérieuse Affaire III (suite) Quant à Duh
+Duhamel,pers.ind,Person,pers.ind,13532,13539,,"nal Une Mystérieuse Affaire III (suite) Quant à [Duhamel], plus curieux qu'impatient, maintenant, de savoir"
+Duhamel,pers.ind,Person,pers.ind,13532,13539,,"nal Une Mystérieuse Affaire III (suite) Quant à [Duhamel], plus curieux qu'impatient, maintenant, de savoir"
+Palais de Justice,loc.fac,Location,loc.fac,13748,13765,,secrétaire de choisir ce bureau juste en face le [Palais de Justice]. — Il a agi sans doute en vertu de la loi d'attra
+M. Bourdaloue,pers.ind,Person,pers.ind,13831,13844,,"s doute en vertu de la loi d'attraction, répliqua [M. Bourdaloue] ; c'est n chemin qu'il doit connaître. Ils contin"
+Bourdaloue,pers.ind,Person,pers.ind,13834,13844,,"oute en vertu de la loi d'attraction, répliqua M. [Bourdaloue] ; c'est n chemin qu'il doit connaître. Ils contin"
+Bourdaloue,pers.ind,Person,pers.ind,13834,13844,,"oute en vertu de la loi d'attraction, répliqua M. [Bourdaloue] ; c'est n chemin qu'il doit connaître. Ils contin"
+monsieur Duhamel,pers.ind,Person,pers.ind,14331,14347,,"ant, entrait, effet, au bureau. — Eh ! bien, moi, [monsieur Duhamel], réti Bourdaloue, je suis bien moins conincu à pr"
+Bourdaloue,pers.ind,Person,pers.ind,15068,15078,,s s'était approché de celui de la poste restante. [Bourdaloue] et Duhamel échangèrent un regard. Ce dernier étai
+Duhamel,pers.ind,Person,pers.ind,15082,15089,,oché de celui de la poste restante. Bourdaloue et [Duhamel] échangèrent un regard. Ce dernier était absolumen
+Bourdaloue,pers.ind,Person,pers.ind,15823,15833,,? — Vous allez le savoir immédiatement... venez. [Bourdaloue] et le neveu se dirigèrent vers l'endroit où se tr
+Duhamel,pers.ind,Person,pers.ind,15890,15897,,neveu se dirigèrent vers l'endroit où se trouvait [Duhamel]. — Mon oncle ! s'écria l'étudiant stupéfait en ap
+boulevard,loc.oro,Location,loc.oro,16275,16284,,daloue intervint : — Allons nous expliquer sur le [boulevard]... Il est inutile de faire du scandale ici. Sous
+Raoul Duhamel,pers.ind,Person,pers.ind,17136,17149,,"initiales, cette lettre ? — R. D... Je m'appelle [Raoul Duhamel], il me semble ! — Et d'où vient cette lettre ? —"
+M. Duhamel,pers.ind,Person,pers.ind,17826,17836,,"dans cette discussion ! — Du droit que m'a confié [M. Duhamel], votre oncle, en me chargeant de ses affaires..."
+Edmond CHAR.,pers.ind.articleauthor,Person,pers.ind.articleauthor,18227,18239,,z cette question ? (La suite au prochain numéro). [Edmond CHAR.]

@@ -1,0 +1,32 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Paris,Location,Location,73,78,,"! je vais repartir de suite, il faut que j'aile à [Paris] ! — Oh ! papa ! papa !... c'est mal ! Puis Lisett"
+Lisette,Person,Person,122,129,,"Paris ! — Oh ! papa ! papa !... c'est mal ! Puis [Lisette] se tut, le regard atterré, le visage sérieux. Et"
+M. de Gerfeuil,Person,Person,200,214,,"terré, le visage sérieux. Et cela surprit et émut [M. de Gerfeuil] plus que ne l'eussent fait des larmes. Cependant"
+J. LE HÉNAFF,Person,Person,1499,1511,,"sa maman son père, en le conduisant par la main. [J. LE HÉNAFF]. ÉCRIRE LE PETIT JOURNAL AGRICOLE Seize pages de"
+LE PETIT JOURNAL AGRICOLE,Product,Product,1521,1546,,le conduisant par la main. J. LE HÉNAFF. ÉCRIRE [LE PETIT JOURNAL AGRICOLE] Seize pages de texte LE NUMÉRO : 5 CENTIMES COU
+5 CENTIMES,Product,Product,1581,1591,,OURNAL AGRICOLE Seize pages de texte LE NUMÉRO : [5 CENTIMES] COURRIER GRATUIT Cours complets des Halles et Ma
+"Cours complets
+des Halles et Marchés",Product,Product,1610,1646,,e texte LE NUMÉRO : 5 CENTIMES COURRIER GRATUIT [Cours complets des Halles et Marchés] Le mieux informé de tous les journaux agricoles
+La Recommandation,Product,Product,1696,1713,,"Le mieux informé de tous les journaux agricoles [La Recommandation] A la porte du bureau du colonel, Marchal fit : «"
+colonel,Person,Person,1739,1746,,"coles La Recommandation A la porte du bureau du [colonel], Marchal fit : « Toc ! Toc ! » tout doucement, ta"
+Marchal,Person,Person,1748,1755,,"Recommandation A la porte du bureau du colonel, [Marchal] fit : « Toc ! Toc ! » tout doucement, tandis que,"
+colonel Schwyz,Person,Person,2321,2335,,"ète de ses amis qui s'offrait à le recommander au [colonel Schwyz], du 182e. Marchal comptait demander au colonel :"
+182e,Organization,Organization,2340,2344,,"s'offrait à le recommander au colonel Schwyz, du [182e]. Marchal comptait demander au colonel : 1o l'auto"
+5e compagnie,Organization,Organization,2957,2969,,je me suis occupé de vous. Vous êtes affecté à la [5e compagnie] : c'est une des meilleures du régiment. Je tiens
+Laterrade,Person,Person,3051,3060,,"égiment. Je tiens en grande estime son capitaine, [Laterrade]. Je lui ai parlé de vous... Mais, dites donc, vou"
+capitaine,Person,Person,4775,4784,,"au bureau de la compagnie. Assis, indolemement le [capitaine] y fumait, à petites bouffées, un gros cigare. —"
+colonel,Person,Person,4865,4872,,"un gros cigare. — Mon capitaine, dit Marchal, le [colonel], que j'ai vu tout à l'heure, m'a dit vous avoir p"
+Jean Marchal,Person,Person,4935,4947,,"tout à l'heure, m'a dit vous avoir parlé de moi, [Jean Marchal]... Le capitaine — moustaches grisonnantes, petit"
+15e escouade,Organization,Organization,5262,5274,,"ne ; je suis homme de lettres. Mais, affecté à la [15e escouade], je suis sous la tente. Ne pourrait-on pas me cha"
+Achille,Person,Person,5540,5547,,"onse. Il élaucha un salut peu militaire et, comme [Achille], rentra sous sa tente. Le lendemain, entre deux"
+5e compagnie,Organization,Organization,5789,5801,,"colonel sortir avec le capitaine du bureau de la [5e compagnie]. Il ne s'éloigna point, ne se rapprocha pas trop"
+Laterrade,Person,Person,6421,6430,,"llent pour vous qui êtes fatigué... N'est-ce pas, [Laterrade], je vous recommande ce jeune réserviste ? D'autr"
+capitaine,Person,Person,6910,6919,,"matin. Marchal se présenta. — Mais, lui dit le [capitaine], je vous trouve, au contraire, meilleure mine que"
+Marchal,Person,Person,7128,7135,,"nt abattre par une fatigue passagère. Tout, pour [Marchal] devait être excellent ; exercices, marches, servi"
+colonel,Person,Person,8089,8096,,"ent et mangea très peu. Presque tous les jours le [colonel], qui, exceptionnellement, commandait ce bataillon"
+Henri BACHELIN,Person,Person,9595,9609,,"ne humilité : — Mon colonel, vous avez raison ! [Henri BACHELIN]. LA BONNE ACTION Dans le taudis où grouillait l"
+Alfred,Person,Person,10808,10814,,"artiste ! Barbouilleur de toile... — Qui ou non, [Alfred], sais-tu ce qu'il a fait de son argent ? question"
+Hiche life,Organization,Organization,13166,13176,,"nt un qui vous ira ; il est tout neuf, et sort du [Hiche life]. Je vous le laisserai à quinze francs. Ils l'aid"
+Alfred,Person,Person,15281,15287,,mme vint à la boutique et se trouva en présence d'[Alfred] qui demandait le pardessus. Elle se mit à trembl
+Alfred,Person,Person,17193,17199,,lle obéit sans comprendre et le marchand montra à [Alfred] quelques antiquités en attendant son retour. Ell
+Ph. BERTHELIER.,Person,Person,18325,18340,,".. Sa femme, convaincue, l'embrassa tendrement. [Ph. BERTHELIER.]"

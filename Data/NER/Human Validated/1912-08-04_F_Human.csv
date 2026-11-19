@@ -1,0 +1,47 @@
+﻿entity,fine_type,coarse_type
+M. Jules,pers.ind,Person
+Lise,pers.ind,Person
+Mam'zelle Lise,pers.ind,Person
+Jules Lehart,pers.ind,Person
+Marseille,loc.adm.town,Location
+"Mar-
+
+seille",loc.adm.town,Location
+Mont-Blanc,loc.phys.geo,Location
+Terre-de-Feu,loc.phys.geo,Location
+l'Atlas,loc.phys.geo,Location
+Nouvelle-Guinée,loc.adm.nat,Location
+1809,time.date.abs,Time
+Charles QUINEL,pers.ind.articleauthor,Person
+21 avril 1832,time.date.abs,Time
+15 juillet 1880,time.date.abs,Time
+Conseil d'Etat,org.adm,Organization
+1er juillet 1910,time.date.abs,Time
+21 juillet 1909,time.date.abs,Time
+28 avril 1909,time.date.abs,Time
+27 mai 1909,time.date.abs,Time
+13 juillet 1903,time.date.abs,Time
+31 juillet 1908,time.date.abs,Time
+22 avril 1910,time.date.abs,Time
+3 frimaire an VII,time.date.abs,Time
+28 juillet 1911,time.date.abs,Time
+SAINT-YVES,pers.ind.articleauthor,Person
+Suisse,loc.adm.nat,Location
+A. Lefebvre,pers.ind,Person
+O. Clin,pers.ind,Person
+Nortrop,pers.ind,Person
+Chauquettes,pers.ind,Person
+E. Terrion,pers.ind,Person
+Léo- pold Gros,pers.ind,Person
+Jean,pers.ind,Person
+Antoine,pers.ind,Person
+C. Pierron,pers.ind,Person
+"F.
+
+Crémont",pers.ind,Person
+Kloklo,pers.ind,Person
+Q. de Meigneux,pers.ind,Person
+C. Desserville,pers.ind,Person
+Albert P.,pers.ind,Person
+Tante Léonie,pers.ind,Person
+Al-ben-Sehrka,pers.ind,Person

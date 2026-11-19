@@ -1,0 +1,50 @@
+﻿entity,fine_type,coarse_type
+Galilée,prod,Product
+Sahara,loc.phys.geo,Location
+Le Picard,pers.ind,Person
+Bordier,pers.ind,Person
+Gegou,pers.ind,Person
+Cambrai,pers.ind,Person
+Guéguen,pers.ind,Person
+Havre,loc.adm.town,Location
+M. Jacques Lebandy,pers.ind,Person
+20 mai,time.date.abs,Time
+Pampas,prod,Product
+1er juin,time.date.abs,Time
+Las Palmas,loc.adm.town,Location
+Frasquita,prod,Product
+docteur Charcot,pers.ind,Person
+Poucet,pers.ind,Person
+Afrique,loc.adm.sup,Location
+Europe,loc.adm.sup,Location
+Toulon,loc.adm.town,Location
+commandant Jaurès,pers.ind,Person
+France,loc.adm.nat,Location
+"Lundi, 31 août",time.date.abs,Time
+Picard,pers.ind,Person
+caïd Ahmido,pers.ind,Person
+JAURÈS,pers.ind,Person
+Petit Journal,prod.media,Product
+Valmy,loc.adm.town,Location
+20 septembre 1792,time.date.abs,Time
+HORACE VERNET,pers.ind,Person
+Le 20 Septembre 1792,time.date.abs,Time
+République française,loc.adm.nat,Location
+général républicain Kellermann,pers.ind,Person
+Kellermann,pers.ind,Person
+Chartres,loc.adm.town,Location
+Louis-Philippe,pers.ind,Person
+Montpensier,loc.adm.town,Location
+Horace Vernet,pers.ind,Person
+Versailles,loc.adm.town,Location
+Dumouriez,pers.ind,Person
+Valbonne,loc.adm.town,Location
+château de la Perdrivière,loc.fac,Location
+Paris,loc.adm.town,Location
+Champs-Elysées,loc.oro,Location
+place de la Concorde,loc.oro,Location
+rue Royale,loc.oro,Location
+Opéra,loc.fac,Location
+rue de la Paix,loc.oro,Location
+Amérique,loc.adm.sup,Location
+Perdrivière,loc.adm.town,Location

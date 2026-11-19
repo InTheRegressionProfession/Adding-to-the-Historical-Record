@@ -1,0 +1,40 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Pierrot,Person,PER,313,320,,"ds votre manuscrit; mais vous avez tort de signer [Pierrot], mettez plutôt Pierrette; vous aurez plus de succ"
+Pierrette,Person,PER,336,345,,"s vous avez tort de signer Pierrot, mettez plutôt [Pierrette]; vous aurez plus de succès, on est au féminisme."
+Pierrette,Person,PER,439,448,,"isme. Elle voulut protester... — Si vous signez [Pierrette], reprit le directeur, votre nouvelle passera dans"
+Jeanne,Person,PER,604,610,,"cette entrevue qui avait si curieusement tourné, [Jeanne] recevait un mot de M. Vidal qui l'invitait à se p"
+M. Vidal,Person,PER,630,638,,"si curieusement tourné, Jeanne recevait un mot de [M. Vidal] qui l'invitait à se présenter à son bureau... El"
+Vidal,Person,PER,1005,1010,,"» Dans l'antichambre, elle donna son nom. — M. [Vidal] est occupé, mademoiselle. Il vous — Oh! non, pas"
+Oh!,Product,MISC,1048,1051,,"— M. Vidal est occupé, mademoiselle. Il vous — [Oh!] non, pas moi; mais un... un ami, monsieur, acheva"
+Jeanne,Person,PER,1207,1213,,"e. Ceci fut dit avec une emphase qui fit sourire [Jeanne]. — Et tenez, voici une poésie qui est de moi, pu"
+"...
+
+Mon Dieu!",Product,MISC,1359,1373,,voulez me faire la grâce d'accepter cet exemplaire[... Mon Dieu!] c'est « Loin du monde ». Serait-ce possible? Que
+"PUIBARAUD
+
+DIRECTEUR DU SERVICE DES RECHERCHES",Product,MISC,2216,2262,,"sauver sans rien dire et de laisser le jeune M. [PUIBARAUD DIRECTEUR DU SERVICE DES RECHERCHES] garder plus longtemps, je suis très pressé, ce s"
+Jeanne,Person,PER,2318,2324,,"er plus longtemps, je suis très pressé, ce soir. [Jeanne] se retira. Dans l'antichambre, personne, mais su"
+Jeanne,Person,PER,3125,3131,,"ontre... — Vous aviez raison de croire en moi... [Jeanne], je vous aime... Depuis longtemps nos âmes se che"
+Jeanne,Person,PER,3252,3258,,"us unir votre misère à la mienne?... Voulez-vous, [Jeanne], être ma femme?... Et comme ils s'étaient attardé"
+Mail,Location,LOC,3380,3384,,"ait, et que leurs pas les avaient conduits sur le [Mail], sous les grands arbres ombreux, il murmura: — J"
+Jeanne,Person,PER,3447,3453,,"ands arbres ombreux, il murmura: — Je vous aime, [Jeanne]. Jeanne, troublée, poursuivit une idée: — Mais"
+Jeanne,Person,PER,3456,3462,,"es ombreux, il murmura: — Je vous aime, Jeanne. [Jeanne], troublée, poursuivit une idée: — Mais vous n'éc"
+Jeanne,Person,PER,3751,3757,,"ule que je voudrai plaire... Serez-vous ma femme, [Jeanne]?... Dans un souffle, il entendit « oui ». Alors,"
+Paul ANDRÉ,Person,PER,3881,3891,,"de la jeune fille, le poète mit un long baiser. [Paul ANDRÉ]. LE CRIME DE LA RUE CHALGRIN Arrestation de l'a"
+Arrestation,Product,MISC,3923,3934,,"aiser. Paul ANDRÉ. LE CRIME DE LA RUE CHALGRIN [Arrestation] de l'assassin à Glasgow présente ses excuses, il"
+Glasgow,Location,LOC,3951,3958,,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+Jeanne,Person,PER,4250,4256,,un air gauche. Son regard exprima l'étonnement. [Jeanne] le reconnut: c'était le jeune homme qu'elle renco
+Cinq minutes,Product,MISC,4326,4338,,"t le jeune homme qu'elle rencontra chaque matin. [Cinq minutes] passèrent, puis dix; la jeune fille regarda la pe"
+M. Vidal,Person,PER,4618,4626,,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal]? Cet aussi fit tressaillir la jeune fille. — Ou"
+Oui monsieur,Person,PER,4674,4686,,"al? Cet aussi fit tressaillir la jeune fille. — [Oui monsieur]. — Vous écrivez, sans doute? Elle eut une excla"
+Pierrette,Person,PER,4955,4964,,"que je ne comprends pas non plus, c'est ce nom de [Pierrette] par lequel ils ont remplacé mon pseudonyme de Pie"
+Pierrot,Person,PER,5011,5018,,tte par lequel ils ont remplacé mon pseudonyme de [Pierrot]... Enfin la signature importe peu... Être imprimé
+Vidal,Person,PER,5092,5097,,"mporte peu... Être imprimé, cela me suffit... M. [Vidal] passa dans l'antichambre; il s'inclina devant la"
+Pierrette,Person,PER,5176,5185,,"s'inclina devant la jeune fille. — Mademoiselle [Pierrette], voulez-vous me suivre?... Quand ils furent dans"
+Flattons,Product,MISC,5407,5415,,toujours qu'elles y dévoilent leur état d'âme... [Flattons] les goûts du public. M'apportez-vous quelque autr
+"Pardonnez-moi de ne pas vous
+
+M.",Product,MISC,5637,5669,,"ci votre mandat... Pensez à nous, mademoiselle... [Pardonnez-moi de ne pas vous M.] HAMARD CHEF DE LA SURETÉ M. BERTILLON CHEF DU"
+"HAMARD
+
+CHEF DE LA",Person,PER,5670,5688,,mademoiselle... Pardonnez-moi de ne pas vous M. [HAMARD CHEF DE LA] SURETÉ M. BERTILLON CHEF DU SERVICE D'IDENTIFIC

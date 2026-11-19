@@ -1,0 +1,26 @@
+﻿entity,fine_type,coarse_type
+capitaine Parmentier,pers.ind,Person
+lord Cockerill,pers.ind,Person
+Majesté Britannique,loc.adm.nat,Location
+M. André TABARY,pers.ind,Person
+Petit Journal,prod.media,Product
+colonel Parmentier,pers.ind,Person
+Mar-seillaise,prod.media,Product
+Moskowa,loc.adm.town,Location
+Marie,pers.ind,Person
+Murat,pers.ind,Person
+Naples,loc.adm.nat,Location
+général Konownitzin,pers.ind,Person
+Austerlitz,loc.adm.town,Location
+Rhin,loc.phys.hydro,Location
+Strasbourg,loc.adm.town,Location
+Mayence,loc.adm.town,Location
+Joli-Cœur,pers.ind,Person
+Iéna,loc.adm.town,Location
+Eylau,loc.adm.town,Location
+Prusse,loc.adm.nat,Location
+Friedland,loc.adm.town,Location
+Eckmühl,loc.adm.town,Location
+Masséna,pers.ind,Person
+Grande Armée,org.adm,Organization
+Moscou,loc.adm.town,Location

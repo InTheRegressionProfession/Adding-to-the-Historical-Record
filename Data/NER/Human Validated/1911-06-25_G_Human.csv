@@ -1,0 +1,97 @@
+﻿entity,fine_type,coarse_type
+Miette,pers.ind,Person
+Cécile,pers.ind,Person
+Midi,loc.adm.reg,Location
+Marie,pers.ind,Person
+Camille DE VÉRINE,pers.ind.articleauthor,Person
+28 avril 1816,time.date.abs,Time
+28 avril 1838,time.date.abs,Time
+Rouen,loc.adm.town,Location
+6 fév. 1909,time.date.abs,Time
+Douai,loc.adm.town,Location
+11 janv. 1910,time.date.abs,Time
+4 juin 1910,time.date.abs,Time
+28 avril 1816,time.date.abs,Time
+18 avril 1816,time.date.abs,Time
+28 oct. 1910,time.date.abs,Time
+Grenoble,loc.adm.town,Location
+7 mai 1910,time.date.abs,Time
+Seine,loc.adm.reg,Location
+3 déc. 1910,time.date.abs,Time
+11 janvier 1910,time.date.abs,Time
+SAINT-YVES,pers.ind.articleauthor,Person
+Afrique,loc.adm.sup,Location
+C. Pierron,pers.ind,Person
+M. Assin,pers.ind,Person
+C. Desserville,pers.ind,Person
+O. Clin,pers.ind,Person
+Léopold Gros,pers.ind,Person
+M. Cholet,pers.ind,Person
+Q. de Meigneux,pers.ind,Person
+Lord Ensot,pers.ind,Person
+Louis,pers.ind,Person
+Léontine,pers.ind,Person
+A. de Cabannes,pers.ind,Person
+Louis Cros,pers.ind,Person
+E. Terrion,pers.ind,Person
+M. Demars Victorien,pers.ind,Person
+Chabannes,loc.adm.town,Location
+Cheylard,loc.adm.town,Location
+Ardèche,loc.adm.reg,Location
+M. Demars,pers.ind,Person
+Pharmacie Gablin,org.ent,Organization
+" 23, rue Ballu, Paris",loc.add.phys,Location
+"Rue des Petites-Ecuries, 12",loc.add.phys,Location
+"Paris, 194, rue Lapayette",loc.add.phys,Location
+Auguste FORM,pers.ind,Person
+Laboratoire OLBÉ,org.ent,Organization
+" 22, Rue des Martyrs, 22, Section 286, PARIS",loc.add.phys,Location
+Compagnie d'Assurances Générales sur la Vie,org.ent,Organization
+Paris,loc.adm.town,Location
+Rouen,loc.adm.town,Location
+Le Havre,loc.adm.town,Location
+Nantes,loc.adm.town,Location
+Marseille,loc.adm.town,Location
+"87, rue de Richelieu",loc.add.phys,Location
+"11, rue Lacharrière, Paris",loc.add.phys,Location
+"41, Rue de l'Oasis",loc.add.phys,Location
+PUTEAUX,loc.adm.town,Location
+Barret,pers.ind,Person
+"112, rue Beaumarchais, Paris",loc.add.phys,Location
+TRIBAUDEAU,org.ent,Organization
+BESANÇON,loc.adm.town,Location
+"J. Ratié, ph.",pers.ind,Person
+"5, passage Verneau, Paris",loc.add.phys,Location
+Bruxelles,loc.adm.town,Location
+Ph. St-Michel,org.ent,Organization
+Genève,loc.adm.town,Location
+Cartier,org.ent,Organization
+Jorin,org.ent,Organization
+Buenos-Ayres,loc.adm.town,Location
+Ph. Franco Inglesa,org.ent,Organization
+Montréal,loc.adm.town,Location
+A. Décey,org.ent,Organization
+NICOLET,org.ent,Organization
+"2, rue Amelet, Paris",loc.add.phys,Location
+France,loc.adm.nat,Location
+Maître Populaire,org.ent,Organization
+LAILLET,pers.ind,Person
+AMIENS,loc.adm.town,Location
+Ph. MODERNE,org.ent,Organization
+" 6, J. Aumale, Paris",loc.add.phys,Location
+" 234, Faubourg Saint-Martin, Paris",loc.add.phys,Location
+Ph. MODERNE,org.ent,Organization
+C. La Prévoyante,org.ent,Organization
+"41, rue Lacharrière, Paris ",loc.add.phys,Location
+ROUX,pers.ind,Person
+FONS,loc.adm.town,Location
+Seine,loc.adm.reg,Location
+M. LEZINA,pers.ind,Person
+" 11, r. Bupatoria, Paris",loc.add.phys,Location
+CYCLES MERICANT,org.ent,Organization
+"13, Av. des Moulins, PARIS-BILLANCOURT",loc.add.phys,Location
+G. LASSEUR,pers.ind,Person
+Petit Journal,prod.media,Product
+C. MARTY,pers.ind,Person
+MARINONI,org.ent,Organization
+LORILLEUX,org.ent,Organization

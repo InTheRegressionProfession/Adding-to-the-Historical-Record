@@ -1,0 +1,101 @@
+﻿entity,fine_type,coarse_type
+J. GIRARD & Co,org.ent,Organization
+E. GIRARD & A. BOITTE,org.ent,Organization
+"42, Rue de l'Echiquier",loc.add.phys,Location
+PARIS,loc.adm.town,Location
+Librairie des Connaissances Utiles,org.ent,Organization
+"8, r. St-Joseph, Paris",loc.add.phys,Location
+P. D'AIGREMONT,pers.ind,Person
+L. BOUSSENARD,pers.ind,Person
+DAMBLANS,pers.ind,Person
+H. DEMESSE,pers.ind,Person
+P. DECOURCELLE,pers.ind,Person
+CH. CLERIC,pers.ind,Person
+J. DE GASTYNE,pers.ind,Person
+BESNIER,pers.ind,Person
+MONET,pers.ind,Person
+CH. MEROUVEL,pers.ind,Person
+LEMAITRE,pers.ind,Person
+MORET,pers.ind,Person
+Le Secret de Germaine,prod.media,Product
+Les Exploits de Bamboche,prod.media,Product
+Nouvelle Intrigue,prod.media,Product
+Le Fou,prod.media,Product
+Frère et Sœur,prod.media,Product
+Justice Suprême,prod.media,Product
+L'Enfant de la Mort,prod.media,Product
+La Fille du Forgeron,prod.media,Product
+Les Mères rivales,prod.media,Product
+Le Chapeau gris,prod.media,Product
+Le Crime d'une Sainte,prod.media,Product
+Mère crucifiée,prod.media,Product
+Les Crimes de Grand Chemin,prod.media,Product
+La Fille de l'Amant,prod.media,Product
+Vierge et Déshonorée,prod.media,Product
+Confessions galantes de Mme de Lavallière,prod.media,Product
+Confessions galantes de Mme Duparry,prod.media,Product
+Confessions galantes de Ninon de Lenclos,prod.media,Product
+Mme de Pompadour,prod.media,Product
+la Grande Mariée,prod.media,Product
+les Dames de Croix Mort,prod.media,Product
+Lise Fleuron,prod.media,Product
+Dernier Amour,prod.media,Product
+Volonté,prod.media,Product
+le docteur Rameau,prod.media,Product
+Les Cloches de Corneville,prod.media,Product
+Les Crimes d'un Ange,prod.media,Product
+P. DESTREZ,pers.ind,Person
+SAHIB,pers.ind,Person
+TOFANI,pers.ind,Person
+E. RICHÉBOURG,pers.ind,Person
+E. TAILLEBOURG,pers.ind,Person
+VILLEMER,pers.ind,Person
+"8, r. St-Joseph, Paris",loc.add.phys,Location
+PREMONT,loc.adm.town,Location
+Aisne,loc.adm.reg,Location
+Petit Journal,prod.media,Product
+"5-7-9, r. Gonet, Paris",loc.add.phys,Location
+DONADEY,pers.ind,Person
+"53, R. N.-D.-de-Nazareth, Paris",loc.add.phys,Location
+"Rue du Temple, 26, PARIS",loc.add.phys,Location
+"32, r. Boursault, Paris",loc.add.phys,Location
+COMPTOIR NATIONAL D'HORLOGERIE,org.ent,Organization
+BESANÇON,loc.adm.town,Location
+Doubs,loc.adm.reg,Location
+E. DUPAS,pers.ind,Person
+J. Posel,pers.ind,Person
+COMPTOIR UNIVERSEL de FRANCE,prod.media,Product
+FRANCE,loc.adm.nat,Location
+"60, rue de Provence PARIS",loc.add.phys,Location
+Rivolade Moderne,org.ent,Organization
+"11, r. Eustorga, Paris",loc.add.phys,Location
+J. Pierre,pers.ind,Person
+BOHAIN,loc.adm.town,Location
+Aisne,loc.adm.reg,Location
+Maître Populaire,org.ent,Organization
+"13-2, r. Montholon, Paris",loc.add.phys,Location
+"Bd Filles-du-Calvaire, 20, Paris",loc.add.phys,Location
+Tenor,pers.ind,Person
+"90, rue des Boulets",loc.add.phys,Location
+"50, r. de Passy, Paris",loc.add.phys,Location
+G. LASSEUR.,pers.ind,Person
+D. CASSIGNEUL,pers.ind,Person
+"61, rue Lafayette, Paris",loc.add.phys,Location
+MERIMONT,org.ent,Organization
+Société ARTISTIQUE DE PORTRAITS,org.ent,Organization
+M. A. TANQUEREY,pers.ind,Person
+A. TANQUEREY,pers.ind,Person
+"22, Rue de Turin, Paris",loc.add.phys,Location
+1er Juillet 1901,time.date.abs,Time
+Journal Officiel,prod.media,Product
+22 Janv. 1903,time.date.abs,Time
+"3, Rue de Mogador",loc.add.phys,Location
+A. JANSEN,pers.ind,Person
+" 15, r. du Sentier, PARIS",loc.add.phys,Location
+"45, r. Bayen, Paris",loc.add.phys,Location
+TEURGES,org.ent,Organization
+" 55, r. Montmartre, Paris",loc.add.phys,Location
+R. Niolet,pers.ind,Person
+CLAULA,pers.ind,Person
+"rue Saint-Paul, 3, Toulouse",loc.add.phys,Location
+" 23, r. St-Sabin, Paris",loc.add.phys,Location

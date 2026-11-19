@@ -1,0 +1,70 @@
+﻿entity,fine_type,coarse_type
+Labat,pers.ind,Person
+Jartoux,pers.ind,Person
+Sans-Peur,pers.ind,Person
+Vosges,loc.phys.geo,Location
+Ardennes,loc.adm.reg,Location
+Charles CLERC,pers.ind.articleauthor,Person
+COUSINE JEANNE,pers.ind,Person
+Pierre,pers.ind,Person
+A. Lefebvre,pers.ind,Person
+Jean Rieux,pers.ind,Person
+André Hass,pers.ind,Person
+E. Terrion,pers.ind,Person
+C. Desserville,pers.ind,Person
+O. Clin,pers.ind,Person
+C. Pierron,pers.ind,Person
+Albert P.,pers.ind,Person
+Q. de Meignex,pers.ind,Person
+F. Crémont,pers.ind,Person
+Taante Léonie,pers.ind,Person
+Maître Populaire,org.ent,Organization
+"13-2 r. Montolon, Paris",loc.add.phys,Location
+"2, r. Castel, NICE",loc.add.phys,Location
+J. GAVIRATI,pers.ind,Person
+"403, Faubourg Saint-Denis, Paris",loc.add.phys,Location
+E. HELBÉ,pers.ind,Person
+"2, rue Amelot, Paris",loc.add.phys,Location
+Fernand CLEMENT,pers.ind,Person
+LEVALLOIS-PERRET,loc.adm.town,Location
+Maison Gressil,org.ent,Organization
+Petit Journal,prod.media,Product
+G. LIÉBERT,pers.ind,Person
+HOTEL DU « PETIT JOURNAL »,loc.fac,Location
+"12, Rue des Petites-Ecuries, Paris",loc.add.phys,Location
+"61, Rue Lafayette",loc.add.phys,Location
+Paris,loc.adm.town,Location
+Dr Daru,pers.ind,Person
+Docteur Daru,pers.ind,Person
+Pharmacie Lindeux,org.ent,Organization
+"41, Rue de l'Oasis",loc.add.phys,Location
+"10, rue Richelieu. — Paris.",loc.add.phys,Location
+PUTEAUX,loc.adm.town,Location
+GRAND COMPTOIR NATIONAL D'HORLOGERIE,org.ent,Organization
+E. DUPAS,pers.ind,Person
+Besançon,loc.adm.town,Location
+Doubs,loc.adm.reg,Location
+ACHILLE,pers.ind,Person
+"75, r. Montmartre, Paris",loc.add.phys,Location
+L'INSTITUT JURIDIQUE de PARIS,org.ent,Organization
+"6, Place de Valois - PARIS",loc.add.phys,Location
+J. Ratié,pers.ind,Person
+"5, passage Verneau, Paris",loc.add.phys,Location
+Bruxelles,loc.adm.town,Location
+Ph. St-Michel,org.ent,Organization
+Genève,loc.adm.town,Location
+Cartier,org.ent,Organization
+Jorin,org.ent,Organization
+Buenos-Ayres,loc.adm.town,Location
+Ph. Franco-Inglese,org.ent,Organization
+Montréal,loc.adm.town,Location
+A. Decoy,org.ent,Organization
+CYCLES MERICANT,org.ent,Organization
+"13, Av. des Moulinaux, PARIS-BILLANCOURT",loc.add.phys,Location
+G. LASSEUR,pers.ind,Person
+Petit Journal,prod.media,Product
+C. MARTY,pers.ind,Person
+MARINONI,org.ent,Organization
+LORILLUX,org.ent,Organization
+VERDEILLE,pers.ind,Person
+"10, Rue Mont-Thabor, Paris",loc.add.phys,Location

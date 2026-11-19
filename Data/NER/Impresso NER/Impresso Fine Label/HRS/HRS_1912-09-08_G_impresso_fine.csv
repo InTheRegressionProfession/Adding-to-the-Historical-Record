@@ -1,0 +1,147 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Labat,pers.ind,Person,pers.ind,123,128,0.9529,"t cessé comme par enchantement, ce bruit suspect. [Labat] avait beau s'arrêter, prêter l'oreille, aller tou"
+Labat,pers.ind,Person,pers.ind,620,625,0.9519,"ette nuit sans lune, dans le dédale des sentiers, [Labat] s'était bel et bien égaré. Et voilà qu'à se senti"
+Labat,pers.ind,Person,pers.ind,1667,1672,0.9375,ment le maître du chien ne devait pas être loin. [Labat] avait deviné juste : il ne le sut que trop vite.
+Labat,pers.ind,Person,pers.ind,2663,2668,0.9446,"bandit levait son couteau : d'un suprême effort, [Labat] réussit à parer le coup : — A moi ! Jartoux, au"
+Jartoux,pers.ind,Person,pers.ind,2706,2713,0.7749,"ffort, Labat réussit à parer le coup : — A moi ! [Jartoux], au secours ! cria-t-il désespérément. Par quel"
+Labat,pers.ind,Person,pers.ind,2973,2978,0.9374,"lâcher-prise. Si prompt avait été le secours, que [Labat] n'eut tout d'abord qu'une vision confuse de la sc"
+Labat,pers.ind,Person,pers.ind,3225,3230,0.9515,"e contrebandier, vaincu, criait, demandait grâce. [Labat] eut un élan de reconnaissance pour son sauveur :"
+Jartoux,pers.ind,Person,pers.ind,3290,3297,0.9223,"an de reconnaissance pour son sauveur : — Bravo, [Jartoux], et merci ! murmura-t-il. Et il se mit debout. Q"
+Sans,pers.ind,Person,pers.ind,3649,3653,0.3356,"duquel le malfaiteur gisait, à demi étranglé : — [Sans]-Peur ! mon brave Sans-Peur ! C'est toi ! D'un co"
+brave,pers.ind,Person,pers.ind,3665,3670,0.4757,"teur gisait, à demi étranglé : — Sans-Peur ! mon [brave] Sans-Peur ! C'est toi ! D'un coup d'œil, aux lue"
+Sans-Peur,pers.ind,Person,pers.ind,3671,3680,0.7612,"isait, à demi étranglé : — Sans-Peur ! mon brave [Sans-Peur] ! C'est toi ! D'un coup d'œil, aux lueurs de l'a"
+Labat,pers.ind,Person,pers.ind,3745,3750,0.9508,"D'un coup d'œil, aux lueurs de l'aube naissante, [Labat] avait reconnu le fidèle animal qu'il croyait à ja"
+Labat,pers.ind,Person,pers.ind,3903,3908,0.9471,"x, lui faisant fête et lui léchant la main. Comme [Labat], tout ému, le caressait doucement, il sentit sous"
+Sans,pers.ind,Person,pers.ind,4033,4037,0.4055,"s chaude, humide. Il regarda : c'était du sang ! [Sans]-Peur était blessé ? Mais alors, c'était donc sur"
+Labat,pers.ind,Person,pers.ind,4321,4326,0.9481,"our le coup, c'en était trop. D'un élan spontané, [Labat] prit à deux mains la grosse tête du terre-neuve e"
+Sans-Peur,pers.ind,Person,pers.ind,4592,4601,0.8413,"lli devenir le meurtrier. Soigné par son maître, [Sans-Peur] guérit vite, plus vite que ne guérit sous les ver"
+Labat,pers.ind,Person,pers.ind,4781,4786,0.9048,"écoulés que le terre-neuve faisait, aux côtés de [Labat], sa première sortie. Ce fut une promenade triomph"
+Labat,pers.ind,Person,pers.ind,5006,5011,0.8935,"ement défrayait les propos. Comme bien on pense, [Labat] n'était pas le dernier à faire sa partie dans ce"
+Vosges,loc.adm.nat,Location,loc.adm.nat,5208,5214,0.3976,"e le bandit qui lui avait volé son chien dans les [Vosges], vint, plusieurs mois plus tard, se fixer dans l"
+Ardennes,loc.adm.reg,Location,loc.adm.reg,5267,5275,0.259,"int, plusieurs mois plus tard, se fixer dans les [Ardennes] ; comment Sans-Peur, dressé brutalement au métier"
+Sans-Peur,pers.ind,Person,pers.ind,5286,5295,0.7603,"plus tard, se fixer dans les Ardennes ; comment [Sans-Peur], dressé brutalement au métier de fraudeur par son"
+Labat,pers.ind,Person,pers.ind,5438,5443,0.9372,n après trois années de séparation ; voilà ce que [Labat] était toujours prêt à raconter en termes enthousi
+Sans-Peur,pers.ind,Person,pers.ind,5500,5509,0.7244,toujours prêt à raconter en termes enthousiastes. [Sans-Peur] et lui faisaient désormais une paire d'inséparabl
+Labat,pers.ind,Person,pers.ind,5829,5834,0.9523,"uniforme, il faut entendre avec quelle conviction [Labat] coupe court aux félicitations : — Ma médaille, j"
+Sans-Peur,pers.ind,Person,pers.ind,6018,6027,0.7831,"qu'elle serait vraiment à sa place. Nest-ce pas, [Sans-Peur] ? Charles CLERC. Conseils Pratiques La plupart"
+Charles CLERC,pers.ind,Person,pers.ind,6031,6044,0.9537,"it vraiment à sa place. Nest-ce pas, Sans-Peur ? [Charles CLERC]. Conseils Pratiques La plupart des brutalités d"
+COUSINE JEANNE,pers.ind,Person,pers.ind,8893,8907,0.9116,te une réforme de la morale à opérer de ce côté. [COUSINE JEANNE]. MOT EN TRIANGLE ISOCÈLE Chez l'architecte. — C
+Criminel,pers.ind,Person,pers.ind,8956,8964,0.8137,"E. MOT EN TRIANGLE ISOCÈLE Chez l'architecte. — [Criminel] : — Romain célèbre. — O jeunes filles, L'esprit v"
+Romain,pers.ind,Person,pers.ind,8969,8975,0.7252,"IANGLE ISOCÈLE Chez l'architecte. — Criminel : — [Romain] célèbre. — O jeunes filles, L'esprit vous viendra"
+Pierre,pers.ind,Person,pers.ind,9131,9137,0.9606,"sens : chez le conjuré. — Négation. — Ce que fit [Pierre]. — Roi, pape ou saint à votre gré. — Ville italie"
+1,time.date.abs,Time,time.date.abs,9325,9326,0.3462,"Un Allobroge. SOLUTION du carré syllabique (N° [1].137) Table with 3 columns: MER, CU, RE; CU, PI,"
+MER,pers.ind,Person,pers.ind,9355,9358,0.6272,"arré syllabique (N° 1.137) Table with 3 columns: [MER], CU, RE; CU, PI, DON; RE, DON, DANCE SOLUTIONS J"
+CU,pers.ind,Person,pers.ind,9360,9362,0.3896,"syllabique (N° 1.137) Table with 3 columns: MER, [CU], RE; CU, PI, DON; RE, DON, DANCE SOLUTIONS JUSTE"
+RE,pers.ind,Person,pers.ind,9364,9366,0.2808,"abique (N° 1.137) Table with 3 columns: MER, CU, [RE]; CU, PI, DON; RE, DON, DANCE SOLUTIONS JUSTES A"
+CU,pers.ind,Person,pers.ind,9368,9370,0.3972,"ue (N° 1.137) Table with 3 columns: MER, CU, RE; [CU], PI, DON; RE, DON, DANCE SOLUTIONS JUSTES Anagr"
+PI,pers.ind,Person,pers.ind,9372,9374,0.4567,"N° 1.137) Table with 3 columns: MER, CU, RE; CU, [PI], DON; RE, DON, DANCE SOLUTIONS JUSTES Anagramme"
+DON,pers.ind,Person,pers.ind,9376,9379,0.6282,".137) Table with 3 columns: MER, CU, RE; CU, PI, [DON]; RE, DON, DANCE SOLUTIONS JUSTES Anagramme (N°"
+RE,pers.ind,Person,pers.ind,9381,9383,0.3433,"Table with 3 columns: MER, CU, RE; CU, PI, DON; [RE], DON, DANCE SOLUTIONS JUSTES Anagramme (N° 1.13"
+DON,pers.ind,Person,pers.ind,9385,9388,0.267,"ble with 3 columns: MER, CU, RE; CU, PI, DON; RE, [DON], DANCE SOLUTIONS JUSTES Anagramme (N° 1.136) M"
+1,time.date.abs,Time,time.date.abs,9429,9430,0.3516,"; RE, DON, DANCE SOLUTIONS JUSTES Anagramme (N° [1].136) M. T. — A. Lefebvre. — Va vite. — Jean Rieu"
+M. T.,pers.ind,Person,pers.ind,9437,9442,0.8196,"N, DANCE SOLUTIONS JUSTES Anagramme (N° 1.136) [M. T.] — A. Lefebvre. — Va vite. — Jean Rieux. — André H"
+A. Lefebvre,pers.ind,Person,pers.ind,9445,9456,0.9312,SOLUTIONS JUSTES Anagramme (N° 1.136) M. T. — [A. Lefebvre]. — Va vite. — Jean Rieux. — André Hass. — Spirite
+Jean Rieux,pers.ind,Person,pers.ind,9471,9481,0.947,mme (N° 1.136) M. T. — A. Lefebvre. — Va vite. — [Jean Rieux]. — André Hass. — Spirite. — E. Terrion. — C. Dess
+André Hass,pers.ind,Person,pers.ind,9485,9495,0.9457,M. T. — A. Lefebvre. — Va vite. — Jean Rieux. — [André Hass]. — Spirite. — E. Terrion. — C. Desserville. — O.
+E. Terrion,pers.ind,Person,pers.ind,9510,9520,0.8969,Va vite. — Jean Rieux. — André Hass. — Spirite. — [E. Terrion]. — C. Desserville. — O. Clin. — C. Pierron. — Alb
+C. Desserville,pers.ind,Person,pers.ind,9524,9538,0.8984,n Rieux. — André Hass. — Spirite. — E. Terrion. — [C. Desserville]. — O. Clin. — C. Pierron. — Albert P. — Q. de Mei
+O. Clin,pers.ind,Person,pers.ind,9542,9549,0.9241,ass. — Spirite. — E. Terrion. — C. Desserville. — [O. Clin]. — C. Pierron. — Albert P. — Q. de Meigneux. — Ha
+C. Pierron,pers.ind,Person,pers.ind,9553,9563,0.93,ite. — E. Terrion. — C. Desserville. — O. Clin. — [C. Pierron]. — Albert P. — Q. de Meigneux. — Haël. — F. Crémo
+Albert P.,pers.ind,Person,pers.ind,9567,9576,0.9298,ion. — C. Desserville. — O. Clin. — C. Pierron. — [Albert P.] — Q. de Meigneux. — Haël. — F. Crémont. — Tante L
+Q. de Meigneux,pers.ind,Person,pers.ind,9579,9593,0.9007,sserville. — O. Clin. — C. Pierron. — Albert P. — [Q. de Meigneux]. — Haël. — F. Crémont. — Tante Léonie. ANGLAIS A
+Haël,pers.ind,Person,pers.ind,9597,9601,0.9541,in. — C. Pierron. — Albert P. — Q. de Meigneux. — [Haël]. — F. Crémont. — Tante Léonie. ANGLAIS ALLEM. IT
+F. Crémont,pers.ind,Person,pers.ind,9605,9615,0.9388,Pierron. — Albert P. — Q. de Meigneux. — Haël. — [F. Crémont]. — Tante Léonie. ANGLAIS ALLEM. ITAL. ESP RUSS P
+Tante Léonie,pers.ind,Person,pers.ind,9619,9631,0.9265,bert P. — Q. de Meigneux. — Haël. — F. Crémont. — [Tante Léonie]. ANGLAIS ALLEM. ITAL. ESP RUSS PORTU. APPRESEUR.
+ANGLAIS,loc.adm.nat,Location,loc.adm.nat,9634,9641,0.4637,Meigneux. — Haël. — F. Crémont. — Tante Léonie. [ANGLAIS] ALLEM. ITAL. ESP RUSS PORTU. APPRESEUR. Nouvelle
+ALLEM,loc.adm.nat,Location,loc.adm.nat,9642,9647,0.3162,x. — Haël. — F. Crémont. — Tante Léonie. ANGLAIS [ALLEM]. ITAL. ESP RUSS PORTU. APPRESEUR. Nouvelle Méthod
+ESP,loc.adm.nat,Location,loc.adm.nat,9655,9658,0.4021,F. Crémont. — Tante Léonie. ANGLAIS ALLEM. ITAL. [ESP] RUSS PORTU. APPRESEUR. Nouvelle Méthode partante-
+RUSS,loc.adm.nat,Location,loc.adm.nat,9659,9663,0.2986,rémont. — Tante Léonie. ANGLAIS ALLEM. ITAL. ESP [RUSS] PORTU. APPRESEUR. Nouvelle Méthode partante-progr
+Maître Populaire,org.ent,Organization,org.ent,9912,9928,0.5962,"rs France 1.10) mandat ou jamb. poste française à [Maître Populaire], 13-2 r. Montholon, Paris. BOISSON POUR LA TABLE"
+.,pers.ind,Person,pers.ind,9936,9937,0.2623,"u jamb. poste française à Maître Populaire, 13-2 r[.] Montholon, Paris. BOISSON POUR LA TABLE 7 centim"
+Montholon,loc.adm.town,Location,loc.adm.town,9938,9947,0.2642,"jamb. poste française à Maître Populaire, 13-2 r. [Montholon], Paris. BOISSON POUR LA TABLE 7 centimes le LITR"
+Paris,loc.adm.town,Location,loc.adm.town,9949,9954,0.7292,"française à Maître Populaire, 13-2 r. Montholon, [Paris]. BOISSON POUR LA TABLE 7 centimes le LITRE. Dose"
+J. GAVIRATI,pers.ind,Person,pers.ind,10075,10086,0.8983,"es et procédé facile envoyé franco contre 1 fr. — [J. GAVIRATI], 2, r. Castel, NICE (A.-M.) AMIS RIRE. Demandez"
+. Castel,pers.ind,Person,pers.ind,10092,10100,0.381,"ile envoyé franco contre 1 fr. — J. GAVIRATI, 2, r[. Castel], NICE (A.-M.) AMIS RIRE. Demandez le gros Catalo"
+NICE,loc.adm.town,Location,loc.adm.town,10102,10106,0.8956,"franco contre 1 fr. — J. GAVIRATI, 2, r. Castel, [NICE] (A.-M.) AMIS RIRE. Demandez le gros Catalogue de"
+A.,org.ent,Organization,org.ent,10108,10110,0.3672,"o contre 1 fr. — J. GAVIRATI, 2, r. Castel, NICE ([A.]-M.) AMIS RIRE. Demandez le gros Catalogue de 128"
+-M.,pers.ind,Person,pers.ind,10110,10113,0.314,"contre 1 fr. — J. GAVIRATI, 2, r. Castel, NICE (A.[-M.]) AMIS RIRE. Demandez le gros Catalogue de 128 pa"
+AMIS RIRE,pers.ind,Person,pers.ind,10116,10125,0.8075,"1 fr. — J. GAVIRATI, 2, r. Castel, NICE (A.-M.) [AMIS RIRE]. Demandez le gros Catalogue de 128 pages, gratis,"
+E. HELBÉ,pers.ind,Person,pers.ind,10280,10288,0.8833,"— Librairie spéciale — Cartes Postales — Hygiène. [E. HELBÉ], 103, Faubourg Saint-Denis, Paris. CYCLISTES. Da"
+Faubourg,pers.ind,Person,pers.ind,10295,10303,0.1778,"ciale — Cartes Postales — Hygiène. E. HELBÉ, 103, [Faubourg] Saint-Denis, Paris. CYCLISTES. Dans votre intérê"
+Saint-Denis,loc.adm.town,Location,loc.adm.town,10304,10315,0.329,"artes Postales — Hygiène. E. HELBÉ, 103, Faubourg [Saint-Denis], Paris. CYCLISTES. Dans votre intérêt, avant d'a"
+Paris,loc.adm.town,Location,loc.adm.town,10317,10322,0.724,"s — Hygiène. E. HELBÉ, 103, Faubourg Saint-Denis, [Paris]. CYCLISTES. Dans votre intérêt, avant d'acheter"
+Fernand CLEMENT,pers.ind,Person,pers.ind,10456,10471,0.7599,"édit, demandez le Catalogue Illustré de la Maison [Fernand CLEMENT], LEVALLOIS-PERRET. MAGIE NOIRE et SORCELLERIE. L"
+LEVALLOIS-PERRET,loc.adm.town,Location,loc.adm.town,10473,10489,0.701,"Catalogue Illustré de la Maison Fernand CLEMENT, [LEVALLOIS-PERRET]. MAGIE NOIRE et SORCELLERIE. Livre merveilleux d"
+Maison Grésil,pers.ind,Person,pers.ind,10939,10952,0.6801,"rant réussite et fortune. Notice gratis. — Ecrire [Maison Grésil], 2, rue Amelot, Paris. LA PHOTOGRAPHIE du Petit"
+rue Amelot,pers.ind,Person,pers.ind,10957,10967,0.1818,"ortune. Notice gratis. — Ecrire Maison Grésil, 2, [rue Amelot], Paris. LA PHOTOGRAPHIE du Petit Journal. G. LIÉ"
+Paris,loc.adm.town,Location,loc.adm.town,10969,10974,0.7743,"ce gratis. — Ecrire Maison Grésil, 2, rue Amelot, [Paris]. LA PHOTOGRAPHIE du Petit Journal. G. LIÉBERT, d"
+Petit Journal,prod.media,Product,prod.media,10996,11009,0.4818,"Grésil, 2, rue Amelot, Paris. LA PHOTOGRAPHIE du [Petit Journal]. G. LIÉBERT, directeur. HOTEL DU « PETIT JOURNAL"
+"G. LIÉBERT, directeur",pers.ind,Person,pers.ind,11011,11032,0.9099,"Amelot, Paris. LA PHOTOGRAPHIE du Petit Journal. [G. LIÉBERT, directeur]. HOTEL DU « PETIT JOURNAL » 61, Rue Lafayette, 61"
+HOTEL DU,org.ent,Organization,org.ent,11034,11042,0.3295,"OGRAPHIE du Petit Journal. G. LIÉBERT, directeur. [HOTEL DU] « PETIT JOURNAL » 61, Rue Lafayette, 61. Ouvert t"
+PETIT,org.ent,Organization,org.ent,11045,11050,0.2731,"Petit Journal. G. LIÉBERT, directeur. HOTEL DU « [PETIT] JOURNAL » 61, Rue Lafayette, 61. Ouvert tous les"
+JOURNAL,prod.media,Product,prod.media,11051,11058,0.3864,"Journal. G. LIÉBERT, directeur. HOTEL DU « PETIT [JOURNAL] » 61, Rue Lafayette, 61. Ouvert tous les jours de"
+Rue,org.ent,Organization,org.ent,11065,11068,0.1071,"IÉBERT, directeur. HOTEL DU « PETIT JOURNAL » 61, [Rue] Lafayette, 61. Ouvert tous les jours de 9 h. du m"
+Lafayette,loc.oro,Location,loc.oro,11069,11078,0.2863,"RT, directeur. HOTEL DU « PETIT JOURNAL » 61, Rue [Lafayette], 61. Ouvert tous les jours de 9 h. du matin à 6 h"
+", 61",org.ent,Organization,org.ent,11078,11082,0.1456,"teur. HOTEL DU « PETIT JOURNAL » 61, Rue Lafayette[, 61]. Ouvert tous les jours de 9 h. du matin à 6 h. du"
+PHOTO,org.ent,Organization,org.ent,11629,11634,0.4747,", port et emballage à la charge du destinataire. [PHOTO]-VULGA SES APPAREILS pour réussir en PHOTO Demand"
+VULGA,org.ent,Organization,org.ent,11635,11640,0.3931,et emballage à la charge du destinataire. PHOTO-[VULGA] SES APPAREILS pour réussir en PHOTO Demandez : 1
+Rue,org.ent,Organization,org.ent,11693,11696,0.1175,"S APPAREILS pour réussir en PHOTO Demandez : 12, [Rue] des Petites-Ecuries, Paris. — CATALOGUE FRANCO."
+des Petites,loc.oro,Location,loc.oro,11697,11708,0.227,"PAREILS pour réussir en PHOTO Demandez : 12, Rue [des Petites]-Ecuries, Paris. — CATALOGUE FRANCO. Mesdames..."
+-Ecuries,loc.adm.town,Location,loc.adm.town,11708,11716,0.2378,"r réussir en PHOTO Demandez : 12, Rue des Petites[-Ecuries], Paris. — CATALOGUE FRANCO. Mesdames... si vous"
+Paris,loc.adm.town,Location,loc.adm.town,11718,11723,0.4813,"en PHOTO Demandez : 12, Rue des Petites-Ecuries, [Paris]. — CATALOGUE FRANCO. Mesdames... si vous êtes in"
+Dr Daru,pers.ind,Person,pers.ind,12123,12130,0.8694,vre très rigoureusement la cure de la Dépurase du [Dr Daru] dont l'action puissante seconde merveilleusement
+Docteur Daru,pers.ind,Person,pers.ind,12428,12440,0.9243,venant d'une mauvaise circulation. La Dépurase du [Docteur Daru] se vend chez tous les Pharmaciens 1 franc la boît
+Pharmacie Lindeux,pers.ind,Person,pers.ind,12550,12567,0.8021,"quets (franco poste 1.20) ou au Dépôt principal : [Pharmacie Lindeux], 10, rue Richelieu. — Paris. CYCLES ""GRANIT"" 41,"
+rue,loc.adm.reg,Location,loc.adm.reg,12573,12576,0.1053,"0) ou au Dépôt principal : Pharmacie Lindeux, 10, [rue] Richelieu. — Paris. CYCLES ""GRANIT"" 41, Rue de l"
+Richelieu,loc.oro,Location,loc.oro,12577,12586,0.2471,"u au Dépôt principal : Pharmacie Lindeux, 10, rue [Richelieu]. — Paris. CYCLES ""GRANIT"" 41, Rue de l'Oasis, PU"
+Paris,loc.adm.town,Location,loc.adm.town,12590,12595,0.7003,"incipal : Pharmacie Lindeux, 10, rue Richelieu. — [Paris]. CYCLES ""GRANIT"" 41, Rue de l'Oasis, PUTEAUX. Ga"
+Rue,org.ent,Organization,org.ent,12618,12621,0.0994,"10, rue Richelieu. — Paris. CYCLES ""GRANIT"" 41, [Rue] de l'Oasis, PUTEAUX. Gar. 5 ans. — Facil. de paie"
+de,loc.oro,Location,loc.oro,12622,12624,0.2127,"rue Richelieu. — Paris. CYCLES ""GRANIT"" 41, Rue [de] l'Oasis, PUTEAUX. Gar. 5 ans. — Facil. de paiemen"
+l'Oasis,loc.adm.town,Location,loc.adm.town,12625,12632,0.2402,"e Richelieu. — Paris. CYCLES ""GRANIT"" 41, Rue de [l'Oasis], PUTEAUX. Gar. 5 ans. — Facil. de paiement. — Cat"
+PUTEAUX,loc.adm.town,Location,loc.adm.town,12634,12641,0.6612,"eu. — Paris. CYCLES ""GRANIT"" 41, Rue de l'Oasis, [PUTEAUX]. Gar. 5 ans. — Facil. de paiement. — Catal. grati"
+E. DUPAS,pers.ind,Person,pers.ind,12914,12922,0.9003,"joux, Orfèvrerie, Pendules PRIME à tout Acheteur. [E. DUPAS], Besançon (Doubs) MÉD. D'OR, Concours chronométri"
+Besançon,loc.adm.town,Location,loc.adm.town,12924,12932,0.8722,"vrerie, Pendules PRIME à tout Acheteur. E. DUPAS, [Besançon] (Doubs) MÉD. D'OR, Concours chronométrique de l'O"
+Doubs,loc.adm.town,Location,loc.adm.town,12934,12939,0.7092,"ndules PRIME à tout Acheteur. E. DUPAS, Besançon ([Doubs]) MÉD. D'OR, Concours chronométrique de l'Observat"
+ACHILLE,pers.ind,Person,pers.ind,13108,13115,0.6489,"complète. Indication de s'en débarrasser c°15 c. [ACHILLE] chimiste, 75, r. Montmartre, Paris. L'INSTITUT J"
+.,pers.ind,Person,pers.ind,13131,13132,0.192,"e s'en débarrasser c°15 c. ACHILLE chimiste, 75, r[.] Montmartre, Paris. L'INSTITUT JURIDIQUE de PARIS"
+Montmartre,loc.oro,Location,loc.oro,13133,13143,0.1848,"s'en débarrasser c°15 c. ACHILLE chimiste, 75, r. [Montmartre], Paris. L'INSTITUT JURIDIQUE de PARIS. REVUE CRI"
+",",pers.ind,Person,pers.ind,13143,13144,0.2202,"rasser c°15 c. ACHILLE chimiste, 75, r. Montmartre[,] Paris. L'INSTITUT JURIDIQUE de PARIS. REVUE CRIT"
+Paris,loc.adm.town,Location,loc.adm.town,13145,13150,0.4687,"sser c°15 c. ACHILLE chimiste, 75, r. Montmartre, [Paris]. L'INSTITUT JURIDIQUE de PARIS. REVUE CRITIQUE D"
+PARIS,loc.adm.town,Location,loc.adm.town,13177,13182,0.6857,"5, r. Montmartre, Paris. L'INSTITUT JURIDIQUE de [PARIS]. REVUE CRITIQUE DE DROIT. Tel. 270-88. 6, Place d"
+Place,loc.adm.reg,Location,loc.adm.reg,13225,13230,0.1065,"e PARIS. REVUE CRITIQUE DE DROIT. Tel. 270-88. 6, [Place] de Valois - PARIS. DIRIGÉ PAR UN GROUPE DE JURIS"
+de Valois - PARIS,loc.adm.town,Location,loc.adm.town,13231,13248,0.3012,"S. REVUE CRITIQUE DE DROIT. Tel. 270-88. 6, Place [de Valois - PARIS]. DIRIGÉ PAR UN GROUPE DE JURISCONSULTES se charg"
+Bon,org.ent,Organization,org.ent,13601,13604,0.2655,TISSEMENTS Prix : 5 francs payable par Ma-dat ou [Bon]-Paste. L'Institut Juridique de Paris enverra à to
+Institut Juridique de Paris,org.ent,Organization,org.ent,13614,13641,0.5626,rix : 5 francs payable par Ma-dat ou Bon-Paste. L'[Institut Juridique de Paris] enverra à toute personne qui en fera la demande a
+PATRELLE,pers.ind,Person,pers.ind,13832,13840,0.4705,t consultations juridiques ou financières. ARÔME [PATRELLE] DONNÉ au BOUILLON Goût Exquis ET Belle Couleur do
+BOUILLON,loc.adm.town,Location,loc.adm.town,13850,13858,0.8624,ridiques ou financières. ARÔME PATRELLE DONNÉ au [BOUILLON] Goût Exquis ET Belle Couleur dorée Belle Poitrin
+"J. Ratié, ph.",pers.ind,Person,pers.ind,14060,14073,0.8459,"la santé. Flacons av. notice 6'85 fr. Env. discr. [J. Ratié, ph.], 5, passage Verdeau, Paris. Bruxelles : Ph. St-Mi"
+5,pers.ind,Person,pers.ind,14075,14076,0.3869,"ns av. notice 6'85 fr. Env. discr. J. Ratié, ph., [5], passage Verdeau, Paris. Bruxelles : Ph. St-Miche"
+passage,pers.ind,Person,pers.ind,14078,14085,0.2894,"av. notice 6'85 fr. Env. discr. J. Ratié, ph., 5, [passage] Verdeau, Paris. Bruxelles : Ph. St-Michel. Genève"
+Verdeau,loc.oro,Location,loc.oro,14086,14093,0.2077,"ce 6'85 fr. Env. discr. J. Ratié, ph., 5, passage [Verdeau], Paris. Bruxelles : Ph. St-Michel. Genève : Carti"
+Paris,loc.adm.town,Location,loc.adm.town,14095,14100,0.7518,"r. Env. discr. J. Ratié, ph., 5, passage Verdeau, [Paris]. Bruxelles : Ph. St-Michel. Genève : Cartier et J"
+Bruxelles,loc.adm.town,Location,loc.adm.town,14102,14111,0.7972,"discr. J. Ratié, ph., 5, passage Verdeau, Paris. [Bruxelles] : Ph. St-Michel. Genève : Cartier et Jorin. Bueno"
+Ph. St-Michel,pers.ind,Person,pers.ind,14114,14127,0.6002,"atié, ph., 5, passage Verdeau, Paris. Bruxelles : [Ph. St-Michel]. Genève : Cartier et Jorin. Buenos-Ayres : Ph. Fr"
+Genève,loc.adm.town,Location,loc.adm.town,14129,14135,0.7631,"assage Verdeau, Paris. Bruxelles : Ph. St-Michel. [Genève] : Cartier et Jorin. Buenos-Ayres : Ph. Franco-Ing"
+Cartier,pers.ind,Person,pers.ind,14138,14145,0.8713,"rdeau, Paris. Bruxelles : Ph. St-Michel. Genève : [Cartier] et Jorin. Buenos-Ayres : Ph. Franco-Inglese. Mont"
+Jorin,pers.ind,Person,pers.ind,14149,14154,0.8299,s. Bruxelles : Ph. St-Michel. Genève : Cartier et [Jorin]. Buenos-Ayres : Ph. Franco-Inglese. Montréal : A.
+Buenos-Ayres,loc.adm.town,Location,loc.adm.town,14156,14168,0.6862,elles : Ph. St-Michel. Genève : Cartier et Jorin. [Buenos-Ayres] : Ph. Franco-Inglese. Montréal : A. Ducey. CYCLE
+Ph. Franco-Inglese,pers.ind,Person,pers.ind,14171,14189,0.6741,"Michel. Genève : Cartier et Jorin. Buenos-Ayres : [Ph. Franco-Inglese]. Montréal : A. Ducey. CYCLES MERICAMT 13, Av. de"
+Montréal,loc.adm.town,Location,loc.adm.town,14191,14199,0.8753,"tier et Jorin. Buenos-Ayres : Ph. Franco-Inglese. [Montréal] : A. Ducey. CYCLES MERICAMT 13, Av. des Moulinau"
+A. Ducey,pers.ind,Person,pers.ind,14202,14210,0.9211,"in. Buenos-Ayres : Ph. Franco-Inglese. Montréal : [A. Ducey]. CYCLES MERICAMT 13, Av. des Moulinaux, PARIS-BI"
+MERICAMT,pers.ind,Person,pers.ind,14220,14228,0.2651,"Ph. Franco-Inglese. Montréal : A. Ducey. CYCLES [MERICAMT] 13, Av. des Moulinaux, PARIS-BILLANCOURT. Catalog"
+Av,loc.adm.reg,Location,loc.adm.reg,14233,14235,0.084,"nglese. Montréal : A. Ducey. CYCLES MERICAMT 13, [Av]. des Moulinaux, PARIS-BILLANCOURT. Catalogue fran"
+. des Moulinaux,loc.adm.town,Location,loc.adm.town,14235,14250,0.2076,"lese. Montréal : A. Ducey. CYCLES MERICAMT 13, Av[. des Moulinaux], PARIS-BILLANCOURT. Catalogue franco. PRIX de GRO"
+PARIS,loc.adm.town,Location,loc.adm.town,14252,14257,0.8311,"A. Ducey. CYCLES MERICAMT 13, Av. des Moulinaux, [PARIS]-BILLANCOURT. Catalogue franco. PRIX de GROS aux I"
+BILLANCOURT,loc.adm.town,Location,loc.adm.town,14258,14269,0.8868,"ey. CYCLES MERICAMT 13, Av. des Moulinaux, PARIS-[BILLANCOURT]. Catalogue franco. PRIX de GROS aux Intermédiaire"
+G. LASSEUR,pers.ind,Person,pers.ind,14334,14344,0.8629,"nco. PRIX de GROS aux Intermédiaires Le Gérant : [G. LASSEUR] IMPRIMERIE DU Petit Journal (C. MARTY, imp.) Im"
+Petit Journal,org.ent,Organization,org.ent,14360,14373,0.2374,"rmédiaires Le Gérant : G. LASSEUR IMPRIMERIE DU [Petit Journal] (C. MARTY, imp.) Imprimé sur la Machine rotative"
+"C. MARTY, imp.",pers.ind,Person,pers.ind,14375,14389,0.8025,"Gérant : G. LASSEUR IMPRIMERIE DU Petit Journal ([C. MARTY, imp.]) Imprimé sur la Machine rotative chromo-type de"
+MARINONI,pers.ind,Person,pers.ind,14439,14447,0.8446,) Imprimé sur la Machine rotative chromo-type de [MARINONI] (Encres LORILLEUX) EPILATEUR NIL dissout instant
+Encres,org.ent,Organization,org.ent,14449,14455,0.3611,"sur la Machine rotative chromo-type de MARINONI ([Encres] LORILLEUX) EPILATEUR NIL dissout instantanément,"
+LORILLEUX,loc.adm.town,Location,loc.adm.town,14456,14465,0.2461,"Machine rotative chromo-type de MARINONI (Encres [LORILLEUX]) EPILATEUR NIL dissout instantanément, radicalem"
+NIL,pers.ind,Person,pers.ind,14478,14481,0.7356,"mo-type de MARINONI (Encres LORILLEUX) EPILATEUR [NIL] dissout instantanément, radicalement et sans doul"
+VERDEILLE,loc.adm.town,Location,loc.adm.town,14620,14629,0.8802,"ps N'irrite pas la peau Sans danger. FLACON 8 fr. [VERDEILLE], Ph., 10, Rue Mont-Thabor, Paris."
+", Ph.",pers.ind,Person,pers.ind,14629,14634,0.4853,"te pas la peau Sans danger. FLACON 8 fr. VERDEILLE[, Ph.], 10, Rue Mont-Thabor, Paris."
+10,loc.adm.town,Location,loc.adm.town,14636,14638,0.2096,"la peau Sans danger. FLACON 8 fr. VERDEILLE, Ph., [10], Rue Mont-Thabor, Paris."
+Rue Mont-Thabor,loc.adm.town,Location,loc.adm.town,14640,14655,0.2797,"eau Sans danger. FLACON 8 fr. VERDEILLE, Ph., 10, [Rue Mont-Thabor], Paris."
+Paris,loc.adm.town,Location,loc.adm.town,14657,14662,0.7282,"FLACON 8 fr. VERDEILLE, Ph., 10, Rue Mont-Thabor, [Paris]."

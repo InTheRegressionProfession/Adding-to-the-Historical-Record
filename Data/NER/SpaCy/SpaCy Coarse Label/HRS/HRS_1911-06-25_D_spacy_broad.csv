@@ -1,0 +1,88 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Germaine,Person,PER,243,251,,"avec embarras. — Eh bien, écoutez, mademoiselle [Germaine], n'ayez aucune inquiétude, vous le livrerez dans"
+Philippe,Person,PER,458,466,,"lace ! — Comment, je vous cède ma place ! reprit [Philippe], d'un ton enjoué, mais pas du tout, je la garde m"
+Germaine,Person,PER,640,648,,"combien de temps en avez-vous encore ? interrogea [Germaine] toute décontenancée. — Laissez-moi faire, je vou"
+Philippe,Person,PER,760,768,,"e vous occupez de rien ! Dès lors, le gardien vit [Philippe] s'installer à son chevalet dès l'ouverture du mus"
+Ah !,Product,MISC,955,959,,"de grignoter quelques petits pains, vers midi. — [Ah !] ah ! vint-il dire au jeune homme, vous êtes un ga"
+Philippe,Person,PER,1096,1104,,"à cause de la petite demoiselle de l'autre jour. [Philippe] répondit « oui » avec un sourire, sans interrompr"
+Germaine,Product,MISC,1340,1348,,"— Certainement, je ne ferai pas aussi bien, dit [Germaine], au bout de quelques jours, lorsqu'elle revint, c"
+Inutile,Person,PER,1542,1549,,"urd'hui demander l'autorisation pour moi-même. — [Inutile], mademoiselle, si vous me le permettez, je m'en c"
+réveue,Person,PER,1854,1860,,"— votre adresse ? Elle lui donna et revint toute [réveue] à ses éventails et ses abats-jour. Le soir, avec"
+Colette,Person,PER,1910,1917,,"à ses éventails et ses abats-jour. Le soir, avec [Colette], elle ne parla que de Philippe, comme tous les so"
+Philippe,Person,PER,1940,1948,,"jour. Le soir, avec Colette, elle ne parla que de [Philippe], comme tous les soirs précédents, d'ailleurs, dep"
+Colette,Person,PER,2324,2331,,"éflexions, dans l'après-midi, avant la rentrée de [Colette]. A la porte, elle reconnut Mme Lyvoire et son fil"
+Mme Lyvoire,Person,PER,2359,2370,,"la rentrée de Colette. A la porte, elle reconnut [Mme Lyvoire] et son fils. — Philippe m'a parlé de vous, mademo"
+Philippe,Person,PER,2386,2394,,"a porte, elle reconnut Mme Lyvoire et son fils. — [Philippe] m'a parlé de vous, mademoiselle Germaine, et des"
+Germaine,Person,PER,2427,2435,,"fils. — Philippe m'a parlé de vous, mademoiselle [Germaine], et des épreuves que vous avez traversées, commen"
+Germaine,Person,PER,2515,2523,,"z traversées, commença l'aimable dame. Elle dit à [Germaine] le bon souvenir qu'elle avait conservé de leurs a"
+Germaine,Person,PER,2777,2785,,"feignaient de ne point voir la Cruche cassée que [Germaine] avait placée sur une commode, bien en vue. — Je"
+Chut,Product,MISC,2899,2903,,"dois... esquissa-t-elle en désignant la toile. — [Chut], mon enfant, fit Mme Lyvoire, nous avons à nous e"
+Mme Lyvoire,Person,PER,2921,2932,,"e en désignant la toile. — Chut, mon enfant, fit [Mme Lyvoire], nous avons à nous entretenir de choses beaucoup"
+Philippe,Person,PER,3027,3035,,"coup plus importantes et beaucoup plus sérieuses. [Philippe] m'a confié un gros secret. Et, au mépris des conv"
+Philippe,Person,PER,3343,3351,,"que les revers ont pétri de courage et d'énergie. [Philippe], embrasse ta fiancée devant cette gracieuse fermi"
+Cruche cassée,Location,LOC,3410,3423,,e ta fiancée devant cette gracieuse fermière à la [Cruche cassée]. Vous la conserverez comme un souvenir et comme u
+Germaine,Product,MISC,3531,3539,,"ue : elle sera le sceau de votre union. Eblouie, [Germaine] croyait rêver ; mais elle vit Philippe s'avancer,"
+Philippe,Person,PER,3570,3578,,"Eblouie, Germaine croyait rêver ; mais elle vit [Philippe] s'avancer, l'amour dans les yeux ; il l'attira à"
+BRÉZOL,Product,MISC,3816,3822,,it pas un rêve ; c'était bien une réalité. E.-G. [BRÉZOL]. Le Vieux Domestique ... J'avais vingt-quatre a
+"Le Vieux Domestique
+
+...",Product,MISC,3825,3849,,rêve ; c'était bien une réalité. E.-G. BRÉZOL. [Le Vieux Domestique ...] J'avais vingt-quatre ans quand je tombai amoureux
+Cécile Liran,Person,PER,3903,3915,,"vais vingt-quatre ans quand je tombai amoureux de [Cécile Liran], raconta Stéphane. Cette jolie aventure s'annonça"
+Stéphane,Person,PER,3925,3933,,"quand je tombai amoureux de Cécile Liran, raconta [Stéphane]. Cette jolie aventure s'annonçait plutôt mal. Le"
+Liran,Person,PER,3988,3993,,"te jolie aventure s'annonçait plutôt mal. Le père [Liran], qui donnait deux cent mille francs de dot à sa f"
+Monte-Carlo,Location,LOC,4375,4386,,"mon échec, ayant obtenu un congé, je partais pour [Monte-Carlo] avec Antoine Dubreuil, un vieux domestique qui m'"
+Antoine Dubreuil,Person,PER,4392,4408,,"obtenu un congé, je partais pour Monte-Carlo avec [Antoine Dubreuil], un vieux domestique qui m'avait vu naître et qui"
+Cercle,Location,LOC,4945,4951,,"obstiné, et à deux heures du matin, je quittai le [Cercle] en emportant un gain de deux cent soixante-dix-se"
+Ah !,Product,MISC,5019,5023,,ain de deux cent soixante-dix-sept mille francs. [Ah !] mon réveil dans la chambre d'hôte ! Jamais je n'e
+Dissimulez,Location,LOC,5873,5883,,"eux-mêmes... Nous allons en avoir le cœur net... [Dissimulez]-vous dans ce coin, derrière ces gens... Je vais l"
+Bourdaloue,Person,PER,6089,6099,,s s'était approché de celui de la poste restante. [Bourdaloue] et Duhamel échangèrent un regard. Ce dernier étai
+Duhamel,Person,PER,6103,6110,,oché de celui de la poste restante. Bourdaloue et [Duhamel] échangèrent un regard. Ce dernier était absolumen
+Avez,Person,PER,6244,6248,,"u, le jeune homme demanda à l'employé proposé : — [Avez]-vous une lettre aux initiales R. D. ? Bourdaloue"
+R. D.,Person,PER,6279,6284,,yé proposé : — Avez-vous une lettre aux initiales [R. D.] ? Bourdaloue lui-même en trembla de surprise. C'é
+Bourdaloue,Person,PER,6287,6297,,sé : — Avez-vous une lettre aux initiales R. D. ? [Bourdaloue] lui-même en trembla de surprise. C'était donc vra
+Bourdaloue,Person,PER,6983,6993,,y — Vous allez le savoir immédiatement... venez. [Bourdaloue] et le neveu se dirigèrent vers l'endroit où se tr
+Duhamel,Person,PER,7050,7057,,neveu se dirigèrent vers l'endroit où se trouvait [Duhamel]. — Mon oncle ! s'écria l'étudiant stupéfait en ap
+Mon oncle !,Product,MISC,7061,7072,,rigèrent vers l'endroit où se trouvait Duhamel. — [Mon oncle !] s'écria l'étudiant stupéfait en apercevant celui-
+Duhamel,Person,PER,7265,7272,,"ans dire un mot. — Malheureux ! s'écria cependant [Duhamel], hors de lui. — Quoi ?... que veut dire ceci ? s'"
+Bourdaloue,Person,PER,7382,7392,,jeune homme d'un air de plus en plus stupéfait. [Bourdaloue] intervint : — Allons nous expliquer sur le boulev
+Duhamel,Person,PER,7636,7643,,"rois hommes sortirent du bureau. Sur le trottoir, [Duhamel] reprit vivement : — Tu demandes ce que cela veux"
+Bourdaloue,Person,PER,8260,8270,,— Vous allez le savoir immédiatement... venez. [Bourdaloue] et le neveu se dirigèrent vers l'endroit où se tr
+Duhamel,Person,PER,8327,8334,,neveu se dirigèrent vers l'endroit où se trouvait [Duhamel]. — Mon oncle ! s'écria l'étudiant stupéfait en ap
+Mon oncle !,Product,MISC,8338,8349,,rigèrent vers l'endroit où se trouvait Duhamel. — [Mon oncle !] s'écria l'étudiant stupéfait en apercevant celui-
+Duhamel,Person,PER,8543,8550,,"ans dire un mot. — Malheureux ! s'écria cependant [Duhamel], hors de lui. — Quoi ?... que veut dire ceci ? s'"
+Bourdaloue,Person,PER,8660,8670,,jeune homme d'un air de plus en plus stupéfait. [Bourdaloue] intervint : — Allons nous expliquer sur le boulev
+Duhamel,Person,PER,8914,8921,,"rois hommes sortirent du bureau. Sur le trottoir, [Duhamel] reprit vivement : — Tu demandes ce que cela veux"
+Impossible,Person,PER,9598,9608,,"ent : — Votre domestique vous a volé, monsieur. — [Impossible], m'écriai-je. Antoine, un voleur ! Allons donc !"
+Antoine,Person,PER,9623,9630,,"vous a volé, monsieur. — Impossible, m'écriai-je. [Antoine], un voleur ! Allons donc ! C'est le dévouement, c"
+Eh monsieur,Person,PER,9713,9724,,"le dévouement, c'est l'honnêteté en personne ! — [Eh monsieur], riposta le commissaire, l'honnêteté a des bornes"
+Antoine Dubreuil,Person,PER,10149,10165,,"e qu'il avait menée. C'était net et concluant ! — [Antoine Dubreuil], nanti de mes deux cent soixante-dix-sept mille f"
+Paris,Location,LOC,10292,10297,,"ise, par le train de onze heures trente cinq, sur [Paris]. Les agents de la gare, les hommes du personnel e"
+Paris,Location,LOC,10582,10587,,"ue faire ? — Si vous télégraphiez tout de suite à [Paris], dis-je au commissaire, peut-être pourra-t-on l'a"
+Paris,Location,LOC,10794,10799,,"que sera assez sot pour aller directement jusqu'à [Paris] ? Il a dû descendre à Marseille, et allez donc le"
+Marseille,Location,LOC,10822,10831,,"r directement jusqu'à Paris ? Il a dû descendre à [Marseille], et allez donc le retrouver à présent ! Il ne me"
+Paris,Location,LOC,10910,10915,,à présent ! Il ne me restait plus qu'à rentrer à [Paris]. Heureusement j'avais le matin même acquitté la n
+Antoine,Person,PER,11115,11122,,"le rapide que j'aurais dû prendre en compagnie d'[Antoine] et de mon gain. Cet Antoine, tout de même ! A qui"
+Antoine,Product,MISC,11143,11150,,"rendre en compagnie d'Antoine et de mon gain. Cet [Antoine], tout de même ! A qui se fier ?... Et toute la n"
+gare de Paris,Location,LOC,11466,11479,,"mir au rythme berceur des roues. Je m'éveillai en [gare de Paris]. Sous le ciel noir, dans les bises agressives cha"
+rue Bellechasse,Location,LOC,11592,11607,,"e fondue, je dus gagner à pied mon entresol de la [rue Bellechasse]. Comme j'insinuai ma clef dans la serrure, la por"
+Antoine,Person,PER,11718,11725,,"t tout à coup, et je me trouvais face à face avec [Antoine]... avec Antoine qui, digne, froid, rasé de frais,"
+Antoine,Person,PER,11734,11741,,"t je me trouvais face à face avec Antoine... avec [Antoine] qui, digne, froid, rasé de frais, s'informait aus"
+Stéphane,Person,PER,11811,11819,,"rasé de frais, s'informait aussitôt ? — Monsieur [Stéphane] a fait bon voyage ? — Tci ici !... Il ne prit pas"
+Tci,Person,PER,11842,11845,,itôt ? — Monsieur Stéphane a fait bon voyage ? — [Tci] ici !... Il ne prit pas garde de ma stupeur. — Oh
+Oh !,Product,MISC,11893,11897,,ci ici !... Il ne prit pas garde de ma stupeur. — [Oh !] faisait-il avec sollicitude. Monsieur est tout mo
+Raoul Duhamel,Person,PER,12082,12095,,"initiales, cette lettre ? — R. D... Je m'appelle [Raoul Duhamel], il me semble ! — Et d'où vient cette lettre ? —"
+Ah !,Product,MISC,12145,12149,,", il me semble ! — Et d'où vient cette lettre ? — [Ah !] ici, vous me permettez de garder le silence le pl"
+Ah !,Product,MISC,12285,12289,,"surance criminelle !... Tu n'oses plus avouer ! — [Ah !] ça, mon oncle, où voulez-vous en venir ?... Aurie"
+Raoul Duhamel,Person,PER,12674,12687,,", répondit en le toisant dédaigneusement le jeune [Raoul Duhamel], de quel droit vous immiscez-vous dans cette disc"
+M. Duhamel,Person,PER,12773,12783,,"ans cette discussion ! — Du droit que m'a confié [M. Duhamel], votre oncle, en me chargeant de ses affaires..."
+Bourdaloue,Person,PER,12915,12925,,"ncident... Connaissiez-vous ces deux lettres ? Et [Bourdaloue], sortant de son portefeuille les correspondances"
+Edmond CHAR,Person,PER,13175,13186,,cette question ? (La suite au prochain numéro). [Edmond CHAR]. Une Mystérieuse Affaire III (suite) Quant à Du
+Une Mystérieuse,Product,MISC,13189,13204,,"n ? (La suite au prochain numéro). Edmond CHAR. [Une Mystérieuse] Affaire III (suite) Quant à Duhamel, plus curieu"
+Duhamel,Person,PER,13234,13241,,"AR. Une Mystérieuse Affaire III (suite) Quant à [Duhamel], plus curieux qu'impatient, maintenant, de savoir"
+Palais de Justice,Location,LOC,13450,13467,,persécuteur de choisir ce bureau juste en face le [Palais de Justice]. — Il a agi sans doute en vertu de la loi d'attra
+M. Bourdaloue,Person,PER,13533,13546,,"s doute en vertu de la loi d'attraction, répliqua [M. Bourdaloue] ; c'est un chemin qu'il doit connaître. Ils conti"
+Duhamel,Person,PER,13637,13644,,"Ils continuèrent à causer et à deviser au hasard. [Duhamel], que ses affaires courantes appelaient chez lui,"
+M. Bourdaloue,Person,PER,13842,13855,,"lisissant. — Qu'avez-vous ? lui demanda intrigué, [M. Bourdaloue]. — Hélas ! monsieur, vous avez raison !... Voici"
+Eh !,Product,MISC,14033,14037,,"égligée d'étudiant, entra, en effet, au bureau. — [Eh !] bien, moi, monsieur Duhamel, reprit Bourdaloue, j"
+Duhamel,Person,PER,14058,14065,,", en effet, au bureau. — Eh ! bien, moi, monsieur [Duhamel], reprit Bourdaloue, je suis bien moins convaincu"
+Bourdaloue,Person,PER,14074,14084,,"ureau. — Eh ! bien, moi, monsieur Duhamel, reprit [Bourdaloue], je suis bien moins convaincu à présent... Cette"

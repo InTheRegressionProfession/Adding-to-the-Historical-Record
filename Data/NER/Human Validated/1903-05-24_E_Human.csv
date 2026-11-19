@@ -1,0 +1,14 @@
+﻿entity,fine_type,coarse_type
+M. LÉPINE,pers.ind,Person
+Pierrot,pers.ind,Person
+Pierrette,pers.ind,Person
+Jeanne,pers.ind,Person
+M. Vidal,pers.ind,Person
+Loin du monde,prod.media,Product
+M. PUIBARAUD,pers.ind,Person
+Paul ANDRÉ,pers.ind.articleauthor,Person
+RUE CHALGRIN,loc.oro,Location
+Glasgow,loc.adm.town,Location
+Mademoiselle Pierrette,pers.ind,Person
+M. HAMARD,pers.ind,Person
+M. BERTILLON,pers.ind,Person

@@ -1,0 +1,28 @@
+﻿entity,fine_type,coarse_type
+abbé Coquet,pers.ind,Person
+M. de Sartine,pers.ind,Person
+Carrouche,pers.ind,Person
+Mandrin,pers.ind,Person
+Bastille,loc.fac,Location
+porte Saint-Antoine,loc.oro,Location
+Arthur Dourliac,pers.ind.articleauthor,Person
+Laurent Delorme,pers.ind,Person
+Aline Lewis,pers.ind,Person
+Rosenn,pers.ind,Person
+Juliette,pers.ind,Person
+Marguerite,pers.ind,Person
+Manon,pers.ind,Person
+Laurent,pers.ind,Person
+Rome,loc.adm.town,Location
+salle Drouot,loc.fac,Location
+Lewis,pers.ind,Person
+Laurent Delorme,pers.ind,Person
+Aline,pers.ind,Person
+Marie THIÉRY,pers.ind.articleauthor,Person
+Docteur Wolf,pers.ind,Person
+M. Passerieux,pers.ind,Person
+Bordeaux,loc.adm.town,Location
+Paris,loc.adm.town,Location
+Pharmacie Girard,org.ent,Organization
+217. Rue Lafayette,loc.add.phys,Location
+"46, rue des Faures",loc.add.phys,Location

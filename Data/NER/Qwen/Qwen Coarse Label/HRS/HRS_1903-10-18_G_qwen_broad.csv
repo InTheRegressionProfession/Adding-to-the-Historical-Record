@@ -1,0 +1,137 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+NE VARIETUR,Product,Product,137,148,,"r avoir 1e Heure exacte, n'achetez que la Montre ""[NE VARIETUR]"" et les Modèles similaires de la Maison J. GIRARD"
+Maison J. GIRARD & Cie,Organization,Organization,182,204,,"tre ""NE VARIETUR"" et les Modèles similaires de la [Maison J. GIRARD & Cie], Successeurs de E. GIRARD & A. BOITTE, 42, Rue de"
+E. GIRARD,Person,Person,221,230,,"ires de la Maison J. GIRARD & Cie, Successeurs de [E. GIRARD] & A. BOITTE, 42, Rue de l'Échiquier, PARIS Plus"
+A. BOITTE,Person,Person,233,242,,"aison J. GIRARD & Cie, Successeurs de E. GIRARD & [A. BOITTE], 42, Rue de l'Échiquier, PARIS Plus de 90 Variét"
+"42, Rue de l'Échiquier",Location,Location,244,266,,"RARD & Cie, Successeurs de E. GIRARD & A. BOITTE, [42, Rue de l'Échiquier], PARIS Plus de 90 Variétés de Montres merveilleu"
+PARIS,Location,Location,268,273,,"de E. GIRARD & A. BOITTE, 42, Rue de l'Échiquier, [PARIS] Plus de 90 Variétés de Montres merveilleuses dep"
+PARIS,Location,Location,268,273,,"de E. GIRARD & A. BOITTE, 42, Rue de l'Échiquier, [PARIS] Plus de 90 Variétés de Montres merveilleuses dep"
+LE CATALOGUE de LUXE,Product,Product,401,421,,tres de prix avec Bulletin de marche vendus avec [LE CATALOGUE de LUXE] contenant les Reproductions photographiques des M
+Bluze,Organization,Organization,1267,1272,,"gnée de la superbe Parure en or avec brillants de [Bluze], formant le plus ravissant et le plus agreable de"
+Librairie des Connaissances Utiles,Organization,Organization,2092,2126,,"de souscription ci-dessous, rempli et signé, à la [Librairie des Connaissances Utiles], 8, r. St-Joseph, Paris. - TITRES DES OUVRAGES D"
+"8, r. St-Joseph",Location,Location,2128,2143,,"t signé, à la Librairie des Connaissances Utiles, [8, r. St-Joseph], Paris. - TITRES DES OUVRAGES DE LA COLLECTION :"
+P. D'AGREMENT,Person,Person,2202,2215,,- TITRES DES OUVRAGES DE LA COLLECTION : Tome 1. [P. D'AGREMENT]. Monté-Léone; Nouvelle Intrigue; Le Fou; Frère et
+Monté-Léone,Product,Product,2217,2228,,UVRAGES DE LA COLLECTION : Tome 1. P. D'AGREMENT. [Monté-Léone]; Nouvelle Intrigue; Le Fou; Frère et Sœur; Justic
+Nouvelle Intrigue,Product,Product,2230,2247,,COLLECTION : Tome 1. P. D'AGREMENT. Monté-Léone; [Nouvelle Intrigue]; Le Fou; Frère et Sœur; Justice Suprême. 110 illu
+Le Fou,Product,Product,2249,2255,,1. P. D'AGREMENT. Monté-Léone; Nouvelle Intrigue; [Le Fou]; Frère et Sœur; Justice Suprême. 110 illust. par
+Frère et Sœur,Product,Product,2257,2270,,AGREMENT. Monté-Léone; Nouvelle Intrigue; Le Fou; [Frère et Sœur]; Justice Suprême. 110 illust. par CARRIER. Tome 2
+Justice Suprême,Product,Product,2272,2287,,-Léone; Nouvelle Intrigue; Le Fou; Frère et Sœur; [Justice Suprême]. 110 illust. par CARRIER. Tome 2 et 3. L. BOUSSEN
+CARRIER,Person,Person,2305,2312,,; Frère et Sœur; Justice Suprême. 110 illust. par [CARRIER]. Tome 2 et 3. L. BOUSSENAUD. Le Secret de Germain
+L. BOUSSENAUD,Person,Person,2327,2340,,ce Suprême. 110 illust. par CARRIER. Tome 2 et 3. [L. BOUSSENAUD]. Le Secret de Germaine. 77 ill. de DAMBLANS. Les
+Le Secret de Germaine,Product,Product,2342,2363,,illust. par CARRIER. Tome 2 et 3. L. BOUSSENAUD. [Le Secret de Germaine]. 77 ill. de DAMBLANS. Les Exploits de Bamboche. 8
+DAMBLANS,Person,Person,2376,2384,,L. BOUSSENAUD. Le Secret de Germaine. 77 ill. de [DAMBLANS]. Les Exploits de Bamboche. 85 ill. de DAMBLANS. T
+Les Exploits de Bamboche,Product,Product,2386,2410,,NAUD. Le Secret de Germaine. 77 ill. de DAMBLANS. [Les Exploits de Bamboche]. 85 ill. de DAMBLANS. Tome 4. H. DEMESSE. L'Enfan
+H. DEMESSE,Person,Person,2441,2451,,xploits de Bamboche. 85 ill. de DAMBLANS. Tome 4. [H. DEMESSE]. L'Enfant de la Mort. 95 illust. de DAMBLANS. La
+L'Enfant de la Mort,Product,Product,2453,2472,,amboche. 85 ill. de DAMBLANS. Tome 4. H. DEMESSE. [L'Enfant de la Mort]. 95 illust. de DAMBLANS. La Fille du Forgeron. 25
+La Fille du Forgeron,Product,Product,2498,2518,,SSE. L'Enfant de la Mort. 95 illust. de DAMBLANS. [La Fille du Forgeron]. 25 illust. de CARRIER. Les Mères rivales. 25 ill
+Les Mères rivales,Product,Product,2543,2560,,ANS. La Fille du Forgeron. 25 illust. de CARRIER. [Les Mères rivales]. 25 illustrations de CARRIER. Tome 5. P. DECOURCE
+P. DECOURCELLE,Person,Person,2599,2613,,res rivales. 25 illustrations de CARRIER. Tome 5. [P. DECOURCELLE]. Le Chapeau gris. 50 illust. de CH. CLERIC. Le Cr
+Le Chapeau gris,Product,Product,2615,2630,,illustrations de CARRIER. Tome 5. P. DECOURCELLE. [Le Chapeau gris]. 50 illust. de CH. CLERIC. Le Crime d'une Sainte.
+CH. CLERIC,Person,Person,2646,2656,,5. P. DECOURCELLE. Le Chapeau gris. 50 illust. de [CH. CLERIC]. Le Crime d'une Sainte. 60 ill. de CH. CLERIC. To
+CLERIC,Person,Person,2650,2656,,. DECOURCELLE. Le Chapeau gris. 50 illust. de CH. [CLERIC]. Le Crime d'une Sainte. 60 ill. de CH. CLERIC. To
+Le Crime d'une Sainte,Product,Product,2658,2679,,CELLE. Le Chapeau gris. 50 illust. de CH. CLERIC. [Le Crime d'une Sainte]. 60 ill. de CH. CLERIC. Tome 6. J. DE GASTYNE. Mè
+J. DE GASTYNE,Person,Person,2712,2725,,rime d'une Sainte. 60 ill. de CH. CLERIC. Tome 6. [J. DE GASTYNE]. Mère crucifiée. 35 ill. de BERNIER. MONET. Les C
+Mère crucifiée,Product,Product,2727,2741,,te. 60 ill. de CH. CLERIC. Tome 6. J. DE GASTYNE. [Mère crucifiée]. 35 ill. de BERNIER. MONET. Les Crimes de Grand C
+BERNIER,Person,Person,2754,2761,,Tome 6. J. DE GASTYNE. Mère crucifiée. 35 ill. de [BERNIER]. MONET. Les Crimes de Grand Chemin. 120 ill. de C
+MONET,Person,Person,2763,2768,,. DE GASTYNE. Mère crucifiée. 35 ill. de BERNIER. [MONET]. Les Crimes de Grand Chemin. 120 ill. de CARRIER.
+Les Crimes de Grand Chemin,Product,Product,2770,2796,,STYNE. Mère crucifiée. 35 ill. de BERNIER. MONET. [Les Crimes de Grand Chemin]. 120 ill. de CARRIER. Tome 7 et 8. CH. MÉROVI. La
+CH. MÉROVI,Person,Person,2832,2842,,e Grand Chemin. 120 ill. de CARRIER. Tome 7 et 8. [CH. MÉROVI]. La Fille de l'Amant. 101 ill. de DAMBLANS et LEM
+La Fille de l'Amant,Product,Product,2844,2863,,in. 120 ill. de CARRIER. Tome 7 et 8. CH. MÉROVI. [La Fille de l'Amant]. 101 ill. de DAMBLANS et LEMAITRE (1 volume). Vie
+LEMAITRE,Person,Person,2889,2897,,OVI. La Fille de l'Amant. 101 ill. de DAMBLANS et [LEMAITRE] (1 volume). Vierge et Deshonoree. 85 Illustration
+Vierge et Deshonoree,Product,Product,2910,2930,,ant. 101 ill. de DAMBLANS et LEMAITRE (1 volume). [Vierge et Deshonoree]. 85 Illustrations de DAMBLANS et LEMAITRE (1 volu
+MORET,Person,Person,2999,3004,,de DAMBLANS et LEMAITRE (1 volume). Tome 9 et 10. [MORET]. Confessions galantes de Mme de Lavalière; Confes
+Confessions galantes de Mme de Lavalière,Product,Product,3006,3046,,LANS et LEMAITRE (1 volume). Tome 9 et 10. MORET. [Confessions galantes de Mme de Lavalière]; Confessions galantes de Mme Dunarry; Confessions
+Mme de Lavalière,Person,Person,3030,3046,,me). Tome 9 et 10. MORET. Confessions galantes de [Mme de Lavalière]; Confessions galantes de Mme Dunarry; Confessions
+Confessions galantes de Mme Dunarry,Product,Product,3048,3083,,MORET. Confessions galantes de Mme de Lavalière; [Confessions galantes de Mme Dunarry]; Confessions galantes de Ninon de Lenclos; Mme de
+Mme Dunarry,Person,Person,3072,3083,,ntes de Mme de Lavalière; Confessions galantes de [Mme Dunarry]; Confessions galantes de Ninon de Lenclos; Mme de
+Confessions galantes de Ninon de Lenclos,Product,Product,3085,3125,,e Lavalière; Confessions galantes de Mme Dunarry; [Confessions galantes de Ninon de Lenclos]; Mme de Pompadour. Ces 4 vol. ornés de plus de 20
+Ninon de Lenclos,Person,Person,3109,3125,,galantes de Mme Dunarry; Confessions galantes de [Ninon de Lenclos]; Mme de Pompadour. Ces 4 vol. ornés de plus de 20
+Mme de Pompadour,Person,Person,3127,3143,,unarry; Confessions galantes de Ninon de Lenclos; [Mme de Pompadour]. Ces 4 vol. ornés de plus de 200 grav. des meille
+G. OHNET,Person,Person,3222,3230,,200 grav. des meilleurs artistes. Tome 11 et 12. [G. OHNET]. Serpe Fandine; la Grande Marnière; les Dames de
+Serpe Fandine,Product,Product,3232,3245,,des meilleurs artistes. Tome 11 et 12. G. OHNET. [Serpe Fandine]; la Grande Marnière; les Dames de Croix Mort; Lis
+la Grande Marnière,Product,Product,3247,3265,,artistes. Tome 11 et 12. G. OHNET. Serpe Fandine; [la Grande Marnière]; les Dames de Croix Mort; Lise Fleuron; Dernier A
+les Dames de Croix Mort,Product,Product,3267,3290,,12. G. OHNET. Serpe Fandine; la Grande Marnière; [les Dames de Croix Mort]; Lise Fleuron; Dernier Amour; Volonté; le docteur
+Lise Fleuron,Product,Product,3292,3304,,ine; la Grande Marnière; les Dames de Croix Mort; [Lise Fleuron]; Dernier Amour; Volonté; le docteur Rameau. Tous
+Dernier Amour,Product,Product,3306,3319,,Marnière; les Dames de Croix Mort; Lise Fleuron; [Dernier Amour]; Volonté; le docteur Rameau. Tous ces ouvrages or
+Volonté,Product,Product,3321,3328,,Dames de Croix Mort; Lise Fleuron; Dernier Amour; [Volonté]; le docteur Rameau. Tous ces ouvrages ornés de pl
+le docteur Rameau,Product,Product,3330,3347,,Croix Mort; Lise Fleuron; Dernier Amour; Volonté; [le docteur Rameau]. Tous ces ouvrages ornés de plus de 200 ill. dess
+P. DESTEZ,Person,Person,3415,3424,,"s ornés de plus de 200 ill. dessinées par CLERIC. [P. DESTEZ], SAHIB, TOFANI, etc. Tome 13. E. RICHÉBOURG. Cend"
+SAHIB,Person,Person,3426,3431,,"plus de 200 ill. dessinées par CLERIC. P. DESTEZ, [SAHIB], TOFANI, etc. Tome 13. E. RICHÉBOURG. Cendrier. 1"
+TOFANI,Person,Person,3433,3439,,"200 ill. dessinées par CLERIC. P. DESTEZ, SAHIB, [TOFANI], etc. Tome 13. E. RICHÉBOURG. Cendrier. 153 illus"
+E. RICHÉBOURG,Person,Person,3455,3468,,"r CLERIC. P. DESTEZ, SAHIB, TOFANI, etc. Tome 13. [E. RICHÉBOURG]. Cendrier. 153 illust. de DAMBLANS. Tome 14. E. T"
+Cendrier,Product,Product,3470,3478,,"STEZ, SAHIB, TOFANI, etc. Tome 13. E. RICHÉBOURG. [Cendrier]. 153 illust. de DAMBLANS. Tome 14. E. TAILLEBOURG"
+E. TAILLEBOURG,Person,Person,3514,3528,,OURG. Cendrier. 153 illust. de DAMBLANS. Tome 14. [E. TAILLEBOURG]. Les Cloches de Gorneville. 100 illustrations de
+Les Cloches de Gorneville,Product,Product,3530,3555,,153 illust. de DAMBLANS. Tome 14. E. TAILLEBOURG. [Les Cloches de Gorneville]. 100 illustrations de CARRIER (1 volume). Tome 15
+Gorneville,Location,Location,3545,3555,,DAMBLANS. Tome 14. E. TAILLEBOURG. Les Cloches de [Gorneville]. 100 illustrations de CARRIER (1 volume). Tome 15
+VILLEMER,Person,Person,3607,3615,,100 illustrations de CARRIER (1 volume). Tome 15. [VILLEMER]. Les Crimes d'un Ange. 104 illustrations de CARRI
+Les Crimes d'un Ange,Product,Product,3617,3637,,rations de CARRIER (1 volume). Tome 15. VILLEMER. [Les Crimes d'un Ange]. 104 illustrations de CARRIER (1 volume). P.-S.
+Librairie des Connaissances Utiles,Organization,Organization,3920,3954,,"acher et retourner sous enveloppe affranchie à la [Librairie des Connaissances Utiles], 8, r. St-Joseph, Paris. Noms et Prénoms \_\_\_\"
+"8, r. St-Joseph, Paris",Location,Location,3956,3978,,"franchie à la Librairie des Connaissances Utiles, [8, r. St-Joseph, Paris]. Noms et Prénoms \_\_\_\_\_ Profession \_\_\_\_\"
+BLUZE,Organization,Organization,4253,4258,,"sidéré comme nul. PARURE EN OR AVEC BRILLANTS DE [BLUZE] Valeur commerciale 75 francs, offerte gratuitemen"
+BRIATTE Fils,Organization,Organization,4456,4468,,"appareils spéciaux. — ÉCONOMIE 250 C/D. Ecrire à [BRIATTE Fils], PRÉMONT (Aisne). CADEAUX UTILES NOUVEAUX ALBUMS"
+PRÉMONT,Location,Location,4470,4477,,"ciaux. — ÉCONOMIE 250 C/D. Ecrire à BRIATTE Fils, [PRÉMONT] (Aisne). CADEAUX UTILES NOUVEAUX ALBUMS DE CARTE"
+Aisne,Location,Location,4479,4484,,"ÉCONOMIE 250 C/D. Ecrire à BRIATTE Fils, PRÉMONT ([Aisne]). CADEAUX UTILES NOUVEAUX ALBUMS DE CARTES POSTA"
+Petit Journal,Organization,Organization,4557,4570,,"EAUX ALBUMS DE CARTES POSTALES de la Papeterie du [Petit Journal] - N° 20. — Album 200 cartes, 2 à la page, format"
+r. Gonet,Location,Location,5452,5460,,"ise SUR LE CATALOGUE Ecrivez ou s'adresser 5-7-9, [r. Gonet], Paris (XIe) VOULEZ-VOUS RIRE ?? Demand. tous à"
+Paris,Location,Location,5462,5467,,"CATALOGUE Ecrivez ou s'adresser 5-7-9, r. Gonet, [Paris] (XIe) VOULEZ-VOUS RIRE ?? Demand. tous à DONADEY"
+DONADEY,Organization,Organization,5510,5517,,", Paris (XIe) VOULEZ-VOUS RIRE ?? Demand. tous à [DONADEY], 53, R. N.-D.-de-Nazareth, Paris ses Catalog. ill"
+R. N.-D.-de-Nazareth,Location,Location,5523,5543,,"VOULEZ-VOUS RIRE ?? Demand. tous à DONADEY, 53, [R. N.-D.-de-Nazareth], Paris ses Catalog. illustr. de farces, attrapes,"
+RIGAUT,Organization,Organization,5861,5867,,"mètres. TUE-MOINEAUX: 4'80 (Armes nouv.) Catalog. [RIGAUT]. Inv.-Fab. 26, Rue du Temple, 26, PARIS. IVROGNE"
+Rue du Temple,Location,Location,5883,5896,,"4'80 (Armes nouv.) Catalog. RIGAUT. Inv.-Fab. 26, [Rue du Temple], 26, PARIS. IVROGNES corrigées à jamais, même à"
+Luper,Organization,Organization,5978,5983,,"à jamais, même à leur insu par la Lupérine. Ecr. [Luper], 32, r. Boursault, Paris. CADEAU PRIME à TOUT AC"
+r. Boursault,Location,Location,5989,6001,,"même à leur insu par la Lupérine. Ecr. Luper, 32, [r. Boursault], Paris. CADEAU PRIME à TOUT ACHETEUR et Envoi Gr"
+COMPTOIR NATIONAL D'HORLOGERIE,Organization,Organization,6099,6129,,"Gratuit et Franco du Nouveau Album illustré de 6e [COMPTOIR NATIONAL D'HORLOGERIE] de BESANCON (Doubs). E. DUPAS, Directeur. La plus"
+BESANCON,Location,Location,6133,6141,,"illustré de 6e COMPTOIR NATIONAL D'HORLOGERIE de [BESANCON] (Doubs). E. DUPAS, Directeur. La plus importante"
+Doubs,Location,Location,6143,6148,,"de 6e COMPTOIR NATIONAL D'HORLOGERIE de BESANCON ([Doubs]). E. DUPAS, Directeur. La plus importante fabriqu"
+E. DUPAS,Person,Person,6151,6159,,"MPTOIR NATIONAL D'HORLOGERIE de BESANCON (Doubs). [E. DUPAS], Directeur. La plus importante fabrique de Montre"
+LA NATIONALLE,Product,Product,6249,6262,,"de Montres, Pendules et Bijouterie. Chronomètre ""[LA NATIONALLE]"" 25 fr. PRÉCISION ABSOLUE. GARANTIE 10 ANS. BEAU"
+Crème Loris,Product,Product,6482,6493,,"iples-mentons, etc. disparaissent à jamais par la [Crème Loris], le plus beau produit de la Farine hongroise. Le"
+J. Posol,Person,Person,6837,6845,,"e fois. La boîte trois francs. Mandat ou timbres. [J. Posol], chim., 4e Filles-du-Calvaire, 20, Paris. Notice"
+Filles-du-Calvaire,Location,Location,6857,6875,,"is francs. Mandat ou timbres. J. Posol, chim., 4e [Filles-du-Calvaire], 20, Paris. Notice gratis. CHASSEURS! Fusils de"
+COMPTOIR UNIVERSEL DE FRANCE,Organization,Organization,6951,6979,,". CHASSEURS! Fusils de Chasse Depuis 5 Catalogue [COMPTOIR UNIVERSEL DE FRANCE] 60, rue de Provence, PARIS TRES RARE 18 petits L"
+rue de Provence,Location,Location,6984,6999,,"puis 5 Catalogue COMPTOIR UNIVERSEL DE FRANCE 60, [rue de Provence], PARIS TRES RARE 18 petits Livres amusants, joye"
+Paris,Location,Location,7174,7179,,"br. poste. Nos Rirolade Modano. 11, r. Eustorgia, [Paris]. L'Avenir L'art de lire les cartes d'après les p"
+L'Avenir,Product,Product,7182,7190,,"e. Nos Rirolade Modano. 11, r. Eustorgia, Paris. [L'Avenir] L'art de lire les cartes d'après les plus grandes"
+BOHAIN,Location,Location,7407,7413,,"structions, contre 75 cent. J. Pierre, Chimiste à [BOHAIN] (Aisne). ANGLAIS ALLEM. ITAL. ESP. RUSS. PORTU."
+Aisne,Location,Location,7415,7420,,"ns, contre 75 cent. J. Pierre, Chimiste à BOHAIN ([Aisne]). ANGLAIS ALLEM. ITAL. ESP. RUSS. PORTU. esp. SE"
+France,Location,Location,7701,7707,,"T. Preuve-essai, 1 langue, 60, envoie 30 c. (hors [France] 1 fr.) mand. ou timb. poste française à Maître Po"
+Maître Populaire,Organization,Organization,7748,7764,,"rs France 1 fr.) mand. ou timb. poste française à [Maître Populaire], 13-2, r. Moulignon, Paris. Avant. Après 8 jours"
+LA SÈVE CAPILLAIRE,Product,Product,7815,7833,,"13-2, r. Moulignon, Paris. Avant. Après 8 jours [LA SÈVE CAPILLAIRE] fait pousser la barbe et les moustaches magnifiqu"
+J. Posol,Person,Person,8107,8115,,"2 fr.; le doub. pot d'essai, 0,75 timb. ou mand. [J. Posol], chim., 4e Filles-du-Calvaire, 20, Paris. PUISSA"
+Tonor,Person,Person,8330,8335,,"près comme de loin. Renoncement. gratis. Ecrire à [Tonor], 90, rue des Boulets, Paris. NOTICE donnant le m"
+M. le Directeur du comptoir d'agriculture,Person,Person,8512,8553,,"ême par les froids de l'hiver, 2500 C/US Ecrire à [M. le Directeur du comptoir d'agriculture] à PRÉMONT (Aisne). CYCLES MÉRICANT Fres MAISON D"
+PRÉMONT,Location,Location,8556,8563,,ire à M. le Directeur du comptoir d'agriculture à [PRÉMONT] (Aisne). CYCLES MÉRICANT Fres MAISON DE CONFIANC
+CYCLES MÉRICANT,Organization,Organization,8574,8589,,"eur du comptoir d'agriculture à PRÉMONT (Aisne). [CYCLES MÉRICANT] Fres MAISON DE CONFIANCE - 80, r. de Passy, Paris"
+G. LASSEUR,Person,Person,8704,8714,,"co. PRIX de GROS aux Intermédiaires. LE GÉRANT : [G. LASSEUR]. D. CASSIGNEL, Imprimeur, 61, rue Lafayette, Par"
+D. CASSIGNEL,Person,Person,8717,8729,,"ROS aux Intermédiaires. LE GÉRANT : G. LASSEUR. [D. CASSIGNEL], Imprimeur, 61, rue Lafayette, Paris Imprimé sur"
+MERION,Organization,Organization,8815,8821,,s Imprimé sur la machine rotative chromo-type de [MERION] (Encres Lorilleux) MOUSTACHE et barbe à 15 ans e
+Lorilleux,Organization,Organization,8830,8839,,la machine rotative chromo-type de MERION (Encres [Lorilleux]) MOUSTACHE et barbe à 15 ans en 44 jours par la
+VIGOURAL,Product,Product,8897,8905,,"ACHE et barbe à 15 ans en 44 jours par la pommade [VIGOURAL]. Fait repousser cheveux, cils et sourcils. Envoi"
+A. JANSEN,Person,Person,8988,8997,,"sourcils. Envoi discret 0 f. 75 timb. ou mand. à [A. JANSEN], inv., 15, r. du Sentier, PARIS. XOUR Si vous cr"
+XOUR,Product,Product,9032,9036,,"nd. à A. JANSEN, inv., 15, r. du Sentier, PARIS. [XOUR] Si vous craignez Contagions, Pellicules, Calvitie"
+STOMACHIQUE SERRETTE,Product,Product,9488,9508,,sont soulagés de suite et toujours guéris par le [STOMACHIQUE SERRETTE] Cure d'un mois : 5 fr. — 1 boîte : 1 fr. 25 fr. —
+SERRETTE,Organization,Organization,9500,9508,,és de suite et toujours guéris par le STOMACHIQUE [SERRETTE] Cure d'un mois : 5 fr. — 1 boîte : 1 fr. 25 fr. —
+Besançon,Location,Location,9579,9587,,"r. — 1 boîte : 1 fr. 25 fr. — Reprise à SERRETTE, [Besançon] (Doubs). 1 fr. la boîte, 1er pharm. LAMPE MERVEI"
+Doubs,Location,Location,9589,9594,,"te : 1 fr. 25 fr. — Reprise à SERRETTE, Besançon ([Doubs]). 1 fr. la boîte, 1er pharm. LAMPE MERVEILLEUSE"
+LAMPE MERVEILLEUSE,Product,Product,9625,9643,,"TE, Besançon (Doubs). 1 fr. la boîte, 1er pharm. [LAMPE MERVEILLEUSE] à ACÉTYLÈNE Puissance d'éclairage incomparable au"
+GEORGES,Organization,Organization,9785,9792,,"lampes électrique et nouveaux divers. fr. 5. det [GEORGES], fab., 55, r. Montmartre, Paris UN DOCTEUR espri"
+r. Montmartre,Location,Location,9804,9817,,"et nouveaux divers. fr. 5. det GEORGES, fab., 55, [r. Montmartre], Paris UN DOCTEUR esprit offre à tous le moyen d"
+Paris,Location,Location,9819,9824,,"ers. fr. 5. det GEORGES, fab., 55, r. Montmartre, [Paris] UN DOCTEUR esprit offre à tous le moyen de guéri"
+Tonor,Person,Person,9984,9989,,"iques et morales. Renseignements gratis. Ecrire à [Tonor], 90, rue des Boulets, Paris. GRATIS 1 chanson av"
+rue des Boulets,Location,Location,9995,10010,,"rales. Renseignements gratis. Ecrire à Tonor, 90, [rue des Boulets], Paris. GRATIS 1 chanson avec musique, 4 chanson"
+R. Niolet,Person,Person,10154,10163,,"ratis fr. à tous ceux qui envoient leur adresse à [R. Niolet], 23, r. St-S. bin, Paris PEIGNE POUR TEINDRE CHE"
+r. St-S. bin,Location,Location,10169,10181,,"s ceux qui envoient leur adresse à R. Niolet, 23, [r. St-S. bin], Paris PEIGNE POUR TEINDRE CHEVEUX, BARBE, MOUST"
+Peigne Merveilleux,Product,Product,10256,10274,,"DRE CHEVEUX, BARBE, MOUSTACHE, en quatre coups du [Peigne Merveilleux] — BRUN, BLOU, NOIR. Prix : 0 francs. (Envoi discr"
+CLAULA,Organization,Organization,10381,10387,,"diquer la province — Adressez timbres ou mandats. [CLAULA], rue Saint-Patrick, 3, Toulouse GRATIS PORTRAITS"
+rue Saint-Patrick,Location,Location,10389,10406,,"a province — Adressez timbres ou mandats. CLAULA, [rue Saint-Patrick], 3, Toulouse GRATIS PORTRAITS Le Soussigné, Dir"
+Toulouse,Location,Location,10411,10419,,"timbres ou mandats. CLAULA, rue Saint-Patrick, 3, [Toulouse] GRATIS PORTRAITS Le Soussigné, Directeur de la"
+Société Artistique DE PORTRAITS,Organization,Organization,10469,10500,,"GRATIS PORTRAITS Le Soussigné, Directeur de la [Société Artistique DE PORTRAITS], s'engage formellement à faire dans le délai d'un"
+M. A. TANQUEREY,Person,Person,11006,11021,,"nvoyer par la poste avec cette annonce détachée à [M. A. TANQUEREY], Directeur, 22, Rue de Turin, Paris, elle vous se"
+A. TANQUEREY,Person,Person,11009,11021,,"yer par la poste avec cette annonce détachée à M. [A. TANQUEREY], Directeur, 22, Rue de Turin, Paris, elle vous se"
+Rue de Turin,Location,Location,11038,11050,,"nnonce détachée à M. A. TANQUEREY, Directeur, 22, [Rue de Turin], Paris, elle vous sera retournée intacte avec le"
+Association des Rentiers,Organization,Organization,11317,11341,,"rnal. Lu et approuvé : A. TANQUEREY, Directeur. [Association des Rentiers] Constituée conformément aux prescriptions de la"
+1er Juillet 1901,Time,Time,11398,11414,,ituée conformément aux prescriptions de la Loi du [1er Juillet 1901] et d'après Statuts publiés au Journal Officiel du
+Journal Officiel,Product,Product,11445,11461,,du 1er Juillet 1901 et d'après Statuts publiés au [Journal Officiel] du 22 Janv. 1903. Cette Association a été fondée
+22 Janv. 1903,Time,Time,11465,11478,,et d'après Statuts publiés au Journal Officiel du [22 Janv. 1903]. Cette Association a été fondée dans le but exclu
+"3, Rue de Mogador",Location,Location,11904,11921,,"ur sa demande adressée au Siège de l'Association, [3, Rue de Mogador], à Paris, en recevra les statuts et le Journal he"
+Paris,Location,Location,11925,11930,,"e au Siège de l'Association, 3, Rue de Mogador, à [Paris], en recevra les statuts et le Journal hebdomadair"

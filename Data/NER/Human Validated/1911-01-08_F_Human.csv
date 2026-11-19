@@ -1,0 +1,82 @@
+﻿entity,fine_type,coarse_type
+Arlette,pers.ind,Person
+Maurice,pers.ind,Person
+Havre,loc.adm.town,Location
+Maurice,pers.ind,Person
+Mme de Holberg,pers.ind,Person
+Maurice Le Courant,pers.ind,Person
+Mme de Stolberg,pers.ind,Person
+France,loc.adm.nat,Location
+docteur Chanteloup,pers.ind,Person
+Mme de Stolberg,pers.ind,Person
+Maurice Le Courant,pers.ind,Person
+Neva,loc.phys.hydro,Location
+Max REBOUL,pers.ind.articleauthor,Person
+M. Vincent,pers.ind,Person
+" 8, place Victor-Hugo",loc.add.phys,Location
+Grenoble,loc.adm.town,Location
+rue des Chantiers,loc.oro,Location
+Versailles,loc.adm.town,Location
+Riaux,pers.ind,Person
+Provost,pers.ind,Person
+Rioux,pers.ind,Person
+Prévost,pers.ind,Person
+rue des Réservoirs,loc.oro,Location
+avenue de Paris,loc.oro,Location
+Maria,pers.ind,Person
+Banque de France,org.ent,Organization
+Jacquot,pers.ind,Person
+Chartres,loc.adm.town,Location
+Mme Jeanne Dufex,pers.ind,Person
+M. Gablin,pers.ind,Person
+Mme Dufex,pers.ind,Person
+"18, rue Crillon",loc.add.phys,Location
+Lyon,loc.adm.town,Location
+Rhône,loc.adm.reg,Location
+Pharmacie Gablin,org.ent,Organization
+"23, rue Ballu, Paris",loc.add.phys,Location
+Paris,loc.adm.town,Location
+Mlle Jeanne DUFEX Cl.,pers.ind,Person
+Cavaroc,loc.adm.town,Location
+Wm. S. Rice,pers.ind,Person
+" 8/9, STONECUTTER STREET, LONDRES",loc.add.phys,Location
+ANGLETERRE,loc.adm.nat,Location
+Herfeld & Comp.,org.ent,Organization
+Neuenrade,loc.adm.town,Location
+Allemagne,loc.adm.nat,Location
+"27, Boulevard St-Martin",loc.add.phys,Location
+Fernand CLEMENT,pers.ind,Person
+Levallois-Perret,loc.adm.town,Location
+Seine,loc.adm.reg,Location
+AUDIOPHONEX Lucq.,org.ent,Organization
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

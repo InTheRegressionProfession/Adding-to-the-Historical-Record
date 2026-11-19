@@ -1,0 +1,55 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Chambre,org.adm,Organization,org.adm,44,51,,EXPLICATION DE NOS GRAVURESLa rentrée de la [Chambre] L'OUVRIER : « ON ÉTAIT PLUS TRANQUILLE SANS EUX
+L'OUVRIER,prod.media,Product,prod.media,53,62,,LICATION DE NOS GRAVURESLa rentrée de la Chambre [L'OUVRIER] : « ON ÉTAIT PLUS TRANQUILLE SANS EUX ! » « Ouf
+Patrie,loc.adm.nat,Location,loc.adm.nat,565,571,,"r, une fois de plus, leur santé sur l'autel de la [Patrie]. De nouveau, les paroles haineuses, inutiles, da"
+Paris,loc.adm.town,Location,loc.adm.town,2326,2331,,"ite à l'un de nos grands hôpitaux des environs de [Paris], la charmante princesse française, qui présidait"
+Portugal,loc.adm.nat,Location,loc.adm.nat,2443,2451,,"grâce et d'amabilité aux destinées du royaume de [Portugal], eut un mot charmant : « Il n'y a que dans notre"
+France,loc.adm.nat,Location,loc.adm.nat,2514,2520,,charmant : « Il n'y a que dans notre beau pays de [France] que l'on trouve autant d'abnégation et de dévouem
+Amélie,pers.ind,Person,pers.ind,2709,2715,,malades sont vraiment admirables. » Et la reine [Amélie] a raison. Elles sont admirables ces femmes de Fra
+Assistance publique,org.ent,Organization,org.ent,2898,2917,,élégant petit bonnet à cocarde bleu et rouge de l'[Assistance publique] ou la blanche cornette des Filles de la charité !
+Filles de la charité,org.ent,Organization,org.ent,2945,2965,,"l'Assistance publique ou la blanche cornette des [Filles de la charité] ! Il n'est qu'un cri à cet égard, et la juste com"
+M. Mesureur,pers.ind,Person,pers.ind,3387,3398,,"ont eu, ces jours derniers, une petite surprise : [M. Mesureur], le nouveau directeur de l'Assistance publique, a"
+rue Chalgrin,loc.oro,Location,loc.oro,4381,4393,,aux malades et à leurs visiteurs. Le crime de la [rue Chalgrin] ARRÊSTATION DE L'ASSASSIN A GLASGOW Une demi-mo
+GLASGOW,loc.adm.town,Location,loc.adm.town,4423,4430,,"e de la rue Chalgrin ARRÊSTATION DE L'ASSASSIN A [GLASGOW] Une demi-mondaine, Berthe de Brienne, a été assa"
+Berthe de Brienne,pers.ind,Person,pers.ind,4451,4468,,"ATION DE L'ASSASSIN A GLASGOW Une demi-mondaine, [Berthe de Brienne], a été assassinée ces jours derniers dans son app"
+Passy,loc.adm.town,Location,loc.adm.town,4549,4554,,"rniers dans son appartement de la rue Chalgrin, à [Passy]. Le commissaire de police du quartier, s'étant r"
+M. Lépine,pers.ind,Person,pers.ind,4900,4909,,"diciaire mise en branle. Méthodiquement, grâce à [M. Lépine], qui a su donner un très heureux développement au"
+Allemagne,loc.adm.nat,Location,loc.adm.nat,5100,5109,,", après quatre jours seulement de recherches, en [Allemagne], en Belgique, en Hollande, l'assassin, Jules Mart"
+Belgique,loc.adm.nat,Location,loc.adm.nat,5114,5122,,"jours seulement de recherches, en Allemagne, en [Belgique], en Hollande, l'assassin, Jules Martin, fut arrêt"
+Hollande,loc.adm.nat,Location,loc.adm.nat,5127,5135,,"ent de recherches, en Allemagne, en Belgique, en [Hollande], l'assassin, Jules Martin, fut arrêté à Glasgow."
+Jules Martin,pers.ind,Person,pers.ind,5149,5161,,"Allemagne, en Belgique, en Hollande, l'assassin, [Jules Martin], fut arrêté à Glasgow. C'est un joli tour de forc"
+Martin,pers.ind,Person,pers.ind,5155,5161,,"agne, en Belgique, en Hollande, l'assassin, Jules [Martin], fut arrêté à Glasgow. C'est un joli tour de forc"
+Glasgow,loc.adm.town,Location,loc.adm.town,5176,5183,,"Hollande, l'assassin, Jules Martin, fut arrêté à [Glasgow]. C'est un joli tour de force ! Les agents des br"
+M. Louis Puibaraud,pers.ind,Person,pers.ind,5302,5320,,"es sont groupés sous une même direction, celle de [M. Louis Puibaraud], un chef avisé, d'une expérience consommée, qui a"
+M. Hamard,pers.ind,Person,pers.ind,5707,5716,,"derniers rouages de l'organisation préfectorale, [M. Hamard], le distingué et habile chef de la sûreté, et M."
+M. Bertillon,pers.ind,Person,pers.ind,5763,5775,,"ard, le distingué et habile chef de la sûreté, et [M. Bertillon], le savant modeste, dont le système anthropométri"
+Bertillon,pers.ind,Person,pers.ind,5766,5775,,", le distingué et habile chef de la sûreté, et M. [Bertillon], le savant modeste, dont le système anthropométri"
+Ecosse,loc.adm.reg,Location,loc.adm.reg,6685,6691,,mber Martin entre les mains des agents à Glasgow ([Ecosse]). Ce sont deux inspecteurs de la sûreté parisien
+paris,loc.adm.town,Location,loc.adm.town,6733,6738,,"(Ecosse). Ce sont deux inspecteurs de la sûreté [paris]ienne : le brigadier Christaud, et l'inspecteur De"
+Christaud,pers.ind,Person,pers.ind,6759,6768,,"nspecteurs de la sûreté parisienne : le brigadier [Christaud], et l'inspecteur Debischopp, accompagnés de détec"
+Debischopp,pers.ind,Person,pers.ind,6786,6796,,"isienne : le brigadier Christaud, et l'inspecteur [Debischopp], accompagnés de détectives qui, faisant irruption"
+Swan,loc.fac,Location,loc.fac,6874,6878,,"qui, faisant irruption dans la chambre de l'hôtel [Swan], s'emparèrent de l'assassin. Il va être ramené p"
+Mlle Vaubert,pers.ind,Person,pers.ind,7079,7091,,"ine Entre autres amis, j'avais reçu, ce soir-là, [Mlle Vaubert] et son cousin René Dubrill. Celui-ci, à l'autre b"
+René Dubrill,pers.ind,Person,pers.ind,7106,7118,,"vais reçu, ce soir-là, Mlle Vaubert et son cousin [René Dubrill]. Celui-ci, à l'autre bout du salon, interrompant"
+Mlle Vaubert,pers.ind,Person,pers.ind,7340,7352,,e ou cruel dans sa vie ? J'étais assis auprès de [Mlle Vaubert]. Cette exclamation la fit tressaillir. Une pâleur
+Normandie,loc.adm.reg,Location,loc.adm.reg,8090,8099,,"saccadée d'émotion : — C'était sur une plage de [Normandie], cinq ans après la guerre. Nous habitions l'hôtel"
+René Dubrill,pers.ind,Person,pers.ind,8171,8183,,"erre. Nous habitions l'hôtel, ma mère, mon cousin [René Dubrill] et moi. J'étais toute jeune fille. Je me savais j"
+Dubrill,pers.ind,Person,pers.ind,8176,8183,,"Nous habitions l'hôtel, ma mère, mon cousin René [Dubrill] et moi. J'étais toute jeune fille. Je me savais j"
+René,pers.ind,Person,pers.ind,11391,11395,,"ute de quelque chose, il a peur ! » insinuai-je à [René]. Et René le croyait. Un soir, en dépit d'une raf"
+René,pers.ind,Person,pers.ind,12251,12255,,"le pour lui tendre... Sans même finir sa phrase, [René] allait s'élancer. Deux matelots le retinrent, tan"
+Verneuil,loc.adm.town,Location,loc.adm.town,15246,15254,,"enant du génie en 1870, faisant sauter le pont de [Verneuil] devant les Prussiens j'ai eu les deux bras écrasé"
+Prussiens,pers.coll,Person,pers.coll,15266,15275,,"70, faisant sauter le pont de Verneuil devant les [Prussiens] j'ai eu les deux bras écrasés jusqu'au coude. Dan"
+Mlle Vaubert,pers.ind,Person,pers.ind,15522,15534,,"gnons ! Un frisson me saisit et me glaça, reprit [Mlle Vaubert], dès que l'émotion de ce souvenir poignant lui pe"
+Dubrill,pers.ind,Person,pers.ind,15638,15645,,"d'achever, et sans même remarquer que son cousin [Dubrill] se rapprochait et l'écoutait. L'homme à la pèleri"
+René Dubrill,pers.ind,Person,pers.ind,15871,15883,,"'avais fait ! — Et c'est moi qui l'explique, fit [René Dubrill], dans son sans-gêne d'interrupteur ; car, depuis,"
+Charles FOLEY,pers.ind.articleauthor,Person,pers.ind.articleauthor,16064,16077,,'injustice et la cruauté... qu'elle a commises ! [Charles FOLEY]. LA ROMANCE DE JOCONDE Mon professeur de mathém
+LA ROMANCE DE JOCONDE,prod.media,Product,prod.media,16080,16101,,cruauté... qu'elle a commises ! Charles FOLEY. [LA ROMANCE DE JOCONDE] Mon professeur de mathématiques était un homme p
+Saint-Cyr,loc.fac,Location,loc.fac,16711,16720,,"dée m'était venue, mes classes finies, d'entrer à [Saint-Cyr] ; mon père résolut de me confier à lui, le croyan"
+M. Bouteloup,pers.ind,Person,pers.ind,16873,16885,,"aptitudes, voire même de me préparer au besoin. [M. Bouteloup], comme beaucoup de professeurs de petites villes,"
+Bouteloup,pers.ind,Person,pers.ind,16876,16885,,"titudes, voire même de me préparer au besoin. M. [Bouteloup], comme beaucoup de professeurs de petites villes,"
+Mme Bouteloup,pers.ind,Person,pers.ind,17781,17794,,"s de ses classes par des répétitions nombreuses. [Mme Bouteloup], une petite femme d'une trentaine d'années, un pe"
+Figaro,prod.media,Product,prod.media,18164,18170,,"rès d'elle à l'heure matinale où elle confiait au [Figaro] à la mode, gazette ambulante de l'endroit, une op"
+famille Bouteloup,pers.coll,Person,pers.coll,19075,19092,,"p était un jeune poète de talent. Un jour que la [famille Bouteloup] et moi, par surcroît, avions été invités chez le"
+Lamartine,pers.ind,Person,pers.ind,19451,19460,,"re qualité, mais il me fit plaisir tout de même. [Lamartine], que je traitais alors de poète pour dames, n'a-t"
+Saint-Cyr,org.ent,Organization,org.ent,20600,20609,,"de lycée, de trois ans plus âgé que moi, sorti de [Saint-Cyr] l'année précédente, et heureux de retrouver un co"
+Paul Liseois,pers.ind,Person,pers.ind,20678,20690,,", et heureux de retrouver un compagnon de bahut. [Paul Liseois] était un charmant garçon et un bon camarade : la"

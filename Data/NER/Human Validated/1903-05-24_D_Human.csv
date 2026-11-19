@@ -1,0 +1,45 @@
+﻿entity,fine_type,coarse_type
+Claire,pers.ind,Person
+Jean,pers.ind,Person
+André,pers.ind,Person
+PIERRE VERNOU,pers.ind.articleauthor,Person
+professeur Busch,pers.ind,Person
+Jenner,pers.ind,Person
+"Paris, 10, rue des Bons-Enfants",loc.add.phys,Location
+Absalon,pers.ind,Person
+Docteur RIOU-DELMET,pers.ind.articleauthor,Person
+JOHN TAVERNIER,pers.ind,Person
+docteur Daudôlat,pers.ind,Person
+M. Pasteur,pers.ind,Person
+M. Claverie,pers.ind,Person
+Paris,loc.adm.town,Location
+Monsieur Claverie,pers.ind,Person
+Edmond VAUTIER,pers.ind,Person
+Villa des Pins,loc.fac,Location
+Lamotte-Beurre,loc.adm.town,Location
+Loir-et-Cher,loc.adm.reg,Location
+"234, Faubourg Saint-Martin",loc.add.phys,Location
+M. Vincent,pers.ind,Person
+"8, place Victor-Hugo",loc.add.phys,Location
+Grenoble,loc.adm.town,Location
+Monsieur Prud'homme,pers.ind,Person
+Jeanne Bertin,pers.ind,Person
+M. Prud'homme,pers.ind,Person
+Jeanne,pers.ind,Person
+Monsieur Henri VIDAL,pers.ind,Person
+l'Echo des Poètes,prod.media,Product
+Loin du Monde,prod.media,Product
+Pierrot,pers.ind,Person
+hôtel de la rue de Monceau,loc.fac,Location
+Bertrand,pers.ind,Person
+Midi,loc.adm.reg,Location
+Nice,loc.adm.town,Location
+Mme de Fontluc,pers.ind,Person
+faubourg Saint-Germain,loc.adm.town,Location
+Flora Kinsley,pers.ind,Person
+promenade des Anglais,loc.oro,Location
+Europe,loc.adm.sup,Location
+Bordighera,loc.adm.town,Location
+Brettes,loc.adm.town,Location
+miss Kinsley,pers.ind,Person
+LÉON DE TINSEAU,pers.ind.articleauthor,Person

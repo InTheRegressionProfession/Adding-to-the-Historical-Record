@@ -1,0 +1,51 @@
+﻿entity,fine_type,coarse_type,impresso_type,change,model_label,start,end,confidence,context
+Supplément illustré EN COULEURS,prod.media,Product,,added,prod.media,10,41,,TIRAGE DU [Supplément illustré EN COULEURS] DU Petit Journal UN MILLION Soixante mille exempl
+Petit Journal,prod.media,Product,,added,prod.media,45,58,,TIRAGE DU Supplément illustré EN COULEURS DU [Petit Journal] UN MILLION Soixante mille exemplaires (1.060.000)
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,150,155,,"060.000) La semaine Nous venons de traverser, à [Paris], une période de sirocco digne de Naples et de Pal"
+Naples,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,189,195,,"averser, à Paris, une période de sirocco digne de [Naples] et de Palerme. Par cette température étouffante e"
+Palerme,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,202,209,,"ris, une période de sirocco digne de Naples et de [Palerme]. Par cette température étouffante et énervante..."
+Stendhal,pers.ind,Person,pers.ind,confirmed,pers.ind,536,544,,"te terrasse de palais florentin où, le soir venu, [Stendhal] savourait des sorbets sous la blonde clarté de la"
+Gautier,pers.ind,Person,pers.ind,confirmed,pers.ind,815,822,,"'importe quel café du boulevard! Affirmation que [Gautier] non seulement contresignait dans son feuilleton,"
+Midi,loc.adm.reg,Location,loc.adm.reg,confirmed,loc.adm.reg,2023,2027,,"blissements dramatiques et lyriques des villes du [Midi], du parfum très spécial des «cafards». Cet éloge"
+Conservatoire national,org.ent,Organization,org.ent,confirmed,org.ent,2263,2285,,ieu ces jours-ci les concours des élèves de notre [Conservatoire national] de musique et de déclamation. Affronter le suppl
+Chopin,pers.ind,Person,pers.ind,confirmed,pers.ind,2428,2434,,"écutions consécutives de l'Allegro de concert, de [Chopin], par soixante-dix mains féminines s'escrimant à t"
+Barcelone,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,2676,2685,,"e », ne voilà-t-il pas qu'on vient de découvrir à [Barcelone] un Institut s'adonnant à la fabrication et à la v"
+Barcelone,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,2676,2685,,"e », ne voilà-t-il pas qu'on vient de découvrir à [Barcelone] un Institut s'adonnant à la fabrication et à la v"
+Pyrénées,loc.phys.geo,Location,loc.adm.reg,retyped,loc.phys.geo,2850,2858,,"ng de la frontière française de l'autre côté des [Pyrénées], il existe de ces fabriques scélérates où les fam"
+Midi,loc.adm.reg,Location,loc.adm.reg,confirmed,loc.adm.reg,3250,3254,,industriels qui les dispersent dans les villes du [Midi] de la France et qui les exploitent en les faisant
+France,loc.adm.nat,Location,loc.adm.nat|loc.adm.reg,confirmed,loc.adm.nat,3261,3267,,qui les dispersent dans les villes du Midi de la [France] et qui les exploitent en les faisant mendier à le
+Marseille,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,3401,3410,,"déniché l'Institut barcelonais: Une mendiante de [Marseille] ayant été condamnée par le tribunal, la fillette"
+M. G. Danbès,pers.ind,Person,pers.ind,confirmed,pers.ind,4315,4327,,"ritables nains artificiels, des nains fabriqués! [M. G. Danbès] a donné, sur la fabrication des nains, des rensei"
+Chine,loc.adm.nat,Location,loc.adm.nat,confirmed,loc.adm.nat,5374,5379,,"ités de la tératologie artificielle chinoise. En [Chine], l'enfant dont on veut faire un nain est placé da"
+département du Nord,loc.adm.reg,Location,loc.adm.reg,confirmed,loc.adm.reg,6029,6048,,"xhibé en public. Il y a quelques années, dans le [département du Nord], on découvrit dans la roulotte d'un saltimbanque,"
+Nord,org.adm,Organization,org.adm,confirmed,org.adm,6044,6048,,". Il y a quelques années, dans le département du [Nord], on découvrit dans la roulotte d'un saltimbanque,"
+Tom-Pouce chinois,pers.ind,Person,pers.ind,confirmed,pers.ind,6264,6281,,dans lequel le malheureux enfant exploité comme « [Tom-Pouce chinois] » était inséré et bouclé après chaque représentat
+France,loc.adm.nat,Location,loc.adm.nat|loc.adm.reg,confirmed,loc.adm.nat,6744,6750,,généralisée et maintenue en vigueur par toute la [France]. Simon LEVRAI. LE BÉDOUIN DIVORCÉ (MŒURS ARABE
+Simon LEVRAI,pers.ind.articleauthor,Person,pers.ind,retyped,pers.ind.articleauthor,6753,6765,,sée et maintenue en vigueur par toute la France. [Simon LEVRAI]. LE BÉDOUIN DIVORCÉ (MŒURS ARABES) La loi du C
+Coran,prod.doctr,Product,loc.adm.nat,retyped,prod.doctr,6814,6819,,I. LE BÉDOUIN DIVORCÉ (MŒURS ARABES) La loi du [Coran] est formelle. Tout musulman qui aura trois fois
+Sidna-Mohamed,pers.ind,Person,pers.ind,confirmed,pers.ind,7104,7117,,"ou bien si elle a encore divorcé avec celui-ci. [Sidna-Mohamed] était-il, lorsqu'il rédigea cet article de loi, d"
+Sidna-Nohéu,pers.ind,Person,pers.ind,confirmed,pers.ind,7218,7229,,"ns un état de joyeuse ébriété, voisin de celui de [Sidna-Nohéu] après les premières vendanges? ou bien a-t-il sim"
+Sidi-Macklouff,pers.ind,Person,pers.ind,confirmed,pers.ind,7621,7635,,"chassée de sa tente comme indigne de son amour? [Sidi-Macklouff], caïd des Beni-Ghili, tribu voisine de la frontiè"
+Beni-Ghili,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,7646,7656,,"e indigne de son amour? Sidi-Macklouff, caïd des [Beni-Ghili], tribu voisine de la frontière marocaine, devait"
+Sidi Mâaboul,pers.ind,Person,pers.ind,confirmed,pers.ind,8055,8067,,"seigneur, depuis longtemps, l'avaient surnommé « [Sidi Mâaboul] ». Cet inénarrable personnage avait trouvé moyen"
+Aïcha,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,8202,8207,,"« lunes », de se placer vis-à-vis de la charmante [Aïcha], qui n'était coupable que d'être trop jeune pour"
+Hassan Ben Kaddour,pers.ind,Person,pers.ind,confirmed,pers.ind,8585,8603,,complétude d'un jeune Arabe d'une tribu voisine. [Hassan Ben Kaddour] venait de se marier. Cette circonstance avait sur
+Sidi,pers.ind,Person,pers.ind,confirmed,pers.ind,9284,9288,,rassuré sur les suites de cette affaire. Pauvre [Sidi]! Certes il eût été moins tranquille s'il eût su q
+Hassan,pers.ind,Person,pers.ind,confirmed,pers.ind,9340,9346,,"Certes il eût été moins tranquille s'il eût su qu'[Hassan] connaissait Aïcha depuis longtemps, qu'elle lui é"
+Aïcha,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,9359,9364,,"oins tranquille s'il eût su qu'Hassan connaissait [Aïcha] depuis longtemps, qu'elle lui était apparue, dans"
+caïd Omar,pers.ind,Person,pers.ind,confirmed,pers.ind,9891,9900,,"au cœur. Il l'avait demandée en mariage. Mais le [caïd Omar], père d'Aïcha, n'ayant point trouvé suffisante la"
+Macklouff,pers.ind,Person,pers.ind,confirmed,pers.ind,10081,10090,,riant de renoncer à ses espérances. Mais comment [Macklouff] eût-il pu se douter de cela? La joie qu'il avait
+Lali-Aïcha,pers.ind,Person,pers.ind,confirmed,pers.ind,10503,10513,,"fortune relative. Très loyalement, Hassan épousa [Lali-Aïcha]. Mais, dès qu'elle fut sous sa tente, en dépit de"
+Zora,pers.ind,Person,pers.ind,confirmed,pers.ind,10660,10664,,"e, et elle supplanta si radicalement l'infortunée [Zora], sa première épouse, que celle-ci se vit complète"
+Sidi-Macklouff,pers.ind,Person,pers.ind,confirmed,pers.ind,10839,10853,,"ure, qu'Aïcha était devenue l'épouse d'Hassan, et [Sidi-Macklouff] était en ce moment fort loin de leur pensée, lors"
+Sidi-Macklouff,pers.ind,Person,pers.ind,confirmed,pers.ind,11892,11906,,"é tenté par le démon? — Hélas! si, monseigneur! [Sidi-Macklouff], descendu de cheval, avec un rugissement de panth"
+Macklouff,pers.ind,Person,pers.ind,confirmed,pers.ind,11897,11906,,"té par le démon? — Hélas! si, monseigneur! Sidi-[Macklouff], descendu de cheval, avec un rugissement de panth"
+Hassan,pers.ind,Person,pers.ind,confirmed,pers.ind,12115,12121,,burnous un pistolet pour lui brûler la cervelle. [Hassan] se hâta d'empêcher la suite de ce mouvement dange
+Hassan ben Kaddour,pers.ind,Person,pers.ind,confirmed,pers.ind,13150,13168,,ma. Il venait citer à comparaitre devant le juge [Hassan ben Kaddour]. — Que peut donc me vouloir de si pressé le caïd
+Hassan,pers.ind,Person,pers.ind,confirmed,pers.ind,14260,14266,,"de ses droits les plus doux. Mais qu'importait à [Hassan]? Evidemment, cette plaignante était point là pour"
+Zora,pers.ind,Person,pers.ind,confirmed,pers.ind,15027,15031,,"it, venait, ahuri de stupéfaction, de reconnaître [Zora], le caïd lui montra les babouches accusatrices."
+Macklouff,pers.ind,Person,pers.ind,confirmed,pers.ind,15244,15253,,d'une détonation. Une balle traversa son haïc et [Macklouff] lui sauta au cou — mais point cette fois pour l'e
+Aïcha,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,16583,16588,,"en quelques mots, il pour suivit: — J'ai épousé [Aïcha], et certes mon intention était de tenir mon serme"
+Macklouff,pers.ind,Person,pers.ind,confirmed,pers.ind,17114,17123,,"noble rival... — Ta trüie, garde-la, interrompit [Macklouff], qu'elle reste dans sa souille avec le porc immon"
+Sidi-Macklouff,pers.ind,Person,pers.ind,confirmed,pers.ind,17819,17833,,... — Que la foudre de Dieu les écrase! vociféra [Sidi-Macklouff]. Mais se reprenant tout à coup et lançant à Kadd
+Kaddour,pers.ind,Person,pers.ind,confirmed,pers.ind,17879,17886,,"ouff. Mais se reprenant tout à coup et lançant à [Kaddour] un éclat de ses prunelles, où luisait une la ne v"

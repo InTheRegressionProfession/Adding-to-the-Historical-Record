@@ -1,0 +1,57 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+M. Jules,Person,Person,375,383,,"sourire contraint, à un jeune homme soucieux : — [M. Jules] !... il y a un moyen de ne pas vous obliger à re"
+Lise,Person,Person,801,805,,"vec force... Mais je ne veux pas !... non, non, [Lise] !... gardez votre argent !... — C'est mal, cela !"
+Mam'zelle Lise,Person,Person,894,908,,"mal, cela !... Pourquoi ne pas accepter, implora [Mam'zelle Lise]... Cet ar- gent ne sera-t-il pas bientôt à vous."
+Jules Lehart,Person,Person,1682,1694,,"après, munis des 6.200 francs de Mam'zelle Lise, [Jules Lehart] partait pour Marseille. Sa fiancée le conduisit"
+Marseille,Location,Location,1709,1718,,"cs de Mam'zelle Lise, Jules Lehart partait pour [Marseille]. Sa fiancée le conduisit à la gare, l'embrassa t"
+Mont-Blanc,Location,Location,2507,2517,,LE PRÉTENDANT. — Désirez-vous que je gravisse le [Mont-Blanc] à quatre pattes (se reprenant) pardon... à genou
+Terre-de-Feu,Location,Location,2627,2639,,-vous que j'apprenne à lire aux indigènes de la [Terre-de-Feu] ? Sont-ce des peaux arra- chées aux lions de l'A
+Atlas,Location,Location,2688,2693,,u ? Sont-ce des peaux arra- chées aux lions de l'[Atlas] qu'il faut pour parvenir au couronnement de vos
+Nouvelle-Guinée,Location,Location,3003,3018,,de repas à vingt-trois sous aux sauvages de la [Nouvelle-Guinée] ?... LA FIANCÉE. — Non... (Très simplement) : F
+1809,Time,Time,3624,3628,,z. LA FIANCÉE. — Je l'ai lue dans l'almanach de [1809]... LE PRÉTENDANT (cherchant autre chose). — Ça
+Charles QUINEL,Person,Person,5343,5357,,"raiment, ça ne compte pas... c'est trop bête... [Charles QUINEL]. LE CODE POUR TOUS Contributions directes Juri"
+LE CODE POUR TOUS,Product,Product,5360,5377,,mpte pas... c'est trop bête... Charles QUINEL. [LE CODE POUR TOUS] Contributions directes Jurisprudence Déménagem
+Conseil d'Etat,Organization,Organization,6068,6082,,"e présumé quitter le ressort de la perception. ([Conseil d'Etat], 1er juillet 1910.) Veuve. Contribution inscrite"
+1er juillet 1910,Time,Time,6084,6100,,"r le ressort de la perception. (Conseil d'Etat, [1er juillet 1910].) Veuve. Contribution inscrite au nom de son ma"
+21 juillet 1909,Time,Time,6621,6636,,"rôle, ne lui fait aucun grief. (Conseil d'Etat, [21 juillet 1909].) Patentes. Marchand forain. — Un com- merçant"
+28 avril 1909,Time,Time,7180,7193,,"e à deux roues et à un collier. (Conseil d'Etat, [28 avril 1909].) Réclamations. Modification par l'admi- nistra"
+Conseil d'Etat,Organization,Organization,7533,7547,,"eine d'annulation de la décision à intervenir. ([Conseil d'Etat], 27 mai 1909.) Réclamations. Non-recevabilité de"
+Conseil d'Etat,Organization,Organization,7533,7547,,"eine d'annulation de la décision à intervenir. ([Conseil d'Etat], 27 mai 1909.) Réclamations. Non-recevabilité de"
+Conseil d'Etat,Organization,Organization,7533,7547,,"eine d'annulation de la décision à intervenir. ([Conseil d'Etat], 27 mai 1909.) Réclamations. Non-recevabilité de"
+Conseil d'Etat,Organization,Organization,7533,7547,,"eine d'annulation de la décision à intervenir. ([Conseil d'Etat], 27 mai 1909.) Réclamations. Non-recevabilité de"
+30 francs,Product,Product,7778,7787,,"contribuable. Lorsque la cote est supérieure à [30 francs], le défaut de signature ne peut être couvert pa"
+loi du 13 juillet 1903,Time,Time,8142,8164,,"de signaler au réclamant par ap- plication de la [loi du 13 juillet 1903]. (Conseil d'Etat, 31 juillet 1908.) Réclamation"
+22 avril 1910,Time,Time,8573,8586,,"la notification du désistement. (Conseil d'Etat, [22 avril 1910].) Recours au Conseil d'Etat en matière d'évalua"
+3 frimaire an VII,Time,Time,8950,8967,,les formes prescrites par l'art. 56 de la loi du [3 frimaire an VII]. Leur travail est irrégulier s'ils ont simplemen
+28 juillet 1911,Time,Time,9223,9238,,"alement sur les baux en cours. (Conseil d'Etat, [28 juillet 1911].) SAINT-YVES. Mot en triangle Le moindre ornem"
+SAINT-YVES,Person,Person,9242,9252,,"x en cours. (Conseil d'Etat, 28 juillet 1911.) [SAINT-YVES]. Mot en triangle Le moindre ornement d'un disco"
+Suisse,Location,Location,9454,9460,,r charmant. — Ce qui sur la terre respire. — En [Suisse] se trouve aisément. — Ile française. — En tout s
+Ile française,Location,Location,9484,9497,,erre respire. — En Suisse se trouve aisément. — [Ile française]. — En tout serment Un Allibroge. SOLUTION de l
+Algérien,Person,Person,9570,9578,,Allibroge. SOLUTION de l'anagramme (N° 1.132) [Algérien]. Galérien. Régalien. SOLUTIONS JUSTES Mot car
+Galérien,Person,Person,9581,9589,,SOLUTION de l'anagramme (N° 1.132) Algérien. [Galérien]. Régalien. SOLUTIONS JUSTES Mot carré (N° 1.13
+Régalien,Person,Person,9592,9600,,de l'anagramme (N° 1.132) Algérien. Galérien. [Régalien]. SOLUTIONS JUSTES Mot carré (N° 1.131) A. Lefe
+A. Lefebvre,Person,Person,9643,9654,,égalien. SOLUTIONS JUSTES Mot carré (N° 1.131) [A. Lefebvre]. — O. Clin. — Nortrop. — Léo- pold Gros. — Spiri
+O. Clin,Person,Person,9658,9665,,IONS JUSTES Mot carré (N° 1.131) A. Lefebvre. — [O. Clin]. — Nortrop. — Léo- pold Gros. — Spirite. — Chauq
+Nortrop,Person,Person,9669,9676,,Mot carré (N° 1.131) A. Lefebvre. — O. Clin. — [Nortrop]. — Léo- pold Gros. — Spirite. — Chauquettes. — M
+Spirite,Person,Person,9699,9706,,ebvre. — O. Clin. — Nortrop. — Léo- pold Gros. — [Spirite]. — Chauquettes. — M. T. — Va vite. — Haël. — E.
+Chauquettes,Person,Person,9710,9721,,Clin. — Nortrop. — Léo- pold Gros. — Spirite. — [Chauquettes]. — M. T. — Va vite. — Haël. — E. Terrion. — Loui
+M. T.,Person,Person,9725,9730,,p. — Léo- pold Gros. — Spirite. — Chauquettes. — [M. T.] — Va vite. — Haël. — E. Terrion. — Louis Cros.
+Va vite,Person,Person,9734,9741,,pold Gros. — Spirite. — Chauquettes. — M. T. — [Va vite]. — Haël. — E. Terrion. — Louis Cros. — Jean et A
+Haël,Person,Person,9745,9749,,. — Spirite. — Chauquettes. — M. T. — Va vite. — [Haël]. — E. Terrion. — Louis Cros. — Jean et Antoine.
+E. Terrion,Person,Person,9753,9763,,ite. — Chauquettes. — M. T. — Va vite. — Haël. — [E. Terrion]. — Louis Cros. — Jean et Antoine. — C. Pierron.
+"Louis
+
+Cros",Person,Person,9767,9778,,ttes. — M. T. — Va vite. — Haël. — E. Terrion. — [Louis Cros]. — Jean et Antoine. — C. Pierron. — F. Crémont.
+Jean et Antoine,Person,Person,9782,9797,,— Va vite. — Haël. — E. Terrion. — Louis Cros. — [Jean et Antoine]. — C. Pierron. — F. Crémont. — Kloklo. — Q. de M
+C. Pierron,Person,Person,9801,9811,,— E. Terrion. — Louis Cros. — Jean et Antoine. — [C. Pierron]. — F. Crémont. — Kloklo. — Q. de Meigneux. — Ch
+"F.
+
+Crémont",Person,Person,9815,9826,,— Louis Cros. — Jean et Antoine. — C. Pierron. — [F. Crémont]. — Kloklo. — Q. de Meigneux. — Cherche trouve. —
+Kloklo,Person,Person,9830,9836,,— Jean et Antoine. — C. Pierron. — F. Crémont. — [Kloklo]. — Q. de Meigneux. — Cherche trouve. — C. Desser
+Q. de Meigneux,Person,Person,9840,9854,,Antoine. — C. Pierron. — F. Crémont. — Kloklo. — [Q. de Meigneux]. — Cherche trouve. — C. Desserville. — Albert P.
+Cherche trouve,Person,Person,9859,9873,,on. — F. Crémont. — Kloklo. — Q. de Meigneux. — [Cherche trouve]. — C. Desserville. — Albert P. — Tante Léonie. —
+C. Desserville,Person,Person,9877,9891,,— Kloklo. — Q. de Meigneux. — Cherche trouve. — [C. Desserville]. — Albert P. — Tante Léonie. — Salze. — Al-ben-S
+Albert P.,Person,Person,9895,9904,,Meigneux. — Cherche trouve. — C. Desserville. — [Albert P.] — Tante Léonie. — Salze. — Al-ben-Sehrka. —
+Tante Léonie,Person,Person,9908,9920,,Cherche trouve. — C. Desserville. — Albert P. — [Tante Léonie]. — Salze. — Al-ben-Sehrka. —
+Salze,Person,Person,9924,9929,,— C. Desserville. — Albert P. — Tante Léonie. — [Salze]. — Al-ben-Sehrka. —
+Al-ben-Sehrka,Person,Person,9933,9946,,serville. — Albert P. — Tante Léonie. — Salze. — [Al-ben-Sehrka]. —

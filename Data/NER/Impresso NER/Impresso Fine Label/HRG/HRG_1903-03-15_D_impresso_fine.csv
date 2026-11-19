@@ -1,0 +1,92 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Giuseppe,pers.ind,Person,pers.ind,7,15,0.9749,"heure, [Giuseppe] l'aborda. Elle se mit à fuir. Lui la ralentit par"
+Paolo,pers.ind,Person,pers.ind,162,167,0.9749,ntendre. J'ai fait tout le possible pour empêcher [Paolo] d'assassiner votre frère. Je n'y suis pas parvenu
+Ariccia,pers.ind,Person,pers.ind,449,456,0.9061,"nt où je vous ai vue, il y a cinq ans à la fête d'[Ariccia], je vous ai aimée. Je voulais vous joindre pour v"
+Giovanni,pers.ind,Person,pers.ind,531,539,0.9719,ulais vous joindre pour vous l'avouer. La mort de [Giovanni] vint me clore la bouche. Mais puisque votre père
+Robello,pers.ind,Person,pers.ind,847,854,0.8966,"nsi, l'amoureux était arrivé jusqu'à la porte des [Robello]. Alors Marietta, émue au plus profond d'elle par"
+Marietta,pers.ind,Person,pers.ind,862,870,0.9431,"était arrivé jusqu'à la porte des Robello. Alors [Marietta], émue au plus profond d'elle par ces paroles tend"
+Giuseppe,pers.ind,Person,pers.ind,984,992,0.9619,"et justes, ne put s'empêcher de se retourner vers [Giuseppe] dont la silhouette se découpait sur le couchant."
+Marietta,pers.ind,Person,pers.ind,1272,1280,0.9481,". Ce soir-là, silencieusement, d'un seul regard, [Marietta] et Giuseppe s'étaient promis l'un à l'autre. La"
+Giuseppe,pers.ind,Person,pers.ind,1284,1292,0.9599,"à, silencieusement, d'un seul regard, Marietta et [Giuseppe] s'étaient promis l'un à l'autre. La sœur de Giov"
+Giovanni,pers.ind,Person,pers.ind,1338,1346,0.961,"eppe s'étaient promis l'un à l'autre. La sœur de [Giovanni], n'ayant pas le courage de parler au père, vint m"
+Marietta,pers.ind,Person,pers.ind,2003,2011,0.9279,"otidienne, où s'ajoutait la continue séduction de [Marietta], je parvins à gagner la cause en principe. Mais R"
+Robello,pers.ind,Person,pers.ind,2060,2067,0.9682,"a, je parvins à gagner la cause en principe. Mais [Robello] demeura intractable sur un point : — Je ne veux"
+Paolo,pers.ind,Person,pers.ind,2160,2165,0.9583,"e veux pas, je ne peux pas entrer en rapport avec [Paolo], l'assassin de mon fils. Il faut, il faut absolum"
+Giuseppe,pers.ind,Person,pers.ind,2302,2310,0.9245,i au mariage. Je courus sur le champ apprendre à [Giuseppe] la dernière condition du père. — Mon frère parti
+Paolo,pers.ind,Person,pers.ind,2482,2487,0.966,n avantage d'argent avec lequel il s'embarquera. [Paolo] ne fit pas de résistance et le départ du meurtrie
+Marietta,pers.ind,Person,pers.ind,2693,2701,0.9207,conciliation des deux familles pour que le vœu de [Marietta] fût parfait. J'étais perplexe. L'ingénieuse fianc
+Madone,loc.adm.nat,Location,loc.adm.nat,2964,2970,0.2838,re donnera les siennes et nous les porterons à la [Madone]. Ainsi fut fait. Le lendemain je fus témoin d'u
+Martini,pers.ind,Person,pers.ind,3120,3127,0.9385,dans ma longue carrière. Pour la première fois un [Martini] franchit le seuil des Robello. Guidé par Marietta
+Robello,pers.ind,Person,pers.ind,3150,3157,0.9527,"la première fois un Martini franchit le seuil des [Robello]. Guidé par Marietta, il se jeta dans les bras du"
+Marietta,pers.ind,Person,pers.ind,3169,3177,0.9431,"Martini franchit le seuil des Robello. Guidé par [Marietta], il se jeta dans les bras du père qui le serra co"
+Giuseppe,pers.ind,Person,pers.ind,3478,3486,0.9695,"és de sang et les pistolets noircis de poudre que [Giuseppe] tirait de sa veste, le vieux eut un soubresaut où"
+Giovanni,pers.ind,Person,pers.ind,3613,3621,0.8378,"haine de la race. C'est un de ceux-là qui tua mon [Giovanni] ! Mais il s'apaisa soudain quand il eut épelé, br"
+Marietta,pers.ind,Person,pers.ind,3685,3693,0.948,"paisa soudain quand il eut épelé, brodé en or par [Marietta] sur le fond rouge de la planche, les paroles du"
+Pater,pers.ind,Person,pers.ind,3743,3748,0.7538,"sur le fond rouge de la planche, les paroles du [Pater] : « Pardonnez-nous nos offenses comme nous pardon"
+Martini,pers.ind,Person,pers.ind,3844,3851,0.9635,rdonnons à ceux qui nous ont offensé. » Et quand [Martini] et Robello eurent achevé de clouer sur cette pieu
+Robello,pers.ind,Person,pers.ind,3855,3862,0.9607,ceux qui nous ont offensé. » Et quand Martini et [Robello] eurent achevé de clouer sur cette pieuse tablette
+Madone,loc.adm.nat,Location,loc.adm.nat,3976,3982,0.3573,"mauvais, nous fumes la suspendre au-dessus de la [Madone]. Depuis cinquante ans elle n'a pas bougé. En qui"
+Marietta,pers.ind,Person,pers.ind,4251,4259,0.9425,"e déchiffrais la vieille broderie qu'avait ouvert [Marietta], je me sentis remué dans le fond de l'âme. Oui, m"
+PEYRE DE BÉTOUZET,pers.ind,Person,pers.ind,4537,4554,0.8051,blime de toutes les victoires : celle du pardon. [PEYRE DE BÉTOUZET]. PARFUM de l'HALEINE les BONBONS à la MENTHE EXC
+HALEINE,pers.ind,Person,pers.ind,4569,4576,0.6353,celle du pardon. PEYRE DE BÉTOUZET. PARFUM de l'[HALEINE] les BONBONS à la MENTHE EXCELSIOR de JOHN TAVERNI
+MENTHE EXCELSIOR,pers.ind,Person,pers.ind,4594,4610,0.7548,"E BÉTOUZET. PARFUM de l'HALEINE les BONBONS à la [MENTHE EXCELSIOR] de JOHN TAVERNIER, toniques et digestifs et qui l"
+JOHN TAVERNIER,pers.ind,Person,pers.ind,4614,4628,0.9518,"de l'HALEINE les BONBONS à la MENTHE EXCELSIOR de [JOHN TAVERNIER], toniques et digestifs et qui laissent à la bouch"
+JOHN TAVERNIER,pers.ind,Person,pers.ind,4739,4753,0.9338,exquis. REFUSEZ LES CONTREFAÇONS. L'égale le nom [JOHN TAVERNIER] imprimé dans le sucre de chaque bonbon. MOTS POU
+Docteur WOLF,pers.ind,Person,pers.ind,5452,5464,0.9602,"tes les maladies de la peau, par le traitement du [Docteur WOLF], qui est envoyé gratis et franco à ceux qui le de"
+"M. PASSERIEUX, 46",pers.ind,Person,pers.ind,5524,5541,0.7638,"envoyé gratis et franco à ceux qui le demandent à [M. PASSERIEUX, 46], r. des Faures, Bordeaux. Dépôt à Paris chez GIRA"
+"r. des Faures,",pers.ind,Person,pers.ind,5543,5557,0.5374,"anco à ceux qui le demandent à M. PASSERIEUX, 46, [r. des Faures,] Bordeaux. Dépôt à Paris chez GIRAND, Phac, 217, R"
+Bordeaux,loc.adm.town,Location,loc.adm.town,5558,5566,0.4318,"le demandent à M. PASSERIEUX, 46, r. des Faures, [Bordeaux]. Dépôt à Paris chez GIRAND, Phac, 217, Rue Lafaye"
+Paris,loc.adm.town,Location,loc.adm.town,5576,5581,0.6755,"PASSERIEUX, 46, r. des Faures, Bordeaux. Dépôt à [Paris] chez GIRAND, Phac, 217, Rue Lafayette. VISIONS D"
+"GIRAND,",pers.ind,Person,pers.ind,5587,5594,0.6818,", 46, r. des Faures, Bordeaux. Dépôt à Paris chez [GIRAND,] Phac, 217, Rue Lafayette. VISIONS DU PAYS BRETON"
+Rue,loc.adm.reg,Location,loc.adm.reg,5606,5609,0.1708,", Bordeaux. Dépôt à Paris chez GIRAND, Phac, 217, [Rue] Lafayette. VISIONS DU PAYS BRETON CARNAVAL EN M"
+Lafayette,loc.oro,Location,loc.oro,5610,5619,0.2303,"rdeaux. Dépôt à Paris chez GIRAND, Phac, 217, Rue [Lafayette]. VISIONS DU PAYS BRETON CARNAVAL EN MER Douarn"
+CARNAVAL,loc.adm.town,Location,loc.adm.town,5646,5654,0.4152,"hac, 217, Rue Lafayette. VISIONS DU PAYS BRETON [CARNAVAL] EN MER Douarnenez, 1903. Ça et là les étoiles p"
+MER,loc.adm.town,Location,loc.adm.town,5658,5661,0.245,"e Lafayette. VISIONS DU PAYS BRETON CARNAVAL EN [MER] Douarnenez, 1903. Ça et là les étoiles piquent"
+Douarnenez,loc.adm.town,Location,loc.adm.town,5663,5673,0.7798,"ayette. VISIONS DU PAYS BRETON CARNAVAL EN MER [Douarnenez], 1903. Ça et là les étoiles piquent encore d'une"
+", 1903",time.date.abs,Time,time.date.abs,5673,5679,0.6163,"ISIONS DU PAYS BRETON CARNAVAL EN MER Douarnenez[, 1903]. Ça et là les étoiles piquent encore d'une flamm"
+Février,loc.adm.town,Location,loc.adm.town,5752,5759,0.3689,piquent encore d'une flamme aiguë le ciel dur de [Février] à chaque instant voilé par de grands nuages lancé
+Douarnenez,loc.adm.town,Location,loc.adm.town,5909,5919,0.8991,"loin apparaît la masse de plus en plus confuse de [Douarnenez], d'où montent des clameurs sauvages, des sonnerie"
+Goff,org.ent,Organization,org.ent,6248,6252,0.3426,", apaisante, sur la petite barque que commande Le [Goff]. Il fait nuit toujours, mais l'aube d'hiver va b"
+Douarnenez,loc.adm.town,Location,loc.adm.town,6608,6618,0.8496,"u de cauchemar, s'éloignant toujours davantage de [Douarnenez] pour gagner le grand large. La vie est si rude,"
+Le Goff,org.ent,Organization,org.ent,6912,6919,0.376,"e folie et d'ivresse aux cercles tourbillonnants, [Le Goff], en pleine nuit du lundi gras, part pour tenter l"
+Le Goff,pers.ind,Person,pers.ind,7151,7158,0.9058,"a grande misère qui les accable. Un vaillant, ce [Le Goff], un travailleur, un sobre. Il est parti, emmenant"
+Ar Men,loc.adm.town,Location,loc.adm.town,7894,7900,0.2465,"serait arrivé au lieu de pêche, très loin entre l'[Ar Men] et les Pierres Noires, toutes ces ivres-ses se di"
+Noires,loc.adm.town,Location,loc.adm.town,7916,7922,0.1724,"de pêche, très loin entre l'Ar Men et les Pierres [Noires], toutes ces ivres-ses se dissipaient au matin, so"
+Goff,org.ent,Organization,org.ent,8209,8213,0.4271,"gie s'écarte, et bientôt c'est la pleine mer. Le [Goff], calme, l'oreille aux bruits, l'œil aux aguets, e"
+Menez-hom,loc.adm.town,Location,loc.adm.town,8476,8485,0.515,"es hommes. L'aube ouvre son éventail derrière le [Menez-hom], un ciel blafard, d'un méchant et triste aspect j"
+Chevre,loc.adm.town,Location,loc.adm.town,9056,9062,0.5657,", après avoir dépassé la monstrueuse pointe de la [Chevre], qui ferme la baie au Nord, doublé l'écueil du Ch"
+Chevreau,loc.adm.town,Location,loc.adm.town,9110,9118,0.6813,"re, qui ferme la baie au Nord, doublé l'écueil du [Chevreau], celui du Bouc, et laissé derrière elle les point"
+Bouc,loc.adm.town,Location,loc.adm.town,9129,9133,0.3998,"ie au Nord, doublé l'écueil du Chevreau, celui du [Bouc], et laissé derrière elle les pointes du Van et du"
+Van,loc.adm.town,Location,loc.adm.town,9174,9177,0.387,"i du Bouc, et laissé derrière elle les pointes du [Van] et du Raz de Sein, elle se trouvait par le traver"
+Raz,loc.adm.reg,Location,loc.adm.reg,9184,9187,0.2494,"et laissé derrière elle les pointes du Van et du [Raz] de Sein, elle se trouvait par le travers de l'île"
+de Sein,loc.adm.town,Location,loc.adm.town,9188,9195,0.273,"laissé derrière elle les pointes du Van et du Raz [de Sein], elle se trouvait par le travers de l'île de Sein"
+île,loc.adm.reg,Location,loc.adm.reg,9234,9237,0.2253,"Raz de Sein, elle se trouvait par le travers de l'[île] de Sein, à hauteur du Pont des Chats, une rafale"
+de Sein,loc.adm.town,Location,loc.adm.town,9238,9245,0.2923,"de Sein, elle se trouvait par le travers de l'île [de Sein], à hauteur du Pont des Chats, une rafale soudaine"
+Pont des Chats,loc.adm.town,Location,loc.adm.town,9260,9274,0.3349,"ait par le travers de l'île de Sein, à hauteur du [Pont des Chats], une rafale soudaine et terrible, la prenant de f"
+Le Goff,pers.ind,Person,pers.ind,9534,9541,0.768,"te sa vigueur, pesant énergiquement sur la barre, [Le Goff] tenta, à lui seul, de changer la direction. Sous"
+Raz,loc.adm.town,Location,loc.adm.town,10152,10155,0.2145,"annonçant ainsi la venue du jour, jusqu'au bec du [Raz], voilé de vapeurs brumeuses, dès mousses blanches"
+Raz,loc.adm.town,Location,loc.adm.town,10664,10667,0.2803,"t l'horizon, se heurtant aux récifs échelonnés du [Raz], au phare lointain, cernant les flancs noirs de l"
+Atlantique,loc.adm.nat,Location,loc.adm.nat,10851,10861,0.5149,"auque, d'un vert presque noir, l'eau épaisse de l'[Atlantique], plus effroyable la profondeur du gouffre sous la"
+Le,pers.ind,Person,pers.ind,10985,10987,0.7245,"ans quitter la barre, dressé de toute sa hauteur, [Le] Goff hurla d'une voix qui domina un instant la co"
+Goff,pers.ind,Person,pers.ind,10988,10992,0.5196,"quitter la barre, dressé de toute sa hauteur, Le [Goff] hurla d'une voix qui domina un instant la colère"
+Guennec,pers.ind,Person,pers.ind,12356,12363,0.9322,"e d'une largeuvainraisableble. — T'as pas honte, [Guennec] ? lui crie Le Goff. Derrière lui, figure rasée,"
+Le Goff,pers.ind,Person,pers.ind,12375,12382,0.9048,"aisableble. — T'as pas honte, Guennec ? lui crie [Le Goff]. Derrière lui, figure rasée, tête nue aux courts"
+Atlantique,loc.adm.nat,Location,loc.adm.nat,12823,12833,0.5167,"lui et comme tendus en une sorte de prière vers l'[Atlantique] mugissante. Celui-là, c'est Kermor, un excellent"
+Kermor,loc.adm.town,Location,loc.adm.town,12862,12868,0.4142,"ère vers l'Atlantique mugissante. Celui-là, c'est [Kermor], un excellent pêcheur, mais une âme faible de gra"
+moussé,pers.ind,Person,pers.ind,13163,13169,0.7316,"s patenôtes. Ce sont les prunelles de terreur du [moussé] Pierrik, âgé de douze ans à peine, qui regardent"
+Pierrik,pers.ind,Person,pers.ind,13170,13177,0.687,"ôtes. Ce sont les prunelles de terreur du moussé [Pierrik], âgé de douze ans à peine, qui regardent par les"
+Yves Tévenne,pers.ind,Person,pers.ind,13911,13923,0.9556,"e cependant, ces tristes et lamentables déguisés, [Yves Tévenne] et Yan Larmor. Autour d'eux la grande voix du dé"
+Yan Larmor,pers.ind,Person,pers.ind,13927,13937,0.9551,"tristes et lamentables déguisés, Yves Tévenne et [Yan Larmor]. Autour d'eux la grande voix du désastre monte,"
+Goff,org.ent,Organization,org.ent,14088,14092,0.47,"iolents, balayant tout, fouettant avec fureur. Le [Goff] gronde, furieux : — Vous v'là jolis pour paraîtr"
+"FONTLUCE
+
+IV",pers.ind,Person,pers.ind,14209,14221,0.6125,"lors seulement ils se retrouvent et comprennent. [FONTLUCE IV] — Quelques billets de banque, continua Bertrand,"
+Bertrand,pers.ind,Person,pers.ind,14262,14270,0.9542,"TLUCE IV — Quelques billets de banque, continua [Bertrand], glissait dans vos mains pour vos bonnes œuvres l"
+miss Flora,pers.ind,Person,pers.ind,15538,15548,0.9652,n. J'imagine que notre maison est la vingtième où [miss Flora] s'est vue invitée... pour des motifs aussi désint
+Mme de Fontluce,pers.ind,Person,pers.ind,16347,16362,0.967,"épart du train, tandis qu'on descend les malles. [Mme de Fontluce] regardait son fils avec un étonnement qui n'avait"
+miss Kinsley,pers.ind,Person,pers.ind,16688,16700,0.9761,i tous les jeunes gens qui recherchent la main de [miss Kinsley] sont ridicules de la façon que tu viens de dépein
+Gironde,loc.adm.nat,Location,loc.adm.nat,17962,17969,0.6554,"e financière, le phylloxéra dans mes vignes de la [Gironde], une kyrielle d'enfants pour toi, tu feras une be"
+Bertrand,pers.ind,Person,pers.ind,18134,18142,0.9506,"l'asserai un jour ! Prends-en ton parti, mon cher [Bertrand], tu as besoin d'un mariage riche. Et c'est pourqu"
+Mme de Fontluce,pers.ind,Person,pers.ind,18478,18493,0.9766,"is te le promettre. Si longtemps qu'il convint à [Mme de Fontluce] de parler, jamais son fils ne s'oubliait à l'inte"
+Bertrand,pers.ind,Person,pers.ind,18780,18788,0.9768,"e sa femme, et baissait pavillon dès la seconde ; [Bertrand] laissait couler les arguments sans rien dire et l"
+LÉON DE TINSEAU,pers.ind,Person,pers.ind,20481,20496,0.7865,"oilà, ma mère, tout ce que j'ai voulu démontrer. [LÉON DE TINSEAU]. (La suite au prochain numéro.)"

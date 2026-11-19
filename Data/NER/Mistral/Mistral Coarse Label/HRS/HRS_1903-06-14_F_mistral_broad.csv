@@ -1,0 +1,132 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Z...,Location,Location,14,18,,son adresse à [Z...]? Ce n'est pourtant pas un créancier. L'AGRICULTU
+L'AGRICULTURE MODERNE,Organization,Organization,57,78,,"esse à Z...? Ce n'est pourtant pas un créancier. [L'AGRICULTURE MODERNE] Parait toutes les semaines JOURNAL POPULAIRE, S"
+POURQUOI TIREBOUCHON II,Product,Product,234,257,,lecture avec gravures POUR 5 CENTIMES SEULEMENT [POURQUOI TIREBOUCHON II] n'a pas gagné le Grand-Prix... L'histoire a des
+TIREBOUCHON II,Person,Person,243,257,,avec gravures POUR 5 CENTIMES SEULEMENT POURQUOI [TIREBOUCHON II] n'a pas gagné le Grand-Prix... L'histoire a des
+Mastodonte,Person,Person,816,826,,"et leurs deux jambes que Tirebouchon II, fils de [Mastodonte] et Lucie-de-Lamer Moor, gagnerait « dan un fauteu"
+Lucie-de-Lamer Moor,Person,Person,830,849,,"jambes que Tirebouchon II, fils de Mastodonte et [Lucie-de-Lamer Moor], gagnerait « dan un fauteuil ». A la stupéfactio"
+Le Sanglier-des-Ardennes,Person,Person,966,990,,"ant, cet animal arriva second à une tête derrière [Le Sanglier-des-Ardennes], un carcan sur qui nul ne comptait. Il y eut de"
+baron de la Vivandière,Person,Person,1166,1188,,"u. Les sommités de sport furent interviewées. Le [baron de la Vivandière], président de la Société des courses plates, affi"
+Société des courses plates,Organization,Organization,1206,1232,,"ewées. Le baron de la Vivandière, président de la [Société des courses plates], affirma que Tirebouchon II était enrhumé. Le gr"
+Bookwell,Person,Person,1285,1293,,"ffirma que Tirebouchon II était enrhumé. Le gros [Bookwell], l'entraîneur, ne fut pas de cet avis. Il tenait"
+Félix,Person,Person,2661,2666,,"croisant, s'interrogèrent. Puis soudain : — Toi, [Félix] ! m'écriai-je. Félix me tendit les bras, me prés"
+lycée de Carcassonne,Organization,Organization,3021,3041,,"toute ma jeunesse, huit ans passés côte à côte au [lycée de Carcassonne], des leçons soufflées, des parties de bille sans"
+Carcassonne,Location,Location,3030,3041,,"jeunesse, huit ans passés côte à côte au lycée de [Carcassonne], des leçons soufflées, des parties de bille sans"
+Tirebouchon II,Product,Product,4199,4213,,"j'eus le malheur de jouer sur une rosse du nom de [Tirebouchon II]. A ces mots, Félix fut saisi d'une douce hilarit"
+Félix,Person,Person,4901,4906,,"urses... — Et comment ce changement en ta vie ? [Félix], tout en jetant un regard de côté sur sa compagne"
+Carcassonne,Location,Location,5166,5177,,n mauvais poète ! Tu te souviens de nos adieux à [Carcassonne]. J'étais décidé à conquérir dans la capitale tout
+Carcassonne,Location,Location,5166,5177,,n mauvais poète ! Tu te souviens de nos adieux à [Carcassonne]. J'étais décidé à conquérir dans la capitale tout
+Odéon,Organization,Organization,5318,5323,,ortais dans ma valise trois drames en vers pour l'[Odéon]. Le hasard d'une rencontre en wagon changea tout
+Madame,Person,Person,5434,5440,,"hasard se présenta sous la gracieuse apparence de [Madame], alors timide personne en route vers Paris, où l'"
+Paris,Location,Location,5478,5483,,"ce de Madame, alors timide personne en route vers [Paris], où l'attendait sa chère famille. Que te dire ?"
+Bourges,Location,Location,5603,5610,,"seuls ! La route était longue ! J'étais poète. De [Bourges] à Orléans, je lui lus mes trois drames en vers ;"
+Orléans,Location,Location,5613,5620,,"route était longue ! J'étais poète. De Bourges à [Orléans], je lui lus mes trois drames en vers ; à Etampes,"
+Etampes,Location,Location,5662,5669,,"Orléans, je lui lus mes trois drames en vers ; à [Etampes], j'improvisais pour elle un sonnet. Bref, quand l"
+Monsieur Pierre,Person,Person,6143,6158,,jours de ma bien-aimée. Il avait ce nom simple : [Monsieur Pierre]. Je fus un peu décontenancé quand je me trouvai e
+Tom Petermann,Person,Person,6659,6672,,"méprisante. — Apprenez, dit-il, que la fille de [Tom Petermann] n'épousera jamais qu'un jockey, et un grand jocke"
+Myosotis,Product,Product,7080,7088,,même j'avais le droit d'être poète et de signer « [Myosotis] » dans les revues de Carcassonne. Mais je me tro
+Félix,Person,Person,7847,7852,,": — Pour apprendre à nager, on se jette à l'eau. [Félix], mon garçon, tu vas débiter à Colombes sur une vi"
+Colombes,Location,Location,7883,7891,,"ette à l'eau. Félix, mon garçon, tu vas débiter à [Colombes] sur une vieille jument. Elle n'a aucune espèce de"
+Tom Lix,Person,Person,8465,8472,,cours. Cette victoire apprit mon nom à la foule : [Tom Lix]. J'avais ajouté le « Tom » et laissé le FÉ. Très
+Odéon,Organization,Organization,8823,8828,,"nte, me revinrent en bloc avec un beau refus de l'[Odéon]. Ce fut merveilleux. On s'arracha ma précieuse p"
+Tirebouchon II,Product,Product,8946,8960,,"x monsieur me couvrit d'or pour monter son cheval [Tirebouchon II], le favori du Grand-Prix de Paris. Ma victoire n"
+Grand-Prix de Paris,Product,Product,8975,8994,,"ur monter son cheval Tirebouchon II, le favori du [Grand-Prix de Paris]. Ma victoire ne faisait pas de doute. Le cheval"
+Tom Petermann,Person,Person,9295,9308,,"ance, j'avais l'honneur de monter en compagnie de [Tom Petermann], le père de ma dulcinée. Je ne lui avais pas tra"
+Grand-Prix,Product,Product,9715,9725,,"ermann. On s'en défiait beaucoup sur le turf. Au [Grand-Prix] il allait monter un carcan fini, le Sanglier-des-"
+Grand-Prix,Product,Product,9715,9725,,"ermann. On s'en défiait beaucoup sur le turf. Au [Grand-Prix] il allait monter un carcan fini, le Sanglier-des-"
+Sanglier,Product,Product,9762,9770,,"Au Grand-Prix il allait monter un carcan fini, le [Sanglier]-des-Ardennes, mais un boy d'écurie bien informé m"
+Sanglier-des-Ardennes,Product,Product,9762,9783,,"Au Grand-Prix il allait monter un carcan fini, le [Sanglier-des-Ardennes], mais un boy d'écurie bien informé m'avait confié"
+Sanglier-des-Ardennes,Product,Product,9762,9783,,"Au Grand-Prix il allait monter un carcan fini, le [Sanglier-des-Ardennes], mais un boy d'écurie bien informé m'avait confié"
+Tom Petermann,Person,Person,10116,10129,,de ma bien-aimée. Le grand coup auquel songeait [Tom Petermann] ne m'inquiétait guère. Son vieux cheval s'essouff
+Tom Petermann,Person,Person,10116,10129,,de ma bien-aimée. Le grand coup auquel songeait [Tom Petermann] ne m'inquiétait guère. Son vieux cheval s'essouff
+Tom Petermann,Person,Person,10116,10129,,de ma bien-aimée. Le grand coup auquel songeait [Tom Petermann] ne m'inquiétait guère. Son vieux cheval s'essouff
+Toupet-Frisé,Product,Product,10271,10283,,"train pour le laisser à longue distance. Seuls, [Toupet-Frisé] et Coqueliquette me semblaient à surveiller. On"
+Coqueliquette,Product,Product,10287,10300,,"aisser à longue distance. Seuls, Toupet-Frisé et [Coqueliquette] me semblaient à surveiller. On se mit en marche,"
+Tirebouchon II,Product,Product,10526,10540,,"J'entendais le public, comme une houle, mugir : « [Tirebouchon II] ! Tirebouchon II ! ». A la descente, Toupet-Frisé"
+papa Beau-Père,Person,Person,10992,11006,,t j'entrevis à ma hauteur la silhouette maigre de [papa Beau-Père] qui cravachait le Sanglier-des-Ardennes à tour de
+M. Pierre,Person,Person,11870,11879,,le !... Nos regards se rencontrèrent. Peut-être [M. Pierre] reconnut-il alors le petit poète de Carcassonne.
+Carcassonne,Location,Location,11916,11927,,"re M. Pierre reconnut-il alors le petit poète de [Carcassonne]. Il acceptait le marché. Et moi, beau joueur, aba"
+Beau-Papa,Person,Person,12266,12275,,te. Ce Grand-Prix fut l'honneur de la carrière de [Beau-Papa] et ses derniers jours s'écouleront heureux. Quan
+Félix,Person,Person,12529,12534,,rieux ne me quittait pas. Je ne fus plus jockey. [Félix] avait prononcé ces paroles avec une certaine méla
+Max VILLENEUVE,Person,Person,12838,12852,,it : — J'engraisse et je suis redevenu poète... [Max VILLENEUVE]. MOTS EN ÉCHIQUIER - Voiture. — Saison. — Perro
+MOTS EN ÉCHIQUIER,Product,Product,12855,12872,,se et je suis redevenu poète... Max VILLENEUVE. [MOTS EN ÉCHIQUIER] - Voiture. — Saison. — Perroquet. — Guillaume Te
+MARDI,Time,Time,13212,13217,,EVINEURS Les solutions doivent être parvenues le [MARDI] au plus tard au rédacteur en chef du Supplément i
+Supplément illustré du Petit Journal,Organization,Organization,13255,13291,,ues le MARDI au plus tard au rédacteur en chef du [Supplément illustré du Petit Journal]. SOLUTION du Mot Carré (n° 655) - H A M A C A S
+Thirmarche à Sotteville,Location,Location,13421,13444,,S A R SOLUTIONS JUSTES du Mot Carré (n° 654) - [Thirmarche à Sotteville] — Eugène R. et Alphonse... Saint-Gobain — Lonne R
+Eugène R.,Person,Person,13447,13456,,u Mot Carré (n° 654) - Thirmarche à Sotteville — [Eugène R.] et Alphonse... Saint-Gobain — Lonne Roulle — Mari
+Alphonse...,Person,Person,13460,13471,,n° 654) - Thirmarche à Sotteville — Eugène R. et [Alphonse...] Saint-Gobain — Lonne Roulle — Marie Beudet à Mirv
+Saint-Gobain,Location,Location,13472,13484,,hirmarche à Sotteville — Eugène R. et Alphonse... [Saint-Gobain] — Lonne Roulle — Marie Beudet à Mirvaux... P'tit
+Lonne Roulle,Person,Person,13487,13499,,teville — Eugène R. et Alphonse... Saint-Gobain — [Lonne Roulle] — Marie Beudet à Mirvaux... P'tit Louis — A nier
+Marie Beudet à Mirvaux...,Person,Person,13502,13527,,e R. et Alphonse... Saint-Gobain — Lonne Roulle — [Marie Beudet à Mirvaux...] P'tit Louis — A nier sa Belle à Pierregot — Hippo
+P'tit Louis,Person,Person,13528,13539,,Gobain — Lonne Roulle — Marie Beudet à Mirvaux... [P'tit Louis] — A nier sa Belle à Pierregot — Hippolyte à Fien
+A nier sa Belle à Pierregot,Person,Person,13542,13569,,Roulle — Marie Beudet à Mirvaux... P'tit Louis — [A nier sa Belle à Pierregot] — Hippolyte à Fien ville est — Toulofer — Un brul
+Hippolyte à Fien ville est,Person,Person,13572,13598,,ux... P'tit Louis — A nier sa Belle à Pierregot — [Hippolyte à Fien ville est] — Toulofer — Un brule-fer éviannais — Ch. K. à Pe
+Toulofer,Person,Person,13601,13609,,Belle à Pierregot — Hippolyte à Fien ville est — [Toulofer] — Un brule-fer éviannais — Ch. K. à Petite-Barbar
+Un brule-fer éviannais,Person,Person,13612,13634,,erregot — Hippolyte à Fien ville est — Toulofer — [Un brule-fer éviannais] — Ch. K. à Petite-Barbare — Eiram F. et un Chass'
+Ch. K.,Person,Person,13637,13643,,n ville est — Toulofer — Un brule-fer éviannais — [Ch. K.] à Petite-Barbare — Eiram F. et un Chass'Bi — Loui
+Petite-Barbare,Location,Location,13646,13660,,st — Toulofer — Un brule-fer éviannais — Ch. K. à [Petite-Barbare] — Eiram F. et un Chass'Bi — Louis Cros fils — Un
+Eiram F.,Person,Person,13663,13671,,n brule-fer éviannais — Ch. K. à Petite-Barbare — [Eiram F.] et un Chass'Bi — Louis Cros fils — Un Spirite — U
+un Chass'Bi,Person,Person,13675,13686,,éviannais — Ch. K. à Petite-Barbare — Eiram F. et [un Chass'Bi] — Louis Cros fils — Un Spirite — Un ami de Marcel
+Louis Cros fils,Person,Person,13689,13704,,. K. à Petite-Barbare — Eiram F. et un Chass'Bi — [Louis Cros fils] — Un Spirite — Un ami de Marcelin de Firminy — Ph
+Un Spirite,Person,Person,13707,13717,,are — Eiram F. et un Chass'Bi — Louis Cros fils — [Un Spirite] — Un ami de Marcelin de Firminy — Phournot père à
+Un ami de Marcelin de Firminy,Person,Person,13720,13749,,. et un Chass'Bi — Louis Cros fils — Un Spirite — [Un ami de Marcelin de Firminy] — Phournot père à Neuilly-l'Evêque — Joseph Grand
+Phournot père à Neuilly-l'Evêque,Person,Person,13752,13784,,ls — Un Spirite — Un ami de Marcelin de Firminy — [Phournot père à Neuilly-l'Evêque] — Joseph Grandin de Binorel — Marion de l'Eure —
+Joseph Grandin de Binorel,Person,Person,13787,13812,,n de Firminy — Phournot père à Neuilly-l'Evêque — [Joseph Grandin de Binorel] — Marion de l'Eure — Géo Grandin à Prémontré — Un
+Marion de l'Eure,Person,Person,13815,13831,,à Neuilly-l'Evêque — Joseph Grandin de Binorel — [Marion de l'Eure] — Géo Grandin à Prémontré — Un Brionnais de Brian
+Géo Grandin à Prémontré,Person,Person,13834,13857,,— Joseph Grandin de Binorel — Marion de l'Eure — [Géo Grandin à Prémontré] — Un Brionnais de Briant — E. Vivian Oyoanax — B.
+Un Brionnais de Briant,Person,Person,13860,13882,,"el — Marion de l'Eure — Géo Grandin à Prémontré — [Un Brionnais de Briant] — E. Vivian Oyoanax — B. Jacquet, Saint-Ouen-sur-"
+E. Vivian Oyoanax,Person,Person,13885,13902,,"éo Grandin à Prémontré — Un Brionnais de Briant — [E. Vivian Oyoanax] — B. Jacquet, Saint-Ouen-sur-Seine — Y. Réorog —"
+"B. Jacquet, Saint-Ouen-sur-Seine",Person,Person,13905,13937,,"ré — Un Brionnais de Briant — E. Vivian Oyoanax — [B. Jacquet, Saint-Ouen-sur-Seine] — Y. Réorog — Octave Clin — Les habitudes de chez"
+Y. Réorog,Person,Person,13940,13949,,"vian Oyoanax — B. Jacquet, Saint-Ouen-sur-Seine — [Y. Réorog] — Octave Clin — Les habitudes de chez M. Fayot, L"
+Octave Clin,Person,Person,13952,13963,,"— B. Jacquet, Saint-Ouen-sur-Seine — Y. Réorog — [Octave Clin] — Les habitudes de chez M. Fayot, Longepierre — L"
+"M. Fayot, Longepierre",Person,Person,13988,14009,,"— Y. Réorog — Octave Clin — Les habitudes de chez [M. Fayot, Longepierre] — L. Galard, Gerizay — Georges Gadon, Saint-Gerva"
+"L. Galard, Gerizay",Person,Person,14012,14030,,"n — Les habitudes de chez M. Fayot, Longepierre — [L. Galard, Gerizay] — Georges Gadon, Saint-Gervais-les-Bains — Bonjou"
+"Georges Gadon, Saint-Gervais-les-Bains",Person,Person,14033,14071,,"chez M. Fayot, Longepierre — L. Galard, Gerizay — [Georges Gadon, Saint-Gervais-les-Bains] — Bonjour à Jeanson du 31 — René Lambert Alfortvi"
+Bonjour à Jeanson du 31,Person,Person,14074,14097,,"erizay — Georges Gadon, Saint-Gervais-les-Bains — [Bonjour à Jeanson du 31] — René Lambert Alfortville. La Médecine Végétale"
+René Lambert Alfortville.,Person,Person,14100,14125,,int-Gervais-les-Bains — Bonjour à Jeanson du 31 — [René Lambert Alfortville.] La Médecine Végétale par les Sucs et les Princi
+La Médecine Végétale,Product,Product,14410,14430,,"valeur et d'une portée considérables, intitulé : [La Médecine Végétale]. Tous les malades désespérés et découragés trouve"
+La Médecine Végétale,Product,Product,14410,14430,,"valeur et d'une portée considérables, intitulé : [La Médecine Végétale]. Tous les malades désespérés et découragés trouve"
+Maladies de la Peau et du Cuir,Product,Product,14867,14897,,"itres les plus importants, il convient de citer : [Maladies de la Peau et du Cuir], Chevelu, Dartres, Eczéma, Plaies, Ulcères, Chute"
+Chevelu,Product,Product,14899,14906,,"nvient de citer : Maladies de la Peau et du Cuir, [Chevelu], Dartres, Eczéma, Plaies, Ulcères, Chute des Chev"
+Dartres,Product,Product,14908,14915,,"citer : Maladies de la Peau et du Cuir, Chevelu, [Dartres], Eczéma, Plaies, Ulcères, Chute des Cheveux, Pela"
+Eczéma,Product,Product,14917,14923,,"Maladies de la Peau et du Cuir, Chevelu, Dartres, [Eczéma], Plaies, Ulcères, Chute des Cheveux, Pelade, etc."
+Plaies,Product,Product,14925,14931,,"de la Peau et du Cuir, Chevelu, Dartres, Eczéma, [Plaies], Ulcères, Chute des Cheveux, Pelade, etc. Tumeurs"
+Ulcères,Product,Product,14933,14940,,"eau et du Cuir, Chevelu, Dartres, Eczéma, Plaies, [Ulcères], Chute des Cheveux, Pelade, etc. Tumeurs et Cance"
+Chute des Cheveux,Product,Product,14942,14959,,"Cuir, Chevelu, Dartres, Eczéma, Plaies, Ulcères, [Chute des Cheveux], Pelade, etc. Tumeurs et Cancers de tous les orga"
+Pelade,Product,Product,14961,14967,,"tres, Eczéma, Plaies, Ulcères, Chute des Cheveux, [Pelade], etc. Tumeurs et Cancers de tous les organes, Kys"
+Tumeurs et Cancers de tous les organes,Product,Product,14974,15012,,"Plaies, Ulcères, Chute des Cheveux, Pelade, etc. [Tumeurs et Cancers de tous les organes], Kystes, Glandes, Phlébites, etc. Maladies spécia"
+Kystes,Product,Product,15014,15020,,"ade, etc. Tumeurs et Cancers de tous les organes, [Kystes], Glandes, Phlébites, etc. Maladies spéciales de l"
+Glandes,Product,Product,15022,15029,,". Tumeurs et Cancers de tous les organes, Kystes, [Glandes], Phlébites, etc. Maladies spéciales de la Femme,"
+Phlébites,Product,Product,15031,15040,,"et Cancers de tous les organes, Kystes, Glandes, [Phlébites], etc. Maladies spéciales de la Femme, Maladies de"
+Maladies spéciales de la Femme,Product,Product,15047,15077,,"ous les organes, Kystes, Glandes, Phlébites, etc. [Maladies spéciales de la Femme], Maladies de la Vessie, Cystites, Gravelle, Retré"
+Maladies de la Vessie,Product,Product,15079,15100,,", Phlébites, etc. Maladies spéciales de la Femme, [Maladies de la Vessie], Cystites, Gravelle, Retrécissement, Maladies con"
+Cystites,Product,Product,15102,15110,,"ies spéciales de la Femme, Maladies de la Vessie, [Cystites], Gravelle, Retrécissement, Maladies contagieuses,"
+Gravelle,Product,Product,15112,15120,,"les de la Femme, Maladies de la Vessie, Cystites, [Gravelle], Retrécissement, Maladies contagieuses, Vices du"
+Retrécissement,Product,Product,15122,15136,,"Femme, Maladies de la Vessie, Cystites, Gravelle, [Retrécissement], Maladies contagieuses, Vices du Sang, etc. Diab"
+Maladies contagieuses,Product,Product,15138,15159,,"de la Vessie, Cystites, Gravelle, Retrécissement, [Maladies contagieuses], Vices du Sang, etc. Diabète, Goutte, Rhumatisme"
+Vices du Sang,Product,Product,15161,15174,,"Gravelle, Retrécissement, Maladies contagieuses, [Vices du Sang], etc. Diabète, Goutte, Rhumatisme, Epilepsie, Ma"
+Diabète,Product,Product,15182,15189,,"ment, Maladies contagieuses, Vices du Sang, etc. [Diabète], Goutte, Rhumatisme, Epilepsie, Maladies Nerveuse"
+Goutte,Product,Product,15191,15197,,"adies contagieuses, Vices du Sang, etc. Diabète, [Goutte], Rhumatisme, Epilepsie, Maladies Nerveuses et du"
+Rhumatisme,Product,Product,15199,15209,,"ntagieuses, Vices du Sang, etc. Diabète, Goutte, [Rhumatisme], Epilepsie, Maladies Nerveuses et du Cœur, Palpit"
+Epilepsie,Product,Product,15211,15220,,"Vices du Sang, etc. Diabète, Goutte, Rhumatisme, [Epilepsie], Maladies Nerveuses et du Cœur, Palpitations, Sur"
+Maladies Nerveuses et du Cœur,Product,Product,15222,15251,,"ng, etc. Diabète, Goutte, Rhumatisme, Epilepsie, [Maladies Nerveuses et du Cœur], Palpitations, Surmenage, Anémie, Faiblesse, Tube"
+Palpitations,Product,Product,15253,15265,,"atisme, Epilepsie, Maladies Nerveuses et du Cœur, [Palpitations], Surmenage, Anémie, Faiblesse, Tuberculose, Asthm"
+Surmenage,Product,Product,15267,15276,,"sie, Maladies Nerveuses et du Cœur, Palpitations, [Surmenage], Anémie, Faiblesse, Tuberculose, Asthme, Bronchit"
+Anémie,Product,Product,15278,15284,,"es Nerveuses et du Cœur, Palpitations, Surmenage, [Anémie], Faiblesse, Tuberculose, Asthme, Bronchite, Dyspe"
+Faiblesse,Product,Product,15286,15295,,"uses et du Cœur, Palpitations, Surmenage, Anémie, [Faiblesse], Tuberculose, Asthme, Bronchite, Dyspepsie, Const"
+Tuberculose,Product,Product,15297,15308,,"Cœur, Palpitations, Surmenage, Anémie, Faiblesse, [Tuberculose], Asthme, Bronchite, Dyspepsie, Constipation, Hydr"
+Asthme,Product,Product,15310,15316,,"tions, Surmenage, Anémie, Faiblesse, Tuberculose, [Asthme], Bronchite, Dyspepsie, Constipation, Hydropsie, A"
+Bronchite,Product,Product,15318,15327,,"urmenage, Anémie, Faiblesse, Tuberculose, Asthme, [Bronchite], Dyspepsie, Constipation, Hydropsie, Albuminurie,"
+Dyspepsie,Product,Product,15329,15338,,"némie, Faiblesse, Tuberculose, Asthme, Bronchite, [Dyspepsie], Constipation, Hydropsie, Albuminurie, Obésité, S"
+Constipation,Product,Product,15340,15352,,"lesse, Tuberculose, Asthme, Bronchite, Dyspepsie, [Constipation], Hydropsie, Albuminurie, Obésité, Surdité, Hernie"
+Hydropsie,Product,Product,15354,15363,,"lose, Asthme, Bronchite, Dyspepsie, Constipation, [Hydropsie], Albuminurie, Obésité, Surdité, Hernies, Fistules"
+Albuminurie,Product,Product,15365,15376,,"e, Bronchite, Dyspepsie, Constipation, Hydropsie, [Albuminurie], Obésité, Surdité, Hernies, Fistules, Hémorrhoide"
+Obésité,Product,Product,15378,15385,,"Dyspepsie, Constipation, Hydropsie, Albuminurie, [Obésité], Surdité, Hernies, Fistules, Hémorrhoides, etc."
+Surdité,Product,Product,15387,15394,,"e, Constipation, Hydropsie, Albuminurie, Obésité, [Surdité], Hernies, Fistules, Hémorrhoides, etc. En un mot"
+Hernies,Product,Product,15396,15403,,"pation, Hydropsie, Albuminurie, Obésité, Surdité, [Hernies], Fistules, Hémorrhoides, etc. En un mot, la guér"
+Fistules,Product,Product,15405,15413,,"ydropsie, Albuminurie, Obésité, Surdité, Hernies, [Fistules], Hémorrhoides, etc. En un mot, la guérison certa"
+Hémorrhoides,Product,Product,15415,15427,,"Albuminurie, Obésité, Surdité, Hernies, Fistules, [Hémorrhoides], etc. En un mot, la guérison certaine de toutes"
+VIE ET SANTÉ,Product,Product,15857,15869,,"ute sa force et qui infiltrent dans nos veines : [VIE ET SANTÉ] Avec ce livre, chacun peut devenir son propre mé"
+Pharmacie Richelieu,Organization,Organization,16432,16451,,"ndat ou timbres-poste adressés au Directeur de la [Pharmacie Richelieu], 93, Rue de Richelieu, 93, Paris."
+"93, Rue de Richelieu",Location,Location,16453,16473,,"adressés au Directeur de la Pharmacie Richelieu, [93, Rue de Richelieu], 93, Paris."
+Paris,Location,Location,16479,16484,,"la Pharmacie Richelieu, 93, Rue de Richelieu, 93, [Paris]."

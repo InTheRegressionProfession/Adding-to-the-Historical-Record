@@ -1,0 +1,20 @@
+﻿entity,fine_type,coarse_type,impresso_type,change,model_label,start,end,confidence,context
+M. LÉPINE,pers.ind,Person,pers.ind,confirmed,pers.ind,0,9,,[M. LÉPINE] connu la douce joie qu'il lui avait donnée sans
+mademoiselle,pers.ind,Person,pers.ind,confirmed,pers.ind,242,254,,"chantèrent ses lèvres... — Très bien, très bien, [mademoiselle]. Je prends votre manuscrit; mais vous avez tort d"
+Pierrot,pers.ind,Person,pers.ind,confirmed,pers.ind,313,320,,"ds votre manuscrit; mais vous avez tort de signer [Pierrot], mettez plutôt Pierrette; vous aurez plus de succ"
+Pierrette,pers.ind,Person,pers.ind,confirmed,pers.ind,336,345,,"s vous avez tort de signer Pierrot, mettez plutôt [Pierrette]; vous aurez plus de succès, on est au féminisme."
+Jeanne,pers.ind,Person,pers.ind,confirmed,pers.ind,604,610,,"cette entrevue qui avait si curieusement tourné, [Jeanne] recevait un mot de M. Vidal qui l'invitait à se p"
+M. Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,630,638,,"si curieusement tourné, Jeanne recevait un mot de [M. Vidal] qui l'invitait à se présenter à son bureau... El"
+M. PUIBARAUD,pers.ind,Person,pers.ind,confirmed,pers.ind,2213,2225,,se sauver sans rien dire et de laisser le jeune [M. PUIBARAUD] DIRECTEUR DU SERVICE DES RECHERCHES garder plus
+Jeanne,pers.ind,Person,pers.ind,confirmed,pers.ind,3125,3131,,"ontre... — Vous aviez raison de croire en moi... [Jeanne], je vous aime... Depuis longtemps nos âmes se che"
+Paul ANDRÉ,pers.ind.articleauthor,Person,pers.ind,retyped,pers.ind.articleauthor,3881,3891,,"de la jeune fille, le poète mit un long baiser. [Paul ANDRÉ]. LE CRIME DE LA RUE CHALGRIN Arrestation de l'a"
+Glasgow,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,3951,3958,,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+M. Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,4618,4626,,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal]? Cet aussi fit tressaillir la jeune fille. — Ou"
+Pierrette,pers.ind,Person,pers.ind,confirmed,pers.ind,4955,4964,,"que je ne comprends pas non plus, c'est ce nom de [Pierrette] par lequel ils ont remplacé mon pseudonyme de Pie"
+Pierrot,pers.ind,Person,pers.ind,confirmed,pers.ind,5011,5018,,tte par lequel ils ont remplacé mon pseudonyme de [Pierrot]... Enfin la signature importe peu... Être imprimé
+M. Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,5089,5097,,"e importe peu... Être imprimé, cela me suffit... [M. Vidal] passa dans l'antichambre; il s'inclina devant la"
+Mademoiselle Pierrette,pers.ind,Person,pers.ind,confirmed,pers.ind,5163,5185,,"tichambre; il s'inclina devant la jeune fille. — [Mademoiselle Pierrette], voulez-vous me suivre?... Quand ils furent dans"
+M. HAMARD,pers.ind,Person,pers.ind,confirmed,pers.ind,5667,5676,,"us, mademoiselle... Pardonnez-moi de ne pas vous [M. HAMARD] CHEF DE LA SURETÉ M. BERTILLON CHEF DU SERVICE"
+CHEF DE LA SURETÉ,org.adm,Organization,,added,org.adm,5678,5695,,selle... Pardonnez-moi de ne pas vous M. HAMARD [CHEF DE LA SURETÉ] M. BERTILLON CHEF DU SERVICE D'IDENTIFICATION
+M. BERTILLON,pers.ind,Person,pers.ind,confirmed,pers.ind,5697,5709,,moi de ne pas vous M. HAMARD CHEF DE LA SURETÉ [M. BERTILLON] CHEF DU SERVICE D'IDENTIFICATION
+CHEF DU SERVICE D'IDENTIFICATION,org.adm,Organization,,added,org.adm,5711,5743,,vous M. HAMARD CHEF DE LA SURETÉ M. BERTILLON [CHEF DU SERVICE D'IDENTIFICATION]

@@ -1,0 +1,94 @@
+﻿entity,fine_type,coarse_type
+Paul Moirans,pers.ind,Person
+M. Moirans,pers.ind,Person
+Paul Tombelle,pers.ind,Person
+baron du Senay,pers.ind,Person
+Nice,loc.adm.town,Location
+monsieur Tombelle,pers.ind,Person
+Dusenay,pers.ind,Person
+Moirans,pers.ind,Person
+Alin MONJARDIN,pers.ind.articleauthor,Person
+Aliboron,pers.ind,Person
+Petit Journal,prod.media,Product
+MALTE,loc.adm.nat,Location
+Léopold Gros,pers.ind,Person
+C. Pierron,pers.ind,Person
+A. Lefebvre,pers.ind,Person
+M. Cholet,pers.ind,Person
+M. Assin,pers.ind,Person
+C. Desserville,pers.ind,Person
+Q. de Meigneux,pers.ind,Person
+A. de Cabannes,pers.ind,Person
+E. Terrion,pers.ind,Person
+A. Godaux,pers.ind,Person
+O. Clin,pers.ind,Person
+Kloklo,pers.ind,Person
+Edipe,pers.ind,Person
+M. Develennes,pers.ind,Person
+Compagnie d'Assurances Générales sur la Vie,org.ent,Organization
+1819,time.date.abs,Time
+Paris,loc.adm.town,Location
+"87, rue de Richelieu",loc.add.phys,Location
+LEONOLDE POUJADE,pers.ind,Person
+FIGEAC,loc.adm.town,Location
+Loir.,loc.adm.reg,Location
+E. HEBLÉ,pers.ind,Person
+"103, Faubourg Saint-Denis, Paris",loc.add.phys,Location
+STRADELLA,org.ent,Organization
+DEDENIS,pers.ind,Person
+Brives,loc.adm.town,Location
+Gauloise,org.ent,Organization
+"Paris, 194, rue Lafayette",loc.add.phys,Location
+"104, AV. LEDRU-BOLLAN, PARIS",loc.add.phys,Location
+LAILLET,pers.ind,Person
+AMIENS,loc.adm.town,Location
+BARLET,pers.ind,Person
+"112, rue Réaumur, Paris",loc.add.phys,Location
+B. LEFORT,org.ent,Organization
+"10, rue de Villebois-Mareuil, Paris",loc.add.phys,Location
+Fr. Fernand CLEMENT,pers.ind,Person
+Levallois-Perret,loc.adm.town,Location
+Seine,loc.adm.reg,Location
+France,loc.adm.nat,Location
+Maître Populaire,org.ent,Organization
+"13-2 r. Montholon, Paris",loc.add.phys,Location
+J. Hasié,pers.ind,Person
+"5, passage Verdeau, Paris",loc.add.phys,Location
+Bruxelles,loc.adm.town,Location
+Phac St-Michel,org.ent,Organization
+Genève,loc.adm.town,Location
+Cartier,org.ent,Organization
+Jorin,org.ent,Organization
+Buenos-Ayres,loc.adm.town,Location
+Phac Franco-Inglese,org.ent,Organization
+Montréal,loc.adm.town,Location
+A. Decaer,org.ent,Organization
+FONS,loc.adm.town,Location
+Mme Henry,pers.ind,Person
+"11, r. Eupatoire, Paris",loc.add.phys,Location
+"31, rue Matabiau",loc.add.phys,Location
+Toulouse,loc.adm.town,Location
+"11, rue Lacharrière, Paris",loc.add.phys,Location
+HERFELD et Ce,org.ent,Organization
+Neuenrade,loc.adm.town,Location
+Allemagne,loc.adm.nat,Location
+ROBERT HUSBERG,pers.ind,Person
+Niolet,pers.ind,Person
+Prof. LAGUS,pers.ind,Person
+Palais d'Hiver,loc.fac,Location
+Pau,loc.adm.town,Location
+Dr KATZ,pers.ind,Person
+Pharmacie du Dispensaire,org.ent,Organization
+"101, rue Gide, Paris-Levallois",loc.add.phys,Location
+TRIBAUDEAU,org.ent,Organization
+BESANÇON,loc.adm.town,Location
+PARMOIS,org.ent,Organization
+La Prévoyante,org.ent,Organization
+"11, rue Lacharrière, Paris",loc.add.phys,Location
+CYCLES MERIOANT,org.ent,Organization
+"13, Av. des Moulineaux, PARIS-BILLANCOURT",loc.add.phys,Location
+G. LASSEUR,pers.ind,Person
+Petit Journal,prod.media,Product
+C. MARTY,pers.ind,Person
+MARINONI,org.ent,Organization
+LORILLFUX,org.ent,Organization

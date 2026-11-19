@@ -1,0 +1,48 @@
+﻿entity,fine_type,coarse_type
+Néris,pers.ind,Person
+Blanche Pompadour,pers.ind,Person
+Blanche,pers.ind,Person
+Saumur,loc.adm.town,Location
+Trouville,loc.adm.town,Location
+la Craux,loc.adm.town,Location
+Diderot,pers.ind,Person
+Guy Larbey,pers.ind,Person
+Petites Marionnettes,org.ent,Organization
+Eusèbe Lampluche,pers.ind,Person
+Châteaulet,loc.adm.town,Location
+Paris,loc.adm.town,Location
+Saint-Eustache,loc.fac,Location
+monsieur Néris,pers.ind,Person
+Lampluche,pers.ind,Person
+Ruy Blas,prod.media,Product
+Don César,pers.ind,Person
+Eusèbe,pers.ind,Person
+rue Monecy,loc.oro,Location
+M. Eusèbe Lampluche,pers.ind,Person
+Charles CLERC,pers.ind.articleauthor,Person
+M. Bombardin,pers.ind,Person
+Mlle Bombardin,pers.ind,Person
+Emile Bombardin,pers.ind,Person
+France,loc.adm.nat,Location
+Normandie,loc.adm.reg,Location
+Rouen,loc.adm.town,Location
+Mlle Aglaé Bombardin,pers.ind,Person
+Aglaé,pers.ind,Person
+Marseille,loc.adm.town,Location
+rouen,loc.adm.town,Location
+Mlle Aglaé,pers.ind,Person
+Marie,pers.ind,Person
+Cannebière,loc.oro,Location
+Hollande,loc.adm.nat,Location
+M. Fallières,pers.ind,Person
+La Fleur Merveilleuse,prod.media,Product
+M. Miguel Zamacois,pers.ind,Person
+Pays-Bas,loc.adm.nat,Location
+Rhin,loc.phys.hydro,Location
+Escaut,loc.phys.hydro,Location
+Meuse,loc.phys.hydro,Location
+Miguel Zamacois,pers.ind,Person
+Pyrénées,loc.phys.geo,Location
+Roussillon,loc.adm.reg,Location
+Edmond Rostand,pers.ind,Person
+Académie française,org.ent,Organization

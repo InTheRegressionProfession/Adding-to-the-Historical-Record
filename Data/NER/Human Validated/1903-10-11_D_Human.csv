@@ -1,0 +1,50 @@
+﻿entity,fine_type,coarse_type
+Maurice Forestier,pers.ind,Person
+Madeleine,pers.ind,Person
+Odette,pers.ind,Person
+Jean,pers.ind,Person
+Mme Paul Blondel,pers.ind,Person
+Paul Blondel,pers.ind,Person
+Mans,loc.adm.town,Location
+Angers,loc.adm.town,Location
+Antoinette,pers.ind,Person
+capitaine Blondel,pers.ind,Person
+Mme de Z..,pers.ind,Person
+Mme Blondel,pers.ind,Person
+Odette Forestier,pers.ind,Person
+Mme Forestier,pers.ind,Person
+Paris,loc.adm.town,Location
+Elysée,loc.fac,Location
+Bayonne,loc.adm.town,Location
+Madeleine Forestier,pers.ind,Person
+Maurice,pers.ind,Person
+Mme Madeleine Forestier,pers.ind,Person
+Frédéric BERTHOLD,pers.ind.articleauthor,Person
+Petit Journal,prod.media,Product
+Décati-Club,org.ent,Organization
+M. VINCENT,pers.ind,Person
+" 8, place Victor-Hugo",loc.add.phys,Location
+Grenoble,loc.adm.town,Location
+Daniel Furon,pers.ind,Person
+Fontenay-aux-Roses,loc.adm.town,Location
+Ivry,loc.adm.town,Location
+MADAME RUPPARD,pers.ind,Person
+"14, CITÉ BONNELLE, 14 Paris",loc.add.phys,Location
+rue du Mont-Blanc,loc.oro,Location
+Dan'el,pers.ind,Person
+mère Ruppard,pers.ind,Person
+Furon,pers.ind,Person
+Suzette,pers.ind,Person
+Suzanne,pers.ind,Person
+Mme Corbin,pers.ind,Person
+Mme Geneviève,pers.ind,Person
+Mme de Vaugiron,pers.ind,Person
+Henri,pers.ind,Person
+Henriette,pers.ind,Person
+Henri de la Chevardaye,pers.ind,Person
+Bois-Roux,loc.fac,Location
+Mme Vaugiron,pers.ind,Person
+Ambroise,pers.ind,Person
+Mme Corbin,pers.ind,Person
+Le Farec,pers.ind,Person
+PAUL PERRET,pers.ind.articleauthor,Person

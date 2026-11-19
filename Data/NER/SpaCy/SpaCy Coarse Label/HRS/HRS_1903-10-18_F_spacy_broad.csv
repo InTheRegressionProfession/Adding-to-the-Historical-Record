@@ -1,0 +1,236 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+"...
+
+A mon tour",Product,MISC,66,81,,s enfants! J'en ai cent cinquante à soigner là-bas[... A mon tour] j'interrogeai. Mais la modestie de la bonne Sœur
+Sœur,Person,PER,126,130,,tour j'interrogeai. Mais la modestie de la bonne [Sœur] lui fermait la bouche quand il s'agissait de parl
+"Sœur?
+
+—",Product,MISC,1027,1035,,ait en route. — Vous devez être bien fatiguée ma [Sœur? —] Pas guère! C'est vrai qu'elle semblait toute fraî
+Ah ben!,Product,MISC,1416,1423,,ept heures. — Mais vous devez mourir de faim! — [Ah ben!] mourir pour si peu! Vous ne le voudriez pas! — N
+ma Sœur,Person,PER,1492,1499,,"! Vous ne le voudriez pas! — Non! Mais, parbleu, [ma Sœur], nous allons souper!... J'ai toujours faim en voy"
+vidai,Location,LOC,1653,1658,,"la table. Je pris le panier aux provisions et le [vidai] sur la banquette!... Et nous voilà, la Sœur et m"
+Sœur,Product,MISC,1699,1703,,"le vidai sur la banquette!... Et nous voilà, la [Sœur] et moi, côte à côte, déchiquetant notre poulet su"
+jambon,Person,PER,1842,1848,,"cassant des œufs durs, faisant des sandwiches de [jambon], mangeant, riant et bavardant comme de vieux amis"
+Bresse,Location,LOC,2128,2134,,"lle, cette poularde! Et bien bonne! Elle vient de [Bresse], dites! Oh! plus rien! non, merci!... Seulement c"
+Oh!,Product,MISC,2143,2146,,"arde! Et bien bonne! Elle vient de Bresse, dites! [Oh!] plus rien! non, merci!... Seulement ce morceau de"
+"Allons, ma Sœur",Product,MISC,2269,2284,,"nfants, un tout petit qui ne peut pas grandir. — [Allons, ma Sœur], vous avez soif encore, je prie. Et sans attendr"
+de Champagne,Product,MISC,2384,2396,,"e sa réponse, je saisis une demi-bouteille de vin [de Champagne], et j'en fis — Dieu me pardonne — sauter le bouch"
+Dieu,Product,MISC,2412,2416,,"demi-bouteille de vin de Champagne, et j'en fis — [Dieu] me pardonne — sauter le bouchon le plus gaillarde"
+Sœur,Product,MISC,2510,2514,,"llardement du monde! Elle poussa un cri, la bonne [Sœur], en voyant la moussé déborder de son verre que j'"
+Arles,Location,LOC,2904,2909,,istait dans son sommeil... Le temps avait passé. [Arles] et la Crau étaient déjà loin derrière nous. Je re
+Crau,Location,LOC,2916,2920,,son sommeil... Le temps avait passé. Arles et la [Crau] étaient déjà loin derrière nous. Je relevai les r
+Orient,Product,MISC,3045,3051,,e des glaces. Une faible clarté se traitnait à l'[Orient]. Ces teintes étranges passaient. Nous nous laissi
+Sœur,Location,LOC,3432,3436,,"travers la plaine illuminée par cette aurore, la [Sœur], à côté de moi, l'air grave et les paupières mi-c"
+Marseille,Location,LOC,3685,3694,,"ra dans la vie et me dit : — Nous voici rendus à [Marseille]... Je vous remercie encore, monsieur. — Ma Sœur,"
+Ma Sœur,Person,PER,3736,3743,,"arseille... Je vous remercie encore, monsieur. — [Ma Sœur], lui dis-je, c'est bien mal! Je n'ai pas bu à vot"
+ma vilaine mélancolie,Person,PER,4161,4182,,e vous ai pas oubliée... Car vous avez su chasser [ma vilaine mélancolie]; le spectacle de votre gracieuse abnégation m'a f
+Oh!,Product,MISC,4502,4505,,"m'avez donné là. Et moi qui ne suis pas un saint! [Oh!] non! — Moi qui, cette nuit-là, me reprochais d'au"
+Moi qui ai,Product,MISC,4603,4613,,"autres nuits anciennes de veiller... et de folie! [Moi qui ai], trop souvent, ladie d'estomac, que tous les rem"
+Pilules Pink,Product,MISC,4695,4707,,", que tous les remèdes que j'avais pris avant les [Pilules Pink] avaient été impuissants à guérir. Les aliments av"
+Pilules Pink,Product,MISC,5359,5371,,"sur les conseils d'une parente, j'eus recours aux [Pilules Pink] qui, au bout de peu de jours, améliorèrent d'une"
+Mme Léonie Lory,Person,PER,5539,5554,,"s'accentuer par la prolongation du traitement ». [Mme Léonie Lory] habite à Mezières-Epône (Seine-et-Oise), chez M."
+Mezières,Location,LOC,5564,5572,,"gation du traitement ». Mme Léonie Lory habite à [Mezières]-Epône (Seine-et-Oise), chez M. Langronet. Il fau"
+Epône,Location,LOC,5573,5578,,"traitement ». Mme Léonie Lory habite à Mezières-[Epône] (Seine-et-Oise), chez M. Langronet. Il faut vain"
+Seine-et-Oise,Location,LOC,5580,5593,,"ment ». Mme Léonie Lory habite à Mezières-Epône ([Seine-et-Oise]), chez M. Langronet. Il faut vaincre ou mourir!"
+M. Langronet,Person,PER,5601,5613,,"ory habite à Mezières-Epône (Seine-et-Oise), chez [M. Langronet]. Il faut vaincre ou mourir! et entre temps souff"
+Sœur,Product,MISC,5808,5812,,"j'ose me rappeler maintenant, non sans fierté, ma [Sœur], que nous avons sablé ensemble le vin de Champagn"
+de Champagne,Product,MISC,5851,5863,,"té, ma Sœur, que nous avons sablé ensemble le vin [de Champagne]; et je songe, non sans reconnaissance, que ce sou"
+Dieu,Product,MISC,6052,6056,,prières qu'on ait jamais envoyées pour lui au bon [Dieu]. Adolphe CHENEVIÈRE. L'AGRICULTURE MODERNE Par
+Adolphe CHENEVIÈRE,Person,PER,6059,6077,,qu'on ait jamais envoyées pour lui au bon Dieu. [Adolphe CHENEVIÈRE]. L'AGRICULTURE MODERNE Parait toutes les semain
+L'AGRICULTURE,Product,MISC,6080,6093,,oyées pour lui au bon Dieu. Adolphe CHENEVIÈRE. [L'AGRICULTURE] MODERNE Parait toutes les semaines JOURNAL POPU
+JOURNAL POPULAIRE,Organization,ORG,6131,6148,,"'AGRICULTURE MODERNE Parait toutes les semaines [JOURNAL POPULAIRE], SIMPLE, PRATIQUE MERVEILLEUSEMENT RENSEIGNÉ 16"
+SIMPLE,Product,MISC,6150,6156,,"E Parait toutes les semaines JOURNAL POPULAIRE, [SIMPLE], PRATIQUE MERVEILLEUSEMENT RENSEIGNÉ 16 pages d"
+"PRATIQUE
+
+MERVEILLEUSEMENT",Product,MISC,6158,6184,,"t toutes les semaines JOURNAL POPULAIRE, SIMPLE, [PRATIQUE MERVEILLEUSEMENT] RENSEIGNÉ 16 pages de lecture avec gravures POU"
+POUR 5,Product,MISC,6231,6237,,ENT RENSEIGNÉ 16 pages de lecture avec gravures [POUR 5] CENTIMES SEULEMENT CONSEILS PRATIQUES La moussé
+SEULEMENT,Organization,ORG,6247,6256,,6 pages de lecture avec gravures POUR 5 CENTIMES [SEULEMENT] CONSEILS PRATIQUES La moussé Un des plus jolis
+"CONSEILS PRATIQUES
+
+La moussé
+
+Un",Product,MISC,6258,6291,,lecture avec gravures POUR 5 CENTIMES SEULEMENT [CONSEILS PRATIQUES La moussé Un] des plus jolis compléments des jardinières des co
+Brésil,Location,LOC,7845,7851,,"ger ensemble, on emploie une décoction de bois du [Brésil], et le sulfate ferreux. Par ces divers moyens, l"
+GRACIA,Organization,ORG,8129,8135,,. Ce dernier point est un avantage indiscutable. [GRACIA]. MOTS EN PENTAGONE Au pied. — Point humide. — A
+"MOTS EN PENTAGONE
+
+",Product,MISC,8138,8157,,ier point est un avantage indiscutable. GRACIA. [MOTS EN PENTAGONE ]Au pied. — Point humide. — A ce Sage Athènes dut d
+Point humide,Location,LOC,8168,8180,,scutable. GRACIA. MOTS EN PENTAGONE Au pied. — [Point humide]. — A ce Sage Athènes dut de justes lois. — Ne por
+Sage Athènes,Person,PER,8189,8201,,"OTS EN PENTAGONE Au pied. — Point humide. — A ce [Sage Athènes] dut de justes lois. — Ne porte plus, comme autref"
+Coquille et bourdon,Product,MISC,8256,8275,,"de justes lois. — Ne porte plus, comme autrefois, [Coquille et bourdon]; il voyage Maintenant en chemin de fer. — Il est"
+Maintenant en chemin de fer,Product,MISC,8287,8314,,", comme autrefois, Coquille et bourdon; il voyage [Maintenant en chemin de fer]. — Il est important d'une mer Qui s'ouvre en Médi"
+Méditerranée,Location,LOC,8360,8372,,fer. — Il est important d'une mer Qui s'ouvre en [Méditerranée]. — Fut une mère infortunée. — La vapeur qui fonde
+ALLOBOGUE,Organization,ORG,8439,8448,,infortunée. — La vapeur qui fonde dans l'air. UN [ALLOBOGUE]. AVIS AUX DEVINEURS Les solutions doivent être
+AVIS AUX DEVINEURS,Product,MISC,8451,8469,,— La vapeur qui fonde dans l'air. UN ALLOBOGUE. [AVIS AUX DEVINEURS] Les solutions doivent être parvenues le MARDI au
+MARDI,Location,LOC,8511,8516,,EVINEURS Les solutions doivent être parvenues le [MARDI] au plus tard au rédacteur en chef du Supplément i
+Supplément illustré du,Product,MISC,8554,8576,,ues le MARDI au plus tard au rédacteur en chef du [Supplément illustré du] Petit Journal. SOLUTION des Mots en Parallélogr
+Petit Journal,Product,MISC,8577,8590,,rd au rédacteur en chef du Supplément illustré du [Petit Journal]. SOLUTION des Mots en Parallélogramme (n° 673)
+"SOLUTION
+
+des Mots en Parallélogramme",Product,MISC,8593,8630,,en chef du Supplément illustré du Petit Journal. [SOLUTION des Mots en Parallélogramme] (n° 673) M I S E N E T I B E R E M E D I N E C E
+"M I S E N E
+T I B E R E
+M E D I",Product,MISC,8641,8672,,SOLUTION des Mots en Parallélogramme (n° 673) [M I S E N E T I B E R E M E D I] N E C E R I S E SOLUTIONS JUSTES des Triangles
+C E R I,Product,MISC,8677,8684,,mme (n° 673) M I S E N E T I B E R E M E D I N E [C E R I] S E SOLUTIONS JUSTES des Triangles jumeaux (n°
+Jules Houblereque de Bolbec,Person,PER,8740,8767,,SOLUTIONS JUSTES des Triangles jumeaux (n° 672) [Jules Houblereque de Bolbec] — Mimi de Sevresgnot — Lentendu E. et L. Charpent
+Mimi de Sevresgnot,Person,PER,8770,8788,,"s jumeaux (n° 672) Jules Houblereque de Bolbec — [Mimi de Sevresgnot] — Lentendu E. et L. Charpentier — Remo Zeillet, P"
+Lentendu E.,Person,PER,8791,8802,,"ules Houblereque de Bolbec — Mimi de Sevresgnot — [Lentendu E.] et L. Charpentier — Remo Zeillet, Pierregot — 2 œ"
+L. Charpentier,Person,PER,8806,8820,,"e de Bolbec — Mimi de Sevresgnot — Lentendu E. et [L. Charpentier] — Remo Zeillet, Pierregot — 2 œdipes féroces — Jo"
+Remo Zeillet,Person,PER,8823,8835,,"i de Sevresgnot — Lentendu E. et L. Charpentier — [Remo Zeillet], Pierregot — 2 œdipes féroces — Joseph Grandin, B"
+Pierregot,Location,LOC,8837,8846,,"t — Lentendu E. et L. Charpentier — Remo Zeillet, [Pierregot] — 2 œdipes féroces — Joseph Grandin, Bihorel — J."
+Joseph Grandin,Person,PER,8868,8882,,"er — Remo Zeillet, Pierregot — 2 œdipes féroces — [Joseph Grandin], Bihorel — J. Deler, la Charité — Tante Léonie —"
+Bihorel,Location,LOC,8884,8891,,"t, Pierregot — 2 œdipes féroces — Joseph Grandin, [Bihorel] — J. Deler, la Charité — Tante Léonie — Louis Cro"
+J. Deler,Person,PER,8894,8902,,"ot — 2 œdipes féroces — Joseph Grandin, Bihorel — [J. Deler], la Charité — Tante Léonie — Louis Cros fils — Ma"
+Charité,Location,LOC,8907,8914,,"féroces — Joseph Grandin, Bihorel — J. Deler, la [Charité] — Tante Léonie — Louis Cros fils — Mamzelle Tromp"
+Tante Léonie,Person,PER,8917,8929,,"Joseph Grandin, Bihorel — J. Deler, la Charité — [Tante Léonie] — Louis Cros fils — Mamzelle Trompette — René Lam"
+Louis Cros fils,Person,PER,8932,8947,,", Bihorel — J. Deler, la Charité — Tante Léonie — [Louis Cros fils] — Mamzelle Trompette — René Lambert, Alfortville"
+Mamzelle Trompette,Person,PER,8950,8968,,"er, la Charité — Tante Léonie — Louis Cros fils — [Mamzelle Trompette] — René Lambert, Alfortville — Jeanson d'Lady — L."
+René Lambert,Person,PER,8971,8983,,"e Léonie — Louis Cros fils — Mamzelle Trompette — [René Lambert], Alfortville — Jeanson d'Lady — L. Gougeon, de Co"
+Alfortville,Location,LOC,8985,8996,,"is Cros fils — Mamzelle Trompette — René Lambert, [Alfortville] — Jeanson d'Lady — L. Gougeon, de Coulamer — Phil"
+Jeanson d'Lady,Person,PER,8999,9013,,"Mamzelle Trompette — René Lambert, Alfortville — [Jeanson d'Lady] — L. Gougeon, de Coulamer — Philippe Varlet — Clé"
+L. Gougeon,Person,PER,9016,9026,,"te — René Lambert, Alfortville — Jeanson d'Lady — [L. Gougeon], de Coulamer — Philippe Varlet — Clémence et E. M"
+Coulamer,Location,LOC,9031,9039,,"rt, Alfortville — Jeanson d'Lady — L. Gougeon, de [Coulamer] — Philippe Varlet — Clémence et E. Monnet — Warri"
+Philippe Varlet,Person,PER,9042,9057,,"ille — Jeanson d'Lady — L. Gougeon, de Coulamer — [Philippe Varlet] — Clémence et E. Monnet — Warrior — A. D., Rugles"
+Clémence,Person,PER,9060,9068,,"ady — L. Gougeon, de Coulamer — Philippe Varlet — [Clémence] et E. Monnet — Warrior — A. D., Rugles — Octave C"
+E. Monnet,Person,PER,9072,9081,,"geon, de Coulamer — Philippe Varlet — Clémence et [E. Monnet] — Warrior — A. D., Rugles — Octave Clin — Nini Ca"
+Warrior — A. D.,Person,PER,9084,9099,,"lamer — Philippe Varlet — Clémence et E. Monnet — [Warrior — A. D.], Rugles — Octave Clin — Nini Caturfo — R. des Roi"
+Rugles,Location,LOC,9101,9107,,"Varlet — Clémence et E. Monnet — Warrior — A. D., [Rugles] — Octave Clin — Nini Caturfo — R. des Rois — Déme"
+Octave Clin,Person,PER,9110,9121,,"Clémence et E. Monnet — Warrior — A. D., Rugles — [Octave Clin] — Nini Caturfo — R. des Rois — Démesthène — Un Sp"
+Nini Caturfo,Person,PER,9124,9136,,"Monnet — Warrior — A. D., Rugles — Octave Clin — [Nini Caturfo] — R. des Rois — Démesthène — Un Spirite — Un Mass"
+Un Spirite —,Person,PER,9166,9178,,"Clin — Nini Caturfo — R. des Rois — Démesthène — [Un Spirite —] Un Massacre de Wassy — Z. M., Prémontré — Un Brig"
+Un Massacre de Wassy,Product,MISC,9179,9199,,"Caturfo — R. des Rois — Démesthène — Un Spirite — [Un Massacre de Wassy] — Z. M., Prémontré — Un Brig-four, Givet — Edmond"
+Z. M.,Location,LOC,9202,9207,,"Démesthène — Un Spirite — Un Massacre de Wassy — [Z. M.], Prémontré — Un Brig-four, Givet — Edmond Leroy à"
+Prémontré,Location,LOC,9209,9218,,"hène — Un Spirite — Un Massacre de Wassy — Z. M., [Prémontré] — Un Brig-four, Givet — Edmond Leroy à Pernois —"
+Un Brig-four,Location,LOC,9221,9233,,"irite — Un Massacre de Wassy — Z. M., Prémontré — [Un Brig-four], Givet — Edmond Leroy à Pernois — Erie à Pressain"
+Givet,Location,LOC,9235,9240,,"sacre de Wassy — Z. M., Prémontré — Un Brig-four, [Givet] — Edmond Leroy à Pernois — Erie à Pressaint — In"
+Edmond Leroy,Person,PER,9243,9255,,"Wassy — Z. M., Prémontré — Un Brig-four, Givet — [Edmond Leroy] à Pernois — Erie à Pressaint — In sodar di Tionet"
+Pernois,Location,LOC,9258,9265,,"Prémontré — Un Brig-four, Givet — Edmond Leroy à [Pernois] — Erie à Pressaint — In sodar di Tionet — Vagueme"
+Erie,Location,LOC,9268,9272,,"— Un Brig-four, Givet — Edmond Leroy à Pernois — [Erie] à Pressaint — In sodar di Tionet — Vaguemestre de"
+Pressaint,Location,LOC,9275,9284,,"rig-four, Givet — Edmond Leroy à Pernois — Erie à [Pressaint] — In sodar di Tionet — Vaguemestre de l'artilleri"
+Vaguemestre,Person,PER,9308,9319,,"Pernois — Erie à Pressaint — In sodar di Tionet — [Vaguemestre] de l'artillerie, Givet — H. et M. du Point seau à"
+Givet,Location,LOC,9337,9342,,"In sodar di Tionet — Vaguemestre de l'artillerie, [Givet] — H. et M. du Point seau à Mortain — 2 clercs de"
+H.,Person,PER,9345,9347,,"di Tionet — Vaguemestre de l'artillerie, Givet — [H.] et M. du Point seau à Mortain — 2 clercs de Rubem"
+Mortain,Location,LOC,9370,9377,,"de l'artillerie, Givet — H. et M. du Point seau à [Mortain] — 2 clercs de Rubempré — Louis Lamontagne, Cherbo"
+Rubempré,Person,PER,9392,9400,,"— H. et M. du Point seau à Mortain — 2 clercs de [Rubempré] — Louis Lamontagne, Cherbourg — Thérèse et August"
+Louis Lamontagne,Person,PER,9403,9419,,"du Point seau à Mortain — 2 clercs de Rubempré — [Louis Lamontagne], Cherbourg — Thérèse et Auguste à Nogent — Boucha"
+Cherbourg,Location,LOC,9421,9430,,"ortain — 2 clercs de Rubempré — Louis Lamontagne, [Cherbourg] — Thérèse et Auguste à Nogent — Bouchaud, Augoulê"
+Thérèse,Person,PER,9433,9440,,"lercs de Rubempré — Louis Lamontagne, Cherbourg — [Thérèse] et Auguste à Nogent — Bouchaud, Augoulême. Vainc"
+Auguste,Person,PER,9444,9451,,"bempré — Louis Lamontagne, Cherbourg — Thérèse et [Auguste] à Nogent — Bouchaud, Augoulême. Vaincre! ou mour"
+Nogent,Location,LOC,9454,9460,,"ouis Lamontagne, Cherbourg — Thérèse et Auguste à [Nogent] — Bouchaud, Augoulême. Vaincre! ou mourir! Mme"
+Bouchaud,Person,PER,9463,9471,,"ntagne, Cherbourg — Thérèse et Auguste à Nogent — [Bouchaud], Augoulême. Vaincre! ou mourir! Mme Léonie Lory"
+Augoulême,Person,PER,9473,9482,,"erbourg — Thérèse et Auguste à Nogent — Bouchaud, [Augoulême]. Vaincre! ou mourir! Mme Léonie Lory était enfe"
+Vaincre!,Product,MISC,9485,9493,,"érèse et Auguste à Nogent — Bouchaud, Augoulême. [Vaincre!] ou mourir! Mme Léonie Lory était enfermée dans c"
+Léonie Lory,Person,PER,9510,9521,,"— Bouchaud, Augoulême. Vaincre! ou mourir! Mme [Léonie Lory] était enfermée dans ce dilemme: vaincre ou mourir"
+Pilules Pink,Product,MISC,9814,9826,,"la présente, écrit-elle, mon admiration pour les [Pilules Pink], qui m'ont guérie. Depuis longtemps j'avais une g"
+Pilules Pink,Product,MISC,9951,9963,,", que tous les remèdes que j'avais pris avant les [Pilules Pink] avaient été impuissants à guérir. Les aliments av"
+Pilules Pink,Product,MISC,10615,10627,,"sur les conseils d'une parente, j'eus recours aux [Pilules Pink] qui, au bout de peu de jours, améliorèrent d'une"
+Pilules Pink,Product,MISC,10827,10839,,"du traitement ». évitez grâce à l'efficacité des [Pilules Pink]. Elles sont souveraines contre l'anémie, la chlor"
+neurasthénie,Location,LOC,10897,10909,,"sont souveraines contre l'anémie, la chlorose, la [neurasthénie], la faiblesse générale, les maux de tête, névralg"
+Pilules Pink,Product,MISC,11060,11072,,Des milliers de personnes ont été guéries par les [Pilules Pink]. On peut se procurer les Pilules Pink dans toutes
+Pilules Pink,Product,MISC,11098,11110,,ies par les Pilules Pink. On peut se procurer les [Pilules Pink] dans toutes les pharmacies et au Dépôt Gablin et
+Dépôt Gablin,Product,MISC,11144,11156,,"les Pilules Pink dans toutes les pharmacies et au [Dépôt Gablin] et Co, Pho, 23, Rue Ballu, Paris. Trois francs ci"
+Co,Location,LOC,11160,11162,,"dans toutes les pharmacies et au Dépôt Gablin et [Co], Pho, 23, Rue Ballu, Paris. Trois francs cinquant"
+Pho,Location,LOC,11164,11167,,"s toutes les pharmacies et au Dépôt Gablin et Co, [Pho], 23, Rue Ballu, Paris. Trois francs cinquante la"
+Rue Ballu,Location,LOC,11173,11182,,"les pharmacies et au Dépôt Gablin et Co, Pho, 23, [Rue Ballu], Paris. Trois francs cinquante la boîte et dix-se"
+Paris,Location,LOC,11184,11189,,"ies et au Dépôt Gablin et Co, Pho, 23, Rue Ballu, [Paris]. Trois francs cinquante la boîte et dix-sept fran"
+M. REVERDY,Person,PER,11477,11487,,"mmode et plus efficace que les bandages. Ecrire à [M. REVERDY], au RAINCY (Seine-et-Oise). PHOTOGRAPHIE SIMPLIF"
+RAINCY,Location,LOC,11492,11498,,"fficace que les bandages. Ecrire à M. REVERDY, au [RAINCY] (Seine-et-Oise). PHOTOGRAPHIE SIMPLIFIÉE Le Phot"
+Seine-et-Oise,Location,LOC,11500,11513,,"que les bandages. Ecrire à M. REVERDY, au RAINCY ([Seine-et-Oise]). PHOTOGRAPHIE SIMPLIFIÉE Le Photo-Withe apparei"
+PHOTOGRAPHIE,Product,MISC,11517,11529,,"Ecrire à M. REVERDY, au RAINCY (Seine-et-Oise). [PHOTOGRAPHIE] SIMPLIFIÉE Le Photo-Withe appareil instant, de po"
+Photo-Withe,Product,MISC,11544,11555,,"INCY (Seine-et-Oise). PHOTOGRAPHIE SIMPLIFIÉE Le [Photo-Withe] appareil instant, de poche p. photo. s. apprentis"
+apprentiss,Person,PER,11596,11606,,"oto-Withe appareil instant, de poche p. photo. s. [apprentiss]. payant, groupes, portraits, etc. Photograph. mer"
+Photograph,Product,MISC,11641,11651,,". s. apprentiss. payant, groupes, portraits, etc. [Photograph]. merveilleuses. Petit saisis vol d'un oiseau fr."
+Instruct,Product,MISC,11728,11736,,"is vol d'un oiseau fr. 35, t. produits et access. [Instruct]. facile, prêt à fonctionner complet Catalog. ill."
+Catalog,Organization,ORG,11773,11780,,"ess. Instruct. facile, prêt à fonctionner complet [Catalog]. ill. gratis. Tous genres d'appar. super. Facilit"
+ill,Organization,ORG,11782,11785,,"ruct. facile, prêt à fonctionner complet Catalog. [ill]. gratis. Tous genres d'appar. super. Facilité. fr"
+gratis,Product,MISC,11787,11793,,"facile, prêt à fonctionner complet Catalog. ill. [gratis]. Tous genres d'appar. super. Facilité. franco (de"
+franco,Person,PER,11833,11839,,"ll. gratis. Tous genres d'appar. super. Facilité. [franco] (de paiement). RENOM, ing. 23, rue St-Sabin, Pari"
+RENOM,Product,MISC,11855,11860,,"s d'appar. super. Facilité. franco (de paiement). [RENOM], ing. 23, rue St-Sabin, Paris PRET 83, Argent su"
+rue St-Sabin,Location,LOC,11871,11883,,". Facilité. franco (de paiement). RENOM, ing. 23, [rue St-Sabin], Paris PRET 83, Argent sur signe. SOCIÉTÉ INDUST"
+Paris,Location,LOC,11885,11890,,"anco (de paiement). RENOM, ing. 23, rue St-Sabin, [Paris] PRET 83, Argent sur signe. SOCIÉTÉ INDUSTRIELLE"
+Argent,Person,PER,11901,11907,,"t). RENOM, ing. 23, rue St-Sabin, Paris PRET 83, [Argent] sur signe. SOCIÉTÉ INDUSTRIELLE 25, r. Lafayette,"
+SOCIÉTÉ,Organization,ORG,11919,11926,,", rue St-Sabin, Paris PRET 83, Argent sur signe. [SOCIÉTÉ] INDUSTRIELLE 25, r. Lafayette, Paris. (25e Année)"
+INDUSTRIELLE 25,Product,MISC,11927,11942,,"-Sabin, Paris PRET 83, Argent sur signe. SOCIÉTÉ [INDUSTRIELLE 25], r. Lafayette, Paris. (25e Année). Pas confondre."
+r. Lafayette,Person,PER,11944,11956,,"ET 83, Argent sur signe. SOCIÉTÉ INDUSTRIELLE 25, [r. Lafayette], Paris. (25e Année). Pas confondre. BELLE POITRI"
+Paris,Location,LOC,11958,11963,,"sur signe. SOCIÉTÉ INDUSTRIELLE 25, r. Lafayette, [Paris]. (25e Année). Pas confondre. BELLE POITRINE en 2"
+POITRINE,Organization,ORG,12000,12008,,"ayette, Paris. (25e Année). Pas confondre. BELLE [POITRINE] en 2 mois Pilules Orientales PAR LES BIENFAISANTE"
+Pilules Orientales PAR,Product,MISC,12019,12041,,"Année). Pas confondre. BELLE POITRINE en 2 mois [Pilules Orientales PAR] LES BIENFAISANTES pour la Santé. Développement, F"
+BIENFAISANTES,Product,MISC,12046,12059,,"LLE POITRINE en 2 mois Pilules Orientales PAR LES [BIENFAISANTES] pour la Santé. Développement, Fermeté, Reconstitu"
+Fermeté,Organization,ORG,12090,12097,,"R LES BIENFAISANTES pour la Santé. Développement, [Fermeté], Reconstitution des Seins. Résultat durable. Facè"
+Reconstitution des Seins,Product,MISC,12099,12123,,"NFAISANTES pour la Santé. Développement, Fermeté, [Reconstitution des Seins]. Résultat durable. Facès avec Notice 6e 35 francs"
+Facès,Location,LOC,12143,12148,,"meté, Reconstitution des Seins. Résultat durable. [Facès] avec Notice 6e 35 francs. J. RATIE, Pho, 5, Passa"
+Notice 6e 35 francs,Product,MISC,12154,12173,,"stitution des Seins. Résultat durable. Facès avec [Notice 6e 35 francs]. J. RATIE, Pho, 5, Passage Verdeau, Paris (9e) P"
+J. RATIE,Person,PER,12175,12183,,"Résultat durable. Facès avec Notice 6e 35 francs. [J. RATIE], Pho, 5, Passage Verdeau, Paris (9e) POILS DU VI"
+Pho,Location,LOC,12185,12188,,"urable. Facès avec Notice 6e 35 francs. J. RATIE, [Pho], 5, Passage Verdeau, Paris (9e) POILS DU VISAGE"
+Passage Verdeau,Location,LOC,12193,12208,,"Facès avec Notice 6e 35 francs. J. RATIE, Pho, 5, [Passage Verdeau], Paris (9e) POILS DU VISAGE disgracieux du visag"
+Paris,Location,LOC,12210,12215,,"6e 35 francs. J. RATIE, Pho, 5, Passage Verdeau, [Paris] (9e) POILS DU VISAGE disgracieux du visage et du"
+POILS,Organization,ORG,12222,12227,,"s. J. RATIE, Pho, 5, Passage Verdeau, Paris (9e) [POILS] DU VISAGE disgracieux du visage et du corps, disp"
+r. Montmartre,Location,LOC,12354,12367,,"n de s'en débarrasser 15c. ACHILLE, chimiste, 75, [r. Montmartre], Paris LA SURDITÉ Les bruits et écoulements d'o"
+Paris,Location,LOC,12369,12374,,"rasser 15c. ACHILLE, chimiste, 75, r. Montmartre, [Paris] LA SURDITÉ Les bruits et écoulements d'oreilles"
+"SURDITÉ
+
+",Location,LOC,12379,12388,,". ACHILLE, chimiste, 75, r. Montmartre, Paris LA [SURDITÉ ]Les bruits et écoulements d'oreilles Les bourdonn"
+La Médecine des Sens,Product,MISC,13175,13195,,"mportant. — Dans une nouvelle édition, le journal [La Médecine des Sens] expose clairement la méthode pour guérir la surdi"
+M.,Person,PER,13327,13329,,"ourdonnements d'oreilles, et il suffit d'écrire à [M.] le directeur de l'Institut de la Surdité, des mal"
+Institut de la Surdité,Organization,ORG,13348,13370,,"les, et il suffit d'écrire à M. le directeur de l'[Institut de la Surdité], des maladies de la gorge et du nez, 19, rue de l"
+rue de la Pépinière,Location,LOC,13412,13431,,"Surdité, des maladies de la gorge et du nez, 19, [rue de la Pépinière], à Paris, pour recevoir aussitôt un exemplaire de"
+Paris,Location,LOC,13435,13440,,"de la gorge et du nez, 19, rue de la Pépinière, à [Paris], pour recevoir aussitôt un exemplaire de cet inté"
+Portée 30,Product,MISC,13643,13652,,"ER et TUE - MOINEAUX à petits plombs et à balles. [Portée 30] mètres. Armes nouvelles Armes à air comprimé, etc"
+Armes nouvelles,Product,MISC,13661,13676,,"UX à petits plombs et à balles. Portée 30 mètres. [Armes nouvelles] Armes à air comprimé, etc. Catalogue gratuit fran"
+Armes à air comprimé,Product,MISC,13677,13697,,"bs et à balles. Portée 30 mètres. Armes nouvelles [Armes à air comprimé], etc. Catalogue gratuit franco. E. Renom 23, rue"
+Catalogue gratuit franco,Product,MISC,13704,13728,,"ètres. Armes nouvelles Armes à air comprimé, etc. [Catalogue gratuit franco]. E. Renom 23, rue Saint-Sabin, PARIS ARÔME PATRE"
+E. Renom,Person,PER,13730,13738,,"es à air comprimé, etc. Catalogue gratuit franco. [E. Renom] 23, rue Saint-Sabin, PARIS ARÔME PATRELLE Rempla"
+rue Saint-Sabin,Location,LOC,13743,13758,,"rimé, etc. Catalogue gratuit franco. E. Renom 23, [rue Saint-Sabin], PARIS ARÔME PATRELLE Remplace avec avantage et"
+"PARIS
+
+ARÔME",Location,LOC,13760,13772,,"gue gratuit franco. E. Renom 23, rue Saint-Sabin, [PARIS ARÔME] PATRELLE Remplace avec avantage et économie Boule"
+Boules,Location,LOC,13817,13823,,"ARÔME PATRELLE Remplace avec avantage et économie [Boules] à pot-au-feu, Cignons brûlés, Caramel. Fl. 50c. e"
+Cignons brûlés,Product,MISC,13838,13852,,"ce avec avantage et économie Boules à pot-au-feu, [Cignons brûlés], Caramel. Fl. 50c. et 41. chez nous ou ailleurs."
+Caramel,Organization,ORG,13854,13861,,"et économie Boules à pot-au-feu, Cignons brûlés, [Caramel]. Fl. 50c. et 41. chez nous ou ailleurs. Exiger la"
+Fl,Location,LOC,13863,13865,,"mie Boules à pot-au-feu, Cignons brûlés, Caramel. [Fl]. 50c. et 41. chez nous ou ailleurs. Exiger la Sig"
+Signature:,Product,MISC,13912,13922,,Fl. 50c. et 41. chez nous ou ailleurs. Exiger la [Signature:] S. PATRELLE JOYEUX VIVEURS & CHANTEURS Voulez-vo
+VIVEURS & CHANTEURS Voulez,Organization,ORG,13943,13969,,"illeurs. Exiger la Signature: S. PATRELLE JOYEUX [VIVEURS & CHANTEURS Voulez]-vous faire rire et amuser vos amis? Demandez, les"
+illust,Person,PER,14028,14034,,"re rire et amuser vos amis? Demandez, les 6 cata. [illust]. réunis p. 1903 Nouv. trucs, farces, attrapes, to"
+Nouv,Person,PER,14051,14055,,"mis? Demandez, les 6 cata. illust. réunis p. 1903 [Nouv]. trucs, farces, attrapes, tours de physique, libr"
+sorcell,Product,MISC,14110,14117,,"cs, farces, attrapes, tours de physique, librair. [sorcell]., magie, et ansans, article utiles, etc. Envoi gr"
+Maison G. Rigolet,Person,PER,14174,14191,,"e, et ansans, article utiles, etc. Envoi gratuit. [Maison G. Rigolet], 23, rue St-Sabin, Paris. LA VIE ME PÈSE! Je su"
+rue St-Sabin,Location,LOC,14197,14209,,"tiles, etc. Envoi gratuit. Maison G. Rigolet, 23, [rue St-Sabin], Paris. LA VIE ME PÈSE! Je suis faible, débilit"
+Paris,Location,LOC,14211,14216,,"voi gratuit. Maison G. Rigolet, 23, rue St-Sabin, [Paris]. LA VIE ME PÈSE! Je suis faible, débilité, à bo"
+LA VIE ME PÈSE,Product,MISC,14219,14233,,"uit. Maison G. Rigolet, 23, rue St-Sabin, Paris. [LA VIE ME PÈSE]! Je suis faible, débilité, à bout de forces. Qu"
+Débilité,Product,MISC,14511,14519,,"état d'affaiblissement physique! Virilité perdue, [Débilité] nerveuse, Impuissance, Pertes, Varicocele, Faible"
+Impuissance,Person,PER,14530,14541,,"ent physique! Virilité perdue, Débilité nerveuse, [Impuissance], Pertes, Varicocele, Faiblesse du Dos et des Rein"
+Pertes,Product,MISC,14543,14549,,"Virilité perdue, Débilité nerveuse, Impuissance, [Pertes], Varicocele, Faiblesse du Dos et des Reins, etc.,"
+Varicocele,Product,MISC,14551,14561,,"é perdue, Débilité nerveuse, Impuissance, Pertes, [Varicocele], Faiblesse du Dos et des Reins, etc., tels sont l"
+Faiblesse du Dos,Person,PER,14563,14579,,"bilité nerveuse, Impuissance, Pertes, Varicocele, [Faiblesse du Dos] et des Reins, etc., tels sont les inévitables rés"
+Reins,Location,LOC,14587,14592,,"ance, Pertes, Varicocele, Faiblesse du Dos et des [Reins], etc., tels sont les inévitables résultats des ex"
+Nature,Product,MISC,14688,14694,,s excès commis. On ne peut longtemps abuser de la [Nature]; il faut obéir à ses lois si l'on veut rester rob
+Électricité!,Organization,ORG,15124,15136,,"ous employons le meilleur des remèdes naturels: l'[Électricité!] et nous l'appliquons par un procédé pratique, com"
+Batterie Electrique,Organization,ORG,15220,15239,,"dé pratique, commode et efficace, au moyen de la [Batterie Electrique] Portative ""HERCULEX"" du Dr SANDEN, que l'on porte"
+HERCULEX,Organization,ORG,15251,15259,,"e, au moyen de la Batterie Electrique Portative ""[HERCULEX]"" du Dr SANDEN, que l'on porte à même sur soi. Cet"
+Dr SANDEN,Person,PER,15264,15273,,"e la Batterie Electrique Portative ""HERCULEX"" du [Dr SANDEN], que l'on porte à même sur soi. Cette merveilleus"
+Commodément,Person,PER,15395,15406,,"constitue le traitement chez soi par excellence. [Commodément] placé autour de la taille et porté la nuit, l'app"
+"L'""HERCULEX",Organization,ORG,15667,15678,,"nie gratuitement avec chaque appareil pour homme. [L'""HERCULEX]"", avec diverses autres attaches répondant chacune"
+"Rhumatismes, la Sciatique",Product,MISC,15787,15812,,"particulier, est employée avec succès contre les [Rhumatismes, la Sciatique], la Constipation, les Maux de Reins, les maladies"
+"Constipation, les Maux de Reins",Product,MISC,15817,15848,,"c succès contre les Rhumatismes, la Sciatique, la [Constipation, les Maux de Reins], les maladies du Foie, de l'Estomac, de la Vessie"
+Foie,Location,LOC,15866,15870,,"Constipation, les Maux de Reins, les maladies du [Foie], de l'Estomac, de la Vessie, etc., etc. LIVRE GR"
+Estomac,Location,LOC,15877,15884,,"on, les Maux de Reins, les maladies du Foie, de l'[Estomac], de la Vessie, etc., etc. LIVRE GRATUIT Ecrivez"
+Vessie,Location,LOC,15892,15898,,"Reins, les maladies du Foie, de l'Estomac, de la [Vessie], etc., etc. LIVRE GRATUIT Ecrivez aujourd'hui po"
+La Santé,Person,PER,15995,16003,,"pour demander la brochure descriptive illustrée ""[La Santé] retrouvée dans la Nature""; elle vous sera envoyée"
+Nature,Product,MISC,16022,16028,,"descriptive illustrée ""La Santé retrouvée dans la [Nature]""; elle vous sera envoyée gratuitement par la post"
+ATTESATION,Person,PER,16681,16691,,"la valeur intégrale de votre ancienne ceinture. [ATTESATION]. — Douleurs Messieurs, — Je vous suis bien reconn"
+Douleurs Messieurs,Person,PER,16695,16713,,"égrale de votre ancienne ceinture. ATTESATION. — [Douleurs Messieurs], — Je vous suis bien reconnaissant des résultats"
+Brochure,Product,MISC,17342,17350,,"'étais pas fort, et je continuai En demandant la [Brochure] intitulée: ""LA SANTÉ RETROUVÉE DANS LA NATURE"", p"
+NATURE,Product,MISC,17390,17396,,"a Brochure intitulée: ""LA SANTÉ RETROUVÉE DANS LA [NATURE]"", prière de vouloir bien rappeler le titre de ce"
+Dr R. SANDEN,Person,PER,17484,17496,,"titre de ce journal. Venir, ou écrire de suite au [Dr R. SANDEN] ""HERCULEX"", 15, Rue de la Paix, PARIS. J.A. VINCE"
+HERCULEX,Person,PER,17498,17506,,"urnal. Venir, ou écrire de suite au Dr R. SANDEN ""[HERCULEX]"", 15, Rue de la Paix, PARIS. J.A. VINCENT, Pharma"
+Rue de la Paix,Location,LOC,17513,17527,,"u écrire de suite au Dr R. SANDEN ""HERCULEX"", 15, [Rue de la Paix], PARIS. J.A. VINCENT, Pharmacien de 1re classe, s"
+PARIS,Location,LOC,17529,17534,,"e au Dr R. SANDEN ""HERCULEX"", 15, Rue de la Paix, [PARIS]. J.A. VINCENT, Pharmacien de 1re classe, seul Dép"
+J.A. VINCENT,Person,PER,17536,17548,,"R. SANDEN ""HERCULEX"", 15, Rue de la Paix, PARIS. [J.A. VINCENT], Pharmacien de 1re classe, seul Dépositaire. Les"
+Pharmacien,Person,PER,17550,17560,,"RCULEX"", 15, Rue de la Paix, PARIS. J.A. VINCENT, [Pharmacien] de 1re classe, seul Dépositaire. Les personnes ha"
+Dépositaire,Product,MISC,17581,17592,,"RIS. J.A. VINCENT, Pharmacien de 1re classe, seul [Dépositaire]. Les personnes habitant la Belgique qui voudraien"
+Belgique,Location,LOC,17620,17628,,"asse, seul Dépositaire. Les personnes habitant la [Belgique] qui voudraient acheter nos ceintures en s'évitant"
+Douane,Product,MISC,17702,17708,,"nos ceintures en s'évitant de payer les droits de [Douane], pourront se les procurer à BRUXELLES, 89, Rue du"
+BRUXELLES,Location,LOC,17737,17746,,"les droits de Douane, pourront se les procurer à [BRUXELLES], 89, Rue du Marché-aux-Herbes. 8, Rue Ferdinand,"
+Rue du Marché-aux-Herbes,Location,LOC,17752,17776,,"Douane, pourront se les procurer à BRUXELLES, 89, [Rue du Marché-aux-Herbes]. 8, Rue Ferdinand, LE HAVRE."
+Rue Ferdinand,Location,LOC,17782,17795,,"er à BRUXELLES, 89, Rue du Marché-aux-Herbes. 8, [Rue Ferdinand], LE HAVRE."
+LE HAVRE,Location,LOC,17797,17805,,"89, Rue du Marché-aux-Herbes. 8, Rue Ferdinand, [LE HAVRE]."

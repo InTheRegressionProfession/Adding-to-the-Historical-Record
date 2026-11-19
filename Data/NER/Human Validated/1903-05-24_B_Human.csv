@@ -1,0 +1,40 @@
+﻿entity,fine_type,coarse_type
+L'OUVRIER,prod.media,Product
+Paris,loc.adm.town,Location
+Portugal,loc.adm.nat,Location
+France,loc.adm.nat,Location
+reine Amélie,pers.ind,Person
+Assistance publique,org.ent,Organization
+Filles de la charité,org.ent,Organization
+M. Mesureur,pers.ind,Person
+rue Chalgrin,loc.oro,Location
+GLASGOW,loc.adm.town,Location
+Berthe de Brienne,pers.ind,Person
+Passy,loc.adm.town,Location
+M. Lépine,pers.ind,Person
+Allemagne,loc.adm.nat,Location
+Belgique,loc.adm.nat,Location
+Hollande,loc.adm.nat,Location
+Jules Martin,pers.ind,Person
+M. Louis Puibaraud,pers.ind,Person
+M. Hamard,pers.ind,Person
+M. Bertillon,pers.ind,Person
+Ecosse,loc.adm.reg,Location
+brigadier Christaud,pers.ind,Person
+inspecteur Debischopp,pers.ind,Person
+Mlle Vaubert,pers.ind,Person
+René Dubrail,pers.ind,Person
+Mlle Vaubert,pers.ind,Person
+Normandie,loc.adm.reg,Location
+René Dubrail,pers.ind,Person
+René,pers.ind,Person
+1870,time.date.abs,Time
+pont de Verneuil,loc.oro,Location
+Charles FOLEY,pers.ind.articleauthor,Person
+JOCONDE,pers.ind,Person
+Saint-Cyr,loc.adm.town,Location
+M. Bouteloup,pers.ind,Person
+Mme Bouteloup,pers.ind,Person
+Figaro,prod.media,Product
+Lamartine,pers.ind,Person
+Paul Lisois,pers.ind,Person

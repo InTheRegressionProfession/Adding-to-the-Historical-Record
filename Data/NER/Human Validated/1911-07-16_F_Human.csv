@@ -1,0 +1,69 @@
+﻿entity,fine_type,coarse_type
+Marie,pers.ind,Person
+M. Bombardin,pers.ind,Person
+Mlle Aglaé,pers.ind,Person
+M. Poute,pers.ind,Person
+Bordeaux,loc.adm.town,Location
+Mlle Bombardin,pers.ind,Person
+Cannebière,loc.oro,Location
+Marseille,loc.adm.town,Location
+Rouen,loc.adm.town,Location
+Roger Régis,pers.ind,Person
+Hilaire,pers.ind,Person
+Hilaire Sansonnet,pers.ind,Person
+Sansonnet,pers.ind,Person
+Paris,loc.adm.town,Location
+rue des Martyrs,loc.oro,Location
+Clorinde,pers.ind,Person
+Colette,pers.ind,Person
+M. Sansonnet,pers.ind,Person
+Montmartre,loc.adm.town,Location
+Bougival,loc.adm.town,Location
+Suresnes,loc.adm.town,Location
+Rueil,loc.adm.town,Location
+Mont-Valérien,loc.adm.town,Location
+M. Georges de Boutteville,pers.ind,Person
+Suresnes,loc.adm.town,Location
+Sieur Sansonnet,pers.ind,Person
+Vaucresson,loc.adm.town,Location
+Montmorency,loc.adm.town,Location
+Clorinde,pers.ind,Person
+Colette,pers.ind,Person
+OLBÉ,org.ent,Organization
+Mlle RITA CENOZ de R..,pers.ind,Person
+" 22, Rue des Martyrs, 22, Section 289 PARIS",loc.add.phys,Location
+"J. Ratié, ph.",pers.ind,Person
+"5, passage Verdeau, Paris",loc.add.phys,Location
+Bruxelles,loc.adm.town,Location
+Phe St-Michel,org.ent,Organization
+Genève,loc.adm.town,Location
+Cartier,org.ent,Person
+Jorin,org.ent,Person
+Buenos-Ayres,loc.adm.town,Location
+Phe Franco-Inglese,org.ent,Organization
+Montréal,loc.adm.town,Location
+A. Décey,org.ent,Organization
+"31, rue Matabiau, Toulouse",loc.add.phys,Location
+Maison Fernand CLÉMENT,org.ent,Organization
+Levallois - Perret,loc.adm.town,Location
+"112, rue Réaumur, Paris",loc.add.phys,Location
+SEVERING & Ce,org.ent,Organization
+Neuenrade,loc.adm.town,Location
+Allemagne,loc.adm.nat,Location
+J. GAVIRATI,pers.ind,Person
+" 2, r. Castel, NICE",loc.add.phys,Location
+Ecole PIGIER,org.ent,Organization
+"19, Boulevard Poissonnière",loc.add.phys,Location
+"53, rue de Rivoli",loc.add.phys,Location
+"5, rue Saint-Denis, Paris",loc.add.phys,Location
+"41, Rue de l'Oasis",loc.add.phys,Location
+PUTEAUX,loc.adm.town,Location
+"Rue des Petites-Ecuries, 12, Paris",loc.add.phys,Location
+Maison Grésil,org.ent,Organization
+"2, rue Amelot, Paris",loc.add.phys,Location
+ACHILLE,pers.ind,Person
+"75, r. Montmartre, Paris",loc.add.phys,Location
+FONS,loc.adm.town,Location
+NIOLLET,pers.ind,Person
+APIOL JORET ET HOMOLLE,prod.media,Product
+"165, Rue St-Honoré, PARIS",loc.add.phys,Location

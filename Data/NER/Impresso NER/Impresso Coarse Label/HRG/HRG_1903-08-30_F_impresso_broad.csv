@@ -1,0 +1,118 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Frère Anac'eto,Person,pers,944,958,0.9591,"e la cabane, l'enfant heurta le corps immobile de [Frère Anac'eto]. La crainte lui vint tout d'abord d'avoir affaire"
+intelligent Philarge,Person,pers,1206,1226,0.6802,"ilement. — Sans doute, il est malade... se dit l'[intelligent Philarge], l'orphelin que le destin rendait précoce et ingé"
+Satan,Person,pers,2331,2336,0.911,"de le blâmer, on le plaignait tout haut. Alors, [Satan] qui, depuis son arrivée dans l'île, semblait l'en"
+Philarge,Person,pers,3010,3018,0.9234,", avec un trouble extrême, il venait d'apercevoir [Philarge] qui le regardait fixement. Et c'était ce regard q"
+Frère Anac'eto,Person,pers,3476,3490,0.953,"able le soin de s'arranger avec sa conscience... [Frère Anac'eto] se confessa le lendemain à son supérieur, le supp"
+Philarge,Person,pers,3728,3736,0.906,êté sur la voie de l'endurcissement dans le mal. [Philarge] ne tarda pas à devenir l'enfant du monastère. A l
+Frère,Person,pers,3805,3810,0.8593,"enir l'enfant du monastère. A lui, humblement, le [Frère] avoua toute la vérité, en lui demandant pardon d'"
+Concile de Pise,Location,loc,4071,4086,0.8291,"soixante ans plus tard, les cardinaux, réunis au [Concile de Pise], venaient d'élire un pape, Alexandre V, quand on"
+Alexandre V,Person,pers,4114,4125,0.9556,"nis au Concile de Pise, venaient d'élire un pape, [Alexandre V], quand on vit un moine Cordelier tomber dans les"
+Père Anac'eto,Person,pers,4203,4216,0.975,elier tomber dans les bras du nouveau pontife. Le [Père Anac'eto] avait le bonheur de voir élever au-dessus de tous
+Philarge,Person,pers,4298,4306,0.7719,"au-dessus de tous les hommes son élève, son ami, [Philarge], le petit mendiant de Candie. — Quelle récompens"
+mendiant,Person,pers,4317,4325,0.645,"les hommes son élève, son ami, Philarge, le petit [mendiant] de Candie. — Quelle récompense de vos bienfaits!"
+Candie,Location,loc,4329,4335,0.6103,"on élève, son ami, Philarge, le petit mendiant de [Candie]. — Quelle récompense de vos bienfaits!... murmur"
+Saint-Père,Person,pers,4390,4400,0.8508,Quelle récompense de vos bienfaits!... murmura le [Saint-Père] tout ému. — Alors que j'aurais dû être puni avec
+Georges RÉGNAL,Person,pers,4735,4749,0.9589,suis... Bénissez-moi. Le pape fléchit le genou. [Georges RÉGNAL]. MOTS POUR RIRE Calino se trouve nez à nez avec
+Calino,Person,pers,4768,4774,0.809,"échit le genou. Georges RÉGNAL. MOTS POUR RIRE [Calino] se trouve nez à nez avec son bottier, qui ne manq"
+Calino,Person,pers,4927,4933,0.9338,"e note en souffrance. — Je vais y penser, promet [Calino], passez donc chez moi vers la fin du mois, si vou"
+Joseph Prudhomme,Person,pers,5024,5040,0.965,"s, si vous avez un moment à perdre... Le fils de [Joseph Prudhomme] ayant besoin d'argent se décide à tirer une traît"
+pont de la Concorde,Location,loc,5646,5665,0.9175,", monsieur le juge, elle le savait très bien. Au [pont de la Concorde]. Un individu jette sa femme à l'eau; mais, piqua"
+VILLACIOSA,Location,loc,6133,6143,0.3689,"avec gravures POUR 5 CENTIMES SEULEMENT L'HÔTEL [VILLACIOSA] A Pise, en Toscane, il y a un très vieil hôtel q"
+Pise,Location,loc,6147,6151,0.9779,"POUR 5 CENTIMES SEULEMENT L'HÔTEL VILLACIOSA A [Pise], en Toscane, il y a un très vieil hôtel qui a app"
+Toscane,Location,loc,6156,6163,0.9743,"ENTIMES SEULEMENT L'HÔTEL VILLACIOSA A Pise, en [Toscane], il y a un très vieil hôtel qui a appartenu aux d"
+ducs de Villaciosa,Location,loc,6212,6230,0.6601,"e, il y a un très vieil hôtel qui a appartenu aux [ducs de Villaciosa]. Cet immeuble, après avoir été possédé, pendant"
+Giulio Villaciosa,Person,pers,6357,6374,0.9733,"'antique famille, a été acquis, après le décès de [Giulio Villaciosa], dernier descendant de la noble race, par un nomm"
+nommé Galimberti,Person,pers,6420,6436,0.5558,"iosa, dernier descendant de la noble race, par un [nommé Galimberti], qui en a fait un hôtel de voyageurs et qui doit"
+XIVe siècle,Time,time,6689,6700,0.7851,"t ce sont bien là, en effet, les mêmes vitraux du [XIVe siècle], à coloris très chaud... les bas-reliefs de chêne"
+Benvenuto-Cellini,Person,pers,6895,6912,0.9634,"ger, sous vitrine, est le fameux plat, ciselé par [Benvenuto-Cellini], et dans les salons, jusque dans les chambres à c"
+Raphaël Sanzio,Person,pers,7023,7037,0.9737,"t des tableaux de maître du quinzième siècle, des [Raphaël Sanzio], le Titien, le Pérugin, etc., perles rares, enchâ"
+Titien,Person,pers,7042,7048,0.6474,"aître du quinzième siècle, des Raphaël Sanzio, le [Titien], le Pérugin, etc., perles rares, enchâssées dans"
+Pérugin,Person,pers,7053,7060,0.5587,"inzième siècle, des Raphaël Sanzio, le Titien, le [Pérugin], etc., perles rares, enchâssées dans de solides m"
+Galimberti,Person,pers,7178,7188,0.9618,"taille, patinés par les siècles... De cet hôtel, [Galimberti] tire des revenus énormes, car c'est devenu une qu"
+Galimberti,Person,pers,7326,7336,0.9649,éberger dans ces splendeurs. — Cette canaille de [Galimberti] abuse!... s'écrie-t-on devant les notes stupéfian
+Beppo Galimberti,Person,pers,7654,7670,0.9545,"il l'embrassait passionnément, lui murmurant : — [Beppo Galimberti], vous deviendrez un grand seigneur... Alors l'en"
+Beppo,Person,pers,8187,8192,0.8949,"onde, se dessinait, douce et tendre comme l'était [Beppo]... Ce jour-là, il y avait gala exceptionnel. Tou"
+Galimberti,Person,pers,8387,8397,0.9674,"t été retenues, de véritables festins commandés. [Galimberti], un peu affolé, multipliait ses ordres, bousculai"
+Beppo,Person,pers,8468,8473,0.8839,"ipliait ses ordres, bousculait les domestiques et [Beppo], pour échapper à tout ce fracas, s'était réfugié"
+place Cavour,Location,loc,8579,8591,0.9186,"'embrasure d'une fenêtre en ogive, donnant sur la [place Cavour]. De là, il suivait les jeux de ses camarades, Pe"
+Pedro Valentini,Person,pers,8639,8654,0.9713,"ur. De là, il suivait les jeux de ses camarades, [Pedro Valentini], le petit Borgo, Raphaël Pischiari qui, avec quel"
+petit Borgo,Person,pers,8659,8670,0.9237,"it les jeux de ses camarades, Pedro Valentini, le [petit Borgo], Raphaël Pischiari qui, avec quelques autres, s'a"
+Raphaël Pischiari,Person,pers,8672,8689,0.9537,"e ses camarades, Pedro Valentini, le petit Borgo, [Raphaël Pischiari] qui, avec quelques autres, s'amusaient à jeter de"
+Beppo,Person,pers,9257,9262,0.8989,"toutes parts. Cependant, l'esprit observateur de [Beppo] lui fit remarquer que, malgré cet attirail de pau"
+Athos,Location,loc,9385,9390,0.902,et homme était plein de fierté. — Il ressemble à [Athos]!... songea l'enfant qui se plongeait avec passion
+Alexandre Dumas,Person,pers,9464,9479,0.9602,"se plongeait avec passion dans des traductions d'[Alexandre Dumas]. Le seigneur en guenilles, l'illustre « Athos »"
+illustre,Person,pers,9510,9518,0.5312,"s d'Alexandre Dumas. Le seigneur en guenilles, l'[illustre] « Athos » demeura immobile, l'œil fixé sur l'ense"
+Athos,Person,pers,9521,9526,0.4761,"re Dumas. Le seigneur en guenilles, l'illustre « [Athos] » demeura immobile, l'œil fixé sur l'enseigne de"
+Beppo,Person,pers,9874,9879,0.9153,"n proie à la plus grande émotion... Tout à coup, [Beppo] le vit pénétrer sous la voûte de l'hôtel... Quit"
+signor Galimberti,Person,pers,10316,10333,0.9396,sques du voyageur lui valut cette réponse : — Il [signor Galimberti] est occupé. Il n'a pas le temps. Beppo fut ébloui
+Beppo,Person,pers,10367,10372,0.8851,ignor Galimberti est occupé. Il n'a pas le temps. [Beppo] fut ébloui par l'éclair qui jaillit de l'œil du b
+Galimberti,Person,pers,10978,10988,0.9573,"es tracés autour d'une tête mythologique, lorsque [Galimberti] apparut, le visage congestionné, « l'expression d"
+Beppo,Person,pers,11065,11070,0.8848,"ionné, « l'expression des mauvais jours », songea [Beppo]. L'hôtelier dévisagea l'étranger qui, impassible"
+Athos,Person,pers,11214,11219,0.474,tement ouragés... — Que venez-vous faire ici? « [Athos] » souleva la tête... sa belle tête au regard d'ai
+Beppo,Person,pers,11346,11351,0.9008,"roid, il prononça ces mots qui parurent énormes à [Beppo], haletant dans son petit retrait d'ombre : — Je"
+Galimberti,Person,pers,11434,11444,0.9614,"d'ombre : — Je veux une chambre, la meilleure. [Galimberti], dans l'excès de son saisissement, se taisait. L"
+Galimberti,Person,pers,11564,11574,0.9633,La plus belle... Je veux la plus belle... Alors [Galimberti] rugit : — Ma plus belle chambre. A un loqueteux!
+Beppo,Person,pers,11851,11856,0.9089,me... Voici où il te faut descendre. Le sang de [Beppo] se glaça dans ses veines à la vue de l'expression
+Galimberti,Person,pers,12072,12082,0.9605,"d'un homme qui n'a pas l'habitude d'être molesté, [Galimberti] venait d'être repoussé, et une voix que la colère"
+Raphaël Sanzio,Person,pers,12248,12262,0.9633,la plus belle... celle où se trouve le tableau de [Raphaël Sanzio]... L'ascendant que cet homme savait prendre étai
+Galimberti,Person,pers,12327,12337,0.9665,"t que cet homme savait prendre était si grand que [Galimberti], décontenancé, murmura : — Ah ça! Vous connaisse"
+Beppo,Person,pers,12499,12504,0.9093,— Conduisez-moi immédiatement. La petite main de [Beppo] s'était insinuée dans celle de son père et les be
+Galimberti,Person,pers,12979,12989,0.9664,": — Tu le veux, père, n'est-ce pas, tu le veux? [Galimberti], désolé, s'exclamait : — Mais toutes mes chambre"
+Galimberti,Person,pers,13319,13329,0.9633,"s, petit... viens. — C'est par ici... Signor... [Galimberti] s'arrachait les cheveux de désespoir. — C'est le"
+Galimberti,Person,pers,13545,13555,0.9633,e angoisse s'empara de lui. Les appréhensions de [Galimberti] n'étaient que trop fondées; car c'est bien un Vil
+Villaciosa,Person,pers,13602,13612,0.5741,"rti n'étaient que trop fondées; car c'est bien un [Villaciosa], un authentique Villaciosa qui, la tête entre les"
+Villaciosa,Person,pers,13629,13639,0.6409,"ées; car c'est bien un Villaciosa, un authentique [Villaciosa] qui, la tête entre les mains, médite profondément"
+Vierge,Person,pers,13760,13766,0.4698,"parat, celle même où rayonne une adorable tête de [Vierge] de Raphaël. Il se nomme Giulio Villaciosa, et vo"
+Raphaël,Person,pers,13770,13777,0.9382,"le même où rayonne une adorable tête de Vierge de [Raphaël]. Il se nomme Giulio Villaciosa, et voici plus de"
+Giulio Villaciosa,Person,pers,13792,13809,0.9731,"adorable tête de Vierge de Raphaël. Il se nomme [Giulio Villaciosa], et voici plus de douze ans qu'il a été rayé du n"
+Villaciosa,Location,loc,14002,14012,0.5751,"on sans exemple, il était parti, confiant l'hôtel [Villaciosa] au seul représentant de la famille, la demoiselle"
+demoiselle Violletta Serrano,Person,pers,14052,14080,0.9366,"Villaciosa au seul représentant de la famille, la [demoiselle Violletta Serrano]. Il était allé se joindre à l'armée grecque qui s"
+Navarin,Person,pers,14188,14195,0.4832,"ait contre l'envahissement turc. A la bataille de [Navarin], alors qu'il n'était que blessé, le bruit de sa m"
+Grèce,Location,loc,14382,14387,0.9796,", il ne l'avait point démenti et était demeuré en [Grèce], — vivant comme un pauvre, ou mieux comme un sage"
+Italie,Location,loc,14586,14592,0.9673,"ns une ignorance complète de ce qui se passait en [Italie]... et pour abolir le passé, tuer le souvenir, il"
+demoiselle Serrano,Person,pers,14950,14968,0.9519,"ge froide l'avait pris devant la déloyauté de la [demoiselle Serrano], qui, trop heureuse de croire à une mort si profi"
+Pise,Location,loc,15261,15265,0.9712,"it arrêté qu'au but de son voyage, c'est-à-dire à [Pise], à l'hôtel Villaciosa. Maintenant, l'heure de la"
+hôtel,Location,loc,15271,15276,0.5401,"qu'au but de son voyage, c'est-à-dire à Pise, à l'[hôtel] Villaciosa. Maintenant, l'heure de la revendicat"
+Villaciosa,Location,loc,15277,15287,0.4765,"but de son voyage, c'est-à-dire à Pise, à l'hôtel [Villaciosa]. Maintenant, l'heure de la revendication a sonné"
+Giulio Villaciosa,Person,pers,15339,15356,0.9638,"Maintenant, l'heure de la revendication a sonné. [Giulio Villaciosa] revoit tout son passé. Il juge et condamne la lon"
+Villaciosa,Person,pers,15635,15645,0.7459,e sang de ses ancêtres bat dans ses artères. Les [Villaciosa] revivront en lui et par lui. Il saura bien efface
+Italie,Location,loc,15798,15804,0.938,"il va proclamer son nom, ce nom connu de toute l'[Italie]... Mais le croira-t-on seulement?... Ce mort ress"
+Giulio,Person,pers,15894,15900,0.9738,"mort ressuscité, voudra-t-on le reconnaître?... [Giulio] songe... songe... et les heures passent. Soudain"
+Galimberti,Person,pers,16138,16148,0.966,t la société brillante — attendue avec fièvre par [Galimberti] — s'engouffrer dans l'hôtel — l'hôtel des Villaci
+des Villaciosa,Location,loc,16187,16201,0.4941,Galimberti — s'engouffrer dans l'hôtel — l'hôtel [des Villaciosa]... Le sang bourdonne à ses oreilles. Il voit roug
+Galimberti,Person,pers,16367,16377,0.9661,l guette les divers bruits. Il perçoit la voix de [Galimberti] obséquieuse ou grondeuse et il est pris d'un furi
+"Giulio, duc de Villaciosa",Person,pers,16639,16664,0.8916,"e silence... on est à table. C'est le moment que [Giulio, duc de Villaciosa], a choisi pour livrer sa bataille contre l'incréd"
+Galimberti,Person,pers,16900,16910,0.9657,"ins pétillent, le rire monte et éclate en fusées. [Galimberti] est comme un général sur le champ de bataille. Il"
+Galimberti,Person,pers,17093,17103,0.9641,"de n'en point épargner la poussière vénérable... [Galimberti] est rouge et radieux, la pensée de son hôte inopp"
+Madone,Person,pers,17271,17277,0.9028,"vre et dans l'huis apparaît, grand et sombre, — ô [Madone], protégez-moi! murmure l'hôtelier prêt à défailli"
+Galimberti,Person,pers,17612,17622,0.8391,"nt de cette bouche expressive glacent d'épouvante [Galimberti] : — Messieurs, je suis heureux de fêter avec vou"
+Italie,Location,loc,17699,17705,0.7773,"ureux de fêter avec vous ma rentrée dans la belle [Italie], dans la demeure de mes aïeux. Une voix s'écria"
+"Giulio,",Person,pers,17805,17812,0.8293,": — Mais qui, diable, êtes-vous donc? — Je suis [Giulio,] duc de Villaciosa... et vous êtes mes hôtes! Il"
+duc de Villaciosa,Person,pers,17813,17830,0.8608,"s qui, diable, êtes-vous donc? — Je suis Giulio, [duc de Villaciosa]... et vous êtes mes hôtes! Il y eut un brouhaha"
+Giulio Villaciosa,Person,pers,18024,18041,0.9751,une voix perçante domina : — C'est un imposteur. [Giulio Villaciosa] a été tué à Navarin. — Giulio Villaciosa a été b
+Navarin,Location,loc,18054,18061,0.9651,"C'est un imposteur. Giulio Villaciosa a été tué à [Navarin]. — Giulio Villaciosa a été blessé à Navarin, rec"
+Giulio Villaciosa,Person,pers,18066,18083,0.9802,"osteur. Giulio Villaciosa a été tué à Navarin. — [Giulio Villaciosa] a été blessé à Navarin, rectifia l'étranger, et i"
+Navarin,Location,loc,18099,18106,0.969,"ué à Navarin. — Giulio Villaciosa a été blessé à [Navarin], rectifia l'étranger, et il est demeuré douze ann"
+Grèce,Location,loc,18163,18168,0.9757,"fia l'étranger, et il est demeuré douze années en [Grèce]; mais c'est lui, qui, aujourd'hui, vient reprendr"
+italien,Person,pers,18302,18309,0.5504,"ser les vendeurs du temple. Un vieux gentilhomme [italien], le comte Bartholdi, s'avança : — Messieurs, je"
+comte Bartholdi,Person,pers,18314,18329,0.9724,"eurs du temple. Un vieux gentilhomme italien, le [comte Bartholdi], s'avança : — Messieurs, je connais le père de G"
+Giulio Villaciosa,Person,pers,18378,18395,0.9733,"i, s'avança : — Messieurs, je connais le père de [Giulio Villaciosa], Luigi Villaciosa. Il fut mon meilleur ami. Je su"
+Luigi Villaciosa,Person,pers,18397,18413,0.9615,"ssieurs, je connais le père de Giulio Villaciosa, [Luigi Villaciosa]. Il fut mon meilleur ami. Je suis prêt à ouvrir m"
+Galimberti,Person,pers,18556,18566,0.8727,"ves qu'il l'est réellement. — Oui... oui... cria [Galimberti], se raccrochant à ce dernier espoir, nous exigeon"
+monsieur,Person,pers,18647,18655,0.7662,"spoir, nous exigeons des preuves. — Vous exigez, [monsieur] Galimberti? Un rire bref entr'ouvrit les lèvres"
+Galimberti,Person,pers,18656,18666,0.5053,"us exigeons des preuves. — Vous exigez, monsieur [Galimberti]? Un rire bref entr'ouvrit les lèvres du jeune ho"
+comte Bartholdi,Person,pers,18749,18764,0.984,"èvres du jeune homme... Puis, se tournant vers le [comte Bartholdi]. — Votre demande est trop juste, signor comte..."
+signor comte,Person,pers,18799,18811,0.6824,"comte Bartholdi. — Votre demande est trop juste, [signor comte]... et j'ai hâte de recevoir l'accolade d'un ami d"
+Galimberti,Person,pers,18941,18951,0.9708,".. et vous aussi, messieurs. Tous se levèrent et [Galimberti], tremblant d'angoisse, emboîta le pas. — Malédic"
+Beppo,Person,pers,19098,19103,0.7637,ir d'être un imposteur... O ma belle clientèle! O [Beppo]... Le bel escalier gémit sous les pas hâtifs et
+ducs,Person,pers,19180,19184,0.4248,sous les pas hâtifs et la porte de la chambre des [ducs] de Villaciosa s'ouvrit... L'adorable tête de la V
+Villaciosa,Person,pers,19188,19198,0.6099,pas hâtifs et la porte de la chambre des ducs de [Villaciosa] s'ouvrit... L'adorable tête de la Vierge de Rapha
+Raphaël,Person,pers,19243,19250,0.9358,ciosa s'ouvrit... L'adorable tête de la Vierge de [Raphaël] rayonna soudain... et la pièce fut envahie... Le
+comte Bartholdi,Person,pers,19300,19315,0.9821,rayonna soudain... et la pièce fut envahie... Le [comte Bartholdi] était un peu pâle. Le jeune Arcoli serrait les de
+jeune Arcoli,Person,pers,19338,19350,0.7024,vahie... Le comte Bartholdi était un peu pâle. Le [jeune Arcoli] serrait les dents et maugréait : « Malheur à cet
+duc de Valparaiso,Person,pers,19437,19454,0.6922,"alheur à cet homme, s'il s'est joué de nous! » Le [duc de Valparaiso] songeait que l'amitié de ce jeune duc serait à cu"
+Galimberti,Person,pers,19537,19547,0.9705,"e duc serait à cultiver... Une anxiété planait. [Galimberti], qui s'était attendu à quelque extraordinaire spe"
+petit Beppo,Person,pers,19681,19692,0.8265,"tat accoutumé, se reprit à espérer... Les yeux du [petit Beppo] brillaient extraordinairement. Tous les regards"
+Italie,Location,loc,19816,19822,0.9583,"mme qui revendiquait un des plus grands noms de l'[Italie]. Avec une tranquille assurance, il al'a à l'œuvr"
+Galimberti,Person,pers,20004,20014,0.9678,va dans tous les esprits. — C'est un dément!... [Galimberti] triomphait...

@@ -1,0 +1,59 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+capitaine Parmentier du 3e tireailleurs,Person,pers,2481,2520,0.8353,t à tout hasard que je demandai hardiment : — Le [capitaine Parmentier du 3e tireailleurs] sollicite l'honneur de déposer ses hommages aux p
+milady,Person,pers,3284,3290,0.9059,"apitaine, me dit mon interlocuteur, vous cherchez [milady] ? — Précisément. — Eh bien ! milady, c'est moi"
+milady,Person,pers,3322,3328,0.9226,"us cherchez milady ? — Précisément. — Eh bien ! [milady], c'est moi ! — Hein ! fis-je en sursautant. — R"
+"lord Cockerill,",Person,pers,3631,3646,0.9647,". — Excusez de n'avoir pas encore présenté moi : [lord Cockerill,] commodore de la flotte de sa Majesté Britannique."
+commodore de la flotte de sa Majesté Britannique,Person,pers,3647,3695,0.8147,"n'avoir pas encore présenté moi : lord Cockerill, [commodore de la flotte de sa Majesté Britannique]. — Ah ! par exemple, m'écriai-je involontairemen"
+"lord Cockerill, commodore de la flotte de sa Majesté Britannique",Person,pers,4196,4260,0.8382,"Vô voulez entendre moi ? Et sans plus de façon, [lord Cockerill, commodore de la flotte de sa Majesté Britannique], se mit au piano. Je fermai instinctivement les"
+lord Cockerill,Person,pers,4460,4474,0.9786,"chantait avec une voix divine. Très aimablement, [lord Cockerill] m'offrit un doigt de whiskey que j'acceptai, et e"
+lord Cockerill,Person,pers,5272,5286,0.9775,"onde. Depuis lors, ai-je besoin de vous le dire, [lord Cockerill], aujourd'hui amiral, est devenu un de mes meilleu"
+Marie,Person,pers,5919,5924,0.9595,longue... L'enfant avait seize ans et se nommait [Marie]. Elle était fille d'une vivandière du corps d'arm
+Murat,Location,loc,5980,5985,0.9558,"était fille d'une vivandière du corps d'armée de [Murat]. Quatre jours auparavant, à la suite d'une rencon"
+Naples,Location,loc,6067,6073,0.8558,"suite d'une rencontre entre les troupes du roi de [Naples] et celles du général Konownitzin, amis et ennemis"
+général Konownitzin,Person,pers,6087,6106,0.9719,"e entre les troupes du roi de Naples et celles du [général Konownitzin], amis et ennemis s'étaient trouvés un moment conf"
+M. André TABARY,Person,pers,6327,6342,0.9807,"rs, les femmes NOS BATEAUX DE PLAISIR Cliché de [M. André TABARY]. Les excursionnistes du Petit Journal débarquant"
+Petit Journal,Product,prod,6368,6381,0.6484,liché de M. André TABARY. Les excursionnistes du [Petit Journal] débarquant au Pecq — Une duchesse ? ne manque ja
+Pecq,Location,loc,6396,6400,0.9343,es excursionnistes du Petit Journal débarquant au [Pecq] — Une duchesse ? ne manque jamais d'intéresser q
+tireailleurs,Person,pers,6618,6630,0.4938,"oue tout de suite que ce fut par un capitaine aux [tireailleurs] algériens. Et je vous laisse à penser, messieurs,"
+colonel Parmentier,Person,pers,6701,6719,0.9823,"s laisse à penser, messieurs, conclut en riant le [colonel Parmentier], la tête que font les auditeurs la première fois"
+THÉANO,Person,pers,6772,6778,0.893,a tête que font les auditeurs la première fois ! [THÉANO]. EAU DE JAVEL blanchit le linge sans l'altérer.
+EAU DE JAVEL,Person,pers,6781,6793,0.8184,e font les auditeurs la première fois ! THÉANO. [EAU DE JAVEL] blanchit le linge sans l'altérer. JOLI-CŒUR Un
+JOLI-CŒUR,Person,pers,6829,6838,0.9461,"EAU DE JAVEL blanchit le linge sans l'altérer. [JOLI-CŒUR] Un ciel bas et gris, nuancé de rouille, une imme"
+Mar-seillaise,Location,loc,7258,7271,0.9652,"ent morte. Soudain, les paroles enflammées de la [Mar-seillaise] passent à travers la bise glaciale qui souffle lu"
+Moskowa,Location,loc,7577,7584,0.9736,"vétéran de vingt-huit ans, blessé la veille à la [Moskowa] et laissé pour mort sur le champ de bataille. Re"
+Joli-Cœur,Person,pers,9474,9483,0.7561,"; car, dans la garde, tous savaient ce que valait [Joli-Cœur], décoré à Wagram de la main même de l'Empereur !"
+Wagram,Location,loc,9494,9500,0.9445,", tous savaient ce que valait Joli-Cœur, décoré à [Wagram] de la main même de l'Empereur ! Il s'agissaient"
+Joli,Person,pers,9616,9620,0.6481,"tit mamelon à la crête rocheuse et accidentée, où [Joli]-Cœur comptait attendre le jour suivant, car la nu"
+-Cœur,Location,loc,9620,9625,0.6568,"mamelon à la crête rocheuse et accidentée, où Joli[-Cœur] comptait attendre le jour suivant, car la nuit ve"
+Marie,Person,pers,9915,9920,0.8281,"à boire, dit-il alors en caressant sa moustache. [Marie], qui connaissait de longue date la réputation don"
+Joli,Person,pers,10066,10070,0.7084,"t fini par se rassurer complètement au contact de [Joli]-Cœur. Aussi, ce fut en esquissant un gentil souri"
+-Cœur,Location,loc,10070,10075,0.5703,"ni par se rassurer complètement au contact de Joli[-Cœur]. Aussi, ce fut en esquissant un gentil sourire qu"
+Joli-Cœur,Person,pers,10532,10541,0.8338,"enadier ; et ne craignez rien, il y en a encore. [Joli-Cœur] prit le verre, l'éleva à la hauteur de ses lèvres"
+Marie,Person,pers,10810,10815,0.8839,e venait briser le verre qu'il tenait à la main. [Marie] jeta un cri d'effroi. — N'ayez donc pas peur ! l
+Joli-Cœur,Person,pers,10881,10890,0.7751,ffroi. — N'ayez donc pas peur ! lui dit vivement [Joli-Cœur] en sautant sur son fusil et s'agenouillant derriè
+Joli-Cœur,Person,pers,11051,11060,0.672,"osaques s'agitaient confusément... Tout de suite, [Joli-Cœur] envoya une balle dans le tas !... Un homme tomba."
+Marie,Person,pers,11477,11482,0.8636,"usillade crépita et plusieurs balles sifflèrent. [Marie] se pelotonna, peureuse... Joli-Cœur éclata de rir"
+Joli-Cœur,Person,pers,11509,11518,0.6336,"lles sifflèrent. Marie se pelotonna, peureuse... [Joli-Cœur] éclata de rire, visa et fit feu ! — Un de moins"
+Austerlitz,Location,loc,11801,11811,0.9721,"tres !... Tenez, tel que vous me voyez, j'étais à [Austerlitz]... Ah ! ça n'a pas été long : l'armée bordait le"
+Rhin,Location,loc,11861,11865,0.9595,... Ah ! ça n'a pas été long : l'armée bordait le [Rhin] depuis Strasbourg jusqu'à Mayence ; l'Empereur ar
+Strasbourg,Location,loc,11873,11883,0.9841,"n'a pas été long : l'armée bordait le Rhin depuis [Strasbourg] jusqu'à Mayence ; l'Empereur arrive, fait exécute"
+Mayence,Location,loc,11892,11899,0.9853,"l'armée bordait le Rhin depuis Strasbourg jusqu'à [Mayence] ; l'Empereur arrive, fait exécuter, par une conve"
+Joli-Cœur,Location,loc,12348,12357,0.8202,ente mille prisonniers !... La nuit était venue. [Joli-Cœur] ne pouvait plus compter que sur les détonations p
+Joli-Cœur,Person,pers,12671,12680,0.9147,"emi à terre. — Vous n'êtes pas blessée ? demanda [Joli-Cœur] tout en rechargeant son fusil. — Pas du tout, ré"
+Iéna,Location,loc,12850,12854,0.9791,"me rappelle le brouillard qui nous enveloppait à [Iéna], quand nous avons commencé la fusillade. Encore u"
+Eylau,Location,loc,13044,13049,0.982,"e généraux tués, blessés ou prisonniers !... Et à [Eylau], quelle purge ! Je suis sûr que le roi de Prusse"
+Prusse,Location,loc,13092,13098,0.9784,"à Eylau, quelle purge ! Je suis sûr que le roi de [Prusse] court encore ! À partir de ce moment, l'ennemi s"
+Joli-Cœur,Person,pers,13253,13262,0.8316,"t sans interruption. Abrité derrière son rocher, [Joli-Cœur] rendait de son mieux leur politesse aux assaillan"
+Friedland,Location,loc,13369,13378,0.9842,"s sans interrompre le récit de ses exploits. — A [Friedland], continua-t-il, les Russes ont laissé sur le terr"
+Joli-Cœur,Person,pers,13745,13754,0.8493,tenir tête. — Nom d'une pipe !... hurla soudain [Joli-Cœur] en secouant sa main gauche dont le petit doigt ve
+Joli,Person,pers,14698,14702,0.8419,", que l'allure martiale et l'insouciance brave de [Joli]-Cœur avaient déjà fait rêver. — Alors, je contin"
+-,Location,loc,14702,14703,0.4787,"e l'allure martiale et l'insouciance brave de Joli[-]Cœur avaient déjà fait rêver. — Alors, je continu"
+Cœur,Person,pers,14703,14707,0.485,"l'allure martiale et l'insouciance brave de Joli-[Cœur] avaient déjà fait rêver. — Alors, je continue..."
+Friedland,Location,loc,14801,14810,0.9785,"nue... Voyons, j'en étais... — Vous me parliez de [Friedland]. — C'est vrai. Je venais de tuer vingt-quatre gé"
+Rrrrran,Person,pers,14936,14943,0.8672,"hommes ! Une nouvelle décharge cingla l'air. — [Rrrrran] !... goguenarda Joli-Cœur, qui réplicha aussitôt"
+goguenarda Joli-Cœur,Person,pers,14949,14969,0.9503,"e nouvelle décharge cingla l'air. — Rrrrran !... [goguenarda Joli-Cœur], qui réplicha aussitôt par l'envoï d'une balle..."
+Eckmühl,Person,pers,15035,15042,0.8901,"ussitôt par l'envoï d'une balle... Ça me rappelle [Eckmühl], ajouta-t-il, reprenant ainsi l'histoire de son o"
+Masséna,Person,pers,15572,15579,0.9609,"Moi, je n'ai jamais tant ri !... Figurez-vous que [Masséna], sous le prétexte qu'il s'était blessé la veille"
+Joli-Cœur,Person,pers,15970,15979,0.6138,"orizon ! Appuyé sur son rempart de rocs neigeux, [Joli-Cœur], penché en avant, essayait de percer l'ombre épai"
+Grande Armée,Location,loc,16855,16867,0.7765,"ue continuait le morne défilé. La retraite de la [Grande Armée] commençait, éclairée par les dernières flammes de"
+Moscou,Location,loc,16932,16938,0.9779,lairée par les dernières flammes de l'incendie de [Moscou] !

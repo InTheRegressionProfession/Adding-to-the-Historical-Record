@@ -1,0 +1,26 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Paris,loc.adm.town,Location,loc.adm.town,74,79,,"je vais repartir de suite, il faut que j'aille à [Paris] ! — Oh ! papa ! papa !... c'est mal ! Puis Lisett"
+Lisette,pers.ind,Person,pers.ind,123,130,,"Paris ! — Oh ! papa ! papa !... c'est mal ! Puis [Lisette] se tut, le regard atterré, le visage sérieux. Et"
+M. de Gerfeuil,pers.ind,Person,pers.ind,201,215,,"terré, le visage sérieux. Et cela surprit et émut [M. de Gerfeuil] plus que ne l'eussent fait des larmes. Cependant"
+J. LE HÉNAFF,pers.ind.articleauthor,Person,pers.ind.articleauthor,1501,1513,,"sa maman son père, en le conduisant par la main. [J. LE HÉNAFF]. LIRE LE PETIT JOURNAL AGRICOLE Seize pages de t"
+LE PETIT JOURNAL AGRICOLE,prod.media,Product,prod.media,1521,1546,,n le conduisant par la main. J. LE HÉNAFF. LIRE [LE PETIT JOURNAL AGRICOLE] Seize pages de texte LE NUMÉRO : 5 CENTIMES COU
+Halles,loc.fac,Location,loc.fac,1629,1635,,: 5 CENTIMES COURRIER GRATUIT Cours complets des [Halles] et Marchés Le mieux informé de tous les journaux
+Marchal,pers.ind,Person,pers.ind,1748,1755,,"Recommandation A la porte du bureau du colonel, [Marchal] fit : « Toc ! Toc ! » tout doucement, tandis que,"
+Schwyz,pers.ind,Person,pers.ind,2328,2334,,"es amis qui s'offrait à le recommander au colonel [Schwyz], du 182e. Marchal comptait demander au colonel :"
+Laterrade,pers.ind,Person,pers.ind,3051,3060,,"égiment. Je tiens en grande estime son capitaine, [Laterrade]. Je lui ai parlé de vous... Mais, dites donc, vou"
+Paris,loc.adm.town,Location,loc.adm.town,3199,3204,,"t-ce pas ? — Certes, mon colonel ! dit Marchal. A [Paris], la vie littéraire est si absorbante ! Aussi voud"
+France,loc.adm.nat,Location,loc.adm.nat,3633,3639,,"re bien venir ! A l'entendre, il n'y avait pas en [France] un patriote plus ardent que lui. — C'est très bi"
+Marchal,pers.ind,Person,pers.ind,4701,4708,,"ant : c'était du propre ! Un quart d'heure après, [Marchal] s'en fut au bureau de la compagnie. Assis, in-dol"
+Jean Marchal,pers.ind,Person,pers.ind,4927,4939,,"tout à l'heure, m'a dit vous avoir parlé de moi, [Jean Marchal]... Le capitaine — moustaches grisonnan-tes, petit"
+Achille,pers.ind,Person,pers.ind,5530,5537,,"nse. Il ébaucha un salut peu militaire et, com-me [Achille], rentra sous sa tente. Le lendemain, entre deux e"
+Laterrade,pers.ind,Person,pers.ind,6409,6418,,"llent pour vous qui êtes fatigué... N'est-ce pas, [Laterrade], je vous recommande ce jeune réserviste ? D'autre"
+Marchal,pers.ind,Person,pers.ind,6858,6865,,"'exercice de l'après-midi, de la marche du matin. [Marchal] se présenta. — Mais, lui dit le capitaine, je vou"
+Marchal,pers.ind,Person,pers.ind,8805,8812,,"orsque le sergent-majour se précipita sur lui : — [Marchal], vite, en tenue ! Et au bureau du colonel ! Alors"
+Co-logne,loc.adm.town,Location,loc.adm.town,9077,9085,,"brunie ; il lui en faudrait des flacons d'eau de [Co-logne] ! — Vous allez rentrer à Paris plein de courage,"
+Paris,loc.adm.town,Location,loc.adm.town,9111,9116,,"lacons d'eau de Co-logne ! — Vous allez rentrer à [Paris] plein de courage, et nous écrire de ces choses..."
+Henri BACHELIN,pers.ind.articleauthor,Person,pers.ind.articleauthor,9583,9597,,"ne hu-milité : — Mon colonel, vous avez raison ! [Henri BACHELIN]. LA BONNE ACTION Dans le taudis où grouillait l"
+Alfred,pers.ind,Person,pers.ind,10795,10801,,"artiste ! Bar-bouilleur de toile... — Oui ou non, [Alfred], sais-tu ce qu'il a fait de son argent ? question"
+Alfred,pers.ind,Person,pers.ind,11662,11668,,"fons à vendre !... Chand d'habits ! — Appelle-le, [Alfred], ordonna le père. Le jeune homme fit un signe et"
+Alfred,pers.ind,Person,pers.ind,15256,15262,,mme vint à la boutique et se trouva en présence d'[Alfred] qui demandait le pardessus. Elle se mit à tremble
+Alfred,pers.ind,Person,pers.ind,17168,17174,,le obéit sans comprendre et le mar-chand montra à [Alfred] quelques antiquités en attendant son retour. Elle
+Ph. BERTHELIER,pers.ind.articleauthor,Person,pers.ind.articleauthor,18295,18309,,".. Sa femme, convaincue, l'embrassa ten-drement. [Ph. BERTHELIER]."

@@ -1,0 +1,141 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Néris,Location,LOC,6,11,,jours [Néris]. Ce n'est pas avec ces yeux-là que vous empoigner
+Blanche Pompadour,Person,PER,344,361,,"douceur de ses cheveux d'or et de sa grâce frêle, [Blanche Pompadour] était une intrépide petite femme. Elevée à la dur"
+frérôt,Person,PER,545,551,,"ze ans, sa mère morte, abandonnée du père et du « [frérôt] » ivrognes qu'elle n'avait plus revus depuis lors"
+Saumur,Location,LOC,873,879,,", à cheval, avec autant de fougue qu'un écuyer de [Saumur]; l'été, à Trouville, les meilleurs nageurs s'éfra"
+Trouville,Location,LOC,890,899,,"autant de fougue qu'un écuyer de Saumur; l'été, à [Trouville], les meilleurs nageurs s'éfrayaient de sa hardies"
+Craux,Product,MISC,1000,1005,,"e à braver les lames; en compagnie du comte de la [Craux], l'aéronaute célèbre, elle avait tenté, en pleine"
+Le Paradoxe,Product,MISC,1248,1259,,"d'avoir son biplan, et de le piloter elle-même. [Le Paradoxe] de Diderot eut fait sourire cette délicieuse « ri"
+Diderot,Person,PER,1263,1270,,"plan, et de le piloter elle-même. Le Paradoxe de [Diderot] eut fait sourire cette délicieuse « risque-tout »"
+Néris,Location,LOC,1407,1412,,"e sensation qu'elle ignorait, elle avait offert à [Néris], désespéré, de rendre son rôle. Mais lui ne voula"
+Blanche,Person,PER,1480,1487,,"ndre son rôle. Mais lui ne voulait rien entendre. [Blanche] resterait son interprète, dût-il, de gré ou de fo"
+Guy Larbey,Person,PER,1613,1623,,"ler. Après tout, pourquoi pas ? dit-il un jour à [Guy Larbey], le directeur des « Petites Marionnettes ». Qu'el"
+Petites Marionnettes,Product,MISC,1644,1664,,"? dit-il un jour à Guy Larbey, le directeur des « [Petites Marionnettes] ». Qu'elle ait peur une fois, pour de bon, et je"
+Château,Location,LOC,1918,1925,,"pluche était le plus irrégulier des figurants. Au [Château], où on l'embauchait de temps à autre, à raison de"
+Lampluche,Person,PER,2111,2120,,"rait le lendemain. Philosophie et content de peu, [Lampluche] n'avait rien de plus pressé, quand ses poches éta"
+mastroquets des Halles,Location,LOC,2260,2282,,"mes, que d'aller fêter la bouteille chez tous les [mastroquets des Halles]. L'effet de ces bombances était, le plus souvent,"
+Paris,Location,LOC,2771,2776,,"u le dire. A coup sûr, tous les asiles de nuit de [Paris] l'avaient hébergé à tour de rôle, toutes les « so"
+Brave,Product,MISC,2868,2873,,"les « soupes populaires » lui étaient familières. [Brave] homme, au demeurant, et auquel, en échange du moi"
+Saint-Eustache,Location,LOC,3020,3034,,r les légions de faméliques qui vaguent autour de [Saint-Eustache]. Le pêle-mêle des coulisses avait autrefois perm
+Néris,Location,LOC,3089,3094,,"pêle-mêle des coulisses avait autrefois permis à [Néris], durant les entr'actes d'une pièce à grand specta"
+Néris,Location,LOC,3411,3416,,"boue, les doigts engourdis par la bise cinglante. [Néris] avait réchauffé d'une pièce blanche la main tendu"
+Lampluche,Person,PER,3482,3491,,"d'une pièce blanche la main tendue. Depuis lors, [Lampluche] ne l'apercevait plus sans l'assaillir d'intermina"
+Néris,Location,LOC,3635,3640,,"jamais vous aviez besoin d'un homme sûr, monsieur [Néris], pensez à Eusèbe ! disait le bon pochard d'une vo"
+Eusèbe,Person,PER,3651,3657,,"z besoin d'un homme sûr, monsieur Néris, pensez à [Eusèbe] ! disait le bon pochard d'une voix attendrie. L'"
+Néris,Location,LOC,3787,3792,,"ttre à l'épreuve ce touchant dévouement. Un soir, [Néris] s'achemina vers le cabaret où il était sûr de ren"
+Eusèbe,Person,PER,3900,3906,,"son homme, la pipe aux dents, le verre en main : [Eusèbe], lui dit-il sans ambages, j'ai besoin de vous pou"
+Lampluche,Person,PER,4216,4225,,"dispense d'ailleurs de vous montrer trop brutal. [Lampluche] n'avait, certes, jamais lu Ruyt de Don César qu'i"
+Ruyt de Don César,Person,PER,4253,4270,,"rop brutal. Lampluche n'avait, certes, jamais lu [Ruyt de Don César] qu'il accusait l'extraordinaire proposition : At"
+Néris,Location,LOC,4379,4384,,"e femme, moi ! Mais vous n'y songez pas, monsieur [Néris] ? Je n'ai jamais parlé plus sérieusement, Eusèbe"
+Eusèbe,Person,PER,4428,4434,,"Néris ? Je n'ai jamais parlé plus sérieusement, [Eusèbe], et vous auriez tort de vous effrayer. Il s'agit"
+Eusèbe,Person,PER,4730,4736,,i se targue sottement de n'avoir jamais eu peur. [Eusèbe] eût volontiers adopté pour devise le : « Pas d'af
+Néris,Location,LOC,4922,4927,,"de consentir à servir les inquiétants projets de [Néris]. Pour le décider, celui-ci dut recourir au plus c"
+louis,Person,PER,5004,5009,,dut recourir au plus convaincant argument : deux [louis] adroitement glissés — et la promesse d'une récomp
+Néris,Location,LOC,5228,5233,,"à arrêter les grandes lignes du plan de bataille. [Néris] savait que, le lendemain, on répéterait après le"
+Petites Marionnettes,Product,MISC,5300,5320,,"endemain, on répéterait après le spectacle, aux « [Petites Marionnettes] » afin de regagner le temps perdu. Blanche Pompad"
+Blanche Pompadour,Person,PER,5356,5373,,"s Marionnettes » afin de regagner le temps perdu. [Blanche Pompadour] habitait tout près du théâtre, rue Moncey; elle r"
+rue Moncey,Location,LOC,5405,5415,,"Blanche Pompadour habitait tout près du théâtre, [rue Moncey]; elle rentrait chez elle le plus souvent à pied p"
+Moncey,Person,PER,5523,5529,,"dre l'air. A deux heures du matin, dans cette rue [Moncey] où les passants sont rares, il serait aisé à Eusè"
+Eusèbe,Person,PER,5575,5581,,"ncey où les passants sont rares, il serait aisé à [Eusèbe] de guetter le retour de l'actrice, de se dissimul"
+Néris,Location,LOC,5761,5766,,", avec le geste terrible d'un bandit prêt à tout. [Néris], qui aurait suivi de loin son interprète, intervi"
+Néris,Location,LOC,6130,6135,,"mettre la main au collet du « dangereux » fuyard. [Néris], qui faisait tous les jours sa manille, au café,"
+Sûr d'avoir tout prévu,Product,MISC,6343,6365,,"saire, bon enfant, se divertirait de l'aventure. [Sûr d'avoir tout prévu], Néris serra la main de Lampluche en se félicitan"
+Néris,Location,LOC,6367,6372,,"vertirait de l'aventure. Sûr d'avoir tout prévu, [Néris] serra la main de Lampluche en se félicitant de so"
+Lampluche,Person,PER,6390,6399,,". Sûr d'avoir tout prévu, Néris serra la main de [Lampluche] en se félicitant de son hardi stratagème. Blanche"
+Blanche Pompadour,Person,PER,6442,6459,,mpluche en se félicitant de son hardi stratagème. [Blanche Pompadour] allait enfin vivre la scène qu'elle avait à jouer
+Blanche Pompadour,Person,PER,6721,6738,,ar une inquiétude. N'avait-il pas été trop loin ? [Blanche Pompadour] — il s'en avisait brusquement — était femme à por
+Néris,Location,LOC,6960,6965,,avec l'émotion d'un joueur risquant son tout que [Néris] se mit à la suivre d'un pas furtif. La tristesse
+Néris,Location,LOC,7148,7153,,"sse. Un chien errant, au loin, hurla lugubrement. [Néris] fut sur le point d'appeler son interprète, de la"
+Blanche,Person,PER,7342,7349,,"Encore quelques secondes, et il serait trop tard. [Blanche] venait de traverser la chaussée, de s'engager da"
+Lampluche,Person,PER,7412,7421,,"averser la chaussée, de s'engager dans la rue où [Lampluche] la guettait, prêt à jouer son rôle, peut-être lou"
+Néris,Location,LOC,7487,7492,,"êt à jouer son rôle, peut-être lourd de risques. [Néris], le cœur battant, s'arrêta pour reprendre haleine"
+Lampluche,Person,PER,7580,7589,,"ndre haleine. Un cri d'effroi le fit tressaillir. [Lampluche], hirsute et déguenillé, venait de bondir sur la j"
+Néris,Location,LOC,7700,7705,,"de l'immobiliser en vrai bandit de grand chemin. [Néris] prit sa course, impatient de mettre fin à la lutt"
+Eusèbe,Person,PER,7876,7882,,"avec une exclamation, l'actrice sautait au cou d'[Eusèbe] et l'embrassait sur les deux joues... L'arrivée"
+Néris,Location,LOC,7935,7940,,"l'embrassait sur les deux joues... L'arrivée de [Néris], stupéfait, fut saluée d'un double éclat de rire"
+Blanche,Person,PER,8015,8022,,"'un double éclat de rire : Mon cher ami, lui dit [Blanche], ai-je besoin de vous présenter M. Eusèbe Lampluc"
+Eusèbe Lampluche,Person,PER,8058,8074,,"ui dit Blanche, ai-je besoin de vous présenter M. [Eusèbe Lampluche], mon père ? Charles CLERC. Les idées de M. Bomb"
+Charles CLERC,Person,PER,8088,8101,,"e vous présenter M. Eusèbe Lampluche, mon père ? [Charles CLERC]. Les idées de M. Bombardin Voilà, dit M. Bombar"
+"M. Bombardin
+
+",Person,PER,8117,8131,,"mpluche, mon père ? Charles CLERC. Les idées de [M. Bombardin ]Voilà, dit M. Bombardin en tendant à sa sœur un ca"
+Bombardin,Person,PER,8145,8154,,"CLERC. Les idées de M. Bombardin Voilà, dit M. [Bombardin] en tendant à sa sœur un carré de bristol, voilà u"
+bristol,Person,PER,8188,8195,,"dit M. Bombardin en tendant à sa sœur un carré de [bristol], voilà une invitation que je viens de recevoir !"
+Congrès,Organization,ORG,8343,8350,,banquet d'adieu qu'il offre à tous les membres du [Congrès]. Evidemment tu vas être invitée aussi. C'est déj
+Mlle Bombardin,Person,PER,8418,8432,,s être invitée aussi. C'est déjà fait ! répondit [Mlle Bombardin] en passant sous le nez de son frère un carré de b
+bristol,Person,PER,8481,8488,,"n en passant sous le nez de son frère un carré de [bristol] semblable au premier. Allons, tant mieux ! Comme"
+Mlle Bombardin,Person,PER,8897,8911,,bout de ce dîner !... Quel ciel t'entende ! fit [Mlle Bombardin] en levant les yeux vers le plafond de la chambre
+Emile Bombardin,Person,PER,9057,9072,,"sa plate poitrine. Oui, que le ciel m'entende ! [Emile Bombardin] était un des ichtyologues les plus distingués de"
+de France,Location,LOC,9119,9128,,"din était un des ichtyologues les plus distingués [de France] et de Normandie. A l'étude des poissons, du plus"
+Normandie,Location,LOC,9135,9144,,"ichtyologues les plus distingués de France et de [Normandie]. A l'étude des poissons, du plus mince au plus gr"
+Rouen,Location,LOC,9447,9452,,"s que, lorsqu'il déambulait à travers les rues de [Rouen], sa ville natale et le centre de ses opérations,"
+M. Bombardin,Person,PER,9692,9704,,vanité devant de telles marques de respect. Mais [M. Bombardin] ne s'en apercevait pas. Même quand la nécessité l
+M. Bombardin,Person,PER,10059,10071,,"umains, ne présentaient aucun intérêt aux yeux de [M. Bombardin]. Il les tenait tous, hommes et femmes, dans le pl"
+Mlle Aglaé Bombardin,Person,PER,10197,10217,,"le personne trouvait grâce devant lui. Et c'était [Mlle Aglaé Bombardin]. Celle-là, il éprouvait pour elle la plus profon"
+Aglaé,Person,PER,10725,10730,,"ion pour les beautés de l'ichthyologie. Et, quand [Aglaé] avait atteint la vingtaine, il avait tout mis en"
+Mlle Bombardin,Person,PER,10836,10850,,"pour la marier. Hélas ! il n'avait pas réussi ! [Mlle Bombardin], en effet, pouvait se vanter d'une intelligence h"
+Aglaé,Person,PER,11000,11005,,"és de l'esprit, lui avait refusé celles du corps. [Aglaé] était maigre avec excès, plate avec ridicule, jau"
+Aglaé,Person,PER,11274,11279,,"rait pas le regard des jeunes gens. A trente ans, [Aglaé] attendait encore qu'un homme voulût bien la remar"
+M. Bombardin,Person,PER,11338,11350,,"t encore qu'un homme voulût bien la remarquer. Et [M. Bombardin], après maintes tentatives inutiles, se désespérai"
+Congrès d'Ichthyologie,Product,MISC,11512,11534,,"es, un regain de courage à ce frère admirable. Un [Congrès d'Ichthyologie] comparée s'ouvrait à Marseille. Le savant rouenna"
+Marseille,Location,LOC,11556,11565,,e. Un Congrès d'Ichthyologie comparée s'ouvrait à [Marseille]. Le savant rouennais fut invité à y prendre part.
+Aglaé,Person,PER,11674,11679,,"ta et, dans l'espoir confus de trouver un époux à [Aglaé], il résolut d'emmener cette dernière avec lui. S"
+M. Bombardin,Person,PER,11764,11776,,re avec lui. Son titre de congressiste donnait à [M. Bombardin] le droit de jouir d'un tarif réduit sur les chemi
+M. Bombardin,Person,PER,11994,12006,,"urer à sa sœur les mêmes avantages qu'à lui-même, [M. Bombardin] fit inscrire Mlle Aglaé comme membre du Congrès e"
+Mlle Aglaé,Person,PER,12020,12030,,"vantages qu'à lui-même, M. Bombardin fit inscrire [Mlle Aglaé] comme membre du Congrès et, du coup, la jeune fil"
+Congrès,Organization,ORG,12047,12054,,"Bombardin fit inscrire Mlle Aglaé comme membre du [Congrès] et, du coup, la jeune fille en peine d'un mari fu"
+Mlle Bombardin,Person,PER,12271,12285,,"ce point de vue seul suffisait. Seulement, quand [Mlle Bombardin] fut mise au courant des démarches habiles de son"
+Marseille,Location,LOC,12434,12443,,"exion : C'est une très bonne idée de m'emmener à [Marseille], surtout dans ces conditions-là. Mais, au cours d"
+Congrès,Product,MISC,12495,12502,,"surtout dans ces conditions-là. Mais, au cours du [Congrès], il y aura certainement des réceptions, des diner"
+M. Bombardin,Person,PER,12725,12737,,"r ? Tous mes corsages s'accrochent dans le dos ! [M. Bombardin] concentra son analyse sur ce grave problème et, a"
+Marie,Person,PER,12876,12881,,: C'est bien simple ! Nous emmènerons avec nous [Marie]. Notre bonne ? Parbleu ! Mais cela nous coûter
+Parbleu !,Product,MISC,12899,12908,,Nous emmènerons avec nous Marie. Notre bonne ? [Parbleu !] Mais cela nous coûtera cher de voyage ! Pas trè
+Congrès,Organization,ORG,13016,13023,,"is la faire inscrire, elle aussi, comme membre du [Congrès] et nous aurons droit pour elle au tarif réduit. D"
+Marseille,Location,LOC,13109,13118,,arif réduit. D'ailleurs elle sera ravie d'aller à [Marseille]. C'est son pays natal et il y a bien dix ans qu'e
+Marie,Person,PER,13185,13190,,"natal et il y a bien dix ans qu'elle l'a quitté. [Marie] était née, en effet, non loin de la Cannebière. P"
+Cannebière,Location,LOC,13227,13237,,"uitté. Marie était née, en effet, non loin de la [Cannebière]. Par le jeu imprévu du hasard, elle était venue à"
+Rouen,Location,LOC,13288,13293,,"Par le jeu imprévu du hasard, elle était venue à [Rouen] chercher une place. Elle l'avait trouvée chez le"
+Mlle Aglaé,Person,PER,13416,13426,,"depuis quelques années, elle les servait, lui et [Mlle Aglaé], en qualité de bonne à tout faire. C'était une be"
+M. Bombardin,Person,PER,13776,13788,,"de joie elle battit des mains. Et c'est ainsi que [M. Bombardin], Mlle Bombardin et leur bonne se trouvaient réuni"
+Mlle Bombardin,Person,PER,13790,13804,,"attit des mains. Et c'est ainsi que M. Bombardin, [Mlle Bombardin] et leur bonne se trouvaient réunis dans un hôtel"
+Marseille,Location,LOC,13857,13866,,leur bonne se trouvaient réunis dans un hôtel de [Marseille] pour un sévère Congrès d'ichthyologie comparée...
+Marie,Person,PER,14046,14051,,"r de se retirer dans leurs chambres. On fit venir [Marie] et, pour lui être agréable, M. Bombardin lui décl"
+M. Bombardin,Person,PER,14080,14092,,"s. On fit venir Marie et, pour lui être agréable, [M. Bombardin] lui déclara : Nous sommes invités, Mlle Aglaé et"
+Mlle Aglaé,Person,PER,14129,14139,,"M. Bombardin lui déclara : Nous sommes invités, [Mlle Aglaé] et moi, à dîner demain soir chez le préfet. Quand"
+Mademoiselle,Product,MISC,14209,14221,,"ain soir chez le préfet. Quand vous aurez habillé [Mademoiselle], nous n'aurons plus besoin de vous. Vous pourrez"
+Hollande,Location,LOC,14326,14334,,ser de votre soirée. PIÈCE A DIRE L'éloge de la [Hollande] Le voyage de M. Fallières en Hollande nous sembl
+M. Fallières,Person,PER,14349,14361,,IÈCE A DIRE L'éloge de la Hollande Le voyage de [M. Fallières] en Hollande nous semble une occasion pour publier
+Hollande,Location,LOC,14365,14373,,loge de la Hollande Le voyage de M. Fallières en [Hollande] nous semble une occasion pour publier un extrait
+La Fleur Merceilleuse,Product,MISC,14428,14449,,"semble une occasion pour publier un extrait de « [La Fleur Merceilleuse] », la charmante pièce de M. Miguel Zamacois, dont"
+Miguel Zamacois,Person,PER,14478,14493,,"La Fleur Merceilleuse », la charmante pièce de M. [Miguel Zamacois], dont l'action se passe, on le sait, aux Pays-Bas"
+Pays-Bas,Location,LOC,14535,14543,,"Zamacois, dont l'action se passe, on le sait, aux [Pays-Bas]. Je l'aime parce que ses dunes et ses grèves N'o"
+Rhin,Location,LOC,14954,14958,,"us beau printemps ; Pour ces fleuves houleux : le [Rhin], l'Escaut, la Meuse Cent bouches vomissant une on"
+Escaut,Location,LOC,14962,14968,,"printemps ; Pour ces fleuves houleux : le Rhin, l'[Escaut], la Meuse Cent bouches vomissant une onde limoneu"
+"la Meuse
+Cent",Location,LOC,14970,14983,,"s ; Pour ces fleuves houleux : le Rhin, l'Escaut, [la Meuse Cent] bouches vomissant une onde limoneuse ! Nous aimo"
+Qu'un rude hiver,Product,MISC,15080,15096,,"imons, tous pareils, ces longs, très longs canaux [Qu'un rude hiver] transforme en chemins pour trai- Mais qui, venu"
+Promènent,Location,LOC,15178,15187,,"- Mais qui, venu l'été, par les campagnes riches [Promènent] le fardeau de vos lourdes péniches Et couvrent, r"
+Trainant,Organization,ORG,15396,15404,,"voyage Des chevaux piétinant le chemin de halage, [Trainant], fantômes noirs sur l'or de vos couchants, Les vo"
+Troublant,Product,MISC,15552,15561,,"ous aimons voir au bord des horizons tranquilles, [Troublant] seuls le repos des lignes immobiles. Comme des fo"
+Tourner,Location,LOC,15647,15654,,". Comme des fous géants aux grands bras enloisés, [Tourner] éperdument vos moulins affolés ! Et nous aimons"
+Contre cette eau,Product,MISC,15929,15945,,"... Et nous aimons encore votre lutte incessante [Contre cette eau], cette eau partout envahissante ! Lutte épique, i"
+Si,Product,MISC,16066,16068,,"merci, Où l'océan dit « Non » où vous répondez « [Si] ». Où pour poser vos pieds, pour appuyer vos tête"
+Miguel Zamacois,Person,PER,16168,16183,,"s, Il faut faire d'un pas reculer des tempêtes ! [Miguel Zamacois]. Hymne au soleil Toi qui sèches les pleurs des"
+"Hymne au soleil
+
+",Product,MISC,16186,16203,,"'un pas reculer des tempêtes ! Miguel Zamacois. [Hymne au soleil ]Toi qui sèches les pleurs des moindres graminées,"
+Pyrénées,Location,LOC,16372,16380,,"uillant comme des destinées, Trembler au vent des [Pyrénées] Les amandiers du Roussillon, Je t'adore ! Soleil"
+Roussillon,Location,LOC,16398,16408,,"s, Trembler au vent des Pyrénées Les amandiers du [Roussillon], Je t'adore ! Soleil ! ô toi dont la lumière, Po"
+Soleil !,Product,MISC,16424,16432,,"rénées Les amandiers du Roussillon, Je t'adore ! [Soleil !] ô toi dont la lumière, Pour bénir chaque front et"
+Toi qui viens dans la cuve,Product,MISC,16664,16690,,"te chante, et tu peux m'accepter pour ton prêtre, [Toi qui viens dans la cuve] où trempe un savon bleu, Et qui choisis souvent,"
+Luire,Location,LOC,16875,16880,,"! Tu fais tourner les tournesols du presbytère, [Luire] le frère d'or que j'ai sur le clocher, Et quand,"
+"Tu fais bouger des ronds par terre
+Si beaux",Product,MISC,16971,17014,,"t quand, par les tilleuls, tu viens avec mystère, [Tu fais bouger des ronds par terre Si beaux] qu'on n'ose plus marcher ! Tu changes en émail l"
+A,Location,LOC,17207,17208,,"e l'or sur sa capuche, Et sa petite sœur la ruche [A] de l'or sur son capuchon ! Gloire à toi sur les"
+Gloire à toi,Product,MISC,17265,17277,,r sur son capuchon ! Gloire à toi sur les prés ! [Gloire à toi] dans les vignes ! Sois béni parmi l'herbe et cont
+Sois,Location,LOC,17296,17300,,toi sur les prés ! Gloire à toi dans les vignes ! [Sois] béni parmi l'herbe et contre les portails ! Dans
+A,Location,LOC,17621,17622,,"tout ce qui nous charme as tu doubler le nombre, [A] chaque objet donnant une ombre Souvent plus charm"
+Soleil !,Product,MISC,17700,17708,,"bre Souvent plus charmante que lui ! Je t'adore, [Soleil !] Tu mets dans l'air des roses, Des flammes dans la"
+O Soleil !,Organization,ORG,17840,17850,,! Tu prends un arbre obscur et tu l'apothéoses ! [O Soleil !] toi sans qui les choses Ne seraient que ce qu'ell
+Edmond Rostand,Person,PER,17911,17925,,"ui les choses Ne seraient que ce qu'elles sont ! [Edmond Rostand], de l'Académie française."
+Académie française,Organization,ORG,17932,17950,,"ient que ce qu'elles sont ! Edmond Rostand, de l'[Académie française]."

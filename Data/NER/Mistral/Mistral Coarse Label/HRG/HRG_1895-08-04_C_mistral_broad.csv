@@ -1,0 +1,43 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Hassan,Person,Person,16,22,,Je renvoie donc [Hassan] des fins de la plainte. Non seulement il gardera
+Sidi-Macklouff,Person,Person,202,216,,"l'argent que tu lui as versé. A cette sentence, [Sidi-Macklouff], ivre de rage, éclata contre le cadi lui-même en"
+Zora,Person,Person,562,566,,"assan, retire-toi avec le bien et emmène ta femme [Zora]. Sois juste envers elle et rends-lui cette part d"
+Salomon,Person,Person,1296,1303,,"phe, s'approcha du sage cadi, rival bien digne de [Salomon], lui balsa la main, et, s'étant relevé, il tendit"
+Vincent HUET,Person,Person,1912,1924,,"ins, pour le mieux, puisque... C'ÉTAIT ÉCRIT!... [Vincent HUET]. JEANNOT Lamalou, dans les Cévennes, est désert"
+JEANNOT,Person,Person,1927,1934,,"eux, puisque... C'ÉTAIT ÉCRIT!... Vincent HUET. [JEANNOT] Lamalou, dans les Cévennes, est désert pendant l"
+Lamalou,Location,Location,1936,1943,,"que... C'ÉTAIT ÉCRIT!... Vincent HUET. JEANNOT [Lamalou], dans les Cévennes, est désert pendant l'hiver. L"
+Cévennes,Location,Location,1954,1962,,"IT!... Vincent HUET. JEANNOT Lamalou, dans les [Cévennes], est désert pendant l'hiver. Les ouvriers de Béda"
+Bédariex,Location,Location,2008,2016,,"nnes, est désert pendant l'hiver. Les ouvriers de [Bédariex] y viennent réparer les hôtels, redorer les villag"
+auberge du Rouvre,Location,Location,2161,2178,,"on célèbre les baptêmes. On va, le dimanche, à l'[auberge du Rouvre], auberge sans rouliers, avenante et jolie, posée"
+Balaruc,Person,Person,2397,2404,,"din buissonneux de roses et de lilas. Le maître, [Balaruc], était un fainéant qui humait sa vie à l'aise et"
+Cécile,Person,Person,2486,2492,,"a vie à l'aise et laissait l'auberge aux soins de [Cécile], sa fille, une vaillante qui refusait de chanter"
+Jean,Person,Person,2569,2573,,"ui refusait de chanter fleurette. Un des maçons, [Jean], rôdait souvent autour du Rouvre. Charmant de mod"
+Rouvre,Location,Location,2600,2606,,"e. Un des maçons, Jean, rôdait souvent autour du [Rouvre]. Charmant de modestie et d'indigence, Cécile, qui"
+Pierrot,Person,Person,3212,3219,,"bouche grande aux lèvres minces, un peu cousin de [Pierrot], on l'avait surnommé Jeannot. Il se posta derriè"
+Jeannot,Person,Person,3241,3248,,"es, un peu cousin de Pierrot, on l'avait surnommé [Jeannot]. Il se posta derrière un arbre pour attendre le"
+Balaruc,Person,Person,5216,5223,,"t ravie de le voir si sage et si docile. Mais si [Balaruc] survint ? Il survint tout à coup, bruyant, patan"
+Jeannot,Person,Person,5358,5365,,"t-il donc, Cécile ? demanda Balaruc. — Il y a... [Jeannot]... — Jeannot!... Que fait-il ici?... Le maître,"
+Lamalou,Location,Location,6812,6819,,"ifficile de déguerpir ? — Nous partons demain de [Lamalou]... Alors... vous pourriez me garder, monsieur Bal"
+Balaruc,Person,Person,7337,7344,,"-vous bientôt fini ? Mon père, laisse-le donc... [Balaruc], brutal, d'un coup de poing envoya rouler Jeannot"
+Jeannot,Person,Person,7387,7394,,"Balaruc, brutal, d'un coup de poing envoya rouler [Jeannot] dans l'allée, sur le sable. — Oh ! gémit Cécile."
+Cécile,Person,Person,7437,7443,,"Jeannot dans l'allée, sur le sable. — Oh ! gémit [Cécile]. Pauvre Jeannot!... — Ah ! bah ! ça lui servira"
+Balaruc,Person,Person,9776,9783,,"bres, bêcher dans le vignoble. De temps à autre, [Balaruc] ricanait à la pensée que Jeannot devenait le favo"
+Jeannot,Person,Person,9809,9816,,"temps à autre, Balaruc ricanait à la pensée que [Jeannot] devenait le favori de Cécile. On vint de Lamalou"
+Cécile,Person,Person,9839,9845,,ait à la pensée que Jeannot devenait le favori de [Cécile]. On vint de Lamalou commander un grand repas pou
+Lamalou,Location,Location,9859,9866,,Jeannot devenait le favori de Cécile. On vint de [Lamalou] commander un grand repas pour midi. Les deux homm
+Rouvre,Organization,Organization,10230,10236,,"ens de la noce. Jeannot était passé domestique du [Rouvre], et Balaruc, si content de ne rien faire, s'accéd"
+Poujol,Location,Location,11600,11606,,"broussailles. — Tiens, dit-il, c'est la fête au [Poujol]. Si j'y allais cette après-midi?... Viens-tu, Jea"
+Balaruc,Person,Person,12079,12086,,"tre femme aurait eu peur de se voir toute seule. [Balaruc], comme de coutume, avait joué à la fête du Poujol"
+Jeannot,Person,Person,12195,12202,,"t bu. Il ne descendit à rentrer qu'à minuit. Sans [Jeannot] qui le soutenait, il serait tombé vingt fois sur"
+Cécile,Person,Person,12367,12373,,"de son esprit, il redoutait de comparaître devant [Cécile]. Ce fut Jeannot qui frappa à la porte du Rouvre."
+Rouvre,Location,Location,12416,12422,,"Cécile. Ce fut Jeannot qui frappa à la porte du [Rouvre]. — Ouais!... Cécile!... Nous voilà, nous autres!"
+Jeannot,Person,Person,14421,14428,,"ndir l'auberge. Jeannot bâtira un étage de plus. [Jeannot] riait, cachait ses gros poings de maçon sous la b"
+Cécile,Person,Person,14734,14740,,"mariage. — Je suis d'une honnête famille, moi... [Cécile] n'a pas d'amoureux... — Ça!... dit Balaruc. Aprè"
+Balaruc,Person,Person,14777,14784,,"moi... Cécile n'a pas d'amoureux... — Ça!... dit [Balaruc]. Après tout, c'est votre affaire. Toi ou un autre"
+Poujol,Location,Location,15163,15169,,"t les deux hommes triomphèrent ensemble, comme au [Poujol]. Le lendemain, dans la matinée, une petite carri"
+Rouvre,Location,Location,15253,15259,,une petite carriole s'arrêtait devant la porte du [Rouvre]. Jeannot en descendit et en fit descendre sa mère
+Bédariex,Location,Location,15854,15862,,"virons à la vieille, qui n'était jamais sortie de [Bédariex]. Quand ils rentrèrent, la maison était abandonnée"
+Georges BEAUME,Person,Person,16833,16847,,naient vie par jets brusques et flambaient haut. [Georges BEAUME]. LE RENDEZ-VOUS Lorsqu'ils reçurent le télégram
+LE RENDEZ-VOUS,Product,Product,16850,16864,,ts brusques et flambaient haut. Georges BEAUME. [LE RENDEZ-VOUS] Lorsqu'ils reçurent le télégramme qui leur annon
+Mme de Rineuil,Person,Person,17346,17360,,"deux mois clos, du petit appartement en aile que [Mme de Rineuil] s'était choisi lorsque, son mari mort, et après u"
+Clairefontaine,Location,Location,17481,17495,,"nées, elle revint au château si joliment nommé de [Clairefontaine]. Vers onze heures, la Bésy, qui s'était postée e"

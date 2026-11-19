@@ -1,0 +1,82 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+RÉGIONS ANTARCTIQUES,Location,Location,38,58,,EXPLICATION DE NOS GRAVURES DANS LES [RÉGIONS ANTARCTIQUES] Le docteur Otto Nordenskjöld retrouvé Une nouve
+docteur Otto Nordenskjöld,Person,Person,63,88,,E NOS GRAVURES DANS LES RÉGIONS ANTARCTIQUES Le [docteur Otto Nordenskjöld] retrouvé Une nouvelle est arrivée qui a causé un
+Otto Nordenskjöld,Person,Person,71,88,,AVURES DANS LES RÉGIONS ANTARCTIQUES Le docteur [Otto Nordenskjöld] retrouvé Une nouvelle est arrivée qui a causé un
+Otto Nordenskjöld,Person,Person,71,88,,AVURES DANS LES RÉGIONS ANTARCTIQUES Le docteur [Otto Nordenskjöld] retrouvé Une nouvelle est arrivée qui a causé un
+Nordenskjöld,Person,Person,76,88,,S DANS LES RÉGIONS ANTARCTIQUES Le docteur Otto [Nordenskjöld] retrouvé Une nouvelle est arrivée qui a causé un
+M. Otto Nordenskjöld,Person,Person,506,526,,manquait à l'appel; tous les autres sont sauvés. [M. Otto Nordenskjöld] a trente-cinq ans. Il est le neveu de l'illustre
+Patagonie,Location,Location,970,979,,"n'avait encore que vingt ans, il visitait déjà la [Patagonie] et la Terre de Feu. Remontant au Nord de l'Améri"
+Terre de Feu,Location,Location,986,998,,"ue vingt ans, il visitait déjà la Patagonie et la [Terre de Feu]. Remontant au Nord de l'Amérique, on le voyait l"
+Klondike,Location,Location,1077,1085,,"rique, on le voyait l'année suivante parcourir le [Klondike] et la Laponie. De tous ces voyages, Otto Nordensk"
+Laponie,Location,Location,1092,1099,,"yait l'année suivante parcourir le Klondike et la [Laponie]. De tous ces voyages, Otto Nordenskjöld rapportai"
+Dumont-d'Urville,Person,Person,1364,1380,,"vait précédé, en 1838, notre illustre compatriote [Dumont-d'Urville] et plus loin encore s'il était possible. Monté s"
+l'Antarctic,Product,Product,1443,1454,,"encore s'il était possible. Monté sur le navire [l'Antarctic], en Janvier 1902, il abordait par la côte Sud la"
+Terre Louis-Philippe,Location,Location,1504,1524,,", en Janvier 1902, il abordait par la côte Sud la [Terre Louis-Philippe] et s'y installait dans une cabane avec cinq de se"
+Terre Louis-Philippe,Location,Location,1504,1524,,", en Janvier 1902, il abordait par la côte Sud la [Terre Louis-Philippe] et s'y installait dans une cabane avec cinq de se"
+République argentine,Organization,Organization,1624,1644,,"s compagnons dont un lieutenant de vaisseau de la [République argentine], qui avait sollicité l'honneur de faire partie de"
+docteur Nordenskjöld,Person,Person,1738,1758,,"tie de l'expédition. Voici quel était le plan du [docteur Nordenskjöld]. De son campement, il rayonnerait de toutes part"
+îles de la Géorgie du Sud,Location,Location,1966,1991,,"compagnons, pousserait vers le Nord, visitant les [îles de la Géorgie du Sud] et les Falkland. Rendez-vous était pris en Janvi"
+Falkland,Location,Location,1999,2007,,"rd, visitant les îles de la Géorgie du Sud et les [Falkland]. Rendez-vous était pris en Janvier 1903, à la te"
+Amérique du Sud,Location,Location,2165,2180,,"Nordenskjöld et ses compagnons, cinglerait vers l'[Amérique du Sud]. On y devait arriver vers Mars ou Avril. On n'e"
+Mars,Time,Time,2208,2212,,vers l'Amérique du Sud. On y devait arriver vers [Mars] ou Avril. On n'entendit plus parler des hardis e
+Avril,Time,Time,2216,2221,,mérique du Sud. On y devait arriver vers Mars ou [Avril]. On n'entendit plus parler des hardis explorateu
+suédoise,Organization,Organization,2511,2519,,"er, et trois expéditions furent organisées. L'une [suédoise], l'autre française, la troisième argentine. C'es"
+française,Organization,Organization,2529,2538,,"itions furent organisées. L'une suédoise, l'autre [française], la troisième argentine. C'est cette dernière qu"
+argentine,Organization,Organization,2553,2562,,". L'une suédoise, l'autre française, la troisième [argentine]. C'est cette dernière qui a eu le bonheur de réu"
+Rio-Gallegos,Location,Location,2634,2646,,"e qui a eu le bonheur de réussir. Une dépêche de [Rio-Gallegos] nous apprend, en effet, que le navire argentin Ur"
+Uruguay,Product,Product,2694,2701,,"os nous apprend, en effet, que le navire argentin [Uruguay] a recueilli le docteur Nordenskjöld avec ses cinq"
+docteur Nordenskjöld,Person,Person,2717,2737,,"et, que le navire argentin Uruguay a recueilli le [docteur Nordenskjöld] avec ses cinq compagnons sur la terre Louis-Phili"
+terre Louis-Philippe,Location,Location,2770,2790,,"teur Nordenskjöld avec ses cinq compagnons sur la [terre Louis-Philippe], et le reste de l'expédition, sauf un matelot, au"
+île Seymour,Location,Location,2862,2873,,"édition, sauf un matelot, au dépôt de vivres de l'[île Seymour]. LE DÉSARMEMENT DE LA FRANCE Les internationali"
+FRANCE,Organization,Organization,2897,2903,,"de vivres de l'île Seymour. LE DÉSARMEMENT DE LA [FRANCE] Les internationalistes, ceux qui prêchent au nom"
+M. de Pressensé,Person,Person,3337,3352,,"jet de la question du désarmement, le rapporteur, [M. de Pressensé], osa déclarer « qu'aucun Français ne voulait, qu'"
+colonel Roussel,Person,Person,3666,3681,,"mouvement spontané d'indignation patriotique. Le [colonel Roussel], dont la voix puissante dominait le tumulte, s'éc"
+Alsace-Lorraine,Location,Location,3752,3767,,"nte dominait le tumulte, s'écria : « Au nom de l'[Alsace-Lorraine] mutilée et du département frontière que je représ"
+M. Paul Doumer,Person,Person,3947,3961,,"roles impardonables que vous avez prononcées ! » [M. Paul Doumer] s'empressa, hâtions-nous de le dire, de répudier,"
+M. Jaurès,Person,Person,4353,4362,,"de la commission du budget, a réussi à préparer à [M. Jaurès] un double échec et à provoquer, en obligeant la m"
+Prussien,Person,Person,5159,5167,,"présentants en viennent à se coucher aux pieds du [Prussien] vainqueur, pourvu qu'il les fasse vivre et dormir"
+M. Jaurès,Person,Person,5243,5252,,es fasse vivre et dormir en paix. Les paroles de [M. Jaurès] ou de M. de Pressensé ne sont pas seulement honte
+Jaurès,Person,Person,5246,5252,,fasse vivre et dormir en paix. Les paroles de M. [Jaurès] ou de M. de Pressensé ne sont pas seulement honte
+M. de Pressensé,Person,Person,5259,5274,,t dormir en paix. Les paroles de M. Jaurès ou de [M. de Pressensé] ne sont pas seulement honteuses et sacrilèges; el
+M. de Pressensé,Person,Person,5259,5274,,t dormir en paix. Les paroles de M. Jaurès ou de [M. de Pressensé] ne sont pas seulement honteuses et sacrilèges; el
+1870,Time,Time,5516,5520,,"l'antimilitarisme nous préparait les désastres de [1870]. Ne vous y trompez pas un instant, ajoutez fort"
+de Bûlow,Person,Person,5971,5979,,conséquence; mais il se pourrait que l'astucieux [de Bûlow] saisit aux cheveux l'occasion qui s'offre de dema
+Reichstag,Organization,Organization,6037,6046,,"aux cheveux l'occasion qui s'offre de demander au [Reichstag] de nouveaux crédits militaires et que, par ainsi,"
+M. Clémenceau,Person,Person,6841,6854,,"nt que les « béléurs de paix », comme les appelle [M. Clémenceau], en parlent, on ne pouvait dire que ce qui a été"
+1er décembre,Time,Time,7193,7205,,"l'enclume et mettent en œuvre les métaux. Or, le [1er décembre], c'est jour de liesse pour les « Noirs ». Dans la"
+France,Location,Location,7291,7297,,"irs ». Dans la plupart des cités industrielles de [France], tous, depuis le forgeron jusqu'à l'orfèvre, chôm"
+France,Location,Location,7291,7297,,"irs ». Dans la plupart des cités industrielles de [France], tous, depuis le forgeron jusqu'à l'orfèvre, chôm"
+Monsieur Saint-Eloi,Person,Person,7621,7640,,"Comme au temps jadis, les ouvriers du « stil de [Monsieur Saint-Eloi] » fêtent leur patron. Sans doute, fort peu de ce"
+Clotaire II,Person,Person,7982,7993,,rône enrichi d'or et de pierreries qu'il fit pour [Clotaire II] et que l'on conserve aujourd'hui dans le trésor d
+Saint-Denis,Location,Location,8061,8072,,rve aujourd'hui dans le trésor de la basilique de [Saint-Denis]. Ils ignorent peut-être qu'avant d'être évêque de
+Noyon,Location,Location,8123,8128,,Ils ignorent peut-être qu'avant d'être évêque de [Noyon] et de combler de bienfaits tout le Nord de la Fra
+Dagobert,Person,Person,8378,8386,,"aient bien de prendre exemple — et que le bon roi [Dagobert], qui n'était pas si benêt que le dit la légende,"
+Saint-Eloi,Person,Person,9752,9762,,"ns corporatives de ce genre réunies le jour de la [Saint-Eloi]. Certaines d'entre elles, outre le vieux drap d'"
+LACARRE,Person,Person,10959,10966,,"té, sous l'égide du vieux patron de leur métier. [LACARRE]. LA POUDRE AUX YEUX — Alors, mademoiselle, vous"
+LA POUDRE AUX YEUX,Product,Product,10969,10987,,"'égide du vieux patron de leur métier. LACARRE. [LA POUDRE AUX YEUX] — Alors, mademoiselle, vous quittez Paris ? — Mo"
+Lucienne Durieu,Person,Person,11116,11131,,"n va; il faut bien faire comme tout le monde. Et [Lucienne Durieu], en soupirant, choisit un petit four dans la coup"
+Gabriel Augier,Person,Person,11199,11213,,"oisit un petit four dans la coupe que lui tendait [Gabriel Augier]. Autour de la table du lunch, jeunes gens et jeu"
+Oseraies,Location,Location,11404,11412,,h ! si... je l'adore. — Vous avez d'ailleurs aux [Oseraies] une vie charmante : Madame votre mère en parlait
+Mme Durieu,Person,Person,11987,11997,,"aine de visites à faire. — Sans compter, ajoutez [Mme Durieu] qui s'était approchée, les courses chez les fourn"
+Lucienne,Person,Person,12207,12215,,"er s'enterrer à la campagne... Enfin !... Allons, [Lucienne], vite ! — Sera-ce indiscret, demanda Gabriel, d'"
+Gabriel,Person,Person,12254,12261,,"s, Lucienne, vite ! — Sera-ce indiscret, demanda [Gabriel], d'aller vous surprendre aux Oseraies ? Un éclai"
+Oseraies,Location,Location,12291,12299,,"ret, demanda Gabriel, d'aller vous surprendre aux [Oseraies] ? Un éclair de malice passa dans les yeux de la"
+mer,Location,Location,12619,12622,,"t peut-être mènerai-je cette petite au bord de la [mer]. La vraie campagne, c'est un peu sévère pour la j"
+Gabriel Augier,Person,Person,13390,13404,,"ussière, masqué de verres bleus et de caoutchouc, [Gabriel Augier], sous son accoutrement disgracieux, poursuivait d"
+Paris,Location,Location,13511,13516,,"s pleins de poésie. Depuis un mois, ayant quitté [Paris] dans des directions opposées, Gabriel Augier et L"
+Lucienne Durieu,Person,Person,13565,13580,,"s dans des directions opposées, Gabriel Augier et [Lucienne Durieu] ne s'étaient point revus. L'absence ... Qui d'or"
+Mme Augier,Person,Person,14435,14445,,"eut gagner un avocat, chose aléatoire, tandis que [Mme Augier], si elle apporte la jolie dot que te permet d'esp"
+Lucienne,Person,Person,15009,15017,,"renait le sentiment, mais puisque nous aimons Mme [Lucienne] il est inutile de chercher ce qui vaudrait mieux."
+Mme Durieu,Person,Person,15102,15112,,"vaudrait mieux. » — Surtout, écrivez ! avait dit [Mme Durieu] lorsque le jeune homme manifestait son intention"
+Gabriel,Person,Person,15856,15863,,"mmobile près du chauffeur appliqué à sa manœuvre, [Gabriel] évoquait, après l'image gracieuse de Lucienne, ce"
+M. et de Mme Durieu,Person,Person,15939,15958,,"racieuse de Lucienne, celles moins séduisantes de [M. et de Mme Durieu]. Il est fâcheux, songeait-il, que ces excellents"
+Augier,Person,Person,16965,16971,,"ux terrasses fleuries. « C'est délicieux, se dit [Augier]. Un cadre digne de Lucienne. » Triomphalement l'"
+Lucienne,Person,Person,16991,16999,,"C'est délicieux, se dit Augier. Un cadre digne de [Lucienne]. » Triomphalement l'auto vira dans la cour. Auss"
+Gabriel,Person,Person,17267,17274,,"urmé à la fois, s'avance. « Quel luxe ! songeait [Gabriel], de nouveau inquiet et attristé. » — Madame est-"
+Mme Durieu,Person,Person,17484,17494,,"ugier comme en rêve. N'est-ce pas ici que demeure [Mme Durieu] ? — Oh ! non, monsieur... C'est plus loin, dans"
+M. le maire des Oseraies,Person,Person,18084,18108,,"olets lie de vin et ces tourelles appartiennent à [M. le maire des Oseraies]. — La famille Durieu, monsieur, ça demeure plus"
+Madame Durieu,Person,Person,18883,18896,,ant à deux mains son tablier gonflé de cosses. — [Madame Durieu] ? demanda Augier. — Madame Durieu... Monsieur de
+Paris,Location,Location,19054,19059,,Non... non... c'est-à-dire oui. Monsieur vient de [Paris] ? — Pas directement. — Non... Mais monsieur en
+madame Du,Person,Person,19683,19692,,"r un carreau du jardin. — Hep ! s'il vous plaît, [madame Du]... Gabriel s'arrêta, suffoqué. Le jardinier s'ét"
+M. Durieu,Person,Person,19852,19861,,"aissait le visage — qui brusquement s'effara — de [M. Durieu] lui-même ! Le correct, l'élégant, le raffiné M. D"
+monsieur Augier,Person,Person,19979,19994,,! par exemple... si je m'attendais... monsieur... [monsieur Augier]... ce cher monsieur Augier ! — Je suis indiscret

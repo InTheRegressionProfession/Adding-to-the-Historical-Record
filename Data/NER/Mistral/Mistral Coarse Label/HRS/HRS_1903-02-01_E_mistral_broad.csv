@@ -1,0 +1,48 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+l'abbé Coquet,Person,Person,254,267,,"ttes. - — Les poudettes à moi? - — Vous êtes bien [l'abbé Coquet]? - — Oui, et vous? - — Moi, je suis agent de M. d"
+M. de Sartine,Person,Person,313,326,,"quet? - — Oui, et vous? - — Moi, je suis agent de [M. de Sartine]. - — Miséricorde! On a beau avoir la conscience"
+Cartouche,Person,Person,524,533,,abbé eût peut-être été moins effrayé par celui de [Cartouche] ou de Mandrin. - — Où me conduisez-vous? gémit-i
+Mandrin,Person,Person,540,547,,re été moins effrayé par celui de Cartouche ou de [Mandrin]. - — Où me conduisez-vous? gémit-il. - — A l'hôt
+l'hôtel de monseigneur,Location,Location,592,614,,"ndrin. - — Où me conduisez-vous? gémit-il. - — A [l'hôtel de monseigneur], selon ses ordres. - — M. de Sartine vous a ordon"
+monseigneur,Person,Person,603,614,,"Où me conduisez-vous? gémit-il. - — A l'hôtel de [monseigneur], selon ses ordres. - — M. de Sartine vous a ordon"
+mon mari,Person,Person,993,1001,,"sible, monsieur l'abbé, je n'ai pas la clef; mais [mon mari] ne saurait tarder et je vais recommander qu'on le"
+le lieutenant de police,Person,Person,1128,1151,,"Enfin, un carrosse roule dans la cour, c'est bien [le lieutenant de police], et, osant à peine respirer, le prisonnier demeur"
+le bourreau,Person,Person,1365,1376,,"et. — L'abbé Coquet? Ah! oui, de la besogne pour [le bourreau]... Le bourreau!! — Mais il faut que je l'examine"
+le jeune secrétaire,Person,Person,1591,1610,,"abbé terrifié. — Tout coupé? monseigneur? répète [le jeune secrétaire] croyant avoir mal entendu. — Mais oui, tout coup"
+Dieu,Person,Person,2259,2263,,"eux examen de sa conduite : il servait fidèlement [Dieu] et le Roy, honorait ses supérieurs, respectait le"
+le Roy,Person,Person,2267,2273,,"en de sa conduite : il servait fidèlement Dieu et [le Roy], honorait ses supérieurs, respectait les gens en"
+la Bastille,Location,Location,2569,2580,,"nul ne peut se vanter de ne pas coucher le soir à [la Bastille]. La Bastille! Tout à l'heure, en entrant par la"
+porte Saint-Antoine,Location,Location,2630,2649,,". La Bastille! Tout à l'heure, en entrant par la [porte Saint-Antoine], il avait entrevu sa sombre silhouette, ses haute"
+M. de Sartine,Person,Person,2902,2915,,"nier abattu, sous bonne garde, l'agent va trouver [M. de Sartine] au salon et lui dit tout bas : - — Monseigneur,"
+l'abbé Coquet,Person,Person,2970,2983,,"alon et lui dit tout bas : - — Monseigneur, j'ai [l'abbé Coquet]. - — C'est bon! répond le magistrat, occupé à cau"
+abbé Coquet,Product,Product,2972,2983,,"on et lui dit tout bas : - — Monseigneur, j'ai l'[abbé Coquet]. - — C'est bon! répond le magistrat, occupé à cau"
+Mme de Sartine,Person,Person,4322,4336,,"criant comme un possédé. A ce vacarme insolite, [Mme de Sartine] accourt très étonnée, interroge le prisonnier à t"
+Arthur DOURLIAC,Person,Person,5354,5369,,"paroisse, où il s'élevait en odeur de sainteté. [Arthur DOURLIAC]. L'ANNEAU Dès que la vente fut annoncée, Lauren"
+L'ANNEAU,Product,Product,5372,5380,,"'élevait en odeur de sainteté. Arthur DOURLIAC. [L'ANNEAU] Dès que la vente fut annoncée, Laurent Delorme s"
+Laurent Delorme,Person,Person,5413,5428,,"URLIAC. L'ANNEAU Dès que la vente fut annoncée, [Laurent Delorme] se jura de n'y point aller. La nouvelle de la mo"
+Aline Lewis,Person,Person,5510,5521,,nouvelle de la mort si brutalement foudroyante d'[Aline Lewis] avait réveillé tout le mal dont il se croyait gué
+la Presse,Organization,Organization,6151,6160,,"elle écrase et qu'elle broie... C'était été dans [la Presse] un concert de regrets, une clameur désolée. — Et"
+Conservatoire,Organization,Organization,6391,6404,,"is! — Laurent l'avait connue toute jeune élève au [Conservatoire]. Timide, hésitante encore sur sa vocation d'art,"
+l'Espérance,Product,Product,6680,6691,,"it le créateur déjà célèbre d'œuvres puissantes : [l'Espérance], la Foi dans la vie, la croyance dans les joies"
+"la
+
+Foi dans la vie",Product,Product,6693,6712,,"r déjà célèbre d'œuvres puissantes : l'Espérance, [la Foi dans la vie], la croyance dans les joies se-reines à la fois e"
+Laurent,Person,Person,7384,7391,,un peu sauvage. Elle accepta l'idée du théâtre. [Laurent] allait partir pour Rome. Avant de quitter son ami
+Rome,Location,Location,7411,7415,,ta l'idée du théâtre. Laurent allait partir pour [Rome]. Avant de quitter son amie il lui mit au doigt l'
+Lewis,Person,Person,7756,7761,,lques lignes du journal qui relataient la mort de [Lewis]. Quand il fut bien certain qu'il ne rêvait pas ce
+Aline Lewis,Person,Person,8054,8065,,"nt triomphe qu'avaient été ses débuts au théâtre, [Aline Lewis], révélant sa trahison d'un masque de sagesse, déc"
+salle Drouot,Location,Location,9599,9611,,ut l'encombrement bourdonnant des alentours de la [salle Drouot] aux jours de grandes ventes. Une cohue disparate
+Laurent,Person,Person,10047,10054,,"Bousculé, indifférent aux heurts, les yeux fixes, [Laurent] regardait ces joyaux que soulevaient complaisamme"
+Aline,Person,Person,10216,10221,,"offrandes, des prières parfois... Et le fiancé d'[Aline] entendait, le cœur brisé, la tête bourdonnante, l"
+Lewis,Person,Person,11046,11051,,"dit tout haut : — Je la reconnais, cette bague; [Lewis] ne la quittait jamais... Elle n'est pourtant pas"
+L'AMIE,Person,Person,11697,11703,,"encadré la beauté d'Aline Le mari s'est endormi. [L'AMIE]. — « En effet, je vois qu'il a bien le nez dans s"
+Laurent Delorme,Person,Person,12006,12021,,"son existence de luxe, de douceur et de passion. [Laurent Delorme] repoussait la tentation d'assister à cette vente,"
+Aline,Person,Person,12280,12285,,"affolé le prit de voir ces choses que les mains d'[Aline] avaient touchées, sur lesquelles ses regards s'ét"
+Laurent,Person,Person,12408,12415,,"journées de lutte avec lui-même, dans le cœur de [Laurent] l'ancienne Aline, l'amie d'autrefois, avait à son"
+Lewis,Person,Person,12777,12782,,ût à lui que la Mort impitoyable l'eût arrachée. [Lewis]... tout ce dont ses amis d'un jour avaient payé s
+Marie THIÉRY,Person,Person,13106,13118,,"e homme, tout un amour sincère s'étaient donnés. [Marie THIÉRY]. Ulcères, Plaies, Eczéma MALADIES DE LA PEAU L"
+Docteur Wolf,Person,Person,13619,13631,,"travaillant, par le nouveau traitement végétal du [Docteur Wolf], qui est envoyé franco avec le mode d'emploi et m"
+M. Passerieux,Person,Person,13707,13720,,"ec le mode d'emploi et mandat de 10 fr. adressé à [M. Passerieux], Pharm. 46, rue des Faures, Bordeaux. L'essayer c"
+"Pharm. 46, rue des Faures, Bordeaux",Location,Location,13722,13757,,"ploi et mandat de 10 fr. adressé à M. Passerieux, [Pharm. 46, rue des Faures, Bordeaux]. L'essayer c'est guérir. Dépôt à Paris, Pharmacie"
+Paris,Location,Location,13791,13796,,"Faures, Bordeaux. L'essayer c'est guérir. Dépôt à [Paris], Pharmacie Girard, 217, Rue Lafayette."
+"217, Rue Lafayette",Location,Location,13816,13834,,"er c'est guérir. Dépôt à Paris, Pharmacie Girard, [217, Rue Lafayette]."

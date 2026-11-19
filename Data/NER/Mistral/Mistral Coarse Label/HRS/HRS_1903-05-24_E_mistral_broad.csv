@@ -1,0 +1,22 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+M. LEPINE,Person,Person,0,9,,"[M. LEPINE] était lacérée, elle en mit une autre sur laquell"
+l'Écho des poètes,Organization,Organization,277,294,,"garçons de bureau de garde dans l'antichambre de [l'Écho des poètes] à parler au rédacteur en chef. L'huissier, en pe"
+Jeanne Bertin,Person,Person,543,556,,"roublée, obéit à cette injonction et écrivit : « [Jeanne Bertin] désire remettre à M. le rédacteur en chef un manu"
+M. le rédacteur en chef,Person,Person,575,598,,"n et écrivit : « Jeanne Bertin désire remettre à [M. le rédacteur en chef] un manuscrit. » Quelques secondes après, elle ét"
+M. Henri Vidal,Person,Person,910,924,,"onne marquait une coquetterie efféminée : c'était [M. Henri Vidal]. — Mademoiselle, dit-il, en voyant entrer Jeanne"
+M. Vidal,Person,Person,2636,2644,,"es. » Dans l'antichambre, elle donna son nom. — [M. Vidal] est occupé, mademoiselle. Il vous — Oh ! non, pa"
+mademoiselle,Person,Person,2657,2669,,"mbre, elle donna son nom. — M. Vidal est occupé, [mademoiselle]. Il vous — Oh ! non, pas moi ; mais un... un ami"
+monsieur,Person,Person,2721,2729,,"Il vous — Oh ! non, pas moi ; mais un... un ami, [monsieur], acheva-t-elle en rougissant. — Moi aussi j'écri"
+Jeanne,Person,Person,2843,2849,,"e. Ceci fut dit avec une emphase qui fit sourire [Jeanne]. — Et tenez, voici une poésie qui est de moi, pu"
+Loin du monde,Product,Product,3020,3033,,"d'accepter cet exemplaire... Mon Dieu ! c'est « [Loin du monde] ». Serait-ce possible ? Que dire, que faire ?..."
+M. PUIBARAUD,Person,Person,3856,3868,,se sauver sans rien dire et de laisser le jeune [M. PUIBARAUD] DIRECTEUR DU SERVICE DES RECHERCHES garder plus
+DIRECTEUR DU SERVICE DES RECHERCHES,Organization,Organization,3870,3905,,"s rien dire et de laisser le jeune M. PUIBARAUD [DIRECTEUR DU SERVICE DES RECHERCHES] garder plus longtemps, je suis très pressé, ce s"
+Jeanne,Person,Person,4780,4786,,"ontre... — Vous aviez raison de croire en moi... [Jeanne], je vous aime... Depuis longtemps nos âmes se che"
+Paul ANDRÉ,Person,Person,5548,5558,,"de la jeune fille, le poète mit un long baiser. [Paul ANDRÉ]. LE CRIME DE LA RUE CHALGRIN Arrestation de l'a"
+LE CRIME DE LA RUE CHALGRIN,Product,Product,5561,5588,,"fille, le poète mit un long baiser. Paul ANDRÉ. [LE CRIME DE LA RUE CHALGRIN] Arrestation de l'assassin à Glasgow présente se"
+Glasgow,Location,Location,5618,5625,,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+M. Vidal,Person,Person,6289,6297,,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal] ? Cet aussi fit tressaillir la jeune fille. — O"
+Mademoiselle Pierrette,Person,Person,6839,6861,,"ichambre ; il s'inclina devant la jeune fille. — [Mademoiselle Pierrette], voulez-vous me suivre ?... Quand ils furent dan"
+M. HAMARD,Person,Person,7342,7351,,"us, mademoiselle... Pardonnez-moi de ne pas vous [M. HAMARD] M. BERTILLON CHEF DU SERVICE D'IDENTIFICATION"
+M. BERTILLON,Person,Person,7353,7365,,selle... Pardonnez-moi de ne pas vous M. HAMARD [M. BERTILLON] CHEF DU SERVICE D'IDENTIFICATION
+CHEF DU SERVICE D'IDENTIFICATION,Organization,Organization,7367,7399,,nnez-moi de ne pas vous M. HAMARD M. BERTILLON [CHEF DU SERVICE D'IDENTIFICATION]

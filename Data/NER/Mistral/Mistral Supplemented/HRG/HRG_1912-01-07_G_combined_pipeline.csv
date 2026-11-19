@@ -1,0 +1,121 @@
+﻿entity,fine_type,coarse_type,impresso_type,change,model_label,start,end,confidence,context
+Paul Moirans,pers.ind,Person,pers.ind,confirmed,pers.ind,5,17,,"Mais [Paul Moirans] n'oubliait pas, lui ! Dès le jour où sa mère lui"
+M. Moirans,pers.ind,Person,pers.ind,confirmed,pers.ind,231,241,,"ible financier avait été vraiment le meurtrier de [M. Moirans]. Il ne vécut plus que pour réaliser ce projet, e"
+Paul Tombelle,pers.ind,Person,pers.ind,confirmed,pers.ind,835,848,,"mmission comme employé de commerce sous le nom de [Paul Tombelle], — c'était celui de sa mère alors qu'elle était j"
+baron du Senay,pers.ind,Person,pers.ind,confirmed,pers.ind,1002,1016,,comme aide-comptable dans la maison de banque du [baron du Senay]. L'aventurier ne se doutait pas qu'il avait enga
+Paul Tombelle,pers.ind,Person,pers.ind,confirmed,pers.ind,2707,2720,,"it des gens honnêtes... Depuis que j'ai rencontré [Paul Tombelle], j'ai doublé ma fortune. En effet, le fondé de p"
+baron du Senay,pers.ind,Person,pers.ind,confirmed,pers.ind,2872,2886,,"ellents conseils au banquier, et, grâce à eux, le [baron du Senay] avait vu ses trésors s'amplifier, se développer.."
+Nice,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,3089,3093,,"Paul Tombelle qu'il allait passer deux semaines à [Nice]... Je n'emporte que dix mille francs avec moi, l"
+monsieur Tombelle,pers.ind,Person,pers.ind,confirmed,pers.ind,3815,3832,,"ion téléphonique avec Paul Tombelle. C'est vous, [monsieur Tombelle] interrogea-t-il. C'est moi, lui répondit une voi"
+Paul Moirans,pers.ind,Person,pers.ind,confirmed,pers.ind,4184,4196,,errompre... Je ne m'appelle pas Paul Tombelle... [Paul Moirans] est mon vrai nom... Vous ne vous souvenez pas ?..
+Dusenay,pers.ind,Person,loc.adm.town|pers.ind,confirmed,pers.ind,4791,4798,,. Je suis un honnête homme... Je ne m'appelle pas [Dusenay]... en un seul mot... ce que j'ai fait de votre ar
+Moirans,pers.ind,Person,pers.ind,confirmed,pers.ind,5736,5743,,ine ( car il se le rappelait maintenant ce nom de [Moirans] ) que la folie s'était emparé de son cerveau...
+Alin MONJARDIN,pers.ind.articleauthor,Person,pers.ind,retyped,pers.ind.articleauthor,6137,6151,,. Le fils du suicidé était vengé et bien vengé. [Alin MONJARDIN]. LE CODE POUR TOUS Des règles à observer pour c
+Code civil,prod.doctr,Product,,added,prod.doctr,7331,7341,,"par la prescription, font l'objet du titre IV du [Code civil] concernant les servitudes ou services fonciers."
+article 674,loc.fac,Location,,added,loc.fac,7393,7404,,oncernant les servitudes ou services fonciers. L'[article 674] du Code civil est ainsi conçu : « Celui qui fait
+département,loc.adm.reg,Location,,added,loc.adm.reg,9278,9289,,"a règle pouvant ainsi différer non seulement d'un [département] à l'autre, mais d'un canton au canton voisin, d'u"
+canton,loc.adm.reg,Location,,added,loc.adm.reg,9311,9317,,"n seulement d'un département à l'autre, mais d'un [canton] au canton voisin, d'une commune aux communes limi"
+commune,loc.adm.town,Location,,added,loc.adm.town,9342,9349,,"l'autre, mais d'un canton au canton voisin, d'une [commune] aux communes limitrophes. Dans la réalité, cepen"
+SAINT-YVES,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,11466,11476,,ns l'objet de notre prochain article. (A suivre.) [SAINT-YVES]. Mots en Parallélogramme Il faisait la vaissell
+Aliboron,pers.ind,Person,pers.ind,confirmed,pers.ind,11737,11745,,"çon. — Dans la maison. — Terrible. Ce que tu fis, [Aliboron]. — N'est pas blanc. — Joli nom breton. — Tu mens"
+Petit Journal,prod.media,Product,prod.media,confirmed,prod.media,11998,12011,,rd au rédacteur en chef du Supplément illustré du [Petit Journal]. SOLUTION du triangle syllabique (N° 1.102) RA
+1,time.date.abs,Time,time.date.abs,confirmed,time.date.abs,12051,12052,,it Journal. SOLUTION du triangle syllabique (N° [1].102) RA MI NA GRO BIS MI GNON NET TE NA NET TE GR
+MALTE,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,12139,12144,,NA NET TE GRO TE BIS SOLUTIONS JUSTES CROIX DE [MALTE] (N° 1.101) Léopold Gros. — C. Pierron. — A. Lefe
+Léopold Gros,pers.ind,Person,pers.ind,confirmed,pers.ind,12157,12169,,BIS SOLUTIONS JUSTES CROIX DE MALTE (N° 1.101) [Léopold Gros]. — C. Pierron. — A. Lefebvre. — M. Cholet. — M. A
+C. Pierron,pers.ind,Person,pers.ind,confirmed,pers.ind,12173,12183,,USTES CROIX DE MALTE (N° 1.101) Léopold Gros. — [C. Pierron]. — A. Lefebvre. — M. Cholet. — M. Assin. — C. Des
+A. Lefebvre,pers.ind,Person,pers.ind,confirmed,pers.ind,12187,12198,,E MALTE (N° 1.101) Léopold Gros. — C. Pierron. — [A. Lefebvre]. — M. Cholet. — M. Assin. — C. Desserville. — Q.
+M. Cholet,pers.ind,Person,pers.ind,confirmed,pers.ind,12202,12211,,01) Léopold Gros. — C. Pierron. — A. Lefebvre. — [M. Cholet]. — M. Assin. — C. Desserville. — Q. de Meigneux.
+M. Assin,pers.ind,Person,pers.ind,confirmed,pers.ind,12215,12223,,Gros. — C. Pierron. — A. Lefebvre. — M. Cholet. — [M. Assin]. — C. Desserville. — Q. de Meigneux. — A. de Caba
+C. Desserville,pers.ind,Person,pers.ind,confirmed,pers.ind,12227,12241,,ierron. — A. Lefebvre. — M. Cholet. — M. Assin. — [C. Desserville]. — Q. de Meigneux. — A. de Cabannes. — Spirite. —
+Q. de Meigneux,pers.ind,Person,pers.ind,confirmed,pers.ind,12245,12259,,vre. — M. Cholet. — M. Assin. — C. Desserville. — [Q. de Meigneux]. — A. de Cabannes. — Spirite. — Haël. — Va vite.
+A. de Cabannes,pers.ind,Person,pers.ind,confirmed,pers.ind,12263,12277,,— M. Assin. — C. Desserville. — Q. de Meigneux. — [A. de Cabannes]. — Spirite. — Haël. — Va vite. — M. T. — E. Terri
+Haël,pers.ind,Person,pers.ind,confirmed,pers.ind,12292,12296,,— Q. de Meigneux. — A. de Cabannes. — Spirite. — [Haël]. — Va vite. — M. T. — E. Terrion. — A. Godaux. —
+M. T.,pers.ind,Person,pers.ind,confirmed,pers.ind,12311,12316,,— A. de Cabannes. — Spirite. — Haël. — Va vite. — [M. T.] — E. Terrion. — A. Godaux. — O. Clin. — Kloklo. —
+E. Terrion,pers.ind,Person,pers.ind,confirmed,pers.ind,12319,12329,,Cabannes. — Spirite. — Haël. — Va vite. — M. T. — [E. Terrion]. — A. Godaux. — O. Clin. — Kloklo. — Edipe. — J.
+A. Godaux,pers.ind,Person,pers.ind,confirmed,pers.ind,12333,12342,,irite. — Haël. — Va vite. — M. T. — E. Terrion. — [A. Godaux]. — O. Clin. — Kloklo. — Edipe. — J. B. P. — M. De
+O. Clin,pers.ind,Person,pers.ind,confirmed,pers.ind,12346,12353,,. — Va vite. — M. T. — E. Terrion. — A. Godaux. — [O. Clin]. — Kloklo. — Edipe. — J. B. P. — M. Develennes.
+Kloklo,pers.ind,Person,pers.ind,confirmed,pers.ind,12357,12363,,. — M. T. — E. Terrion. — A. Godaux. — O. Clin. — [Kloklo]. — Edipe. — J. B. P. — M. Develennes. ASSURANCE
+Edipe,pers.ind,Person,pers.ind,confirmed,pers.ind,12367,12372,,— E. Terrion. — A. Godaux. — O. Clin. — Kloklo. — [Edipe]. — J. B. P. — M. Develennes. ASSURANCE SUR LA VI
+J. B. P.,pers.ind,Person,pers.ind,confirmed,pers.ind,12376,12384,,ion. — A. Godaux. — O. Clin. — Kloklo. — Edipe. — [J. B. P.] — M. Develennes. ASSURANCE SUR LA VIE Si un lon
+M. Develennes,pers.ind,Person,pers.ind,confirmed,pers.ind,12387,12400,,odaux. — O. Clin. — Kloklo. — Edipe. — J. B. P. — [M. Develennes]. ASSURANCE SUR LA VIE Si un long passé d'honora
+d'Assurances,org.ent,Organization,org.ent,confirmed,org.ent,12510,12522,,"de scrupuleuse exactitude est, dans une Compagnie [d'Assurances], le titre que recherchent le plus, et non sans ra"
+Compagnie d'Assurances Générales sur la Vie,org.ent,Organization,org.ent,confirmed,org.ent,12738,12781,,"re, de toutes les Compagnies françaises, c'est la [Compagnie d'Assurances Générales sur la Vie] qui possède ce titre au plus haut degré ; car, ex"
+depuis 1819,time.date.abs,Time,time.date.abs,confirmed,time.date.abs,12838,12849,,"ssède ce titre au plus haut degré ; car, existant [depuis 1819], elle est la plus ancienne. C'est elle aussi qui"
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,13219,13224,,"ement notices et tarifs sur demande, adressée : à [Paris], soit au siège social, 87, rue de Richelieu, soit"
+rue de Richelieu,loc.oro,Location,loc.adm.town,retyped,loc.oro,13252,13268,,"de, adressée : à Paris, soit au siège social, 87, [rue de Richelieu], soit aux bureaux auxiliaires de quartier — dans"
+"LEONOLDE POUJADE, Chiste",pers.ind,Person,pers.ind,confirmed,pers.ind,13650,13674,,"ac. à 175. Fl. essai 0,75. franco. timb. ou mand. [LEONOLDE POUJADE, Chiste], à FIGEAC (Loir.) AMIS RIRE — Commandez le gros"
+FIGEAC,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,13678,13684,,"ranco. timb. ou mand. LEONOLDE POUJADE, Chiste, à [FIGEAC] (Loir.) AMIS RIRE — Commandez le gros Catalogue"
+Loir.,loc.adm.reg,Location,loc.adm.reg,confirmed,loc.adm.reg,13686,13691,,"imb. ou mand. LEONOLDE POUJADE, Chiste, à FIGEAC ([Loir.]) AMIS RIRE — Commandez le gros Catalogue de 128"
+AMIS RIRE,pers.ind,Person,pers.ind,confirmed,pers.ind,13694,13703,,"mand. LEONOLDE POUJADE, Chiste, à FIGEAC (Loir.) [AMIS RIRE] — Commandez le gros Catalogue de 128 pages, grati"
+E. HEBLÉ,pers.ind,Person,pers.ind,confirmed,pers.ind,13860,13868,,"— Librairie spéciale — Cartes Postales — Hygiène. [E. HEBLÉ], 103, Faubourg Saint-Denis, Paris. Accordéons ST"
+Saint-Denis,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,13884,13895,,"artes Postales — Hygiène. E. HEBLÉ, 103, Faubourg [Saint-Denis], Paris. Accordéons STRADELLA (Italiens) Les plus"
+STRADELLA,org.ent,Organization,org.ent,confirmed,org.ent,13916,13925,,"LÉ, 103, Faubourg Saint-Denis, Paris. Accordéons [STRADELLA] (Italiens) Les plus sonores et meilleurs du monde"
+Italiens,loc.adm.nat,Location,loc.adm.nat,confirmed,loc.adm.nat,13927,13935,,"ubourg Saint-Denis, Paris. Accordéons STRADELLA ([Italiens]) Les plus sonores et meilleurs du monde. Vous ser"
+DEDENIS,pers.ind,Person,pers.ind,confirmed,pers.ind,14012,14019,,"eurs du monde. Vous serez émerveillés. Cat. grat. [DEDENIS], Brives (Corr.) 30 A 50 francs par semaine — tra"
+Brives,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,14021,14027,,"onde. Vous serez émerveillés. Cat. grat. DEDENIS, [Brives] (Corr.) 30 A 50 francs par semaine — travail fac"
+La Gauloise,prod.media,Product,,added,prod.media,14158,14169,,"oi, toute l'année, sur nos TRICOTEUSES BREVETÉES. [La Gauloise], Paris, 194, rue Lafayette, Villa E. SAGE-FEME ("
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,14171,14176,,"nnée, sur nos TRICOTEUSES BREVETÉES. La Gauloise, [Paris], 194, rue Lafayette, Villa E. SAGE-FEME (1er cl."
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,14171,14176,,"nnée, sur nos TRICOTEUSES BREVETÉES. La Gauloise, [Paris], 194, rue Lafayette, Villa E. SAGE-FEME (1er cl."
+SAGE-FEME,pers.ind,Person,,added,pers.ind,14208,14217,,"La Gauloise, Paris, 194, rue Lafayette, Villa E. [SAGE-FEME] (1er cl. TROUBLES MENSUELS, 104, AV. LEDRU-BOLLAN"
+AV. LEDRU-BOLLAN,loc.oro,Location,loc.adm.town,retyped,loc.oro,14251,14267,,"la E. SAGE-FEME (1er cl. TROUBLES MENSUELS, 104, [AV. LEDRU-BOLLAN], PARIS. ENTREZ PAR LA PAPIETERIE.) TOITS EN TOLE"
+"LAILLET, Ingénieur",pers.ind,Person,pers.ind,confirmed,pers.ind,14357,14375,,"TS EN TOLE ONDULEE, CHARPENTES, HANGARS. Ecrire : [LAILLET, Ingénieur], AMIENS. TROUBLES MENSUELS IRREGULARITES DES EPO"
+AMIENS,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,14377,14383,,"CHARPENTES, HANGARS. Ecrire : LAILLET, Ingénieur, [AMIENS]. TROUBLES MENSUELS IRREGULARITES DES EPOQUES. RE"
+BARLET,pers.ind,Person,pers.ind,confirmed,pers.ind,14450,14456,,"ELS IRREGULARITES DES EPOQUES. RENSEIGN. GRATUIT. [BARLET], 112, rue Réaumur, Paris. REPOSEZ A TOUT Pourquo"
+MILINE LEFEVRE,pers.ind,Person,,added,pers.ind,14668,14682,,"S VARIEUSES ? PARCE QUE VOUS NE CONNAISSEZ PAS LA [MILINE LEFEVRE] qui GUERIT sûrement, rapidement toutes ces Affect"
+B. LEFORT,pers.ind,Person,pers.ind,confirmed,pers.ind,14898,14907,,". — Toutes Pharmacies. Expéditions du Laboratoire [B. LEFORT], 10, rue de Villebois-Mareuil, Paris. OCCASION E"
+rue de Villebois-Mareuil,loc.oro,Location,loc.adm.town,retyped,loc.oro,14913,14937,,"macies. Expéditions du Laboratoire B. LEFORT, 10, [rue de Villebois-Mareuil], Paris. OCCASION EXCEPTIONNELLE 140 Bicyclettes"
+Fr. Fernand CLEMENT,pers.ind,Person,pers.ind,confirmed,pers.ind,15069,15088,,"e Crédit Dessins et descriptions gratis et franco [Fr. Fernand CLEMENT], à Levallois-Perret (Seine) ANGLAIS ALLEMAND ITA"
+Levallois-Perret,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,15092,15108,,"criptions gratis et franco Fr. Fernand CLEMENT, à [Levallois-Perret] (Seine) ANGLAIS ALLEMAND ITAL ESP RUSS PORTU app"
+Seine,loc.adm.reg,Location,loc.adm.reg,confirmed,loc.adm.reg,15110,15115,,"t franco Fr. Fernand CLEMENT, à Levallois-Perret ([Seine]) ANGLAIS ALLEMAND ITAL ESP RUSS PORTU apprends S"
+France,loc.adm.nat,Location,loc.adm.nat,confirmed,loc.adm.nat,15399,15405,,"Prouve-essai, 1 langue, fco, envoyer 90 c. (hors [France] 1 fr.) mandat ou timb. poste français à Maître Po"
+Maître Populaire,org.ent,Organization,org.ent,confirmed,org.ent,15446,15462,,"rs France 1 fr.) mandat ou timb. poste français à [Maître Populaire], 13-2 r. Montholon, Paris. Belle Poitrine Dévelo"
+r. Montholon,loc.oro,Location,,added,loc.oro,15469,15481,,"ou timb. poste français à Maître Populaire, 13-2 [r. Montholon], Paris. Belle Poitrine Développement, Fermeté, R"
+"J. Hasié, phac",pers.ind,Person,pers.ind,confirmed,pers.ind,15656,15670,,"a santé. Flacon av. notice 6 fr. 35. Env. discor. [J. Hasié, phac], 5, passage Verdeau, Paris. Bruxelles : Phac St-M"
+passage Verdeau,loc.oro,Location,pers.ind,retyped,loc.oro,15675,15690,,"notice 6 fr. 35. Env. discor. J. Hasié, phac, 5, [passage Verdeau], Paris. Bruxelles : Phac St-Michel. Genève : Cart"
+Bruxelles,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,15699,15708,,"iscor. J. Hasié, phac, 5, passage Verdeau, Paris. [Bruxelles] : Phac St-Michel. Genève : Cartier et Jorin. Buen"
+St-Michel,pers.ind,Person,pers.ind,confirmed,pers.ind,15716,15725,,"phac, 5, passage Verdeau, Paris. Bruxelles : Phac [St-Michel]. Genève : Cartier et Jorin. Buenos-Ayres : Phac F"
+Genève,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,15727,15733,,"ssage Verdeau, Paris. Bruxelles : Phac St-Michel. [Genève] : Cartier et Jorin. Buenos-Ayres : Phac Franco-In"
+Cartier,pers.ind,Person,pers.ind,confirmed,pers.ind,15736,15743,,"deau, Paris. Bruxelles : Phac St-Michel. Genève : [Cartier] et Jorin. Buenos-Ayres : Phac Franco-Inglese. Mon"
+Jorin,pers.ind,Person,pers.ind,confirmed,pers.ind,15747,15752,,. Bruxelles : Phac St-Michel. Genève : Cartier et [Jorin]. Buenos-Ayres : Phac Franco-Inglese. Montréal : A
+Buenos-Ayres,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,15754,15766,,lles : Phac St-Michel. Genève : Cartier et Jorin. [Buenos-Ayres] : Phac Franco-Inglese. Montréal : A. Decaer. VIN
+Franco-Inglese,pers.ind,Person,pers.ind,confirmed,pers.ind,15774,15788,,l. Genève : Cartier et Jorin. Buenos-Ayres : Phac [Franco-Inglese]. Montréal : A. Decaer. VIN ROMAN à FONS 25 le li
+Montréal,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,15790,15798,,ier et Jorin. Buenos-Ayres : Phac Franco-Inglese. [Montréal] : A. Decaer. VIN ROMAN à FONS 25 le litre GRATIS
+A. Decaer,pers.ind,Person,pers.ind,confirmed,pers.ind,15801,15810,,n. Buenos-Ayres : Phac Franco-Inglese. Montréal : [A. Decaer]. VIN ROMAN à FONS 25 le litre GRATIS Gard 25 éch
+VIN ROMAN,prod.media,Product,pers.ind,retyped,prod.media,15813,15822,,res : Phac Franco-Inglese. Montréal : A. Decaer. [VIN ROMAN] à FONS 25 le litre GRATIS Gard 25 échant. TRES Jo
+Mme Henry,pers.ind,Person,pers.ind,confirmed,pers.ind,16002,16011,,"réable le tout env. fco p. p. 2 timb. - D. Ecr. : [Mme Henry], 11, r. Eupatoire, Paris XXe PELADE NOTICE GRATU"
+r. Eupatoire,loc.oro,Location,pers.ind,retyped,loc.oro,16017,16029,,"env. fco p. p. 2 timb. - D. Ecr. : Mme Henry, 11, [r. Eupatoire], Paris XXe PELADE NOTICE GRATUITE BENIT, pharmac"
+XXe,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,16037,16040,,"b. - D. Ecr. : Mme Henry, 11, r. Eupatoire, Paris [XXe] PELADE NOTICE GRATUITE BENIT, pharmacien 31, rue"
+"BENIT,",pers.ind,Person,pers.ind,confirmed,pers.ind,16065,16071,,", r. Eupatoire, Paris XXe PELADE NOTICE GRATUITE [BENIT,] pharmacien 31, rue Matabiau, Toulouse MESDAMES E"
+rue Matabiau,loc.oro,Location,,added,loc.oro,16087,16099,,"XXe PELADE NOTICE GRATUITE BENIT, pharmacien 31, [rue Matabiau], Toulouse MESDAMES En cas de Troubles Mensuels o"
+Toulouse,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,16101,16109,,"TICE GRATUITE BENIT, pharmacien 31, rue Matabiau, [Toulouse] MESDAMES En cas de Troubles Mensuels ou Irégular"
+Dr Institut,pers.ind,Person,pers.ind,confirmed,pers.ind,16234,16245,,"tice Méthode Externe. Gratuits pre l'âtre. Ecrire [Dr Institut], 11, rue Lacharrière, Paris. Nous vendons toutes"
+rue Lacharrière,loc.oro,Location,,added,loc.oro,16251,16266,,"rne. Gratuits pre l'âtre. Ecrire Dr Institut, 11, [rue Lacharrière], Paris. Nous vendons toutes sortes d'instruments"
+HERFELD,pers.ind,Person,pers.ind,confirmed,pers.ind,16483,16490,,"oujours gratis et franco. Port de lettres 25 cts. [HERFELD] et Ce, Neuenrade, N° 31, Allemagne La plus import"
+Neuenrade,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,16498,16507,,"et franco. Port de lettres 25 cts. HERFELD et Ce, [Neuenrade], N° 31, Allemagne La plus importante fabrique d'A"
+N° 31,loc.add.phys,Location,,added,loc.add.phys,16509,16514,,"Port de lettres 25 cts. HERFELD et Ce, Neuenrade, [N° 31], Allemagne La plus importante fabrique d'Accordéo"
+Allemagne,loc.adm.nat,Location,loc.adm.nat,confirmed,loc.adm.nat,16516,16525,,"lettres 25 cts. HERFELD et Ce, Neuenrade, N° 31, [Allemagne] La plus importante fabrique d'Accordéons de la pl"
+ROBERT HUSBERG,pers.ind,Person,pers.ind,confirmed,pers.ind,17024,17038,,"seulement chez l'inventeur. Port de lettres 0.25. [ROBERT HUSBERG], Neuenrade N° 91 Allemagne Fabrique d'accordéons"
+N° 91,loc.add.phys,Location,org.ent,retyped,loc.add.phys,17050,17055,,". Port de lettres 0.25. ROBERT HUSBERG, Neuenrade [N° 91] Allemagne Fabrique d'accordéons avec exploitation"
+APIL,pers.ind,Person,pers.ind,confirmed,pers.ind,17118,17122,,"brique d'accordéons avec exploitation électrique [APIL] détruit pour toujours la racine des POILS, déduit"
+"Niolet, chimist-parfumeur",pers.ind,Person,pers.ind,confirmed,pers.ind,17224,17249,,"et duvets, sans douleur en 15 j. Repousse imposs. [Niolet, chimist-parfumeur], envoi discret, notice, catalog. et un échant. 2"
+Amelot,pers.ind,Person,pers.ind,confirmed,pers.ind,17302,17308,,"nvoi discret, notice, catalog. et un échant. 2 r. [Amelot], Paris GRATIS VALSE Gardez adrs. et qd v. vendre"
+Paris,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,17310,17315,,"cret, notice, catalog. et un échant. 2 r. Amelot, [Paris] GRATIS VALSE Gardez adrs. et qd v. vendrez app."
+VALSER,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,17377,17383,,"SE Gardez adrs. et qd v. vendrez app. SEUL à blon [VALSER], pre 11, 20, ou pre tou. danses liv. 125 pag. 1 ("
+Prof. LAGUS,pers.ind,Person,pers.ind,confirmed,pers.ind,17438,17449,,"11, 20, ou pre tou. danses liv. 125 pag. 1 (60). [Prof. LAGUS], Palais d'Hiver, Pau (B.-P.) ENGELURES GREVASSES"
+Palais d'Hiver,loc.fac,Location,,added,loc.fac,17451,17465,,"re tou. danses liv. 125 pag. 1 (60). Prof. LAGUS, [Palais d'Hiver], Pau (B.-P.) ENGELURES GREVASSES Préservées Baum"
+Pau,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,17467,17470,,"iv. 125 pag. 1 (60). Prof. LAGUS, Palais d'Hiver, [Pau] (B.-P.) ENGELURES GREVASSES Préservées Baume Dr"
+B.-P.,loc.adm.reg,Location,,added,loc.adm.reg,17472,17477,,"25 pag. 1 (60). Prof. LAGUS, Palais d'Hiver, Pau ([B.-P.]) ENGELURES GREVASSES Préservées Baume Dr KATZ, c"
+"Dr KATZ, chirurgien des hôpitaux",pers.ind,Person,pers.ind,confirmed,pers.ind,17517,17549,,"Pau (B.-P.) ENGELURES GREVASSES Préservées Baume [Dr KATZ, chirurgien des hôpitaux], 1 fr., franco poste 1 fr. 20 Ecrire Pharmacie du"
+du Dispensaire,org.ent,Organization,org.ent,confirmed,org.ent,17597,17611,,"ux, 1 fr., franco poste 1 fr. 20 Ecrire Pharmacie [du Dispensaire], 101, rue Gide, Paris-Levallois. Franco à l'Essa"
+rue Gide,loc.oro,Location,,added,loc.oro,17618,17626,,"te 1 fr. 20 Ecrire Pharmacie du Dispensaire, 101, [rue Gide], Paris-Levallois. Franco à l'Essai demandez La M"
+Levallois,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,17634,17643,,"re Pharmacie du Dispensaire, 101, rue Gide, Paris-[Levallois]. Franco à l'Essai demandez La MONTRE précise et"
+TRIBAUDEAU,pers.ind,Person,pers.ind,confirmed,pers.ind,17755,17765,,"BIJOU élégant et solide l'inusable ORFÈVRIER chez [TRIBAUDEAU] Fab à BESANÇON 75 Récompenses, Concours des Chron"
+BESANÇON,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,17772,17780,,"solide l'inusable ORFÈVRIER chez TRIBAUDEAU Fab à [BESANÇON] 75 Récompenses, Concours des Chronométristes à l'"
+La Prévoyante,org.ent,Organization,,added,org.ent,18124,18137,,"du genre. Traite directement avec ses clients. Ce [La Prévoyante], bureau T. 11, rue Lacharrière, Paris CYCLES MER"
+rue Lacharrière,loc.oro,Location,,added,loc.oro,18153,18168,,"avec ses clients. Ce La Prévoyante, bureau T. 11, [rue Lacharrière], Paris CYCLES MERIOANT 13, Av. des Moulineaux, P"
+Moulineaux,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,18205,18215,,"e Lacharrière, Paris CYCLES MERIOANT 13, Av. des [Moulineaux], PARIS-BILLANCOURT Catalogue franco. PRIX de GROS"
+BILLANCOURT,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,18223,18234,,"is CYCLES MERIOANT 13, Av. des Moulineaux, PARIS-[BILLANCOURT] Catalogue franco. PRIX de GROS aux Intermédiaires"
+G. LASSEUR,pers.ind,Person,pers.ind,confirmed,pers.ind,18298,18308,,"nco. PRIX de GROS aux Intermédiaires Le Gérant : [G. LASSEUR] IMPRIMERIE DU Petit Journal (C. MARTY, imp.) Impr"
+Petit Journal,prod.media,Product,prod.media,confirmed,prod.media,18323,18336,,"ermédiaires Le Gérant : G. LASSEUR IMPRIMERIE DU [Petit Journal] (C. MARTY, imp.) Imprimé sur la Machine rotative"
+"C. MARTY, imp.",pers.ind,Person,pers.ind,confirmed,pers.ind,18338,18352,,"Gérant : G. LASSEUR IMPRIMERIE DU Petit Journal ([C. MARTY, imp.]) Imprimé sur la Machine rotative chromo-typo de M"
+MARINONI,pers.ind,Person,pers.ind,confirmed,pers.ind,18401,18409,,.) Imprimé sur la Machine rotative chromo-typo de [MARINONI] (Encres LORILLFUX)

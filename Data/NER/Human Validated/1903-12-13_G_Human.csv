@@ -1,0 +1,107 @@
+﻿entity,fine_type,coarse_type
+Maison J. GIRARD & Cie,org.ent,Organization
+E. GIRARD & A. BOITTE,org.ent,Organization
+"42, Rue de l'Échiquier",loc.add.phys,Location
+PARIS,loc.adm.town,Location
+LUXE,org.ent,Organization
+"19, Rue de la Pépinière",loc.add.phys,Location
+Journal de Médecine Française,prod.media,Product
+Temple de la Santé,loc.fac,Location
+France,loc.adm.nat,Location
+"54 et 56, rue de Provence",loc.add.phys,Location
+"134, r. Réaumur",loc.add.phys,Location
+place de la Bourse,loc.oro,Location
+"6, rue de Sèvres",loc.add.phys,Location
+Londres,loc.adm.town,Location
+"53, Old Broad Street",loc.add.phys,Location
+PATRELLE,pers.ind,Person
+S. PATRELLE,pers.ind,Person
+J. Pierre,pers.ind,Person
+BOULAIN,loc.adm.town,Location
+Aisne,loc.adm.reg,Location
+DONADEY,pers.ind,Person
+"53, R. N. D.-de-Nazareth, Paris",loc.add.phys,Location
+"5, Passage Verdeau, PARIS",loc.add.phys,Location
+" 23, rue St-Sabin, Paris",loc.add.phys,Location
+PREMONT,loc.adm.town,Location
+BESANÇON,loc.adm.town,Location
+Doub.,loc.adm.reg,Location
+E. DUPAS,pers.ind,Person
+"83, r. Lafayette, Paris",loc.add.phys,Location
+ACHEILLE,pers.ind,Person
+"75, r. Montmartre, Paris ",loc.add.phys,Location
+Maître Populaire,org.ent,Organization
+"13-2, r. Montbello, Paris",loc.add.phys,Location
+Mme LEZINA,pers.ind,Person
+" 11, r. Eupatoria, Paris",loc.add.phys,Location
+" 32, r. Boursault, Paris",loc.add.phys,Location
+Socie de la Galette France,org.ent,Organization
+"65, Rue du Faub. St-Denis, PARIS ",loc.add.phys,Location
+J. Posel,pers.ind,Person
+"Bd Filles-du-Calvaire, 20, Paris",loc.add.phys,Location
+H. Niolet,pers.ind,Person
+"23, r. St-Sabin, Paris",loc.add.phys,Location
+CLAULA,pers.ind,Person
+"rue Saint-Pantaléon, 3, TOULOUSE",loc.add.phys,Location
+"J. Posel, chim.",pers.ind,Person
+M. REVERDY,pers.ind,Person
+RAINGY,loc.adm.town,Location
+G. Rigolet,pers.ind,Person
+M. TENOR,pers.ind,Person
+"90, Rue des Boulets",loc.add.phys,Location
+D'AGREMONT (Paul),pers.ind,Person
+Tragique Amour: Père inconnu,prod.media,Product
+L'Écurie terrible,prod.media,Product
+BOUCHOT,pers.ind,Person
+DEMESSE,pers.ind,Person
+DRAULT,pers.ind,Person
+GYP,pers.ind,Person
+LEGOMTE,pers.ind,Person
+LEPELLETIER,pers.ind,Person
+MAHALIN,pers.ind,Person
+MARY (Jules),pers.ind,Person
+MÉROUVEL,pers.ind,Person
+MORIN,pers.ind,Person
+PONT-JEST,pers.ind,Person
+RÉGAL,pers.ind,Person
+DES TOUCHES,pers.ind,Person
+TUNQUAN,pers.ind,Person
+TIGRIGIAN,pers.ind,Person
+Les Éléances du Second Empire,prod.media,Product
+La Fleuriste des Halles,prod.media,Product
+Le Gosse au Sergent-Major,prod.media,Product
+En Ballade,prod.media,Product
+Virginie Déjazet,prod.media,Product
+La Dernier Napoleon,prod.media,Product
+Les deux Impératrices,prod.media,Product
+La fin de Chicot,prod.media,Product
+La Valse des Maris,prod.media,Product
+La Passerelle,prod.media,Product
+Les Carnavales Parisiens,prod.media,Product
+La Meunière de Saint-Cado,prod.media,Product
+Mme Pas d'Amour,prod.media,Product
+Ad Alta,prod.media,Product
+ Stéphanie de Beauharnais,prod.media,Product
+Une Illuminée au XIXe Siècle,prod.media,Product
+" 10, rue St-Joseph, Paris",loc.add.phys,Location
+Oural,loc.phys.geo,Location
+doub,loc.adm.reg,Location
+A. DUPUY,org.ent,Organization
+"225, rue St-Martin, PARIS",loc.add.phys,Location
+Petit Journal,prod.media,Product
+TENOR,pers.ind,Person
+"90, rue des Boulets, Paris",loc.add.phys,Location
+H. SARDÀ,org.ent,Organization
+" 33, Quai Veil-Picard, BESANÇON",loc.add.phys,Location
+Comptoir Universel de France,org.ent,Organization
+"60, rue de Provence, Paris",loc.add.phys,Location
+"26, Rue du Temple, 26, Paris",loc.add.phys,Location
+J. PIERRE,pers.ind,Person
+BOULAIN,loc.adm.town,Location
+Aisne,loc.adm.reg,Location
+PREMONT,loc.adm.town,Location
+MÉRICANT,org.ent,Organization
+G. LASSEUR,pers.ind,Person
+D. CASSIGNEL,pers.ind,Person
+"61, rue Lafayette, Paris",loc.add.phys,Location
+MARINONI,org.ent,Organization

@@ -1,0 +1,77 @@
+﻿entity,fine_type,coarse_type
+Dumont d'Urville,pers.ind,Person
+Nordenskiöld,pers.ind,Person
+Stanley,pers.ind,Person
+Bougainville,pers.ind,Person
+Flatters,pers.ind,Person
+LIBRAIRE des CONNAISSANCES UTILES,org.ent,Organization
+"8, Rue St-Joseph, Paris",loc.add.phys,Location
+BRIATTE-PIÉRIN,org.ent,Organization
+PREMONT,loc.adm.town,Location
+Aisne,loc.adm.reg,Location
+GUILLOU,org.ent,Organization
+"9, Rue Mozart, Paris",loc.add.phys,Location
+J. Posel,pers.ind,Person
+"Filles-du-Calvaire, 20, Paris",loc.add.phys,Location
+"8, Rue des Petites-Ecuries, Paris",loc.add.phys,Location
+BESANÇON,loc.adm.town,Location
+H. SARDA,org.ent,Organization
+Doubs,loc.adm.reg,Location
+"33, Quai Vell-Ficard",loc.add.phys,Location
+J. RATIE,pers.ind,Person
+"5, Passage Verdeau, Paris (9e)",loc.add.phys,Location
+Petit Journal,prod.media,Product
+ACHILLE,pers.ind,Person
+"75, r. Montmartre, Paris",loc.add.phys,Location
+M. REVERDY,pers.ind,Person
+RAINCY,loc.adm.town,Location
+Seine-et-Oise,loc.adm.reg,Location
+Ch. PIVOT,pers.ind,Person
+Tour-du-Pin,loc.adm.town,Location
+Isère,loc.adm.reg,Location
+COMPAGNIE INTERNATIONALE MACHINES DE LUXE,org.ent,Organization
+"5-7-9, r. Gonnet, Paris",loc.add.phys,Location
+CLAULA,pers.ind,Person
+"rue Saint-Paul, 3, TOULOUSE",loc.add.phys,Location
+Comptoir National d'Horlogerie de BESANÇON,org.ent,Organization
+E. DUPAS,pers.ind,Person
+Maître Populaire,org.ent,Organization
+"13-2, r. Montlhon, Paris",loc.add.phys,Location
+J. PIERRE,pers.ind,Person
+BOUAIN,loc.adm.town,Location
+Moe Rigolade Moderne,org.ent,Organization
+"11, r. Eupatoria, Paris",loc.add.phys,Location
+APREMONT,loc.adm.town,Location
+PATRELLE,pers.ind,Person
+S. PATRELLE,pers.ind,Person
+"46, r. des Amandiers, Paris",loc.add.phys,Location
+G. Rigolet,pers.ind,Person
+"23, rue St-Sabin",loc.add.phys,Location
+"che Bd Filles-du-Calvaire, 20",loc.add.phys,Location
+Tenor,pers.ind,Person
+"90, rue des Boulets",loc.add.phys,Location
+AIGLE,org.ent,Organization
+1889,time.date.abs,Time
+"1, rue de Compiègne",loc.add.phys,Location
+Société Industrielle,org.ent,Organization
+"83, Rue Lafayette",loc.add.phys,Location
+G. TRIBAUDEAU,pers.ind,Person
+"32, r. Boursault, Paris",loc.add.phys,Location
+Luper,pers.ind,Person
+POUJADE,pers.ind,Person
+Cardaillac,loc.adm.town,Location
+"80, r. de Passy, Paris",loc.add.phys,Location
+G. LASSEUR,pers.ind,Person
+D. CASSIGNEL,pers.ind,Person
+"61, rue Lafayette, Paris",loc.add.phys,Location
+MARTINON,org.ent,Organization
+Docteur SANDEN,pers.ind,Person
+Dr SANDEN,pers.ind,Person
+France,loc.adm.nat,Location
+Belgique,loc.adm.nat,Location
+" BRUXELLES, 89, Rue du Marché-aux-Herbes",loc.add.phys,Location
+Dr R. SANDEN,pers.ind,Person
+"15, Rue de la Paix, PARIS",loc.add.phys,Location
+PARIS,loc.adm.town,Location
+Dr FOURNIER,pers.ind,Person
+J.-A. VINCENT,pers.ind,Person

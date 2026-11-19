@@ -1,0 +1,35 @@
+﻿entity,fine_type,coarse_type
+Jérôme,pers.ind,Person
+Montfrin,pers.ind,Person
+Venise,loc.adm.town,Location
+Caire,loc.adm.town,Location
+Léonie,pers.ind,Person
+Montmartre,loc.adm.town,Location
+monsieur de Sartines,pers.ind,Person
+Courchamp,pers.ind,Person
+Roger de Sartines,pers.ind,Person
+Sociétés artistiques de France,org.ent,Organization
+Léonie Joran,pers.ind,Person
+Léon,pers.ind,Person
+Joseph,pers.ind,Person
+M. de Sartines,pers.ind,Person
+France,loc.adm.nat,Location
+Nannette,pers.ind,Person
+Maurice MONTÉGUT,pers.ind.articleauthor,Person
+Nord de la Chine,loc.adm.reg,Location
+Lekhan,pers.ind,Person
+Xavier MARMIER,pers.ind.articleauthor,Person
+Terre-Neuve,loc.adm.reg,Location
+Saint-Pierre,loc.adm.town,Location
+Miquelon,loc.adm.town,Location
+Jacques,pers.ind,Person
+Lecoq,pers.ind,Person
+capitaine Jacques,pers.ind,Person
+Marcel Gallois,pers.ind,Person
+Marcel,pers.ind,Person
+Saint-Bernard,prod,Product
+Germaine,pers.ind,Person
+Junon,prod,Product
+Granville,loc.adm.town,Location
+Kairon,loc.adm.town,Location
+Minquiers,loc.phys.geo,Location

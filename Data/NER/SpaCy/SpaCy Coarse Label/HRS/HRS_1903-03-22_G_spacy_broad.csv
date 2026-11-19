@@ -1,0 +1,274 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+SONGRITÉ,Product,MISC,12,20,,Phonographe [SONGRITÉ]. SOLIDITÉ. fonctionne irrégulièrement Bon Marché
+SOLIDITÉ,Product,MISC,22,30,,Phonographe SONGRITÉ. [SOLIDITÉ]. fonctionne irrégulièrement Bon Marché incroyable
+"Bon Marché incroyable
+Prix réel de fabrication de 25 fr",Product,MISC,59,114,,he SONGRITÉ. SOLIDITÉ. fonctionne irrégulièrement [Bon Marché incroyable Prix réel de fabrication de 25 fr]. avec 5 cylindres enregist. CRÉDIT CATALOGUE ILLU
+CATALOGUE,Organization,ORG,150,159,,"ation de 25 fr. avec 5 cylindres enregist. CRÉDIT [CATALOGUE] ILLUSTRÉ franco envoyé par BRIATTE-PIÉRIN, FREYON"
+ILLUSTRÉ,Organization,ORG,160,168,,"5 fr. avec 5 cylindres enregist. CRÉDIT CATALOGUE [ILLUSTRÉ] franco envoyé par BRIATTE-PIÉRIN, FREYON (Aisne)"
+BRIATTE-PIÉRIN,Location,LOC,187,201,,"gist. CRÉDIT CATALOGUE ILLUSTRÉ franco envoyé par [BRIATTE-PIÉRIN], FREYON (Aisne) ANGLAIS ALLEMAND ESP. RUSS. PORT"
+FREYON,Product,MISC,203,209,,"ALOGUE ILLUSTRÉ franco envoyé par BRIATTE-PIÉRIN, [FREYON] (Aisne) ANGLAIS ALLEMAND ESP. RUSS. PORTU. appri"
+Aisne,Location,LOC,211,216,,"LLUSTRÉ franco envoyé par BRIATTE-PIÉRIN, FREYON ([Aisne]) ANGLAIS ALLEMAND ESP. RUSS. PORTU. appris SEUL"
+RUSS,Product,MISC,241,245,,"TTE-PIÉRIN, FREYON (Aisne) ANGLAIS ALLEMAND ESP. [RUSS]. PORTU. appris SEUL en 4 mois, beaucoup mieux qu'"
+PORTU,Product,MISC,247,252,,"ÉRIN, FREYON (Aisne) ANGLAIS ALLEMAND ESP. RUSS. [PORTU]. appris SEUL en 4 mois, beaucoup mieux qu'avec pr"
+ACCENT,Organization,ORG,439,445,,"a vraie prononciation exacte du pays même, le PUR [ACCENT] Preuve-essai, 1 langue, 100 cts. (hors France 1.1"
+France,Location,LOC,485,491,,"PUR ACCENT Preuve-essai, 1 langue, 100 cts. (hors [France] 1.10) mandat ou amb. poste française à Maître Pop"
+amb,Person,PER,508,511,,", 1 langue, 100 cts. (hors France 1.10) mandat ou [amb]. poste française à Maître Populaire, 13-2, r. Mon"
+Maître Populaire,Organization,ORG,531,547,,"ors France 1.10) mandat ou amb. poste française à [Maître Populaire], 13-2, r. Monheton, Paris. CYCLES G. BARY DEFRON"
+r. Monheton,Person,PER,555,566,,"ou amb. poste française à Maître Populaire, 13-2, [r. Monheton], Paris. CYCLES G. BARY DEFRONT leurs Nouveaux Mo"
+Paris,Location,LOC,568,573,,"française à Maître Populaire, 13-2, r. Monheton, [Paris]. CYCLES G. BARY DEFRONT leurs Nouveaux Modèles 1"
+CYCLES,Product,MISC,576,582,,"se à Maître Populaire, 13-2, r. Monheton, Paris. [CYCLES] G. BARY DEFRONT leurs Nouveaux Modèles 1903 Derni"
+BARY,Product,MISC,586,590,,"e Populaire, 13-2, r. Monheton, Paris. CYCLES G. [BARY] DEFRONT leurs Nouveaux Modèles 1903 Derniers perf"
+DEFRONT,Product,MISC,591,598,,"ulaire, 13-2, r. Monheton, Paris. CYCLES G. BARY [DEFRONT] leurs Nouveaux Modèles 1903 Derniers perfectionne"
+"Nouveaux Modèles 1903
+Derniers perfectionnements",Product,MISC,605,653,,"r. Monheton, Paris. CYCLES G. BARY DEFRONT leurs [Nouveaux Modèles 1903 Derniers perfectionnements]. — Prix sans précédent. Livrés à l'Essai et à Cr"
+Prix sans précédent,Product,MISC,657,676,,uveaux Modèles 1903 Derniers perfectionnements. — [Prix sans précédent]. Livrés à l'Essai et à Crédit de 10 MOIS BICYCL
+Livrés,Person,PER,679,685,,rniers perfectionnements. — Prix sans précédent. [Livrés] à l'Essai et à Crédit de 10 MOIS BICYCLETTES D'O
+"Essai et à Crédit de 10 MOIS
+
+BICYCLETTES D'OCCASION",Product,MISC,690,742,,ectionnements. — Prix sans précédent. Livrés à l'[Essai et à Crédit de 10 MOIS BICYCLETTES D'OCCASION] A TOUS PRIX — P. ime et Catalog. franco. Pour BAR
+Catalog,Organization,ORG,767,774,,"S BICYCLETTES D'OCCASION A TOUS PRIX — P. ime et [Catalog]. franco. Pour BARY, 139, Faubourg St-Denis, Paris"
+franco,Person,PER,776,782,,"ETTES D'OCCASION A TOUS PRIX — P. ime et Catalog. [franco]. Pour BARY, 139, Faubourg St-Denis, Paris (Xe)."
+BARY,Product,MISC,789,793,,"ION A TOUS PRIX — P. ime et Catalog. franco. Pour [BARY], 139, Faubourg St-Denis, Paris (Xe). MONTRES DE"
+Faubourg St-Denis,Location,LOC,800,817,,"PRIX — P. ime et Catalog. franco. Pour BARY, 139, [Faubourg St-Denis], Paris (Xe). MONTRES DE BESANÇON à Crédit depuis"
+Paris,Location,LOC,819,824,,"talog. franco. Pour BARY, 139, Faubourg St-Denis, [Paris] (Xe). MONTRES DE BESANÇON à Crédit depuis trois"
+Xe,Location,LOC,826,828,,"franco. Pour BARY, 139, Faubourg St-Denis, Paris ([Xe]). MONTRES DE BESANÇON à Crédit depuis trois fran"
+Crédit,Organization,ORG,854,860,,"ourg St-Denis, Paris (Xe). MONTRES DE BESANÇON à [Crédit] depuis trois francs par mois Grande Fabrique ""H."
+SARDA,Organization,ORG,910,915,,"depuis trois francs par mois Grande Fabrique ""H. [SARDA]"" à BESANÇON (Doubs), 33, Quai Veil-Picard. Demand"
+Doubs,Location,LOC,929,934,,"s par mois Grande Fabrique ""H. SARDA"" à BESANÇON ([Doubs]), 33, Quai Veil-Picard. Demandez les Séries nouve"
+Quai Veil-Picard,Person,PER,941,957,,"rande Fabrique ""H. SARDA"" à BESANÇON (Doubs), 33, [Quai Veil-Picard]. Demandez les Séries nouvelles illustrées de Mont"
+Demandez les Séries nouvelles illustrées de,Product,MISC,959,1002,,"SARDA"" à BESANÇON (Doubs), 33, Quai Veil-Picard. [Demandez les Séries nouvelles illustrées de] Montres à Crédit et au Comptant. Très beau choix"
+Montres à Crédit,Product,MISC,1003,1019,,card. Demandez les Séries nouvelles illustrées de [Montres à Crédit] et au Comptant. Très beau choix de Nouvelles Mont
+Comptant,Product,MISC,1026,1034,,es nouvelles illustrées de Montres à Crédit et au [Comptant]. Très beau choix de Nouvelles Montres Garanties.
+Nouvelles Montres Garanties,Product,MISC,1055,1082,,"ntres à Crédit et au Comptant. Très beau choix de [Nouvelles Montres Garanties]. L'IRRÉPROCHABLE les meilleures, les meilleur ma"
+IRRÉPROCHABLE,Organization,ORG,1087,1100,,"rès beau choix de Nouvelles Montres Garanties. L'[IRRÉPROCHABLE] les meilleures, les meilleur marché MODELES 1903"
+"MODELES 1903
+",Product,MISC,1137,1150,,"IRRÉPROCHABLE les meilleures, les meilleur marché [MODELES 1903 ]Maison de toute confiance Garantie en facture A CR"
+Garantie,Organization,ORG,1176,1184,,eur marché MODELES 1903 Maison de toute confiance [Garantie] en facture A CREDIT OCCASIONS Catalogue franco Ec
+M. LE DIRECTEUR,Person,PER,1241,1256,,"ture A CREDIT OCCASIONS Catalogue franco Ecrire à [M. LE DIRECTEUR], 6, rue Marbeuf, Paris France à l'expos. — Spéci"
+rue Marbeuf,Location,LOC,1261,1272,,"ONS Catalogue franco Ecrire à M. LE DIRECTEUR, 6, [rue Marbeuf], Paris France à l'expos. — Spécimen des MONTRES"
+"Paris
+
+France",Location,LOC,1274,1287,,"franco Ecrire à M. LE DIRECTEUR, 6, rue Marbeuf, [Paris France] à l'expos. — Spécimen des MONTRES ET BIJOUX TRIBA"
+MONTRES ET BIJOUX,Product,MISC,1314,1331,,"Marbeuf, Paris France à l'expos. — Spécimen des [MONTRES ET BIJOUX] TRIBAUDEAU et BIJOUX TRIBAUDEAU, principal à BESA"
+TRIBAUDEAU,Location,LOC,1353,1363,,"écimen des MONTRES ET BIJOUX TRIBAUDEAU et BIJOUX [TRIBAUDEAU], principal à BESANÇON, 3, rue de la République, 1"
+rue de la République,Location,LOC,1390,1410,,"AU et BIJOUX TRIBAUDEAU, principal à BESANÇON, 3, [rue de la République], 1er étage. Objets: Montres, Chronomètres, Bijoux"
+Objets: Montres,Product,MISC,1423,1438,,"l à BESANÇON, 3, rue de la République, 1er étage. [Objets: Montres], Chronomètres, Bijoux, Pendules, Orfèvrerie Répar"
+Chronomètres,Location,LOC,1440,1452,,"rue de la République, 1er étage. Objets: Montres, [Chronomètres], Bijoux, Pendules, Orfèvrerie Réparations. Franco"
+"Bijoux,
+Pendules",Product,MISC,1454,1470,,"blique, 1er étage. Objets: Montres, Chronomètres, [Bijoux, Pendules], Orfèvrerie Réparations. Franco Tarifs Illustrés"
+Orfèvrerie Réparations,Product,MISC,1472,1494,,"Objets: Montres, Chronomètres, Bijoux, Pendules, [Orfèvrerie Réparations]. Franco Tarifs Illustrés CYCLES LE ROCHER Depuis"
+Franco,Person,PER,1496,1502,,"mètres, Bijoux, Pendules, Orfèvrerie Réparations. [Franco] Tarifs Illustrés CYCLES LE ROCHER Depuis 400 fr."
+"Illustrés
+
+CYCLES LE ROCHER",Product,MISC,1510,1537,,", Pendules, Orfèvrerie Réparations. Franco Tarifs [Illustrés CYCLES LE ROCHER] Depuis 400 fr. Machines à coudre depuis 50 fr. 40"
+Ecrire Directr,Product,MISC,1639,1653,,"/0 de remise AU COMPTANT Ven e à très long crédit [Ecrire Directr], 25 bis, faubg Saint-Antoine (Xe), Paris. PHOTOG"
+faubg Saint-Antoine,Location,LOC,1663,1682,,"Ven e à très long crédit Ecrire Directr, 25 bis, [faubg Saint-Antoine] (Xe), Paris. PHOTOGRAPHIE SIMPLIFIÉE Le Photo-Wi"
+Xe,Location,LOC,1684,1686,,"édit Ecrire Directr, 25 bis, faubg Saint-Antoine ([Xe]), Paris. PHOTOGRAPHIE SIMPLIFIÉE Le Photo-Withe"
+Paris,Location,LOC,1689,1694,,"Ecrire Directr, 25 bis, faubg Saint-Antoine (Xe), [Paris]. PHOTOGRAPHIE SIMPLIFIÉE Le Photo-Withe appareil"
+PHOTOGRAPHIE,Product,MISC,1697,1709,,"irectr, 25 bis, faubg Saint-Antoine (Xe), Paris. [PHOTOGRAPHIE] SIMPLIFIÉE Le Photo-Withe appareil instant, de po"
+Photo-Withe,Product,MISC,1724,1735,,"-Antoine (Xe), Paris. PHOTOGRAPHIE SIMPLIFIÉE Le [Photo-Withe] appareil instant, de poche p. photo- graphie, s'a"
+Photograph,Product,MISC,1834,1844,,"apprentissage, paysages, groupes, portraits, etc. [Photograph]. merveilleuse. Peut saisir vol d'un oiseau en fr."
+fr,Location,LOC,1891,1893,,"aph. merveilleuse. Peut saisir vol d'un oiseau en [fr]. 35, 1er produit et access. Instruct. facile, prê"
+Instruct,Product,MISC,1922,1930,,"vol d'un oiseau en fr. 35, 1er produit et access. [Instruct]. facile, prêts à fonctionner compl. Catalogue ill"
+Catalogue ill,Product,MISC,1967,1980,,"ess. Instruct. facile, prêts à fonctionner compl. [Catalogue ill]. gratis. Tous genres d'appar. supér. Facilit. 2 f"
+gratis,Product,MISC,1982,1988,,"facile, prêts à fonctionner compl. Catalogue ill. [gratis]. Tous genres d'appar. supér. Facilit. 2 franco (d"
+Facilit,Organization,ORG,2018,2025,,"atalogue ill. gratis. Tous genres d'appar. supér. [Facilit]. 2 franco (de paiement). RENOM, ing., 23, rue St-"
+RENOM,Product,MISC,2051,2056,,"d'appar. supér. Facilit. 2 franco (de paiement). [RENOM], ing., 23, rue St-Sabin, Paris BEAUTÉ & JEUNESSE"
+rue St-Sabin,Location,LOC,2068,2080,,"Facilit. 2 franco (de paiement). RENOM, ing., 23, [rue St-Sabin], Paris BEAUTÉ & JEUNESSE ÉTERNELLE A TOUS Le rou"
+"Paris
+
+BEAUTÉ & JEUNESSE",Product,MISC,2082,2106,,"nco (de paiement). RENOM, ing., 23, rue St-Sabin, [Paris BEAUTÉ & JEUNESSE] ÉTERNELLE A TOUS Le rouge du nez, les points noir"
+Crème Loris,Product,MISC,2208,2219,,"les laches de rousseur, disparais, à jamais p la [Crème Loris], le poi 1.10 HAIR FRISANTINE. Une goutte fait fri"
+poi,Organization,ORG,2224,2227,,"ousseur, disparais, à jamais p la Crème Loris, le [poi] 1.10 HAIR FRISANTINE. Une goutte fait friser les"
+FRISANTINE,Product,MISC,2238,2248,,"rais, à jamais p la Crème Loris, le poi 1.10 HAIR [FRISANTINE]. Une goutte fait friser les cheveux pendant 8 jou"
+Dépense,Product,MISC,2302,2309,,"e goutte fait friser les cheveux pendant 8 jours. [Dépense] insignifiante. Le flac 1.75 développés, reconstit"
+Farine hongroise,Location,LOC,2403,2419,,onstit. embellis raffermis en 9 peu de jours p la [Farine hongroise] 1 boîte 3.50 pr faire dispara. cernement et gonfl
+Duvet et Barbe,Product,MISC,2550,2564,,"éclat à l'œil. Lotion végétale Le flacon 3 POILS [Duvet et Barbe] la plus dure, détruits p toujours en une fois. La"
+Posel,Person,PER,2656,2661,,"fois. La boîte trois francs. Mandat ou timbres J. [Posel], chim., 8e Filles-du-Calvaire, 20, Paris. Notice"
+8e Filles-du-Calvaire,Location,LOC,2670,2691,,"trois francs. Mandat ou timbres J. Posel, chim., [8e Filles-du-Calvaire], 20, Paris. Notice gratis. JOYEUX VIVEURS & CHAN"
+Paris,Location,LOC,2697,2702,,"mbres J. Posel, chim., 8e Filles-du-Calvaire, 20, [Paris]. Notice gratis. JOYEUX VIVEURS & CHANTEURS Voule"
+Notice gratis,Product,MISC,2704,2717,,". Posel, chim., 8e Filles-du-Calvaire, 20, Paris. [Notice gratis]. JOYEUX VIVEURS & CHANTEURS Voulez-vous lire, fa"
+"VIVEURS & CHANTEURS
+",Organization,ORG,2727,2747,,"es-du-Calvaire, 20, Paris. Notice gratis. JOYEUX [VIVEURS & CHANTEURS ]Voulez-vous lire, faire rire et amuser vos amis? D"
+Demand,Person,PER,2796,2802,,"Voulez-vous lire, faire rire et amuser vos amis? [Demand]. les 6 catal. illust. réunis p 1903 Nouv. trucs,"
+illust,Person,PER,2817,2823,,"ire rire et amuser vos amis? Demand. les 6 catal. [illust]. réunis p 1903 Nouv. trucs, farces, attrapes, tou"
+Nouv,Person,PER,2839,2843,,"amis? Demand. les 6 catal. illust. réunis p 1903 [Nouv]. trucs, farces, attrapes, tours de physique, libr"
+Env,Location,LOC,2940,2943,,"ibrair. sortic., magie, ansans, art. utiles, etc. [Env]. grat s Maison G. Rigolet, 23, rue St-Sabin, Pari"
+grat,Location,LOC,2945,2949,,"r. sortic., magie, ansans, art. utiles, etc. Env. [grat] s Maison G. Rigolet, 23, rue St-Sabin, Paris. HY"
+rue St,Location,LOC,2975,2981,,". utiles, etc. Env. grat s Maison G. Rigolet, 23, [rue St]-Sabin, Paris. HYPNOTISME LA SCIENCE DU SUCCÈS!"
+Paris,Location,LOC,2989,2994,,"Env. grat s Maison G. Rigolet, 23, rue St-Sabin, [Paris]. HYPNOTISME LA SCIENCE DU SUCCÈS! Lecteur, vou"
+HYPNOTISME,Organization,ORG,2997,3007,,"at s Maison G. Rigolet, 23, rue St-Sabin, Paris. [HYPNOTISME] LA SCIENCE DU SUCCÈS! Lecteur, vous êtes-vous j"
+chancéux,Person,PER,3743,3751,,"s de parents pauvres. Ni la chance, car plus d'un [chancéux] est mort sans amis et dans le plus grand dénuemen"
+Magnétisme,Product,MISC,4335,4345,,alpel du chirurgien. Cette influence s'appelle le [Magnétisme] personnel ou Hypnotisme. C'est la base du succès
+Hypnotisme,Organization,ORG,4359,4369,,te influence s'appelle le Magnétisme personnel ou [Hypnotisme]. C'est la base du succès dans toutes les affaires
+Providence,Location,LOC,4488,4498,,tion sociale. C'est un pouvoir nous venant de la [Providence] et qui est l'apanage du pauvre aussi bien que du
+Hypnotisme,Organization,ORG,5225,5235,,"e quelque façon que ce soit, la connaissance de l'[Hypnotisme] vous sera précieuse, car c'est le point tournant"
+Hypnotisme,Organization,ORG,5512,5522,,"du siècle, lequel explique tout ce qui concerne l'[Hypnotisme], le Magnétisme personnel, la guérison magnétique,"
+Magnétisme,Product,MISC,5527,5537,,"el explique tout ce qui concerne l'Hypnotisme, le [Magnétisme] personnel, la guérison magnétique, etc., en un la"
+Dr X. La Motte Sage,Person,PER,5682,5701,,"le comprendre. Cette œuvre est due à la plume du [Dr X. La Motte Sage], A. M., Ph. D., L.L.D., l'Hypnotiste le plus émin"
+A. M.,Person,PER,5703,5708,,"œuvre est due à la plume du Dr X. La Motte Sage, [A. M.], Ph. D., L.L.D., l'Hypnotiste le plus éminent et"
+Ph,Person,PER,5710,5712,,"est due à la plume du Dr X. La Motte Sage, A. M., [Ph]. D., L.L.D., l'Hypnotiste le plus éminent et le p"
+L.L.D.,Person,PER,5718,5724,,"à la plume du Dr X. La Motte Sage, A. M., Ph. D., [L.L.D.], l'Hypnotiste le plus éminent et le plus réputé d"
+Hypnotiste,Location,LOC,5728,5738,,"du Dr X. La Motte Sage, A. M., Ph. D., L.L.D., l'[Hypnotiste] le plus éminent et le plus réputé des temps moder"
+fr,Location,LOC,6163,6165,,"Nombre de personnes gagnent maintenant de 10,000 [fr]. à 25,000 fr. par an. Le Dr Sage, auteur de ce pr"
+fr,Location,LOC,6176,6178,,"rsonnes gagnent maintenant de 10,000 fr. à 25,000 [fr]. par an. Le Dr Sage, auteur de ce précieux ouvrag"
+Dr Sage,Product,MISC,6191,6198,,"maintenant de 10,000 fr. à 25,000 fr. par an. Le [Dr Sage], auteur de ce précieux ouvrage, a décidé de faire"
+UN,Product,MISC,6399,6401,,que le pauvre ait autant de chance que le riche. [UN] LIVRE REMPLI DE RARES SECRETS DONNÉ GRATUIT Il a
+DONNÉ,Product,MISC,6432,6437,,e que le riche. UN LIVRE REMPLI DE RARES SECRETS [DONNÉ] GRATUIT Il a cédé son droit d'auteur à la conditi
+B,Location,LOC,6854,6855,,"ssée à : THE NEW YORK INSTITUTE OF SCIENCE DEPT. [B] A. 5., ROCHESTER, N. Y., (E. U. D'A.) « Cette œuv"
+ROCHESTER,Person,PER,6863,6872,,"THE NEW YORK INSTITUTE OF SCIENCE DEPT. B A. 5., [ROCHESTER], N. Y., (E. U. D'A.) « Cette œuvre remarquable va"
+N. Y.,Person,PER,6874,6879,,"RK INSTITUTE OF SCIENCE DEPT. B A. 5., ROCHESTER, [N. Y.], (E. U. D'A.) « Cette œuvre remarquable vaut plus"
+E. U. D'A.,Person,PER,6882,6892,,"TUTE OF SCIENCE DEPT. B A. 5., ROCHESTER, N. Y., ([E. U. D'A.]) « Cette œuvre remarquable vaut plus que l'or. El"
+Sainte Bible,Product,MISC,7067,7079,,L'étude de cet ouvrage devrait suivre celle de la [Sainte Bible]. Je conseille à tous de s'en procurer un exemplai
+REV,Product,MISC,7135,7138,,"onseille à tous de s'en procurer un exemplaire. » [REV]. PAUL WELLER, Gorham, N. Y. PUISSANCE et Autorit"
+PAUL WELLER,Product,MISC,7140,7151,,"lle à tous de s'en procurer un exemplaire. » REV. [PAUL WELLER], Gorham, N. Y. PUISSANCE et Autorité sur tous in"
+Gorham,Product,MISC,7153,7159,,"s'en procurer un exemplaire. » REV. PAUL WELLER, [Gorham], N. Y. PUISSANCE et Autorité sur tous individus,"
+"N. Y.
+
+PUISSANCE",Person,PER,7161,7177,,"ocurer un exemplaire. » REV. PAUL WELLER, Gorham, [N. Y. PUISSANCE] et Autorité sur tous individus, On obtient obéiss"
+Autorité,Organization,ORG,7181,7189,,". » REV. PAUL WELLER, Gorham, N. Y. PUISSANCE et [Autorité] sur tous individus, On obtient obéissance, exécut"
+Renseignem,Person,PER,7275,7285,,"ssance, exécution d'ordres de près comme de loin. [Renseignem]. gratis. Ecrire à Tenor, 90, rue des Boulets, Par"
+Tenor,Location,LOC,7304,7309,,"près comme de loin. Renseignem. gratis. Ecrire à [Tenor], 90, rue des Boulets, Paris. Les MOUSTACHES et l"
+rue des Boulets,Location,LOC,7315,7330,,"de loin. Renseignem. gratis. Ecrire à Tenor, 90, [rue des Boulets], Paris. Les MOUSTACHES et la BARBE : vous pousse"
+Paris,Location,LOC,7332,7337,,"nem. gratis. Ecrire à Tenor, 90, rue des Boulets, [Paris]. Les MOUSTACHES et la BARBE : vous pousserez mag"
+MOUSTACHES,Product,MISC,7344,7354,,"Ecrire à Tenor, 90, rue des Boulets, Paris. Les [MOUSTACHES] et la BARBE : vous pousserez magnifiques même à 1"
+BARBE,Product,MISC,7361,7366,,"90, rue des Boulets, Paris. Les MOUSTACHES et la [BARBE] : vous pousserez magnifiques même à 15 ans avec """
+EXTRAIT,Product,MISC,7418,7425,,"vous pousserez magnifiques même à 15 ans avec ""L'[EXTRAIT] CAPILLAIRE VÉGÉTAL"". Fait repousser Chev. et Cils"
+Chev,Person,PER,7462,7466,,"ec ""L'EXTRAIT CAPILLAIRE VÉGÉTAL"". Fait repousser [Chev]. et Cils. 10,000 attestations signées. 6e flac. 3"
+Cils,Product,MISC,7471,7475,,"RAIT CAPILLAIRE VÉGÉTAL"". Fait repousser Chev. et [Cils]. 10,000 attestations signées. 6e flac. 3e flac. 1"
+6e flac,Product,MISC,7506,7513,,"usser Chev. et Cils. 10,000 attestations signées. [6e flac]. 3e flac. 1.75. Pet. flac. d'essai 0.75. 1er cte"
+Pet,Product,MISC,7530,7533,,000 attestations signées. 6e flac. 3e flac. 1.75. [Pet]. flac. d'essai 0.75. 1er cte timbr. ou mandat à P
+flac,Product,MISC,7535,7539,,ttestations signées. 6e flac. 3e flac. 1.75. Pet. [flac]. d'essai 0.75. 1er cte timbr. ou mandat à POUJAUE
+1er cte timbr,Person,PER,7555,7568,,"6e flac. 3e flac. 1.75. Pet. flac. d'essai 0.75. [1er cte timbr]. ou mandat à POUJAUE, chimiste à Caen-d'ailles (L"
+POUJAUE,Person,PER,7582,7589,,"t. flac. d'essai 0.75. 1er cte timbr. ou mandat à [POUJAUE], chimiste à Caen-d'ailles (Loi). IVROGNES corrig"
+Caen-d'ailles,Location,LOC,7602,7615,,"5. 1er cte timbr. ou mandat à POUJAUE, chimiste à [Caen-d'ailles] (Loi). IVROGNES corrigés à jamais, même à leur i"
+Loi,Location,LOC,7617,7620,,"r. ou mandat à POUJAUE, chimiste à Caen-d'ailles ([Loi]). IVROGNES corrigés à jamais, même à leur insu p"
+IVROGNES,Product,MISC,7624,7632,,"andat à POUJAUE, chimiste à Caen-d'ailles (Loi). [IVROGNES] corrigés à jamais, même à leur insu par la Lupéri"
+Lupérine,Location,LOC,7676,7684,,"ROGNES corrigés à jamais, même à leur insu par la [Lupérine]. Ecr. Luper 32e r. Boursault, Paris PEIGNE POUR"
+Ecr,Location,LOC,7686,7689,,"rigés à jamais, même à leur insu par la Lupérine. [Ecr]. Luper 32e r. Boursault, Paris PEIGNE POUR TEIND"
+Luper,Person,PER,7691,7696,,"à jamais, même à leur insu par la Lupérine. Ecr. [Luper] 32e r. Boursault, Paris PEIGNE POUR TEINDRE CHEV"
+Paris,Location,LOC,7715,7720,,"nsu par la Lupérine. Ecr. Luper 32e r. Boursault, [Paris] PEIGNE POUR TEINDRE CHEVRUX, BARBE, MOUSTACHE, e"
+PEIGNE,Location,LOC,7722,7728,,"la Lupérine. Ecr. Luper 32e r. Boursault, Paris [PEIGNE] POUR TEINDRE CHEVRUX, BARBE, MOUSTACHE, en quatre"
+TEINDRE CHEVRUX,Organization,ORG,7734,7749,,". Ecr. Luper 32e r. Boursault, Paris PEIGNE POUR [TEINDRE CHEVRUX], BARBE, MOUSTACHE, en quatre coups du Peigne Merv"
+BARBE,Product,MISC,7751,7756,,"r. Boursault, Paris PEIGNE POUR TEINDRE CHEVRUX, [BARBE], MOUSTACHE, en quatre coups du Peigne Merveilleux"
+MOUSTACHE,Product,MISC,7758,7767,,"sault, Paris PEIGNE POUR TEINDRE CHEVRUX, BARBE, [MOUSTACHE], en quatre coups du Peigne Merveilleux. — BRUN, B"
+Peigne Merveilleux,Product,MISC,7788,7806,,"DRE CHEVRUX, BARBE, MOUSTACHE, en quatre coups du [Peigne Merveilleux]. — BRUN, BLOND, NOIS. Prix : 6 francs. (Envoy dis"
+BLOND,Person,PER,7816,7821,,"E, en quatre coups du Peigne Merveilleux. — BRUN, [BLOND], NOIS. Prix : 6 francs. (Envoy discret) Indiquer"
+NOIS,Organization,ORG,7823,7827,,"uatre coups du Peigne Merveilleux. — BRUN, BLOND, [NOIS]. Prix : 6 francs. (Envoy discret) Indiquer la nua"
+Envoy discret,Product,MISC,7847,7860,,"rveilleux. — BRUN, BLOND, NOIS. Prix : 6 francs. ([Envoy discret]) Indiquer la nuance. — Adresser timbres à CLAUDE,"
+rue Saint-Pantaleon,Location,LOC,7911,7930,,"Indiquer la nuance. — Adresser timbres à CLAUDE, [rue Saint-Pantaleon], 3, Toulousse PLUS DE HERNIE Pour contenir et gu"
+"Toulousse
+
+PLUS DE HERNIE",Product,MISC,7935,7960,,"dresser timbres à CLAUDE, rue Saint-Pantaleon, 3, [Toulousse PLUS DE HERNIE] Pour contenir et guérir la hernie sans être gêné,"
+M. REVERDY,Person,PER,8147,8157,,"mmode et plus efficace que les bandages. Ecrire à [M. REVERDY], au RAINCY (Seine-et-Oise). CYCLES METROPOLITAIN"
+RAINCY,Location,LOC,8162,8168,,"fficace que les bandages. Ecrire à M. REVERDY, au [RAINCY] (Seine-et-Oise). CYCLES METROPOLITAIN MAISON DE"
+Seine-et-Oise,Location,LOC,8170,8183,,"que les bandages. Ecrire à M. REVERDY, au RAINCY ([Seine-et-Oise]). CYCLES METROPOLITAIN MAISON DE CONFIANCE de Ve"
+CYCLES METROPOLITAIN,Product,MISC,8187,8207,,"Ecrire à M. REVERDY, au RAINCY (Seine-et-Oise). [CYCLES METROPOLITAIN] MAISON DE CONFIANCE de Vendeau à Crédit ou au Com"
+DE CONFIANCE,Person,PER,8215,8227,,NCY (Seine-et-Oise). CYCLES METROPOLITAIN MAISON [DE CONFIANCE] de Vendeau à Crédit ou au Comptant quel. BICYCLET
+Vendeau,Person,PER,8231,8238,,se). CYCLES METROPOLITAIN MAISON DE CONFIANCE de [Vendeau] à Crédit ou au Comptant quel. BICYCLETTES GARANTI
+Crédit,Organization,ORG,8241,8247,,ES METROPOLITAIN MAISON DE CONFIANCE de Vendeau à [Crédit] ou au Comptant quel. BICYCLETTES GARANTIES Catalo
+Comptant,Product,MISC,8254,8262,,AIN MAISON DE CONFIANCE de Vendeau à Crédit ou au [Comptant] quel. BICYCLETTES GARANTIES Catalogue franco J. G
+memb,Location,LOC,8341,8345,,"Catalogue franco J. GATTY anc. juge (paix, direct [memb]. fondat. memb. d'hor des Vétérans des Armées de T"
+fondat,Location,LOC,8347,8353,,"gue franco J. GATTY anc. juge (paix, direct memb. [fondat]. memb. d'hor des Vétérans des Armées de Terre et"
+memb,Location,LOC,8355,8359,,"co J. GATTY anc. juge (paix, direct memb. fondat. [memb]. d'hor des Vétérans des Armées de Terre et de Mer"
+hor des,Person,PER,8363,8370,,"TTY anc. juge (paix, direct memb. fondat. memb. d'[hor des] Vétérans des Armées de Terre et de Mer 1870-71. 4"
+Vétérans des Armées de Terre,Organization,ORG,8371,8399,,"juge (paix, direct memb. fondat. memb. d'hor des [Vétérans des Armées de Terre] et de Mer 1870-71. 49, Boul' Safat-Marcel, PARIS."
+Mer 1870-71,Location,LOC,8406,8417,,"emb. d'hor des Vétérans des Armées de Terre et de [Mer 1870-71]. 49, Boul' Safat-Marcel, PARIS. SPLENDIDE CADEAU"
+Boul,Location,LOC,8423,8427,,"térans des Armées de Terre et de Mer 1870-71. 49, [Boul]' Safat-Marcel, PARIS. SPLENDIDE CADEAU Magnifiqu"
+Safat-Marcel,Location,LOC,8429,8441,,"des Armées de Terre et de Mer 1870-71. 49, Boul' [Safat-Marcel], PARIS. SPLENDIDE CADEAU Magnifique Album de Car"
+PARIS,Organization,ORG,8443,8448,,"Terre et de Mer 1870-71. 49, Boul' Safat-Marcel, [PARIS]. SPLENDIDE CADEAU Magnifique Album de Cartes pos"
+Cartes postales,Product,MISC,8488,8503,,"cel, PARIS. SPLENDIDE CADEAU Magnifique Album de [Cartes postales], 60 place (4 à la page), dos maroquin 1er choix,"
+Titre or,Product,MISC,8606,8614,,"ts toil chagrinée à biseaux, reliure remarquable. [Titre or] intérieur papier extra fort, dimensions : 37 x 28"
+Prix 15 fr,Product,MISC,8666,8676,,"ntérieur papier extra fort, dimensions : 37 x 28. [Prix 15 fr]. En vente en province chez tous les dépositaires"
+Petit Journal,Product,MISC,8729,8742,,"n vente en province chez tous les dépositaires du [Petit Journal]; à Paris, à la Papeterie du Petit Journal, rue Ca"
+Paris,Location,LOC,8746,8751,,"ce chez tous les dépositaires du Petit Journal; à [Paris], à la Papeterie du Petit Journal, rue Cadet. Pour"
+Papeterie du Petit Journal,Location,LOC,8758,8784,,"les dépositaires du Petit Journal; à Paris, à la [Papeterie du Petit Journal], rue Cadet. Pour le recevoir franco à domicile, e"
+rue Cadet,Location,LOC,8786,8795,,"ournal; à Paris, à la Papeterie du Petit Journal, [rue Cadet]. Pour le recevoir franco à domicile, envoyer 15 f"
+"75
+
+CYCLES A. PINARD
+",Product,MISC,8848,8869,,"our le recevoir franco à domicile, envoyer 15 fr. [75 CYCLES A. PINARD ]TRÈS LONG CREDIT RIEN D'AVANCE OCCASIONS presque p"
+TRÈS,Location,LOC,8869,8873,,"o à domicile, envoyer 15 fr. 75 CYCLES A. PINARD [TRÈS] LONG CREDIT RIEN D'AVANCE OCCASIONS presque pour"
+CREDIT,Product,MISC,8879,8885,,"le, envoyer 15 fr. 75 CYCLES A. PINARD TRÈS LONG [CREDIT] RIEN D'AVANCE OCCASIONS presque pour rien CATALOG"
+CATALOGUE,Organization,ORG,8928,8937,,CREDIT RIEN D'AVANCE OCCASIONS presque pour rien [CATALOGUE] FRANCO On demande des Représentants partout Ecr.
+Représentants,Organization,ORG,8960,8973,,"presque pour rien CATALOGUE FRANCO On demande des [Représentants] partout Ecr. A. PINARD, ingénieur, 2, r. Saigon,"
+Ecr,Person,PER,8982,8985,,"LOGUE FRANCO On demande des Représentants partout [Ecr]. A. PINARD, ingénieur, 2, r. Saigon, Paris Tous"
+Saigon,Location,LOC,9015,9021,,"sentants partout Ecr. A. PINARD, ingénieur, 2, r. [Saigon], Paris Tous les jeunes gens de 15 ans et au-dess"
+Paris,Location,LOC,9023,9028,,"partout Ecr. A. PINARD, ingénieur, 2, r. Saigon, [Paris] Tous les jeunes gens de 15 ans et au-dessus auro"
+POMMADE,Product,MISC,9157,9164,,"s longues en 15 jours avec une seule boîte triple [POMMADE] EXOTIQUE de 5 fr. vendue grandeur de 10,000 lettr"
+BOHAIN,Organization,ORG,9303,9309,,"1 boîte d'essai 45 c. timbres. J. PIERRE chim., 1 [BOHAIN] (Aisne) CYCLES ROMAINS Liquidation générale de n"
+Aisne,Location,LOC,9311,9316,,"d'essai 45 c. timbres. J. PIERRE chim., 1 BOHAIN ([Aisne]) CYCLES ROMAINS Liquidation générale de nos nouv"
+"CYCLES ROMAINS
+Liquidation générale de nos nouveaux modèles",Product,MISC,9319,9378,,"45 c. timbres. J. PIERRE chim., 1 BOHAIN (Aisne) [CYCLES ROMAINS Liquidation générale de nos nouveaux modèles] 1903 à des prix inouis de bon marché. 1,000 machi"
+CYCLES ROMAINS 25,Product,MISC,9547,9564,,"etez plus avant d'avoir consulté le catalogue des [CYCLES ROMAINS 25], Avenue de la Grande-Armee, Paris LONG CREDIT Ac"
+Avenue de la Grande-Armee,Location,LOC,9566,9591,,"voir consulté le catalogue des CYCLES ROMAINS 25, [Avenue de la Grande-Armee], Paris LONG CREDIT Accordéons, Violons, Mandolin"
+Paris,Location,LOC,9593,9598,,"des CYCLES ROMAINS 25, Avenue de la Grande-Armee, [Paris] LONG CREDIT Accordéons, Violons, Mandolines, Gui"
+Violons,Organization,ORG,9624,9631,,"e la Grande-Armee, Paris LONG CREDIT Accordéons, [Violons], Mandolines, Guitares, Cornets à pistons, Clarine"
+Mandolines,Person,PER,9633,9643,,"de-Armee, Paris LONG CREDIT Accordéons, Violons, [Mandolines], Guitares, Cornets à pistons, Clarinettes, et tou"
+Guitares,Location,LOC,9645,9653,,"ris LONG CREDIT Accordéons, Violons, Mandolines, [Guitares], Cornets à pistons, Clarinettes, et tout autre in"
+Cornets,Location,LOC,9655,9662,,"CREDIT Accordéons, Violons, Mandolines, Guitares, [Cornets] à pistons, Clarinettes, et tout autre instrument."
+Clarinettes,Organization,ORG,9674,9685,,"Violons, Mandolines, Guitares, Cornets à pistons, [Clarinettes], et tout autre instrument. Catalogue illustré fra"
+M. LE GERANT DU COMPTOIR DE MUSIQUE,Person,PER,9741,9776,,"out autre instrument. Catalogue illustré franco à [M. LE GERANT DU COMPTOIR DE MUSIQUE], à PREYON (Aisne). MAUX DE JAMBES Ulcères — Déma"
+PREYON,Location,LOC,9780,9786,,"é franco à M. LE GERANT DU COMPTOIR DE MUSIQUE, à [PREYON] (Aisne). MAUX DE JAMBES Ulcères — Démangeaisons"
+Aisne,Location,LOC,9788,9793,,"à M. LE GERANT DU COMPTOIR DE MUSIQUE, à PREYON ([Aisne]). MAUX DE JAMBES Ulcères — Démangeaisons — Varic"
+MAUX,Product,MISC,9797,9801,,"GERANT DU COMPTOIR DE MUSIQUE, à PREYON (Aisne). [MAUX] DE JAMBES Ulcères — Démangeaisons — Varices Dartr"
+Démangeaisons,Person,PER,9822,9835,,"IQUE, à PREYON (Aisne). MAUX DE JAMBES Ulcères — [Démangeaisons] — Varices Dartres — Eczemas — Maladies de la PEAU"
+"Varices
+Dartres",Person,PER,9838,9853,,Aisne). MAUX DE JAMBES Ulcères — Démangeaisons — [Varices Dartres] — Eczemas — Maladies de la PEAU considérées comme
+Eczemas —,Person,PER,9856,9865,,AMBES Ulcères — Démangeaisons — Varices Dartres — [Eczemas —] Maladies de la PEAU considérées comme incurables
+SOULAGEMENT,Organization,ORG,9915,9926,,Maladies de la PEAU considérées comme incurables [SOULAGEMENT] IMMÉDIAT ET GUÉRISON par L'EAU PRÉCIEUSE DÉPENSIE
+IMMÉDIAT,Organization,ORG,9927,9935,,la PEAU considérées comme incurables SOULAGEMENT [IMMÉDIAT] ET GUÉRISON par L'EAU PRÉCIEUSE DÉPENSIER Dépôt G
+GUÉRISON,Location,LOC,9939,9947,,sidérées comme incurables SOULAGEMENT IMMÉDIAT ET [GUÉRISON] par L'EAU PRÉCIEUSE DÉPENSIER Dépôt Gai : Pharmac
+EAU,Location,LOC,9954,9957,,incurables SOULAGEMENT IMMÉDIAT ET GUÉRISON par L'[EAU] PRÉCIEUSE DÉPENSIER Dépôt Gai : Pharmacie DÉPENSI
+"PRÉCIEUSE DÉPENSIER
+",Person,PER,9958,9978,,"rables SOULAGEMENT IMMÉDIAT ET GUÉRISON par L'EAU [PRÉCIEUSE DÉPENSIER ]Dépôt Gai : Pharmacie DÉPENSIER, à Rouen. Envoi 1e"
+DÉPENSIER,Location,LOC,10000,10009,,"r L'EAU PRÉCIEUSE DÉPENSIER Dépôt Gai : Pharmacie [DÉPENSIER], à Rouen. Envoi 1er cte Mandat-poste 3e 50; à l'E"
+Rouen,Location,LOC,10013,10018,,"EUSE DÉPENSIER Dépôt Gai : Pharmacie DÉPENSIER, à [Rouen]. Envoi 1er cte Mandat-poste 3e 50; à l'Etranger 4"
+Etranger 4e 50,Product,MISC,10058,10072,,"R, à Rouen. Envoi 1er cte Mandat-poste 3e 50; à l'[Etranger 4e 50]. BELLE POITRINE en 2 mois Pilules Orientales PAR"
+POITRINE,Organization,ORG,10081,10089,,te Mandat-poste 3e 50; à l'Etranger 4e 50. BELLE [POITRINE] en 2 mois Pilules Orientales PAR LES Bienfaisante
+Pilules Orientales PAR LES Bienfaisantes,Product,MISC,10100,10140,,"50; à l'Etranger 4e 50. BELLE POITRINE en 2 mois [Pilules Orientales PAR LES Bienfaisantes] pour la Santé. Développement, Fermeté, Reconstitu"
+Fermeté,Organization,ORG,10171,10178,,"R LES Bienfaisantes pour la Santé. Développement, [Fermeté], Reconstitution des Seins. Résultat durable. Flac"
+Reconstitution des Seins,Product,MISC,10180,10204,,"nfaisantes pour la Santé. Développement, Fermeté, [Reconstitution des Seins]. Résultat durable. Flacon avec Notice 6e 35 franc"
+Flacon,Person,PER,10224,10230,,"meté, Reconstitution des Seins. Résultat durable. [Flacon] avec Notice 6e 35 franco. J. RATIE, ph., 5, Passa"
+Notice 6e 35 franco,Product,MISC,10236,10255,,"titution des Seins. Résultat durable. Flacon avec [Notice 6e 35 franco]. J. RATIE, ph., 5, Passage Verdeau, Paris (9e) L"
+J. RATIE,Person,PER,10257,10265,,"ésultat durable. Flacon avec Notice 6e 35 franco. [J. RATIE], ph., 5, Passage Verdeau, Paris (9e) LA MÉDECINE"
+Passage Verdeau,Location,LOC,10275,10290,,"lacon avec Notice 6e 35 franco. J. RATIE, ph., 5, [Passage Verdeau], Paris (9e) LA MÉDECINE NATURELLE Envoi de la br"
+Paris,Location,LOC,10292,10297,,"6e 35 franco. J. RATIE, ph., 5, Passage Verdeau, [Paris] (9e) LA MÉDECINE NATURELLE Envoi de la brochure"
+INSTITUT DYNAMOTHERAPIQUE de FRANCE,Product,MISC,10367,10402,,"ATURELLE Envoi de la brochure contre 75 centimes. [INSTITUT DYNAMOTHERAPIQUE de FRANCE], 61, r. Blanche, Paris LA VIRILITÉ RECONQUISE V"
+r. Blanche,Person,PER,10408,10418,,"entimes. INSTITUT DYNAMOTHERAPIQUE de FRANCE, 61, [r. Blanche], Paris LA VIRILITÉ RECONQUISE Venez à la Fontai"
+"Paris
+
+LA VIRILITÉ RECONQUISE",Product,MISC,10420,10449,,"TITUT DYNAMOTHERAPIQUE de FRANCE, 61, r. Blanche, [Paris LA VIRILITÉ RECONQUISE] Venez à la Fontaine de Jouvence! Désaltérez-vous"
+Fontaine de Jouvence,Person,PER,10462,10482,,"lanche, Paris LA VIRILITÉ RECONQUISE Venez à la [Fontaine de Jouvence]! Désaltérez-vous largement à l'onde vivifiante qu"
+Désaltérez,Person,PER,10484,10494,,LITÉ RECONQUISE Venez à la Fontaine de Jouvence! [Désaltérez]-vous largement à l'onde vivifiante que vous offre
+Nature,Product,MISC,10548,10554,,s largement à l'onde vivifiante que vous offre la [Nature] : « L'Électricité ». Le remède du vingtième siècl
+SPERMATORRHÉE,Product,MISC,10757,10770,,"de la jeunesse ou excès à l'âge mûr, tels que : [SPERMATORRHÉE], PERTES SÉMINALES, IMPUISSANCE MAUX de REINS, NER"
+PERTES,Product,MISC,10772,10778,,"ou excès à l'âge mûr, tels que : SPERMATORRHÉE, [PERTES] SÉMINALES, IMPUISSANCE MAUX de REINS, NERVOSITÉ,"
+SÉMINALES,Product,MISC,10779,10788,,"ès à l'âge mûr, tels que : SPERMATORRHÉE, PERTES [SÉMINALES], IMPUISSANCE MAUX de REINS, NERVOSITÉ, VARICOCÈLE"
+IMPUISSANCE,Organization,ORG,10790,10801,,"mûr, tels que : SPERMATORRHÉE, PERTES SÉMINALES, [IMPUISSANCE] MAUX de REINS, NERVOSITÉ, VARICOCÈLE, etc. Avez-"
+MAUX,Product,MISC,10802,10806,,"e : SPERMATORRHÉE, PERTES SÉMINALES, IMPUISSANCE [MAUX] de REINS, NERVOSITÉ, VARICOCÈLE, etc. Avez-vous"
+REINS,Product,MISC,10810,10815,,"RMATORRHÉE, PERTES SÉMINALES, IMPUISSANCE MAUX de [REINS], NERVOSITÉ, VARICOCÈLE, etc. Avez-vous entendu p"
+NERVOSITÉ,Location,LOC,10817,10826,,"HÉE, PERTES SÉMINALES, IMPUISSANCE MAUX de REINS, [NERVOSITÉ], VARICOCÈLE, etc. Avez-vous entendu parler de no"
+VARICOCÈLE,Location,LOC,10828,10838,,"SÉMINALES, IMPUISSANCE MAUX de REINS, NERVOSITÉ, [VARICOCÈLE], etc. Avez-vous entendu parler de notre étonnant"
+Avez-vous,Product,MISC,10846,10855,,"SANCE MAUX de REINS, NERVOSITÉ, VARICOCÈLE, etc. [Avez-vous] entendu parler de notre étonnante invention, la C"
+CEINTURE ÉLECTRIQUE,Product,MISC,10904,10923,,"s entendu parler de notre étonnante invention, la [CEINTURE ÉLECTRIQUE] ""HERCULEX"" du D' SANDEN, si en vogue en Amérique?"
+HERCULEX,Person,PER,10925,10933,,"otre étonnante invention, la CEINTURE ÉLECTRIQUE ""[HERCULEX]"" du D' SANDEN, si en vogue en Amérique? Succès de"
+SANDEN,Organization,ORG,10941,10947,,"nvention, la CEINTURE ÉLECTRIQUE ""HERCULEX"" du D' [SANDEN], si en vogue en Amérique? Succès de plus en plus"
+Amérique,Location,LOC,10964,10972,,"LECTRIQUE ""HERCULEX"" du D' SANDEN, si en vogue en [Amérique]? Succès de plus en plus grandissant en France. Ce"
+France,Location,LOC,11012,11018,,n Amérique? Succès de plus en plus grandissant en [France]. Cet appareil se porte confortablement autour de
+"FABRIQUE
+
+",Product,MISC,11275,11285,,commence dès la première application. MARQUE de [FABRIQUE ]LIVRE GRATUIT Ecrivez de suite pour recevoir gratu
+"GRATUIT
+",Product,MISC,11291,11299,,première application. MARQUE de FABRIQUE LIVRE [GRATUIT ]Ecrivez de suite pour recevoir gratuitement notre
+"L'""Herculex",Organization,ORG,11585,11596,,"rant. Pas de drogues qui affaiblissent l'estomac. [L'""Herculex]"" est employée par les personnes habitant la BELGI"
+BELGIQUE,Product,MISC,11641,11649,,"culex"" est employée par les personnes habitant la [BELGIQUE] pourront acheter les Ceintures Electricques et s'"
+Ceintures Electricques,Location,LOC,11671,11693,,rsonnes habitant la BELGIQUE pourront acheter les [Ceintures Electricques] et s'éviter de payer les droits de douane en se l
+BRUXELLES,Location,LOC,11758,11767,,"payer les droits de douane en se les procurant à [BRUXELLES], 89, Rue du Marché-aux-Herbes. Venir de suite ou"
+Rue du Marché-aux-Herbes,Location,LOC,11773,11797,,"ts de douane en se les procurant à BRUXELLES, 89, [Rue du Marché-aux-Herbes]. Venir de suite ou écrire : Dr R. SANDEN, ELECTR"
+Venir,Location,LOC,11800,11805,,"urant à BRUXELLES, 89, Rue du Marché-aux-Herbes. [Venir] de suite ou écrire : Dr R. SANDEN, ELECTRIC BELTS"
+Dr R. SANDEN,Person,PER,11827,11839,,"du Marché-aux-Herbes. Venir de suite ou écrire : [Dr R. SANDEN], ELECTRIC BELTS, 15, Rue de la Paix, PARIS. Tous"
+ELECTRIC BELTS,Person,PER,11841,11855,,"Herbes. Venir de suite ou écrire : Dr R. SANDEN, [ELECTRIC BELTS], 15, Rue de la Paix, PARIS. Tous les jours, de 9"
+Rue de la Paix,Location,LOC,11861,11875,,"ite ou écrire : Dr R. SANDEN, ELECTRIC BELTS, 15, [Rue de la Paix], PARIS. Tous les jours, de 9 h. à 6 h. Dimanches,"
+PARIS,Location,LOC,11877,11882,,"Dr R. SANDEN, ELECTRIC BELTS, 15, Rue de la Paix, [PARIS]. Tous les jours, de 9 h. à 6 h. Dimanches, de 9 h"
+Dépositaire,Product,MISC,11984,11995,,"à midi. J.-A. VINCENT, Photo de 1re classe, seul [Dépositaire]."

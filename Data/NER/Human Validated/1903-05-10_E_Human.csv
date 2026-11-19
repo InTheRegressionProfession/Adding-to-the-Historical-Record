@@ -1,0 +1,20 @@
+﻿entity,fine_type,coarse_type
+Lizeuil,pers.ind,Person
+Mme de Lizeuil,pers.ind,Person
+Mme de Saugères,pers.ind,Person
+Marguerite,pers.ind,Person
+M. de Saugères,pers.ind,Person
+commandant d'Arel,pers.ind,Person
+d'Arel,pers.ind,Person
+Jean REIBRACH,pers.ind.articleauthor,Person
+Mme Sérignac,pers.ind,Person
+"rue Gasnierguy, 5",loc.add.phys,Location
+"45, rue de Berlin, Paris",loc.add.phys,Location
+Paris,loc.adm.town,Location
+JOHN TAVERNIER,pers.ind,Person
+professeur Busch,pers.ind,Person
+Docteur H. MARCELINS,pers.ind.articleauthor,Person
+n° 10 de la rue des Bons-Enfants,loc.add.phys,Location
+Odon de Tréfoins,pers.ind,Person
+Normandie,loc.adm.reg,Location
+Odon,pers.ind,Person

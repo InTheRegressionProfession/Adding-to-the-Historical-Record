@@ -1,0 +1,58 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Jean,Person,Person,267,271,,"la jeune femme avait reculé, comme pris d'effroi. [Jean] se meurt!... se hâte de dire André sourdement. Il"
+André,Person,Person,301,306,,"pris d'effroi. Jean se meurt!... se hâte de dire [André] sourdement. Il veut vous voir... Cette fois, l'a"
+Claire,Person,Person,760,766,,"Déjà vous devriez avoir bondi hors de ce wagon... [Claire], votre cruauté envers moi, vos trahisons, j'oubli"
+PIERRE VERNOU,Person,Person,2599,2612,,habilitée par la minute exquisite de son retour. [PIERRE VERNOU]. Une Exposition capillaire Les journaux scienti
+professeur Busch,Person,Person,2732,2748,,e du monde entier ont relaté la découverte par le [professeur Busch] des curieuses propriétés que possède un alcaloïde
+jaborandi,Product,Product,2802,2811,,"curieuses propriétés que possède un alcaloïde du [jaborandi], le chlorhydrate de pilocarpine, d'engendrer de l"
+chlorhydrate de pilocarpine,Product,Product,2816,2843,,"priétés que possède un alcaloïde du jaborandi, le [chlorhydrate de pilocarpine], d'engendrer de la substance pilaire et de produi"
+Institut,Organization,Organization,3473,3481,,ore. C'est la loi. Ne vit-on pas des membres de l'[Institut] traiter de duperie les premières manifestations d
+Jenner,Person,Person,3560,3566,,"ères manifestations du phonographe, et l'illustre [Jenner] lui-même, qui découvrit la vaccine, n'est-il pas"
+vaccine,Product,Product,3594,3601,,", et l'illustre Jenner lui-même, qui découvrit la [vaccine], n'est-il pas encore discuté? C'est pour convain"
+Paris,Location,Location,3799,3804,,"rtir de ce jour, il ouvre dans son laboratoire de [Paris], 10, rue des Bons-Enfants, une Exposition publiqu"
+rue des Bons-Enfants,Location,Location,3810,3830,,"jour, il ouvre dans son laboratoire de Paris, 10, [rue des Bons-Enfants], une Exposition publique des milliers d'attestati"
+Absalon,Person,Person,4518,4525,,ou de retrouver rapidement une chevelure digne d'[Absalon]. Docteur RIOU-DELMET. SI VOUS TOUSSEZ ne prenez
+Docteur RIOU-DELMET,Person,Person,4528,4547,,rouver rapidement une chevelure digne d'Absalon. [Docteur RIOU-DELMET]. SI VOUS TOUSSEZ ne prenez que les tablettes COQ
+COQUELIGOTS,Product,Product,4594,4605,,"MET. SI VOUS TOUSSEZ ne prenez que les tablettes [COQUELIGOTS] marquées au nom de l'inventeur JOHN TAVERNIER, se"
+JOHN TAVERNIER,Person,Person,4637,4651,,"lettes COQUELIGOTS marquées au nom de l'inventeur [JOHN TAVERNIER], seules efficaces contre le rhume. MOTS POUR RIR"
+docteur Daudolat,Person,Person,5000,5016,,"? demandait une cuisinière à une autre. — Chez le [docteur Daudolat], un spirite. — Qu'est-ce que c'est que ça, un spi"
+M. Pasteur,Person,Person,5464,5474,,"E GUÉRIE sans opération et sans souffrance Quand [M. Pasteur] découvrit le vaccin de la rage, on ne voulut pas"
+M. Claverie,Person,Person,5642,5653,,"tre en doute sa bonne foi. Il en a été de même de [M. Claverie], de Paris. Il a inventé, pour contenir et guérir"
+Enson VAUTIER,Person,Person,6836,6849,,"cette œuvre humanitaire car je suis bien guéri. » [Enson VAUTIER], « (Cuisinier), Villa des Pins, à Lamotte-Beuvron"
+Villa des Pins,Location,Location,6866,6880,,"suis bien guéri. » Enson VAUTIER, « (Cuisinier), [Villa des Pins], à Lamotte-Beuvron (Loir-et-Cher). Après un semb"
+Lamotte-Beuvron (Loir-et-Cher),Location,Location,6884,6914,,"» Enson VAUTIER, « (Cuisinier), Villa des Pins, à [Lamotte-Beuvron (Loir-et-Cher)]. Après un semblable témoignage, nous sommes pers"
+M. Claverie,Person,Person,7329,7340,,"ment et sans frais à tous ceux qui le demandent à [M. Claverie], 234, Faubourg Saint-Martin, à Paris. Visite et a"
+"234, Faubourg Saint-Martin",Location,Location,7342,7368,,"frais à tous ceux qui le demandent à M. Claverie, [234, Faubourg Saint-Martin], à Paris. Visite et application tous les jours, m"
+Paris,Location,Location,7372,7377,,"dent à M. Claverie, 234, Faubourg Saint-Martin, à [Paris]. Visite et application tous les jours, même les d"
+M. Vincent,Person,Person,7997,8007,,"e d'un vœu. Écrire par lettre ou carte postale à [M. Vincent], 8, place Victor-Hugo, à Grenoble, qui répondra g"
+"8, place Victor-Hugo",Location,Location,8009,8029,,"Écrire par lettre ou carte postale à M. Vincent, [8, place Victor-Hugo], à Grenoble, qui répondra gratis et franco par co"
+Grenoble,Location,Location,8033,8041,,"rte postale à M. Vincent, 8, place Victor-Hugo, à [Grenoble], qui répondra gratis et franco par courrier, et e"
+Le rouleau perdu,Product,Product,8126,8142,,"courrier, et enverra les indications demandées. [Le rouleau perdu] La nuit tombait lentement comme aux beaux soirs"
+Monsieur Prud'homme,Person,Person,9001,9020,,"avé, ce doit être le pas d'une femme... Alors?... [Monsieur Prud'homme] qui, par hasard, prenait encore l'air à sa fenêtr"
+Jeanne Bertin,Person,Person,9297,9310,,"gaz, il reconnaît les traits doux et fatigués de [Jeanne Bertin], Jeanne la vertueuse et jolie couturière, la peti"
+M. Prud'homme,Person,Person,9375,9388,,"tueuse et jolie couturière, la petite orpheline. [M. Prud'homme] eut un soubresaut d'inquiétude, puis il se rappel"
+la jeune fille,Person,Person,9459,9473,,"inquiétude, puis il se rappela que la patronne de [la jeune fille] faisait, cette semaine-là, veiller ses ouvrières,"
+Jeanne,Person,Person,9724,9730,,ma sans bruit sa fenêtre et s'en fut se coucher. [Jeanne] marchait vite. Elle avait hâte de se retrouver en
+Monsieur Henri VIDAL,Person,Person,10383,10403,,"amina sa trouvaille. Elle lut une souscription : [Monsieur Henri VIDAL], Rédacteur en chef de l'Echo des Poètes (En ville"
+l'Echo des Poètes,Product,Product,10426,10443,,"ion : Monsieur Henri VIDAL, Rédacteur en chef de [l'Echo des Poètes] (En ville.) Ce devait être quelque manuscrit per"
+Loin du Monde,Product,Product,10618,10631,,bien ce qu'elle avait pensé. Le titre lui plut : [Loin du Monde] Quel pouvait être l'idéal de cet inconnu : loin
+Pierrot,Person,Person,12359,12366,,naît peut-être. La ville n'est pas si grande... « [Pierrot]! » C'est un pseudonyme... Pas de chance. Le pauvr
+miss Kinsley,Person,Person,12705,12717,,mme l'enveloppe du rouleau prince qui va épouser [miss Kinsley]. Pauvre homme! Il mourra sans savoir ce que c'est
+marquise,Person,Person,12883,12891,,ans l'avenir ne laissaient pas que d'inquiéter la [marquise] et de lui donner des idées noires. D'ailleurs ell
+Bertrand,Person,Person,13252,13260,,"elle, se joignait une instruction solide. Quant à [Bertrand], il avait fini par trouver un cheval à peu près m"
+Bordighera,Location,Location,13427,13437,,"la côte. Mais, le second dimanche de son séjour à [Bordighera], il fit une rencontre qui devait lui procurer des"
+LÉON DE TINSEAU,Person,Person,14284,14299,,ment la consolation sortie d'une bouche humaine! [LÉON DE TINSEAU]. (La suite au prochain numéro.) FEUILLETON DU S
+FEUILLETON DU SUPPLÉMENT ILLUSTRÉ du Petit Journal,Organization,Organization,14334,14384,,LÉON DE TINSEAU. (La suite au prochain numéro.) [FEUILLETON DU SUPPLÉMENT ILLUSTRÉ du Petit Journal] — 24 — FONTLUCE IX — Si je demandais à rester
+FONTLUCE,Location,Location,14394,14402,,"DU SUPPLÉMENT ILLUSTRÉ du Petit Journal — 24 — [FONTLUCE] IX — Si je demandais à rester, expliqua-t-il en"
+rue de Monceau,Location,Location,14587,14601,,"idées subversives. Revenue dans son hôtel de la [rue de Monceau] qu'elle tenait de son père, la marquise, en dépit"
+Nice,Location,Location,15182,15186,,"la vôtre. Aux premières gelées, nous parlons pour [Nice]. Mme de Fontluc, en parlant ainsi, faisait contr"
+Mme de Fontluc,Person,Person,15189,15203,,"e. Aux premières gelées, nous parlons pour Nice. [Mme de Fontluc], en parlant ainsi, faisait contre mauvaise fortun"
+faubourg Saint-Germain,Location,Location,16012,16034,,"peu trop que Mme de Fontluc était entrée dans le [faubourg Saint-Germain], comme elle était entrée dans l'église militante:"
+Flora Kinsley,Person,Person,16385,16398,,"s, la consola quand il fallut se mettre en route: [Flora Kinsley] et sa tante passaient régulièrement tous leurs hi"
+Nice,Location,Location,16455,16459,,tante passaient régulièrement tous leurs hivers à [Nice]. Une nouvelle chance s'offrait. Hélas! en mettan
+la promenade des Anglais,Location,Location,16523,16547,,"chance s'offrait. Hélas! en mettant le pied sur [la promenade des Anglais], Bertrand et sa mère furent salués par la grande"
+l'Américaine,Person,Person,16625,16637,,"salués par la grande nouvelle des fiançailles de [l'Américaine] avec un prince, Français d'origine sinon de princ"
+un prince,Person,Person,16643,16652,,"nde nouvelle des fiançailles de l'Américaine avec [un prince], Français d'origine sinon de principauté. — Oui,"
+Bordighera,Location,Location,17087,17097,,aire mes malles. J'ai une petite maison retenue à [Bordighera]; j'y couche demain et je compte bien que vous vie
+Paris,Location,Location,17711,17716,,", ma mère n'en pourra plus, et nous reviendrons à [Paris]. C'est presque la banlieue des Bretons. Ainsi, p"
+Dieu,Person,Person,18656,18660,,plus heureux des hommes! J'ai trouvé la femme que [Dieu] a faite exprès pour moi. Je l'adore: elle m'aime.

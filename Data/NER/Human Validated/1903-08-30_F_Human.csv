@@ -1,0 +1,47 @@
+﻿entity,fine_type,coarse_type
+Frère Anac'eto,pers.ind,Person
+Philarge,pers.ind,Person
+Satan,pers.ind,Person
+Candien,pers.ind,Person
+Pise,loc.adm.town,Location
+Alexandre V,pers.ind,Person
+Père Anac'eto,pers.ind,Person
+Georges RÉGNAL,pers.ind.articleauthor,Person
+Calino,pers.ind,Person
+Joseph Prudhomme,pers.ind,Person
+pont de la Concorde,loc.oro,Location
+L'AGRICULTURE MODERNE,prod.media,Product
+L'HÔTEL VILLACIOSA,loc.fac,Location
+Toscane,loc.adm.reg,Location
+Giulio Villaciosa,pers.ind,Person
+Galimberti,pers.ind,Person
+XIVe siècle,time.date.abs,Time
+Benvenuto-Cellini,pers.ind,Person
+Raphaël Sanzio,pers.ind,Person
+Titien,pers.ind,Person
+Pérugin,pers.ind,Person
+Beppo Galimberti,pers.ind,Person
+place Cavour,loc.oro,Location
+Pedro Valentini,pers.ind,Person
+Borgo,pers.ind,Person
+Raphaël Pischiari,pers.ind,Person
+Athos,pers.ind,Person
+Alexandre Dumas,pers.ind,Person
+signor Galimberti,pers.ind,Person
+Vierge,pers.ind,Person
+demoiselle Violletta Serrano,pers.ind,Person
+Navarin,loc.adm.town,Location
+Grèce,loc.adm.nat,Location
+Italie,loc.adm.nat,Location
+Attique,loc.adm.reg,Location
+demoiselle Serrano,pers.ind,Person
+Giulio,pers.ind,Person
+"Giulio, duc de Villaciosa",pers.ind,Person
+Madone,pers.ind,Person
+comte Bartholdi,pers.ind,Person
+Luigi Villaciosa,pers.ind,Person
+monsieur Galimberti,pers.ind,Person
+jeune Arcoli,pers.ind,Person
+Valparaiso,loc.adm.reg,Location
+Raphaël,pers.ind,Person
+Beppo,pers.ind,Person

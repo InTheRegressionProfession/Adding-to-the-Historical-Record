@@ -1,0 +1,25 @@
+﻿entity,fine_type,coarse_type
+CLAUDE,pers.ind,Person
+MADELEINE,pers.ind,Person
+Dubois,pers.ind,Person
+Vincennes,loc.adm.town,Location
+Albert DELVALLE,pers.ind.articleauthor,Person
+JOHN TAVERNIER,pers.ind,Person
+PARIS,loc.adm.town,Location
+monsieur On,pers.ind,Person
+Mimi Pinson,pers.ind,Person
+France,loc.adm.nat,Location
+Petit Journal,prod.media,Product
+Saturnien,pers.ind,Person
+Mme Saturnien,pers.ind,Person
+M. Aperasse,pers.ind,Person
+la Varenne,loc.adm.town,Location
+Juliette,pers.ind,Person
+docteur de Salolles,pers.ind,Person
+Marne,loc.adm.reg,Location
+M. de Salolles,pers.ind,Person
+ami Darblaiouse,pers.ind,Person
+P. APERASSE,pers.ind,Person
+docteur Bonenfant,pers.ind,Person
+rue du Colombier,loc.oro,Location
+ministère des Formalités,org.adm,Organization

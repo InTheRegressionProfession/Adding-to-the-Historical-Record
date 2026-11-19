@@ -1,0 +1,42 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Oberland,loc.adm.reg,Location,loc.adm.reg,87,95,,"attrapaient... Ils étaient tombés d'accord pour l'[Oberland]. Picot, qui savait un peu d'allemand, avait combi"
+Picot,pers.ind,Person,pers.ind,97,102,,"t... Ils étaient tombés d'accord pour l'Oberland. [Picot], qui savait un peu d'allemand, avait combiné les"
+Bâle,loc.adm.town,Location,loc.adm.town,332,336,,"vaient ne faire, à l'aller, qu'une courte halte à [Bâle], gagner tout de suite les lacs en passant par Ber"
+Berne,loc.adm.town,Location,loc.adm.town,383,388,,"âle, gagner tout de suite les lacs en passant par [Berne], Thun, Interlaken et revenir par Lucerne. Sur la"
+Thun,loc.adm.town,Location,loc.adm.town,390,394,,"gner tout de suite les lacs en passant par Berne, [Thun], Interlaken et revenir par Lucerne. Sur la recomm"
+Interlaken,loc.adm.town,Location,loc.adm.town,396,406,,"out de suite les lacs en passant par Berne, Thun, [Interlaken] et revenir par Lucerne. Sur la recommandation d'u"
+Lucerne,loc.adm.town,Location,loc.adm.town,422,429,,"assant par Berne, Thun, Interlaken et revenir par [Lucerne]. Sur la recommandation d'un ami, Bourret avait dr"
+Bourret,pers.ind,Person,pers.ind,463,470,,"enir par Lucerne. Sur la recommandation d'un ami, [Bourret] avait dressé la liste des hôtels à prix abordable"
+Dormeuil,pers.ind,Person,pers.ind,531,539,,"sé la liste des hôtels à prix abordables. Quant à [Dormeuil], il était prêt à aller où l'on voudrait, pourvu q"
+Troyes,loc.adm.town,Location,loc.adm.town,1657,1663,,"t de mal finir. Et, en effet, comme on arrivait à [Troyes], Picot, rouge de colère, se leva, roula sa casque"
+Paris,loc.adm.town,Location,loc.adm.town,2081,2086,,"ui souhaitèrent même ironiquement un bon retour à [Paris], se déclarant enchantés de poursuivre seuls le vo"
+Dormeuil,pers.ind,Person,pers.ind,2718,2726,,"continuons, n'est-ce pas ? interrogea timidement [Dormeuil]. Bourret crâna : — Comment donc !... Picot sera"
+Bourret,pers.ind,Person,pers.ind,2729,2736,,", n'est-ce pas ? interrogea timidement Dormeuil. [Bourret] crâna : — Comment donc !... Picot serait trop co"
+Picot,pers.ind,Person,pers.ind,2766,2771,,"t Dormeuil. Bourret crâna : — Comment donc !... [Picot] serait trop content !... Seulement, après le tour"
+Bâle,loc.adm.town,Location,loc.adm.town,2943,2947,,"!... Je ne lui parle plus !... Ils couchèrent à [Bâle] ; puis, le lendemain, livrés à leur propre initia"
+Troyes,loc.adm.town,Location,loc.adm.town,3923,3929,,"ses collègues, il avait cru prudent de coucher à [Troyes], afin de leur laisser prendre de l'avance et de n"
+Interlaken,loc.adm.town,Location,loc.adm.town,4614,4624,,"ûler plusieurs étapes et filèrent directement sur [Interlaken]. Là, au moins, ils seraient tranquilles ! Quel n"
+Paris,loc.adm.town,Location,loc.adm.town,5251,5256,,"ils reprirent le train, bien résolus à rentrer à [Paris]... Cependant, comme, en arrivant à Lucerne, ils"
+Lucerne,loc.adm.town,Location,loc.adm.town,5293,5300,,"ntrer à Paris... Cependant, comme, en arrivant à [Lucerne], ils avaient entendu, dans leur compartiment, des"
+Righi,loc.phys.geo,Location,loc.phys.geo,5389,5394,,"timent, des voyageurs parler avec enthousiasme du [Righi], Bourret insinua : — Dis donc, Dormeuil, mainten"
+Bourret,pers.ind,Person,pers.ind,5396,5403,,"des voyageurs parler avec enthousiasme du Righi, [Bourret] insinua : — Dis donc, Dormeuil, maintenant que n"
+Dormeuil,pers.ind,Person,pers.ind,5427,5435,,"ousiasme du Righi, Bourret insinua : — Dis donc, [Dormeuil], maintenant que nous avons pris sur Picot tant d'"
+Picot,pers.ind,Person,pers.ind,5472,5477,,"onc, Dormeuil, maintenant que nous avons pris sur [Picot] tant d'avance, si nous la faisons, l'ascension du"
+Picot,pers.ind,Person,pers.ind,7415,7420,,"it, en posant les cartes devant lui : — Coupe ! [Picot] s'exécuta. Alors, redevenus silencieux, ils rangè"
+Paul BONHOMME,pers.ind.articleauthor,Person,pers.ind.articleauthor,7825,7838,,t tout de même qu'il était temps de rentrer !... [Paul BONHOMME]. LA SEMAINE FANTAISISTE Soldats de plomb Les s
+LA SEMAINE FANTAISISTE,prod.media,Product,prod.media,7841,7863,,u'il était temps de rentrer !... Paul BONHOMME. [LA SEMAINE FANTAISISTE] Soldats de plomb Les soldats de plomb reviennen
+LES JOURNAUX,prod.media,Product,prod.media,7926,7938,,"plomb Les soldats de plomb reviennent à la mode ([LES JOURNAUX]). Quand, vers le jour du nouvel an, Elles saven"
+Sicambres,pers.coll,Person,pers.coll,9190,9199,,"éraux ! Ah ! les batailles de héros, Dignes des [Sicambres], Des grands empereurs et des rois, Qui se dérou"
+César,pers.ind,Person,pers.ind,9520,9525,,"! Quand tout est terminé, l'enfant, Ainsi qu'un [César] triomphant, Sent ses tempes moites. Cavaliers e"
+Claudin,pers.ind.articleauthor,Person,pers.ind.articleauthor,9828,9835,,"endant toute la nuit, fait Des rêves de gloire. [Claudin]. La Poupée (Conte du nouvel an) Céline, appren"
+Céline,pers.ind,Person,pers.ind,9871,9877,,"oire. Claudin. La Poupée (Conte du nouvel an) [Céline], apprentie chez Ploquin et Cie, couturiers, rue d"
+Ploquin et Cie,org.ent,Organization,org.ent,9894,9908,,"pée (Conte du nouvel an) Céline, apprentie chez [Ploquin et Cie], couturiers, rue de la Paix, ne connaissait du jo"
+rue de la Paix,loc.oro,Location,loc.oro,9922,9936,,"éline, apprentie chez Ploquin et Cie, couturiers, [rue de la Paix], ne connaissait du jour de l'An que l'extrême fat"
+Paris,loc.adm.town,Location,loc.adm.town,10213,10218,,"des pauvres. A travers ses courses dans l'immense [Paris], l'épaule arrachée par la lourde caisse aux initi"
+Virginie,pers.ind,Person,pers.ind,11165,11173,,"e, elle avait à essuyer les aigres réprimandes de [Virginie], une manutentionnaire en besicles qui lui reproch"
+Céline,pers.ind,Person,pers.ind,11289,11295,,"patrons ses trois francs par semaine. C'est que [Céline] n'avait jamais connu la gaieté des bazars, cette"
+rue Marcadet,loc.oro,Location,loc.oro,11630,11642,,son petit nez contre la vitre de l'épicier de la [rue Marcadet]. Il y avait là des choses merveilleuses : des sab
+DRANER,pers.ind.articleauthor,Person,pers.ind.articleauthor,13603,13609,,"ière fois. Mais le LES GAITÉS DE LA SEMAINE, par [DRANER] — Mon gendre ! vous n'êtes qu'un monstre ! Oser"
+Salmis Marocain-Congo,prod.media,Product,prod.media,13858,13879,,salmis ? — C'est même pour cela qu'on l'a nommé « [Salmis Marocain-Congo] ». Le Triomphe du boxeur. — Ce qui me touche et
+Marocain,loc.adm.nat,Location,loc.adm.nat,13865,13873,,? — C'est même pour cela qu'on l'a nommé « Salmis [Marocain]-Congo ». Le Triomphe du boxeur. — Ce qui me touc
+Congo,loc.adm.nat,Location,loc.adm.nat,13874,13879,,même pour cela qu'on l'a nommé « Salmis Marocain-[Congo] ». Le Triomphe du boxeur. — Ce qui me touche et

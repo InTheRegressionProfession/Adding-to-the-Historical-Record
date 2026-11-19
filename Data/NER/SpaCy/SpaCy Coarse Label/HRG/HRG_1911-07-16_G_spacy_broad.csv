@@ -1,0 +1,207 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Hé,Product,MISC,29,31,,"allez donc louer ailleurs... [Hé], n'oubliez pas de réclamer un engagement sur papi"
+San-sconnet,Person,PER,175,186,,des parties de campagne organisées par l'amusant [San-sconnet]. Raoul VERNEUIL. LE CODE POUR TOUS Servitudes.
+Raoul VERNEUIL,Person,PER,189,203,,e campagne organisées par l'amusant San-sconnet. [Raoul VERNEUIL]. LE CODE POUR TOUS Servitudes. — Jurisprudence
+"POUR TOUS
+
+Servitudes",Product,MISC,214,235,,l'amusant San-sconnet. Raoul VERNEUIL. LE CODE [POUR TOUS Servitudes]. — Jurisprudence Exercice des servitudes. — Une
+"Jurisprudence
+
+Exercice des servitudes",Product,MISC,239,277,,Raoul VERNEUIL. LE CODE POUR TOUS Servitudes. — [Jurisprudence Exercice des servitudes]. — Une servitude peut être exercée non seulement
+Trib,Organization,ORG,454,458,,els figurent le locataire et le sous-locataire. ([Trib]. civ. Périgueux. 22 nov. 1909.) Destination du p
+Périgueux,Location,LOC,465,474,,t le locataire et le sous-locataire. (Trib. civ. [Périgueux]. 22 nov. 1909.) Destination du père de famille.
+Destination du père de famille,Product,MISC,492,522,,ocataire. (Trib. civ. Périgueux. 22 nov. 1909.) [Destination du père de famille]. Conditions d'existence. Preuves suffisantes. — L
+Preuves,Location,LOC,548,555,,ation du père de famille. Conditions d'existence. [Preuves] suffisantes. — L'établissement d'une servitude pa
+Lyon,Location,LOC,1094,1098,,"euve par écrit qu'il n'est pas usuel d'établir. ([Lyon], 2e ch., 29 avril 1910.) Mitoyenneté de la clôtu"
+Mitoyenneté,Location,LOC,1125,1136,,"usuel d'établir. (Lyon, 2e ch., 29 avril 1910.) [Mitoyenneté] de la clôture. Présomption légale. — Une clôture"
+Présomption légale,Product,MISC,1152,1170,,"ch., 29 avril 1910.) Mitoyenneté de la clôture. [Présomption légale]. — Une clôture récemment établie ne peut être mi"
+Code civil,Product,MISC,1567,1577,,deux héritages n'est édicée par l'article 666 du [Code civil] que pour le cas où il n'est pas prouvé par qui et
+Douai,Location,LOC,1835,1840,,"frais est prouvée d'une manière incontestable. ([Douai], 2e ch., 27 janvier 1910.) Enclave. Passage. Pos"
+Bourg,Location,LOC,2352,2357,,"'enclave qui en avait été la cause originaires. ([Bourg], trib. civ. 15 nov. 1910.) Enclave. Chemin défec"
+trib,Location,LOC,2359,2363,,"e qui en avait été la cause originaires. (Bourg, [trib]. civ. 15 nov. 1910.) Enclave. Chemin défectueux."
+civ,Location,LOC,2365,2368,,"en avait été la cause originaires. (Bourg, trib. [civ]. 15 nov. 1910.) Enclave. Chemin défectueux. Chem"
+Chemin,Location,LOC,2395,2401,,"res. (Bourg, trib. civ. 15 nov. 1910.) Enclave. [Chemin] défectueux. Chemin d'exploitation. — Une propriét"
+Pontivy,Location,LOC,3129,3136,,"héritages qu'ils bordent ou qu'ils traversent. ([Pontivy], trib. civ., 3 mars 1909.) Vue droite. Prescript"
+trib,Location,LOC,3138,3142,,"s qu'ils bordent ou qu'ils traversent. (Pontivy, [trib]. civ., 3 mars 1909.) Vue droite. Prescription tr"
+civ,Location,LOC,3144,3147,,"ls bordent ou qu'ils traversent. (Pontivy, trib. [civ]., 3 mars 1909.) Vue droite. Prescription trenten"
+Montpellier,Location,LOC,3480,3491,,"constructions nouvelles, aux distances légales. ([Montpellier]. 9 août 1906.) Arbres. Chemins publics ou d'expl"
+")
+
+Arbres",Product,MISC,3505,3514,,aux distances légales. (Montpellier. 9 août 1906.[) Arbres]. Chemins publics ou d'exploitation. — L'article 6
+Code civil,Product,MISC,3570,3580,,"ins publics ou d'exploitation. — L'article 671 du [Code civil] qui fixe la distance de plantation des arbres, ne"
+Cass,Person,PER,3713,3717,,"ls soient publics ou simplement d'exploitation. ([Cass]. Reg., 12 avril 1910.) Echelage. Nature de ce dr"
+Reg,Person,PER,3719,3722,,"ent publics ou simplement d'exploitation. (Cass. [Reg]., 12 avril 1910.) Echelage. Nature de ce droit."
+Luhans,Location,LOC,4140,4146,,"échelage ne constitue qu'un droit de servitude. ([Luhans], trib. civ., 16 juillet 1909.) SAINT-YVES. LOGO"
+trib,Location,LOC,4148,4152,,"ne constitue qu'un droit de servitude. (Luhans, [trib]. civ., 16 juillet 1909.) SAINT-YVES. LOGOGRIPHE"
+civ,Location,LOC,4154,4157,,"nstitue qu'un droit de servitude. (Luhans, trib. [civ]., 16 juillet 1909.) SAINT-YVES. LOGOGRIPHE - D"
+SAINT-YVES,Location,LOC,4179,4189,,"rvitude. (Luhans, trib. civ., 16 juillet 1909.) [SAINT-YVES]. LOGOGRIPHE - D'une grève ou d'un litige Le com"
+"LOGOGRIPHE
+
+",Product,MISC,4192,4204,,"hans, trib. civ., 16 juillet 1909.) SAINT-YVES. [LOGOGRIPHE ]- D'une grève ou d'un litige Le commencement. — Pé"
+Pénitence,Product,MISC,4252,4261,,- D'une grève ou d'un litige Le commencement. — [Pénitence] que l'on s'inflige Volontairement. — Femme d'un p
+Volontairement,Product,MISC,4281,4295,,e Le commencement. — Pénitence que l'on s'inflige [Volontairement]. — Femme d'un pays d'Afrique. — Sorte d'aliment.
+Afrique,Location,LOC,4317,4324,,'on s'inflige Volontairement. — Femme d'un pays d'[Afrique]. — Sorte d'aliment. — Modeste instrument de musiq
+Thabor,Location,LOC,4437,4443,,cament. — Poète français. — Un village Au pied du [Thabor]. — Recueil. — Chacun accroît notre âge — Chef du
+Nestor,Person,PER,4499,4505,,cueil. — Chacun accroît notre âge — Chef du vieux [Nestor]. Un Allobroge. SOLUTION Mots en triangle (N° 1
+Allobroge,Location,LOC,4511,4520,,cun accroît notre âge — Chef du vieux Nestor. Un [Allobroge]. SOLUTION Mots en triangle (N° 1.077) P R A B
+"SOLUTION
+
+",Product,MISC,4523,4533,,notre âge — Chef du vieux Nestor. Un Allobroge. [SOLUTION ]Mots en triangle (N° 1.077) P R A B L O G N A N R
+P R A B,Location,LOC,4562,4569,,llobroge. SOLUTION Mots en triangle (N° 1.077) [P R A B] L O G N A N R A B E L A I S A B E L A R D L E L I
+"O G N A N
+R A B E",Organization,ORG,4572,4589,,SOLUTION Mots en triangle (N° 1.077) P R A B L [O G N A N R A B E] L A I S A B E L A R D L E L I U S O L A U S G A R
+"A R D
+L E L I U S
+O",Product,MISC,4606,4625,,077) P R A B L O G N A N R A B E L A I S A B E L [A R D L E L I U S O] L A U S G A R S N I D A S N. SOLUTIONS JUSTES L
+"A U S
+G A R S
+N I D
+A S
+N.
+
+SOLUTIONS",Product,MISC,4628,4665,,A N R A B E L A I S A B E L A R D L E L I U S O L [A U S G A R S N I D A S N. SOLUTIONS] JUSTES Logogriphe (N° 1.076) - E. Terrion. — Va
+Marc Assin,Person,PER,4724,4734,,Logogriphe (N° 1.076) - E. Terrion. — Va vite. — [Marc Assin]. — Léopold Gros. — M. Cholet. — C. Desserville. —
+Léopold Gros,Person,PER,4738,4750,,1.076) - E. Terrion. — Va vite. — Marc Assin. — [Léopold Gros]. — M. Cholet. — C. Desserville. — Chauquettes. —
+M. Cholet,Person,PER,4754,4763,,rrion. — Va vite. — Marc Assin. — Léopold Gros. — [M. Cholet]. — C. Desserville. — Chauquettes. — M. T. — F. Cr
+C. Desserville,Person,PER,4767,4781,,ite. — Marc Assin. — Léopold Gros. — M. Cholet. — [C. Desserville]. — Chauquettes. — M. T. — F. Crémont. — A. Godaux
+Chauquettes,Location,LOC,4785,4796,,— Léopold Gros. — M. Cholet. — C. Desserville. — [Chauquettes]. — M. T. — F. Crémont. — A. Godaux. — Fou-je-romp
+M. T. — F. Crémont,Person,PER,4800,4818,,. — M. Cholet. — C. Desserville. — Chauquettes. — [M. T. — F. Crémont]. — A. Godaux. — Fou-je-romps. — Kloklo. AMERICA
+A. Godaux,Person,PER,4822,4831,,sserville. — Chauquettes. — M. T. — F. Crémont. — [A. Godaux]. — Fou-je-romps. — Kloklo. AMERICA Fabrication
+Fou-je-romps,Product,MISC,4835,4847,,Chauquettes. — M. T. — F. Crémont. — A. Godaux. — [Fou-je-romps]. — Kloklo. AMERICA Fabrication de premier ordre
+Kloklo,Location,LOC,4851,4857,,. T. — F. Crémont. — A. Godaux. — Fou-je-romps. — [Kloklo]. AMERICA Fabrication de premier ordre absolumen
+"AMERICA
+
+Fabrication de premier ordre",Product,MISC,4860,4897,,Crémont. — A. Godaux. — Fou-je-romps. — Kloklo. [AMERICA Fabrication de premier ordre] absolument garantie. BICYCLETTE DE ROUTE Garanti
+BICYCLETTE,Product,MISC,4920,4930,,"abrication de premier ordre absolument garantie. [BICYCLETTE] DE ROUTE Garantie solide, légère et élégante. Sup"
+Garantie solide,Organization,ORG,4940,4955,,"r ordre absolument garantie. BICYCLETTE DE ROUTE [Garantie solide], légère et élégante. Superbe Machine spécialement"
+grand Tourisme,Location,LOC,5047,5061,,"ialement construite pour l'usage journalier et le [grand Tourisme]. PRIX NET : (Tous les renseignements techniques,"
+PRIX NET,Product,MISC,5064,5072,,"te pour l'usage journalier et le grand Tourisme. [PRIX NET] : (Tous les renseignements techniques, Dessins et"
+Dessins et,Product,MISC,5112,5122,,"PRIX NET : (Tous les renseignements techniques, [Dessins et] Descriptions sont envoyés GRATUITEMENT.) 196 FRA"
+Descriptions,Product,MISC,5123,5135,,": (Tous les renseignements techniques, Dessins et [Descriptions] sont envoyés GRATUITEMENT.) 196 FRANCS Payables"
+GRATUITEMENT,Product,MISC,5149,5161,,"techniques, Dessins et Descriptions sont envoyés [GRATUITEMENT].) 196 FRANCS Payables à raison de 7 fr. PAR MOIS"
+Payables,Product,MISC,5176,5184,,criptions sont envoyés GRATUITEMENT.) 196 FRANCS [Payables] à raison de 7 fr. PAR MOIS FOURNITURE IMMÉDIATE R
+"Emballage Gratis
+
+28 MOIS DE CREDIT
+
+Faculté",Product,MISC,5256,5300,,"MOIS FOURNITURE IMMÉDIATE RIEN A PAYER D'AVANCE [Emballage Gratis 28 MOIS DE CREDIT Faculté] de retour en cas de non-convenance ROUE LIBRE ""E"
+ROUE LIBRE,Person,PER,5337,5347,,"EDIT Faculté de retour en cas de non-convenance [ROUE LIBRE] ""EADIE"" VÉRITABLE à 2 rangées de billes. DEUX FRE"
+EADIE,Person,PER,5349,5354,,"é de retour en cas de non-convenance ROUE LIBRE ""[EADIE]"" VÉRITABLE à 2 rangées de billes. DEUX FREINS: 1"
+FREINS,Location,LOC,5394,5400,,"BRE ""EADIE"" VÉRITABLE à 2 rangées de billes. DEUX [FREINS]: 1 de sûreté sur roue avant; 1 sur jante arrière,"
+licence Bowden,Product,MISC,5451,5465,,"1 de sûreté sur roue avant; 1 sur jante arrière, [licence Bowden]. CHAÎNE SUPÉRIEURE, Acier spécial, au pas de 12-7"
+CHAÎNE SUPÉRIEURE,Person,PER,5467,5484,,"roue avant; 1 sur jante arrière, licence Bowden. [CHAÎNE SUPÉRIEURE], Acier spécial, au pas de 12-7. PNEUMATIQUES, Fab"
+Acier spécial,Product,MISC,5486,5499,,"jante arrière, licence Bowden. CHAÎNE SUPÉRIEURE, [Acier spécial], au pas de 12-7. PNEUMATIQUES, Fabrication ""HUTCH"
+PNEUMATIQUES,Product,MISC,5517,5529,,"CHAÎNE SUPÉRIEURE, Acier spécial, au pas de 12-7. [PNEUMATIQUES], Fabrication ""HUTCHINSON"" 1RE MARQUE NOTA. — Nos"
+"Fabrication ""HUTCHINSON"" 1RE MARQUE",Product,MISC,5531,5566,,"URE, Acier spécial, au pas de 12-7. PNEUMATIQUES, [Fabrication ""HUTCHINSON"" 1RE MARQUE] NOTA. — Nos machines sont livrées indifféremment"
+DESCRIPTION,Product,MISC,6011,6022,,"bicyclette, modèle pour dame, 14 francs en plus. [DESCRIPTION]. — Cadre et fourche en tubes d'acier étiré, sans"
+Guidon,Person,PER,6167,6173,,"ces de direction nickelées, en acier décolleté. — [Guidon] à serrage par expandeur. — Pédalier à réglage ind"
+Pédalier à réglage indesserrable,Product,MISC,6201,6233,,er décolleté. — Guidon à serrage par expandeur. — [Pédalier à réglage indesserrable] par bagues coniques et concentriques. — Manivelle
+Manivelles,Location,LOC,6274,6284,,sserrable par bagues coniques et concentriques. — [Manivelles] acier forgé à grande résistance. — Pédales à scie
+Pignon,Person,PER,6355,6361,,"résistance. — Pédales à scie avec entretoises. — [Pignon] acier laminé, modèle déposé, 52 dents, au pas de"
+Moyeux,Location,LOC,6419,6425,,"aminé, modèle déposé, 52 dents, au pas de 12-7. — [Moyeux] à cônes indérégables. — Jantes acier à bords nick"
+Jantes acier à bords nickelés,Product,MISC,6450,6479,,"au pas de 12-7. — Moyeux à cônes indérégables. — [Jantes acier à bords nickelés]. — Rayons tangents renforcés, marque ""Etoile"". —"
+Etoile,Location,LOC,6518,6524,,"ds nickelés. — Rayons tangents renforcés, marque ""[Etoile]"". — Roue libre Eadie véritable, à 2 rangées de bi"
+Roue libre Eadie,Person,PER,6529,6545,,". — Rayons tangents renforcés, marque ""Etoile"". — [Roue libre Eadie] véritable, à 2 rangées de billes. — Frein de sûre"
+Frein,Person,PER,6582,6587,,"e libre Eadie véritable, à 2 rangées de billes. — [Frein] de sûreté sur la roue avant. — Frein sur la jante"
+Frein,Person,PER,6619,6624,,"de billes. — Frein de sûreté sur la roue avant. — [Frein] sur la jante arrière, licence Bowden. — Chaîne ac"
+licence Bowden,Product,MISC,6647,6661,,"sur la roue avant. — Frein sur la jante arrière, [licence Bowden]. — Chaîne acier, supérieure, au pas de 12-7. — Ga"
+"Chaîne acier, supérieure",Location,LOC,6665,6689,,". — Frein sur la jante arrière, licence Bowden. — [Chaîne acier, supérieure], au pas de 12-7. — Garde-boue érablé poli et vern"
+Garde-boue érablé poli,Product,MISC,6709,6731,,"en. — Chaîne acier, supérieure, au pas de 12-7. — [Garde-boue érablé poli] et verni. — Selles, 4 spires à 4 fils nickelés. —"
+Selles,Location,LOC,6744,6750,,"pas de 12-7. — Garde-boue érablé poli et verni. — [Selles], 4 spires à 4 fils nickelés. — Sacochette garnie"
+Sacochette,Person,PER,6782,6792,,"et verni. — Selles, 4 spires à 4 fils nickelés. — [Sacochette] garnie de tous les accessoires. — Email noir très"
+DE SOUSCRIPTION,Person,PER,6938,6953,,"Poids en ordre de marche : 13 kilos. 43 BULLETIN [DE SOUSCRIPTION] Je soussigné, déclare acheter à la Maison GIRARD"
+Maison GIRARD & BOITTE,Location,LOC,6989,7011,,"E SOUSCRIPTION Je soussigné, déclare acheter à la [Maison GIRARD & BOITTE], à Paris, la Bicyclette AMERICA, comme détaillé c"
+Paris,Location,LOC,7015,7020,,"é, déclare acheter à la Maison GIRARD & BOITTE, à [Paris], la Bicyclette AMERICA, comme détaillé ci-dessus,"
+Bicyclette AMERICA,Location,LOC,7025,7043,,"acheter à la Maison GIRARD & BOITTE, à Paris, la [Bicyclette AMERICA], comme détaillé ci-dessus, aux conditions énoncée"
+Prénoms ...,Product,MISC,7269,7280,,"ncs, prix total. Fait à ... le ... 191 ... Nom et [Prénoms ...] Profession ou Qualité ... Domicile ... Départemen"
+Qualité ...,Product,MISC,7295,7306,,. le ... 191 ... Nom et Prénoms ... Profession ou [Qualité ...] Domicile ... Département ... Gare de chemin de fe
+Département,Location,LOC,7320,7331,,rénoms ... Profession ou Qualité ... Domicile ... [Département] ... Gare de chemin de fer ... Signature : ... Pri
+Gare de chemin de fer ... Signature :,Location,LOC,7336,7373,,ssion ou Qualité ... Domicile ... Département ... [Gare de chemin de fer ... Signature :] ... Prière de remplir le présent Bulletin et de l
+Bulletin,Location,LOC,7407,7415,,... Signature : ... Prière de remplir le présent [Bulletin] et de l'envoyer sous enveloppe à l'adresse de :
+Rue de l'Échiquier,Location,LOC,7485,7503,,"s enveloppe à l'adresse de : GIRARD & BOITTE 46, [Rue de l'Échiquier], 46, PARIS (Xe Arrt). GRATIS ET FRANCO ! Demande"
+PARIS,Location,LOC,7509,7514,,"de : GIRARD & BOITTE 46, Rue de l'Échiquier, 46, [PARIS] (Xe Arrt). GRATIS ET FRANCO ! Demandez, suivant"
+Xe Arrt,Location,LOC,7516,7523,,"IRARD & BOITTE 46, Rue de l'Échiquier, 46, PARIS ([Xe Arrt]). GRATIS ET FRANCO ! Demandez, suivant vos goûts"
+GRATIS,Product,MISC,7527,7533,,"TTE 46, Rue de l'Échiquier, 46, PARIS (Xe Arrt). [GRATIS] ET FRANCO ! Demandez, suivant vos goûts et vos dé"
+CATALOGUES ILLUSTRÉS,Product,MISC,7593,7613,,"! Demandez, suivant vos goûts et vos désirs, les [CATALOGUES ILLUSTRÉS] spéciaux pour chaque article: PHONOGRAPHE, APPARE"
+PHONOGRAPHE,Product,MISC,7644,7655,,"ATALOGUES ILLUSTRÉS spéciaux pour chaque article: [PHONOGRAPHE], APPAREILS PHOTOGRAPHIQUES, SERVICES DE TABLE, OR"
+APPAREILS PHOTOGRAPHIQUES,Person,PER,7657,7682,,"USTRÉS spéciaux pour chaque article: PHONOGRAPHE, [APPAREILS PHOTOGRAPHIQUES], SERVICES DE TABLE, ORFÈVRIERIE D'ARGENT, SUSPENS"
+SERVICES DE TABLE,Product,MISC,7684,7701,,"article: PHONOGRAPHE, APPAREILS PHOTOGRAPHIQUES, [SERVICES DE TABLE], ORFÈVRIERIE D'ARGENT, SUSPENSIONS, GARNITURES DE"
+ORFÈVRIERIE,Organization,ORG,7703,7714,,"HE, APPAREILS PHOTOGRAPHIQUES, SERVICES DE TABLE, [ORFÈVRIERIE] D'ARGENT, SUSPENSIONS, GARNITURES DE CHÉMINÉE, MO"
+SUSPENSIONS,Product,MISC,7725,7736,,"PHIQUES, SERVICES DE TABLE, ORFÈVRIERIE D'ARGENT, [SUSPENSIONS], GARNITURES DE CHÉMINÉE, MONTRES DE PRÉCISION, AR"
+GARNITURES,Person,PER,7738,7748,,"ICES DE TABLE, ORFÈVRIERIE D'ARGENT, SUSPENSIONS, [GARNITURES] DE CHÉMINÉE, MONTRES DE PRÉCISION, ARMES ET FUSIL"
+CHÉMINÉE,Person,PER,7752,7760,,"ORFÈVRIERIE D'ARGENT, SUSPENSIONS, GARNITURES DE [CHÉMINÉE], MONTRES DE PRÉCISION, ARMES ET FUSILS DE CHASSE,"
+MONTRES DE PRÉCISION,Person,PER,7762,7782,,"IE D'ARGENT, SUSPENSIONS, GARNITURES DE CHÉMINÉE, [MONTRES DE PRÉCISION], ARMES ET FUSILS DE CHASSE, INSTRUMENTS DE MUSIQU"
+ARMES,Product,MISC,7784,7789,,"NS, GARNITURES DE CHÉMINÉE, MONTRES DE PRÉCISION, [ARMES] ET FUSILS DE CHASSE, INSTRUMENTS DE MUSIQUE, JUME"
+FUSILS DE CHASSE,Person,PER,7793,7809,,"TURES DE CHÉMINÉE, MONTRES DE PRÉCISION, ARMES ET [FUSILS DE CHASSE], INSTRUMENTS DE MUSIQUE, JUMELLES, ARTICLES DE VO"
+INSTRUMENTS,Organization,ORG,7811,7822,,"MONTRES DE PRÉCISION, ARMES ET FUSILS DE CHASSE, [INSTRUMENTS] DE MUSIQUE, JUMELLES, ARTICLES DE VOYAGE, FOURRUR"
+JUMELLES,Product,MISC,7835,7843,,"RMES ET FUSILS DE CHASSE, INSTRUMENTS DE MUSIQUE, [JUMELLES], ARTICLES DE VOYAGE, FOURRURES, MACHINES A COUDRE"
+ARTICLES DE VOYAGE,Product,MISC,7845,7863,,"SILS DE CHASSE, INSTRUMENTS DE MUSIQUE, JUMELLES, [ARTICLES DE VOYAGE], FOURRURES, MACHINES A COUDRE, etc., etc. A tout"
+MACHINES A COUDRE,Product,MISC,7876,7893,,"MUSIQUE, JUMELLES, ARTICLES DE VOYAGE, FOURRURES, [MACHINES A COUDRE], etc., etc. A tout le monde: UN A DEUX ANS DE CRE"
+A,Location,LOC,7906,7907,,"VOYAGE, FOURRURES, MACHINES A COUDRE, etc., etc. [A] tout le monde: UN A DEUX ANS DE CREDIT. Plaies V"
+UN A DEUX ANS DE CREDIT,Product,MISC,7923,7946,,"S, MACHINES A COUDRE, etc., etc. A tout le monde: [UN A DEUX ANS DE CREDIT]. Plaies Variqueuses Maladies de la peau, eczéma"
+"Plaies Variqueuses
+
+Maladies",Organization,ORG,7949,7977,,", etc. A tout le monde: UN A DEUX ANS DE CREDIT. [Plaies Variqueuses Maladies] de la peau, eczéma, acné, boutons, démangeaisons,"
+Traitement Végétal du Dr Wolf,Product,MISC,8119,8148,,"éris rapidement et infailliblement par le nouveau [Traitement Végétal du Dr Wolf]. Ecrire à M. Passerieux, pharmacien-spécialiste,"
+M. Passerieux,Person,PER,8159,8172,,"e nouveau Traitement Végétal du Dr Wolf. Ecrire à [M. Passerieux], pharmacien-spécialiste, 46, rue des Faures, à Bo"
+Faures,Person,PER,8210,8216,,". Passerieux, pharmacien-spécialiste, 46, rue des [Faures], à Bordeaux, qui envoie gratuitement tous conseil"
+Bordeaux,Location,LOC,8220,8228,,"ux, pharmacien-spécialiste, 46, rue des Faures, à [Bordeaux], qui envoie gratuitement tous conseils et renseig"
+Paris,Location,LOC,8322,8327,,"enseignements sur cette belle découverte. Dépôt à [Paris] : Pharmacie Girard, 21, rue Lafayette. VALSE Gar"
+Girard,Person,PER,8340,8346,,"cette belle découverte. Dépôt à Paris : Pharmacie [Girard], 21, rue Lafayette. VALSE Gardez adres, et qd v."
+rue Lafayette,Location,LOC,8352,8365,,"découverte. Dépôt à Paris : Pharmacie Girard, 21, [rue Lafayette]. VALSE Gardez adres, et qd v. vendrez app. SEUL,"
+qd v. vendrez app,Product,MISC,8391,8408,,"irard, 21, rue Lafayette. VALSE Gardez adres, et [qd v. vendrez app]. SEUL, à bien VALSER, p 11.20, ou p tou danses li"
+VALSER,Product,MISC,8423,8429,,"Gardez adres, et qd v. vendrez app. SEUL, à bien [VALSER], p 11.20, ou p tou danses liv. 125 pag. 1 f.60, P"
+125 pag,Location,LOC,8461,8468,,"EUL, à bien VALSER, p 11.20, ou p tou danses liv. [125 pag]. 1 f.60, Prof. LAGUS, Palais d'Hiver. Pau (B.-P.)"
+Prof,Product,MISC,8478,8482,,"R, p 11.20, ou p tou danses liv. 125 pag. 1 f.60, [Prof]. LAGUS, Palais d'Hiver. Pau (B.-P.) ACHETEZ LA M"
+Palais d'Hiver,Location,LOC,8491,8505,,"u p tou danses liv. 125 pag. 1 f.60, Prof. LAGUS, [Palais d'Hiver]. Pau (B.-P.) ACHETEZ LA MONTRE précise et garant"
+Pau,Location,LOC,8507,8510,,"iv. 125 pag. 1 f.60, Prof. LAGUS, Palais d'Hiver. [Pau] (B.-P.) ACHETEZ LA MONTRE précise et garantie le"
+B.-P.,Organization,ORG,8512,8517,,"25 pag. 1 f.60, Prof. LAGUS, Palais d'Hiver. Pau ([B.-P.]) ACHETEZ LA MONTRE précise et garantie le BIJOU"
+ACHETEZ,Organization,ORG,8520,8527,,"1 f.60, Prof. LAGUS, Palais d'Hiver. Pau (B.-P.) [ACHETEZ] LA MONTRE précise et garantie le BIJOU élégant et"
+MONTRE,Product,MISC,8531,8537,,"f. LAGUS, Palais d'Hiver. Pau (B.-P.) ACHETEZ LA [MONTRE] précise et garantie le BIJOU élégant et solide l'"
+BIJOU,Location,LOC,8561,8566,,(B.-P.) ACHETEZ LA MONTRE précise et garantie le [BIJOU] élégant et solide l'inusable ORFÈVRIERIE chez TRI
+ORFÈVRIERIE,Organization,ORG,8596,8607,,"et garantie le BIJOU élégant et solide l'inusable [ORFÈVRIERIE] chez TRIBAUDEAU Fab à BESANÇON 58 Récompenses, Co"
+TRIBAUDEAU Fab,Organization,ORG,8613,8627,,"JOU élégant et solide l'inusable ORFÈVRIERIE chez [TRIBAUDEAU Fab] à BESANÇON 58 Récompenses, Concours des Chronomèt"
+Récompenses,Product,MISC,8642,8653,,"ble ORFÈVRIERIE chez TRIBAUDEAU Fab à BESANÇON 58 [Récompenses], Concours des Chronomètres à l'Observatoire, deux"
+Concours des Chronomètres,Product,MISC,8655,8680,,"IE chez TRIBAUDEAU Fab à BESANÇON 58 Récompenses, [Concours des Chronomètres] à l'Observatoire, deux fois prix, 11 Médailles d'"
+Observatoire,Location,LOC,8685,8697,,"ÇON 58 Récompenses, Concours des Chronomètres à l'[Observatoire], deux fois prix, 11 Médailles d'Or, etc. Prime à"
+Médailles d'Or,Product,MISC,8718,8732,,"Chronomètres à l'Observatoire, deux fois prix, 11 [Médailles d'Or], etc. Prime à tout achat. FRANCO TARIF ILLUSTRÉ"
+Prime,Organization,ORG,8739,8744,,"rvatoire, deux fois prix, 11 Médailles d'Or, etc. [Prime] à tout achat. FRANCO TARIF ILLUSTRÉ PLUS D'IMBER"
+"ILLUSTRÉ
+
+PLUS D'IMBERBES",Organization,ORG,8772,8797,,"illes d'Or, etc. Prime à tout achat. FRANCO TARIF [ILLUSTRÉ PLUS D'IMBERBES]! PLUS DE CHAUVES! L'Extrait Capillaire Végétal fa"
+CHAUVES,Location,LOC,8807,8814,,. FRANCO TARIF ILLUSTRÉ PLUS D'IMBERBES! PLUS DE [CHAUVES]! L'Extrait Capillaire Végétal fait pousser la bar
+L'Extrait Capillaire,Product,MISC,8816,8836,,TARIF ILLUSTRÉ PLUS D'IMBERBES! PLUS DE CHAUVES! [L'Extrait Capillaire] Végétal fait pousser la barbe et les moustaches m
+Attestations,Product,MISC,8983,8995,,"veux, cils et sourcils. — Succès assuré. — 80.000 [Attestations]. Grand flac. 3 fr. Flac. à 1 fr. 75. F. essai 0 f"
+Flac,Location,LOC,9015,9019,,"assuré. — 80.000 Attestations. Grand flac. 3 fr. [Flac]. à 1 fr. 75. F. essai 0 fr. 75, franco. tim. en m"
+fr,Location,LOC,9025,9027,,"80.000 Attestations. Grand flac. 3 fr. Flac. à 1 [fr]. 75. F. essai 0 fr. 75, franco. tim. en mand. Léo"
+75,Location,LOC,9029,9031,,"000 Attestations. Grand flac. 3 fr. Flac. à 1 fr. [75]. F. essai 0 fr. 75, franco. tim. en mand. Léopold"
+75,Location,LOC,9048,9050,,"rand flac. 3 fr. Flac. à 1 fr. 75. F. essai 0 fr. [75], franco. tim. en mand. Léopold POUJADE, Chimiste,"
+franco.,Person,PER,9052,9059,,"flac. 3 fr. Flac. à 1 fr. 75. F. essai 0 fr. 75, [franco.] tim. en mand. Léopold POUJADE, Chimiste, à FIGEAC"
+tim,Organization,ORG,9060,9063,,"fr. Flac. à 1 fr. 75. F. essai 0 fr. 75, franco. [tim]. en mand. Léopold POUJADE, Chimiste, à FIGEAC (Lo"
+Léopold,Person,PER,9074,9081,,"fr. 75. F. essai 0 fr. 75, franco. tim. en mand. [Léopold] POUJADE, Chimiste, à FIGEAC (Lot). LA PHOTOGRAPH"
+Chimiste,Person,PER,9091,9099,,"0 fr. 75, franco. tim. en mand. Léopold POUJADE, [Chimiste], à FIGEAC (Lot). LA PHOTOGRAPHIE du Petit Journa"
+FIGEAC,Product,MISC,9103,9109,,"ranco. tim. en mand. Léopold POUJADE, Chimiste, à [FIGEAC] (Lot). LA PHOTOGRAPHIE du Petit Journal G. LIÉBE"
+Lot,Location,LOC,9111,9114,,"im. en mand. Léopold POUJADE, Chimiste, à FIGEAC ([Lot]). LA PHOTOGRAPHIE du Petit Journal G. LIÉBERT, d"
+PHOTOGRAPHIE du Petit Journal G.,Product,MISC,9121,9153,,"d. Léopold POUJADE, Chimiste, à FIGEAC (Lot). LA [PHOTOGRAPHIE du Petit Journal G.] LIÉBERT, directeur HOTEL DU « PETIT JOURNAL » 61,"
+HOTEL DU « PETIT JOURNAL,Organization,ORG,9173,9197,,"OTOGRAPHIE du Petit Journal G. LIÉBERT, directeur [HOTEL DU « PETIT JOURNAL] » 61, Rue Lafayette, 61 Ouvert tous les jours de"
+Rue Lafayette,Location,LOC,9204,9217,,"LIÉBERT, directeur HOTEL DU « PETIT JOURNAL » 61, [Rue Lafayette], 61 Ouvert tous les jours de 9 h. du matin à 6 h."
+h. du soir,Product,MISC,9265,9275,,"te, 61 Ouvert tous les jours de 9 h. du matin à 6 [h. du soir], dimanches et fêtes compris. PORTRAITS DIRECTS la"
+DIRECTS,Organization,ORG,9315,9322,,"h. du soir, dimanches et fêtes compris. PORTRAITS [DIRECTS] la douce MIGNONNETTES (4. poses) 5 fr. CARTES DE"
+CARTES DE VISITE,Product,MISC,9362,9378,,TS DIRECTS la douce MIGNONNETTES (4. poses) 5 fr. [CARTES DE VISITE] agrandissement - prime 8 fr. Avec 26x32 c/m 12 fr
+ALBUMS 15 fr,Product,MISC,9485,9497,,agrandissement - prime 32x42 c/m 14 fr. PORTRAITS-[ALBUMS 15 fr]. Avec agrandissement - prime 26x32 c/m 18 fr. Ave
+c/m 18 fr,Product,MISC,9533,9542,,S-ALBUMS 15 fr. Avec agrandissement - prime 26x32 [c/m 18 fr]. Avec agrandissement-prime 32x42 c/m 20 fr. AGRA
+AGRANDISSEMENTS,Organization,ORG,9588,9603,,8 fr. Avec agrandissement-prime 32x42 c/m 20 fr. [AGRANDISSEMENTS] : 32x42 c/m (demi-nature) 1o D'après clichés fait
+LIRE LE PETIT,Product,MISC,9913,9926,,"électrique. Envoi du tarif complet sur demande. [LIRE LE PETIT] JOURNAL AGRICOLE CYCLES MERICANT 13, Av. des Mou"
+"AGRICOLE
+
+CYCLES MERICANT",Product,MISC,9935,9960,,"tarif complet sur demande. LIRE LE PETIT JOURNAL [AGRICOLE CYCLES MERICANT] 13, Av. des Moulineaux, PARIS-BILLANCOURT Catalog"
+Av,Location,LOC,9965,9967,,"RE LE PETIT JOURNAL AGRICOLE CYCLES MERICANT 13, [Av]. des Moulineaux, PARIS-BILLANCOURT Catalogue fran"
+Moulineaux,Location,LOC,9973,9983,,"TIT JOURNAL AGRICOLE CYCLES MERICANT 13, Av. des [Moulineaux], PARIS-BILLANCOURT Catalogue franco. PRIX de GROS"
+"Intermédiaires
+
+Le",Product,MISC,10038,10056,,IS-BILLANCOURT Catalogue franco. PRIX de GROS aux [Intermédiaires Le] Gérant : G. LASSEUR IMPRIMERIE DU Petit Journal (
+C. MARTY,Person,PER,10106,10114,,"Gérant : G. LASSEUR IMPRIMERIE DU Petit Journal ([C. MARTY], imp.) Imprimé sur la Machine rotative chromo-typ"
+imp,Organization,ORG,10116,10119,,"G. LASSEUR IMPRIMERIE DU Petit Journal (C. MARTY, [imp].) Imprimé sur la Machine rotative chromo-typo de"
+Imprimé sur la Machine rotative,Product,MISC,10122,10153,,"SEUR IMPRIMERIE DU Petit Journal (C. MARTY, imp.) [Imprimé sur la Machine rotative] chromo-typo de MARINONI (Encre LORILLEUX)"
+MARINONI,Location,LOC,10169,10177,,.) Imprimé sur la Machine rotative chromo-typo de [MARINONI] (Encre LORILLEUX)
+Encre,Location,LOC,10179,10184,,sur la Machine rotative chromo-typo de MARINONI ([Encre] LORILLEUX)

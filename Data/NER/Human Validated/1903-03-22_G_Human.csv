@@ -1,0 +1,60 @@
+﻿entity,fine_type,coarse_type
+BRIATTE-PIÉRIN,pers.ind,Person
+PRÉMONT,loc.adm.town,Location
+Aisne,loc.adm.reg,Location
+Maître Populaire,org.ent,Organization
+"13-2, r. Montholon, Paris",loc.add.phys,Location
+Paris,loc.adm.town,Location
+G. BARY,pers.ind,Person
+1903  ,time.date.abs,Time
+"139, Faubourg St-Denis, Paris",loc.add.phys,Location
+BESANÇON,loc.adm.town,Location
+H. SARDA,org.ent,Organization
+"BESANÇON (Doubs), 33, Quai Veil-Picard",loc.add.phys,Location
+M. LE DIRECTEUR,pers.ind,Person
+"6, rue Marbeuf, Paris",loc.add.phys,Location
+TRIBAUDEAU,org.ent,Organization
+G. TRIBAUDEAU,org.ent,Organization
+LE ROCHER,org.ent,Organization
+"285 bis, faubg Saint-Antoine (X1), PARIS",loc.add.phys,Location
+"23, rue St-Sabin, Paris",loc.add.phys,Location
+"B1 Filles-du-Calvaire, 20, Paris.",loc.add.phys,Location
+G. Rigolet,org.ent,Organization
+NEW YORK INSTITUTE OF SCIENCE,org.ent,Organization
+ROCHESTER,loc.adm.town,Location
+REV. PAUL WELLER,pers.ind,Person
+Gorham,loc.adm.town,Location
+N. Y. ,loc.adm.reg,Location
+"90, rue des Boulets, Paris",loc.add.phys,Location
+"rue Saint-Pauléon, 3, Toulouse",loc.add.phys,Location
+FOUJAUE,pers.ind,Person
+"32, r. Boursault, Paris",loc.add.phys,Location
+M. REVERDY,pers.ind,Person
+RAINCY,loc.adm.town,Location
+Seine-et-Oise,loc.adm.reg,Location
+J. GATTY,pers.ind,Person
+Vétérans des Armées de Terre et de Mer 1870-71  ,org.ent,Organization
+"49, Boul e Saint-Marcel, PARIS",loc.add.phys,Location
+Petit Journal,prod.media,Product
+la Papeterie du Petit Journal,loc.fac,Location
+rue Cadet,loc.oro,Location
+A. PINARD,pers.ind,Person
+"2, r. Saïgon, Paris",loc.add.phys,Location
+J. FIEGHE,pers.ind,Person
+BOUAIN,loc.adm.town,Location
+CYCLES ROMAINS,org.ent,Organization
+"25, Avenue de la Grande-Armée, Paris",loc.add.phys,Location
+M. LE GERANT,pers.ind,Person
+Rouen,loc.adm.town,Location
+J. RATIE,pers.ind,Person
+"5, Passage Verdeau, Paris 9e",loc.add.phys,Location
+INSTITUT DYNAMOTHÉRAPIQUE de FRANCE,org.ent,Organization
+"61, r. Blanche, Paris",loc.add.phys,Location
+Dr R. SANDEN,pers.ind,Person
+D'SANDEN,pers.ind,Person
+BELGIQUE,loc.adm.nat,Location
+"BRUXELLES, 89, Rue du Marché-aux-Herbes",loc.add.phys,Location
+"15, Rue de la Paix, PARIS",loc.add.phys,Location
+Dr.  A. FOURNIER,pers.ind,Person
+Faculté de Paris,org.ent,Organization
+J.-A. VINCENT,pers.ind,Person

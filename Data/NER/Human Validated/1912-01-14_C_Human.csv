@@ -1,0 +1,15 @@
+﻿entity,fine_type,coarse_type
+M. Bernard,pers.ind,Person
+monsieur Bernard,pers.ind,Person
+monsieur le maire,pers.ind,Person
+Galilée,pers.ind,Person
+Octave MIRBEAU,pers.ind.articleauthor,Person
+M. Vincent,pers.ind,Person
+"8, place Victor-Hugo",loc.add.phys,Location
+Grenoble,loc.adm.town,Location
+Maurice,pers.ind,Person
+Fabienne,pers.ind,Person
+Fabienne,pers.ind,Person
+Maurice,pers.ind,Person
+DRANER,pers.ind.articleauthor,Person
+Saint-Charlemagne,pers.ind,Person

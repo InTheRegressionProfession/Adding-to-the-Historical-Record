@@ -1,0 +1,109 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Paul Moirans,Person,Person,5,17,,"Mais [Paul Moirans] n'oubliait pas, lui ! Dès le jour où sa mère lui"
+M. Moirans,Person,Person,231,241,,"ible financier avait été vraiment le meurtrier de [M. Moirans]. Il ne vécu plus que pour réaliser ce projet, et"
+Paul Tombelle,Person,Person,834,847,,"mmission comme employé de commerce sous le nom de [Paul Tombelle], — c'était celui de sa mère alors qu'elle était j"
+baron du Senay,Person,Person,1001,1015,,comme aide-comptable dans la maison de banque du [baron du Senay]. L'aventurier ne se doutait pas qu'il avait enga
+le baron,Person,Person,2475,2483,,"mais n'y toucha pas. Et devant tant d'honnêteté, [le baron] qui évidemment ne se doutait en rien des sinistre"
+Paul Tombelle,Person,Person,2700,2713,,"it des gens honnêtes... Depuis que j'ai rencontré [Paul Tombelle], j'ai doublé ma fortune. En effet, le fondé de p"
+le baron du Senay,Person,Person,2862,2879,,"excellents conseils au banquier, et, grâce à eux, [le baron du Senay] avait vu ses trésors s'amplifier, se développer.."
+Nice,Location,Location,3082,3086,,"Paul Tombelle qu'il allait passer deux semaines à [Nice]... — Je n'emporte que dix mille francs avec moi,"
+Paul Tombelle,Person,Person,4178,4191,,tez-moi sans m'interrompre... Je ne m'appelle pas [Paul Tombelle]... Paul Moirans est mon vrai nom... Vous ne vous
+Paul Moirans,Person,Person,4195,4207,,terrompre... Je ne m'appelle pas Paul Tombelle... [Paul Moirans] est mon vrai nom... Vous ne vous souvenez pas ?..
+Moirans,Person,Person,4200,4207,,mpre... Je ne m'appelle pas Paul Tombelle... Paul [Moirans] est mon vrai nom... Vous ne vous souvenez pas ?..
+Dusenay,Person,Person,4801,4808,,. Je suis un honnête homme... Je ne m'appelle pas [Dusenay]... en un seul mot... ce que j'ai fait de votre ar
+baron,Person,Person,5482,5487,,nts... Mille kilomètres nous séparent... Mon cher [baron]... Hein ?... Quoi ?... Allo !... Allo !... Vous n
+Alin MONJARDIN,Person,Person,6148,6162,,. Le fils du suicidé était vengé et bien vengé. [Alin MONJARDIN]. LE CODE POUR TOUS Des règles à observer pour c
+LE CODE POUR TOUS,Product,Product,6165,6182,,cidé était vengé et bien vengé. Alin MONJARDIN. [LE CODE POUR TOUS] Des règles à observer pour certaines constructio
+Code civil,Product,Product,7342,7352,,"par la prescription, font l'objet du titre IV du [Code civil] concernant les servitudes ou services fonciers."
+article 674,Product,Product,7404,7415,,oncernant les servitudes ou services fonciers. L'[article 674] du Code civil est ainsi conçu : « Celui qui fait
+article 674,Product,Product,8608,8619,,"conduite des eaux. Comme on vient de le voir, l'[article 674] prescrit que, pour toutes ces constructions, il y"
+préfets,Person,Person,9025,9032,,èglements ? Ce sont généralement ceux émanant des [préfets] et des maires sous forme d'arrêtés de police. A l
+maires,Person,Person,9040,9046,,"sont généralement ceux émanant des préfets et des [maires] sous forme d'arrêtés de police. A leur défaut, on"
+arrêtés de police,Product,Product,9060,9077,,"ux émanant des préfets et des maires sous forme d'[arrêtés de police]. A leur défaut, on se conformera aux usages locau"
+département,Location,Location,9309,9320,,"a règle pouvant ainsi différer non seulement d'un [département] à l'autre, mais d'un canton au canton voisin, d'u"
+canton,Location,Location,9342,9348,,"n seulement d'un département à l'autre, mais d'un [canton] au canton voisin, d'une commune aux communes limi"
+commune,Location,Location,9373,9380,,"l'autre, mais d'un canton au canton voisin, d'une [commune] aux communes limitrophes. Dans la réalité, cepen"
+contre-mur,Product,Product,9722,9732,,"estion principale, la question de fond, celles du [contre-mur] et du tour-de-chat, dont la dénomination change s"
+tour-de-chat,Product,Product,9739,9751,,", la question de fond, celles du contre-mur et du [tour-de-chat], dont la dénomination change suivant la région."
+mairie,Organization,Organization,10423,10429,,"aux en cette matière. Il s'informera d'abord à la [mairie] s'il existe un arrêté soit préfectoral, soit muni"
+architectes,Person,Person,10695,10706,,"et, pour cela, il pourra s'adresser utilement aux [architectes], entrepreneurs, maîtres-ouvriers chargés ordinair"
+entrepreneurs,Person,Person,10708,10721,,", il pourra s'adresser utilement aux architectes, [entrepreneurs], maîtres-ouvriers chargés ordinairement de l'exéc"
+maîtres-ouvriers,Person,Person,10723,10739,,"dresser utilement aux architectes, entrepreneurs, [maîtres-ouvriers] chargés ordinairement de l'exécution de ces trava"
+greffe de la justice du canton,Organization,Organization,10804,10834,,"irement de l'exécution de ces travaux, ou même au [greffe de la justice du canton]. Dans ces conditions, le propriétaire sera en rè"
+SAINT-YVES,Person,Person,11499,11509,,ns l'objet de notre prochain article. (A suivre.) [SAINT-YVES]. Mots en Parallélogramme Il faisait la vaissell
+LUNDI,Time,Time,11965,11970,,EVINEURS Les solutions doivent être parvenues le [LUNDI] au plus tard au rédacteur en chef du Supplément i
+Supplément illustré du Petit Journal,Product,Product,12008,12044,,ues le LUNDI au plus tard au rédacteur en chef du [Supplément illustré du Petit Journal]. SOLUTION du triangle syllabique (N° 1.102) RA
+Compagnie d'Assurances Générales sur la Vie,Organization,Organization,12771,12814,,"re, de toutes les Compagnies françaises, c'est la [Compagnie d'Assurances Générales sur la Vie] qui possède ce titre au plus haut degré ; car, ex"
+Compagnie d'Assurances Générales sur la Vie,Organization,Organization,13090,13133,,ons celui de toute autre Compagnie française. La [Compagnie d'Assurances Générales sur la Vie] (entreprise privée assujettie au contrôle de l'Et
+Paris,Location,Location,13252,13257,,"ement notices et tarifs sur demande, adressée : à [Paris], soit au siège social, 87, rue de Richelieu, soit"
+Paris,Location,Location,13252,13257,,"ement notices et tarifs sur demande, adressée : à [Paris], soit au siège social, 87, rue de Richelieu, soit"
+rue de Richelieu,Location,Location,13285,13301,,"de, adressée : à Paris, soit au siège social, 87, [rue de Richelieu], soit aux bureaux auxiliaires de quartier — dans"
+Léopold POUJADE,Person,Person,13683,13698,,"ac. à 1775, fl. essai 0,75, franco. Lmb. ou mand. [Léopold POUJADE], Chimiste, à FIGEAC (Lot). AMIS DU RIRE Commande"
+FIGEAC (Lot),Location,Location,13712,13724,,"ranco. Lmb. ou mand. Léopold POUJADE, Chimiste, à [FIGEAC (Lot)]. AMIS DU RIRE Commandez le gros Catalogue de 128"
+"Farces, Attrapes — Physique, Chansons — Magnétisme — Librairie spéciale — Cartes Postales — Hygiène",Product,Product,13793,13892,,"mandez le gros Catalogue de 128 pages, gratis, de [Farces, Attrapes — Physique, Chansons — Magnétisme — Librairie spéciale — Cartes Postales — Hygiène]. E. HELBE, 403, Faubourg Saint-Denis, Paris. Acc"
+E. HELBE,Person,Person,13894,13902,,"— Librairie spéciale — Cartes Postales — Hygiène. [E. HELBE], 403, Faubourg Saint-Denis, Paris. Accordéons ST"
+Faubourg Saint-Denis,Location,Location,13909,13929,,"ciale — Cartes Postales — Hygiène. E. HELBE, 403, [Faubourg Saint-Denis], Paris. Accordéons STRADELLA (Italiens) Les plus"
+Accordéons STRADELLA (Italiens),Product,Product,13939,13970,,"ène. E. HELBE, 403, Faubourg Saint-Denis, Paris. [Accordéons STRADELLA (Italiens)] Les plus sonores et meilleurs du monde. Vous sere"
+DEDENIS,Person,Person,14046,14053,,"eurs du monde. Vous serez émerveillés. Cat. grat. [DEDENIS], Brives (Corr.) 30 A 50 francs par semaine — Tra"
+Brives (Corr.),Location,Location,14055,14069,,"onde. Vous serez émerveillés. Cat. grat. DEDENIS, [Brives (Corr.)] 30 A 50 francs par semaine — Travail facile — 14"
+La Gauloise,Organization,Organization,14196,14207,,"oi, toute l'année, sur vos TRICOTEUSES BREVETÉES. [La Gauloise], Paris, 194, rue Lapartey, VIII. SAGE-FEMME 1re"
+rue Lapartey,Location,Location,14221,14233,,"s TRICOTEUSES BREVETÉES. La Gauloise, Paris, 194, [rue Lapartey], VIII. SAGE-FEMME 1re cl. TROUBLES MENSUELS, 104"
+SAGE-FEMME 1re cl.,Person,Person,14242,14260,,"ES. La Gauloise, Paris, 194, rue Lapartey, VIII. [SAGE-FEMME 1re cl.] TROUBLES MENSUELS, 104, AV. LEDRU-BOLLAN, PARIS,"
+AV. LEDRU-BOLLAN,Location,Location,14285,14301,,"VIII. SAGE-FEMME 1re cl. TROUBLES MENSUELS, 104, [AV. LEDRU-BOLLAN], PARIS, ENTRÉE PAR LA PAPIETERIE. TROUBLES MENSU"
+PAPIETERIE,Location,Location,14324,14334,,"UELS, 104, AV. LEDRU-BOLLAN, PARIS, ENTRÉE PAR LA [PAPIETERIE]. TROUBLES MENSUELS IRÉGULARITÉS DES ÉPOQUES, Non"
+BARLET,Person,Person,14401,14407,,"ELS IRÉGULARITÉS DES ÉPOQUES, Non-seigne. gratis. [BARLET], 112, Rue Roanur, Paris. REPONSE A TOUT Pourquoi"
+Rue Roanur,Location,Location,14414,14424,,"TÉS DES ÉPOQUES, Non-seigne. gratis. BARLET, 112, [Rue Roanur], Paris. REPONSE A TOUT Pourquoi souffrez-vous de"
+MILINE LEFEVRE,Person,Person,14619,14633,,"VARIQUEUSES ? PARCE QUE VOUS NE CONNAISSEZ PAS LA [MILINE LEFEVRE] qui GUÉRIT sûrement, rapidement toutes ces Affect"
+Laboratoire B LEFORT,Organization,Organization,14838,14858,,"facon 5 fr. — Toutes l'pharmacies. Expéditions du [Laboratoire B LEFORT], 10, rue de Villebois-Mareuil, Paris. OCCASION E"
+rue de Villebois-Mareuil,Location,Location,14864,14888,,"rmacies. Expéditions du Laboratoire B LEFORT, 10, [rue de Villebois-Mareuil], Paris. OCCASION EXCEPTIONNELLE Bicyclettes neuv"
+Fernand CLEMENT,Person,Person,15020,15035,,"édit Dessins et descriptions gratis et franco Fr. [Fernand CLEMENT], à Levallois-Perret (Seine) ANGLAIS ALLEM ITAL E"
+Levallois-Perret (Seine),Location,Location,15039,15063,,"criptions gratis et franco Fr. Fernand CLEMENT, à [Levallois-Perret (Seine)] ANGLAIS ALLEM ITAL ESP RUSS PORTU apprit SEUL en"
+Maître Populaire,Person,Person,15386,15402,,"(hors France) 10 mandat ou lmb. poste français à [Maître Populaire], 13-2 r Montolon, Paris. Belle Poitrine Développ"
+r Montolon,Location,Location,15409,15419,,"t ou lmb. poste français à Maître Populaire, 13-2 [r Montolon], Paris. Belle Poitrine Développement, Fermeté, R"
+J. Ratié,Person,Person,15593,15601,,"la santé — Flacon av. notice 0,35 fr. Env. discr. [J. Ratié], ph., 5, passage Verdeau, Paris. Bruxelles : Phe"
+ph.,Organization,Organization,15603,15606,,"Flacon av. notice 0,35 fr. Env. discr. J. Ratié, [ph.], 5, passage Verdeau, Paris. Bruxelles : Phe St Mi"
+passage Verdeau,Location,Location,15611,15626,,"av. notice 0,35 fr. Env. discr. J. Ratié, ph., 5, [passage Verdeau], Paris. Bruxelles : Phe St Michel. Genève : Carti"
+Paris,Location,Location,15628,15633,,"r. Env. discr. J. Ratié, ph., 5, passage Verdeau, [Paris]. Bruxelles : Phe St Michel. Genève : Cartier et J"
+Bruxelles,Location,Location,15635,15644,,"discr. J. Ratié, ph., 5, passage Verdeau, Paris. [Bruxelles] : Phe St Michel. Genève : Cartier et Joria. Bueno"
+Phe St Michel,Organization,Organization,15647,15660,,"atié, ph., 5, passage Verdeau, Paris. Bruxelles : [Phe St Michel]. Genève : Cartier et Joria. Buenos-Ayres : Phe Fr"
+Genève,Location,Location,15662,15668,,"assage Verdeau, Paris. Bruxelles : Phe St Michel. [Genève] : Cartier et Joria. Buenos-Ayres : Phe Franco-Ing"
+Cartier et Joria,Organization,Organization,15671,15687,,"rdeau, Paris. Bruxelles : Phe St Michel. Genève : [Cartier et Joria]. Buenos-Ayres : Phe Franco-Inglesa. Montréal : A."
+Buenos-Ayres,Location,Location,15689,15701,,elles : Phe St Michel. Genève : Cartier et Joria. [Buenos-Ayres] : Phe Franco-Inglesa. Montréal : A. Décey. VIN R
+Phe Franco-Inglesa,Organization,Organization,15704,15722,,Michel. Genève : Cartier et Joria. Buenos-Ayres : [Phe Franco-Inglesa]. Montréal : A. Décey. VIN ROMAN à FONS Gard de 2
+Montréal,Location,Location,15724,15732,,tier et Joria. Buenos-Ayres : Phe Franco-Inglesa. [Montréal] : A. Décey. VIN ROMAN à FONS Gard de 25 le litre
+A. Décey,Person,Person,15735,15743,,ia. Buenos-Ayres : Phe Franco-Inglesa. Montréal : [A. Décey]. VIN ROMAN à FONS Gard de 25 le litre GRATIS TR
+Joffre,Person,Person,15801,15807,,OMAN à FONS Gard de 25 le litre GRATIS TRES RARE [Joffre] curieux Jeux de Sociétés. 6 Broch. Amusantes 2 Mo
+Mre Henry,Person,Person,15926,15935,,"Agréable le tout env. 0,50 fr. En timb. d. Ecr. : [Mre Henry], 44, r. Eupatoria, Paris (XXe) PELADE NOTICE GRA"
+r. Eupatoria,Location,Location,15941,15953,,"t env. 0,50 fr. En timb. d. Ecr. : Mre Henry, 44, [r. Eupatoria], Paris (XXe) PELADE NOTICE GRATUITE BENIT, pharm"
+Paris (XXe),Location,Location,15955,15966,,". En timb. d. Ecr. : Mre Henry, 44, r. Eupatoria, [Paris (XXe)] PELADE NOTICE GRATUITE BENIT, pharmacien 31, rue"
+BENIT,Person,Person,15991,15996,,"r. Eupatoria, Paris (XXe) PELADE NOTICE GRATUITE [BENIT], pharmacien 31, rue Matabiau, Toulouse WESDAMES"
+rue Matabiau,Location,Location,16013,16025,,"Xe) PELADE NOTICE GRATUITE BENIT, pharmacien 31, [rue Matabiau], Toulouse WESDAMES En cas de Troubles Mensuels o"
+Toulouse,Location,Location,16027,16035,,"TICE GRATUITE BENIT, pharmacien 31, rue Matabiau, [Toulouse] WESDAMES En cas de Troubles Mensuels ou Irégular"
+Dr Institut,Person,Person,16166,16177,,"éthode Externe. Grats. gratuit par lettre. Ecrire [Dr Institut], 11, rue Lacharrière, Paris. Nous vendons toutes"
+rue Lacharrière,Location,Location,16183,16198,,"rats. gratuit par lettre. Ecrire Dr Institut, 11, [rue Lacharrière], Paris. Nous vendons toutes sortes d'instruments"
+HERFELD & Ce,Organization,Organization,16415,16427,,"oujours gratis et franco. Port de lettres 25 cts. [HERFELD & Ce], Neuenrade, N° 31, Allemagne La plus importante f"
+Neuenrade,Location,Location,16429,16438,,"et franco. Port de lettres 25 cts. HERFELD & Ce, [Neuenrade], N° 31, Allemagne La plus importante fabrique d'A"
+Allemagne,Location,Location,16447,16456,,"e lettres 25 cts. HERFELD & Ce, Neuenrade, N° 31, [Allemagne] La plus importante fabrique d'Accordéons de la pl"
+ROBERT HUSBERG,Person,Person,16955,16969,,"seulement chez l'inventeur. Port de lettres 0.25. [ROBERT HUSBERG], Neuenrade N° 91 Allemagne Fabrique d'accordéons"
+Niolet,Person,Person,17146,17152,,"et duvets, sans douleur en 15 j. Repousse imposs. [Niolet], chimis.-parfumeur, envoie discret., notice, cata"
+Amelot,Location,Location,17225,17231,,"voie discret., notice, catalog, et un échant. 2e. [Amelot], Paris GRATIS VALSE Gardes adrs. et qe v. vendre"
+Prof. LAGUS,Person,Person,17362,17373,,"l. 20, ou pr tou. dans un liv. 125 pag. à t. 60. [Prof. LAGUS], Palais d'Hiver, Pau (B.-P.) ENGELURES GREVASSES"
+Palais d'Hiver,Location,Location,17375,17389,,"tou. dans un liv. 125 pag. à t. 60. Prof. LAGUS, [Palais d'Hiver], Pau (B.-P.) ENGELURES GREVASSES Préservées Guér"
+Pau (B.-P.),Location,Location,17391,17402,,"v. 125 pag. à t. 60. Prof. LAGUS, Palais d'Hiver, [Pau (B.-P.)] ENGELURES GREVASSES Préservées Guéries par Baume"
+De KATZ,Person,Person,17453,17460,,"ENGELURES GREVASSES Préservées Guéries par Baume [De KATZ], chirurgien des hôpitaux, 1 fr., franco poste 1 f"
+rue Gide,Location,Location,17554,17562,,"te 1 fr. 20 Ecrite Pharmacie du Dispensaire, 101, [rue Gide], Paris-Levallois. Franco à l'Essai demandez La M"
+Paris-Levallois,Location,Location,17564,17579,,"0 Ecrite Pharmacie du Dispensaire, 101, rue Gide, [Paris-Levallois]. Franco à l'Essai demandez La MONTRÉ préoise et"
+TRIBAUDEAU Fabe,Organization,Organization,17693,17708,,"JOU élégant et solide l'inusable ORFÈVRIERIE chez [TRIBAUDEAU Fabe] à BESANÇON 75 Récompenses, Concours des Chronomét"
+BESANÇON,Location,Location,17711,17719,,"ide l'inusable ORFÈVRIERIE chez TRIBAUDEAU Fabe à [BESANÇON] 75 Récompenses, Concours des Chronométristes à l'"
+PARMOIS,Organization,Organization,17882,17889,,"tout achat. FRANCO TARIF ILLUSTRÉ N° 40 150 fr. [PARMOIS], Travail facile chez soi, toute l'année, assure s"
+La Prévoyante,Organization,Organization,18064,18077,,"du genre. Traite directement avec ses clients. Ce [La Prévoyante], bureau T, 11, rue Lacharrière, Paris CYCLES MER"
+"11, rue Lacharrière",Location,Location,18089,18108,,"ent avec ses clients. Ce La Prévoyante, bureau T, [11, rue Lacharrière], Paris CYCLES MERICANT 13, Av. des Moulineaux, P"
+Paris,Location,Location,18110,18115,,"Ce La Prévoyante, bureau T, 11, rue Lacharrière, [Paris] CYCLES MERICANT 13, Av. des Moulineaux, PARIS-BI"
+CYCLES MERICANT,Organization,Organization,18117,18132,,"Prévoyante, bureau T, 11, rue Lacharrière, Paris [CYCLES MERICANT] 13, Av. des Moulineaux, PARIS-BILLANCOURT Catalog"
+"13, Av. des Moulineaux",Location,Location,18133,18155,,"au T, 11, rue Lacharrière, Paris CYCLES MERICANT [13, Av. des Moulineaux], PARIS-BILLANCOURT Catalogue franco. PRIX de GROS"
+PARIS-BILLANCOURT,Location,Location,18157,18174,,"e, Paris CYCLES MERICANT 13, Av. des Moulineaux, [PARIS-BILLANCOURT] Catalogue franco. PRIX de GROS aux Intermédiaires"
+G. LASSEUR,Person,Person,18238,18248,,"nco. PRIX de GROS aux Intermédiaires Le Gérant : [G. LASSEUR] IMPRIMERIE DU Petit Journal (C. MARTY, imp.) Impr"
+IMPRIMERIE DU Petit Journal,Organization,Organization,18249,18276,,"e GROS aux Intermédiaires Le Gérant : G. LASSEUR [IMPRIMERIE DU Petit Journal] (C. MARTY, imp.) Imprimé sur la Machine rotative"
+C. MARTY,Person,Person,18278,18286,,"Gérant : G. LASSEUR IMPRIMERIE DU Petit Journal ([C. MARTY], imp.) Imprimé sur la Machine rotative chrome-typ"
+MARINONI,Person,Person,18341,18349,,.) Imprimé sur la Machine rotative chrome-typo de [MARINONI] (Encres LORILLUX)
+LORILLUX,Product,Product,18358,18366,,Machine rotative chrome-typo de MARINONI (Encres [LORILLUX])

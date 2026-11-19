@@ -1,0 +1,121 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Justin Singeot,Person,PER,57,71,,"ndide. Je n'ai pas peur des gardes-chasse, moi ! [Justin Singeot] couvrit l'Eclair d'un regard admiratif. Ah ! tu"
+Eclair d'un regard admiratif,Product,MISC,82,110,,"es gardes-chasse, moi ! Justin Singeot couvrit l'[Eclair d'un regard admiratif]. Ah ! tu en as du culot ! Car, de tous les brac"
+Bois-André,Location,LOC,200,210,,"s les braconniers qui dévastaient les réserves du [Bois-André], Ju-ot Piedolent, dit l'Eclair, était réputé le p"
+Ju-ot Piedolent,Person,PER,212,227,,"niers qui dévastaient les réserves du Bois-André, [Ju-ot Piedolent], dit l'Eclair, était réputé le plus redoutable, e"
+Eclair,Location,LOC,235,241,,"es réserves du Bois-André, Ju-ot Piedolent, dit l'[Eclair], était réputé le plus redoutable, et cela sans av"
+Justin Singeot,Person,PER,735,749,,"immérité le compliment que venait de lui adresser [Justin Singeot]. Je n'ai pas à avoir du culot, affirme-t-il avec"
+Debout,Product,MISC,1126,1132,,"sa part du divertissement gratuit qui s'offrait. [Debout] devant le comptoir, le nouveau garde-chasse, M. M"
+M. Mongast,Person,PER,1178,1188,,"bout devant le comptoir, le nouveau garde-chasse, [M. Mongast], dressait une stature colossale, osseuse, musclée"
+argousin,Product,MISC,1353,1361,,"ns énormes, de terribles serres d'étrangleur ou d'[argousin]. Il parlait haut, et, sans modération, exprimait"
+M. Mongast,Person,PER,1597,1607,,"des de l'Eclair. Moi, je vous l'affirme, déclara [M. Mongast] au cabaretier, M. Viette, les braconniers, j'en f"
+M. Viette,Person,PER,1623,1632,,"vous l'affirme, déclara M. Mongast au cabaretier, [M. Viette], les braconniers, j'en fais mon affaire ! Dans de"
+L'Eclair,Product,MISC,1755,1763,,"endez, je me charge, moi, de les avoir cueillis. [L'Eclair] qui approvait de la tête, reposa son verre de vin"
+M. Mongast,Person,PER,2026,2036,,"'on y braconne tant que cela ! Ainsi interpellé, [M. Mongast] laissa tomber sur l'intrus un regard chargé de lo"
+"Eclair, mon garçon",Product,MISC,2110,2128,,"rus un regard chargé de lourdes menaces. Vous, l'[Eclair, mon garçon], vous feriez mieux de tenir votre langue... J'ai"
+Monsieur le Baron,Product,MISC,2210,2227,,"re langue... J'ai déjà entendu parler de vous, et [Monsieur le Baron] vous a tout particulièrement recommandé à moi..."
+Eclair,Location,LOC,2329,2335,,"'est bien de l'honneur qu'on m'a fait, répondit l'[Eclair] en rougissant de confusion comme une jeune fille"
+Justin Singeot,Person,PER,2626,2640,,"... C'est vrai, continua-t-il en se tournant vers [Justin Singeot] qui s'étranglait de rire contenu, avec tous ces b"
+Justin Singeot,Person,PER,2819,2833,,"à la nuit tombée. A cette conclusion inattendue, [Justin Singeot] explosa, crachant, toussant, les yeux hors de la"
+Eclair,Location,LOC,2894,2900,,"rachant, toussant, les yeux hors de la tête, et l'[Eclair] affectueusement lui tapait dans le dos : « Avalé"
+Justin,Person,PER,2962,2968,,"ment lui tapait dans le dos : « Avalé de travers, [Justin] ? »... Pâle de colère à se voir ainsi moqué, M."
+"...
+
+Pâle de colère",Product,MISC,2972,2991,,"apait dans le dos : « Avalé de travers, Justin ? »[... Pâle de colère] à se voir ainsi moqué, M. Mongast fut sur le poin"
+M. Mongast,Person,PER,3015,3025,,"tin ? »... Pâle de colère à se voir ainsi moqué, [M. Mongast] fut sur le point de se fâcher. Il jugea plus sage"
+Rira,Product,MISC,3138,3142,,"r, mais, du seuil, il jeta une dernière menace : [Rira] bien qui rira le dernier ! Tâchez de marcher droi"
+Eclair,Location,LOC,3339,3345,,"t — il épia obstinément les allées et venues de l'[Eclair], et ce n'était pas une petite besogne. Prétextant"
+Eclair,Location,LOC,3446,3452,,"des rages de dents qui l'empêchaient de dormir, l'[Eclair] se livrait chaque nuit à des promenades fantasti-"
+M. Mongast,Person,PER,3673,3683,,"e, et tout en prétendant ignorer complètement que [M. Mongast] haletait dans son ombre, il gagnait la grande rou"
+Bois-André,Location,LOC,3749,3759,,"on ombre, il gagnait la grande route qui coupe le [Bois-André], et marchait trois heures, quatre heures durant,"
+Piedolent,Organization,ORG,3890,3899,,"ement, il s'escamotait. Tu comprends, expliquait [Piedolent] à Justin Singeot, autrefois, quand j'avais des ra"
+Justin Singeot,Person,PER,3902,3916,,"escamotait. Tu comprends, expliquait Piedolent à [Justin Singeot], autrefois, quand j'avais des rages de dents, je"
+M. Mongast,Person,PER,4005,4015,,"dents, je n'osais pas sortir. Mais à présent que [M. Mongast] est là, il n'y a plus de danger ; les routes sont"
+M. Mongast,Person,PER,4407,4417,,"es brumes violettes. Et, chaque jour, au rapport, [M. Mongast] avait à essuyer de la part de M. le Baron des alg"
+M. le Baron,Person,PER,4448,4459,,"rapport, M. Mongast avait à essuyer de la part de [M. le Baron] des algarades de plus en plus humiliantes dont le"
+Tonneau-d'Or,Location,LOC,4550,4562,,s dont les échos atteignaient la salle à boire du [Tonneau-d'Or]. Parait que ça cloche au Bois-André entre le bar
+Bois-André,Location,LOC,4589,4599,,"à boire du Tonneau-d'Or. Parait que ça cloche au [Bois-André] entre le baron et son garde, crut devoir annoncer"
+M. Viette,Person,PER,4650,4659,,"entre le baron et son garde, crut devoir annoncer [M. Viette] à l'Eclair. C'est peut-être bien plutôt l'air du"
+Eclair,Location,LOC,4664,4670,,"et son garde, crut devoir annoncer M. Viette à l'[Eclair]. C'est peut-être bien plutôt l'air du pays qui n"
+M. Mongast,Person,PER,4737,4747,,"e bien plutôt l'air du pays qui ne convient pas à [M. Mongast], répliqua l'Eclair avec sollicitude. On dit qu'il"
+Eclair,Location,LOC,4760,4766,,"pays qui ne convient pas à M. Mongast, répliqua l'[Eclair] avec sollicitude. On dit qu'il s'essouffle et qu'"
+Julot Piedolent,Person,PER,4965,4980,,"Deux jours après cet entretien, au soir tombant, [Julot Piedolent] suivait la grande route du Bois-André, marchant à"
+Bois-André,Location,LOC,5008,5018,,"mbant, Julot Piedolent suivait la grande route du [Bois-André], marchant à pas légers le long de l'accotement, l"
+M. Mongast,Person,PER,5230,5240,,"nflements dont s'inquiéta aussitôt la sagacité de [M. Mongast], lequel, allongé dans la boue d'un fossé, épiait"
+L'Eclair,Product,MISC,5329,5337,,"sé, épiait anxieusement l'approche de son ennemi. [L'Eclair], qui jouait de malheur, vraiment, s'aperçut que s"
+M. Mongast,Person,PER,5603,5613,,"ouvrit un coin de plumage de faisans. D'un bond, [M. Mongast] fut debout ; d'un autre bond il atteignit l'Eclai"
+Eclair,Location,LOC,5658,5664,,"ngast fut debout ; d'un autre bond il atteignit l'[Eclair]. Eh bien, mon garçon, qu'est-ce que vous portez"
+Justin Singeot,Person,PER,5742,5756,,st-ce que vous portez donc là sous votre veste ? [Justin Singeot] avait raison de dire que Piedolent avait du toupe
+Piedolent,Organization,ORG,5782,5791,,veste ? Justin Singeot avait raison de dire que [Piedolent] avait du toupet. Il répondit avec un calme parfai
+Mongast,Person,PER,5869,5876,,"t avec un calme parfait. Sous ma veste, monsieur [Mongast] ? C'est une surprise pour la fête à ma femme. Le"
+Eclair,Location,LOC,6006,6012,,"le bailement du col. S'il vous plaît, protesta l'[Eclair] avec un petit rire gloussant, s'il vous plaît, ne"
+"Des faisans !
+
+",Product,MISC,6248,6263,,"de la veste du braconnier deux superbes faisans. [Des faisans ! ]Eh ! oui, monsieur Mongast, depuis le temps que no"
+Mongast,Person,PER,6282,6289,,"erbes faisans. Des faisans ! Eh ! oui, monsieur [Mongast], depuis le temps que nous en entendons parler, ma"
+Mongast,Person,PER,6485,6492,,"rs, mon gaillard. Cette fois, je vous tiens ! M. [Mongast] empoigna le bras de Piedolent dans sa robuste ser"
+Piedolent,Organization,ORG,6513,6522,,", je vous tiens ! M. Mongast empoigna le bras de [Piedolent] dans sa robuste serre. Allons, ouste ! commanda-"
+Allons,Person,PER,6547,6553,,"igna le bras de Piedolent dans sa robuste serre. [Allons], ouste ! commanda-t-il. Au pas gymnastique ! Où"
+informa l'Eclair,Product,MISC,6625,6641,,"l. Au pas gymnastique ! Où me conduisez-vous ? s'[informa l'Eclair]. Devant monsieur le baron, d'abord. Ensuite, à l"
+Eclair,Location,LOC,6749,6755,,"merie ! J'aime mieux rentrer chez moi, déclara l'[Eclair] avec fermeté, d'autant que ma femme m'attend. Ell"
+Mongast,Person,PER,6969,6976,,"e de son poing levée. Faites attention, monsieur [Mongast], recommanda l'Eclair avec une ironie douce. Vous"
+Eclair,Location,LOC,6991,6997,,"Faites attention, monsieur Mongast, recommanda l'[Eclair] avec une ironie douce. Vous me prenez mes oiseaux"
+Enivré,Product,MISC,7173,7179,,"cuire ! Des menaces maintenant !... En avant ! [Enivré] de son triomphe, M. Mongast tint à faire un détou"
+M. Mongast,Person,PER,7197,7207,,"intenant !... En avant ! Enivré de son triomphe, [M. Mongast] tint à faire un détour afin de passer par le faub"
+Tonneau d'Or,Product,MISC,7322,7334,,"porte produisit des curieux. Devant l'enseigne du [Tonneau d'Or], M. Viette et Justin Singeot ouvrirent des yeux h"
+M. Viette,Person,PER,7336,7345,,"t des curieux. Devant l'enseigne du Tonneau d'Or, [M. Viette] et Justin Singeot ouvrirent des yeux hébétés, et"
+Justin Singeot,Person,PER,7349,7363,,". Devant l'enseigne du Tonneau d'Or, M. Viette et [Justin Singeot] ouvrirent des yeux hébétés, et ricanaient entre e"
+M. Viette,Person,PER,7537,7546,,"marade. Tant va la cruche à l'eau !... aphorisme [M. Viette]. A la vue de l'Eclair prisonnier, M. le Baron ne"
+Eclair prisonnier,Location,LOC,7563,7580,,"à l'eau !... aphorisme M. Viette. A la vue de l'[Eclair prisonnier], M. le Baron ne dissimula rien d'une joie puissan"
+M. le Baron,Person,PER,7582,7593,,"isme M. Viette. A la vue de l'Eclair prisonnier, [M. le Baron] ne dissimula rien d'une joie puissante. Tout de s"
+"Piedolent :
+
+Eh !",Product,MISC,7714,7731,,"omestique à la gendarmerie ; puis, faisant face à [Piedolent : Eh !] l'ami, te voilà pris ! C'est une injustice ! s'é"
+Eclair,Location,LOC,7788,7794,,"te voilà pris ! C'est une injustice ! s'écria l'[Eclair] avec véhémence. Je suis bien aise de vous voir, m"
+Dame,Person,PER,7978,7982,,"our me plaindre. Te plaindre, toi, et de quoi ? [Dame], monsieur le baron, mettez-vous à ma place. Merc"
+Volés,Product,MISC,8355,8360,,"n. Ou les avais tu volés toi-même, ces faisans ? [Volés] ? moi ? des faisans ?... Je les ai bel et bien pa"
+Payés !,Product,MISC,8417,8424,,"? des faisans ?... Je les ai bel et bien payés ! [Payés !]... A qui ? Au marchand donc, monsieur le baron.."
+Eclair,Location,LOC,8610,8616,,"gard effilé de malice vers le garde interloqué, l'[Eclair] présentait une facture dûment acquittée, attestan"
+Vernon,Location,LOC,8706,8712,,", attestant que, ce jour même, il avait acheté, à [Vernon], les deux faisans en litige. Imbécile ! éclata M"
+Imbécile !,Product,MISC,8743,8753,,"it acheté, à Vernon, les deux faisans en litige. [Imbécile !] éclata M. le baron. Et c'était à son garde const"
+penaud,Person,PER,8871,8877,,"sait. Puis, la voix adoucie, rageur à la fois et [penaud], M. le baron dit au braconnier insaisissable : E"
+Piedolent,Organization,ORG,8986,8995,,"eprenez-les, ces faisans, puisqu'ils sont à vous, [Piedolent], et allez retrouver votre femme. Mais l'Eclair f"
+Eclair,Location,LOC,9037,9043,,"iedolent, et allez retrouver votre femme. Mais l'[Eclair] fit observer qu'après les mauvais traitements qu'"
+M. Mongast,Person,PER,9127,9137,,"traitements qu'il avait eu à subir de la part de [M. Mongast], il était décidé à porter plainte et à suivre l'a"
+"...
+
+Compris !",Product,MISC,9206,9220,,"porter plainte et à suivre l'affaire, à moins que[... Compris !] interrompit M. le baron. C'est une indemnité que"
+Ça,Product,MISC,9327,9329,,"ulez ? Vingt-cinq francs, ça fait-il l'affaire ? [Ça] la ferait certainement, monsieur le baron, si vot"
+Tonneau d'Or,Product,MISC,9549,9561,,"Voulez-vous cinquante francs ? \\\ Le soir, au [Tonneau d'Or], interrogé par les camarades sur ce qu'il avait é"
+Bois-André,Location,LOC,9634,9644,,"arades sur ce qu'il avait été faire au château du [Bois-André] en compagnie du garde-chasse, l'Eclair expliquait"
+Eclair,Location,LOC,9677,9683,,"eau du Bois-André en compagnie du garde-chasse, l'[Eclair] expliquait de sa voix flutée où tremblait à peine"
+M. Mongast,Person,PER,9892,9902,,"pour me dédommager de tous les mauvais bruits que [M. Mongast] avait fait courir sur mon compte, et, pour que ce"
+Gustave GUESVILLER,Person,PER,10013,10031,,"nouvelle pas, il lui a donné ses huit jours !... [Gustave GUESVILLER]. Le Vol Mystérieux J'attribue la source de ma f"
+"Le Vol Mystérieux
+
+J'",Product,MISC,10034,10055,,a donné ses huit jours !... Gustave GUESVILLER. [Le Vol Mystérieux J']attribue la source de ma fortune — nous confia Pén
+Pénotin,Person,PER,10102,10109,,"J'attribue la source de ma fortune — nous confia [Pénotin], le gros industriel de Puteaux — à un vol dont je"
+Puteaux,Location,LOC,10133,10140,,"tune — nous confia Pénotin, le gros industriel de [Puteaux] — à un vol dont je fus victime voici plus de ving"
+Bourgogne,Location,LOC,10266,10275,,"s ne savez pas que mon usine se trouvait alors en [Bourgogne], isolée dans un val, à quelques portées de fusil"
+Dijon,Location,LOC,10328,10333,,"solée dans un val, à quelques portées de fusil de [Dijon]. Mon caissier-comptable approchait de la soixanta"
+Faurey,Location,LOC,10509,10515,,"et d'un dévouement à toute épreuve. Il s'appelait [Faurey], et je l'occupais depuis cinq ans quand, un jour,"
+Faurey,Location,LOC,10686,10692,,"u à une machine à vapeur, me retint à l'atelier. [Faurey], lui dis-je, voici un chèque que vous allez touch"
+Banque Industrielle,Organization,ORG,10760,10779,,i un chèque que vous allez toucher de ce pas à la [Banque Industrielle]. Tâchez de faire vite et d'être de retour avant l
+Faurey,Person,PER,10973,10979,,u près tout l'actif inscrit à mon compte-courant. [Faurey] partit à trois heures précises de l'après-midi. A
+Ah !,Product,MISC,11343,11347,,"ntrée, je ne pouvais me défendre d'un sursaut : « [Ah !] enfin !... » m'exclamais-je mentalement. Et chaqu"
+Eh bien,Product,MISC,11645,11652,,"e après. J'étais en train de finir mon courrier. [Eh bien] ! m'écriai-je, sans lever la tête, je crois que v"
+Faurey,Location,LOC,11727,11733,,"r la tête, je crois que vous y avez mis le temps, [Faurey]. Ce n'est vraiment pas sérieux de votre part... R"
+Ah ça !,Product,MISC,12510,12517,,de la seconde et de l'épouvante qui me gagnait : [Ah ça !] qu'est-ce que vous me racontez là ?... On vous a
+Banque,Organization,ORG,13033,13039,,t les trente mille francs que m'avait délivrés la [Banque]. Un juron m'échappa. Je m'emparai du bras droit
+"DRANER
+
+Pas ma faute",Product,MISC,13344,13364,,"ciser, monsieur... LES GAITÉS DE LA SEMAINE, par [DRANER Pas ma faute], Madame... victime du manque d'eau ! « L'Homme q"
+Madame,Person,PER,13366,13372,,"S GAITÉS DE LA SEMAINE, par DRANER Pas ma faute, [Madame]... victime du manque d'eau ! « L'Homme qui march"
+L'Homme qui marche,Product,MISC,13405,13423,,"ma faute, Madame... victime du manque d'eau ! « [L'Homme qui marche] » de Rodin. Drôle d'idée d'envoyer ce morceau au"
+Rodin,Person,PER,13429,13434,,time du manque d'eau ! « L'Homme qui marche » de [Rodin]. Drôle d'idée d'envoyer ce morceau au Palais Far
+Drôle d'idée d',Product,MISC,13437,13452,,manque d'eau ! « L'Homme qui marche » de Rodin. [Drôle d'idée d']envoyer ce morceau au Palais Farnèse ! Les Romain
+Palais Farnèse,Location,LOC,13474,13488,,» de Rodin. Drôle d'idée d'envoyer ce morceau au [Palais Farnèse] ! Les Romains ne manqueront pas d'y voir une all
+Romains,Location,LOC,13496,13503,,dée d'envoyer ce morceau au Palais Farnèse ! Les [Romains] ne manqueront pas d'y voir une allusion à notre r
+"Eh ben, toi",Product,MISC,13571,13582,,"d'y voir une allusion à notre régime politique. [Eh ben, toi] qui reviens de Berlin, peut-on compter sur ces ca"
+Berlin,Location,LOC,13598,13604,,"tre régime politique. Eh ben, toi qui reviens de [Berlin], peut-on compter sur ces camaroux-là ? Peuh !..."
+Peuh !,Product,MISC,13645,13651,,"de Berlin, peut-on compter sur ces camaroux-là ? [Peuh !]... c'est tous des patriotes, rien à en espérer."

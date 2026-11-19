@@ -1,0 +1,120 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+Mme Bouteloup,Person,PER,147,160,,"a crainte sans doute d'être indiscret aux yeux de [Mme Bouteloup], bien qu'il passât souvent devant ma porte, il mo"
+Marché ;,Product,MISC,297,305,,"ce temps à donner des sérénades, sur la place du [Marché ;] le rideau s'ouvrait presque toujours, j'avais dis"
+Mme Ménard,Person,PER,788,798,,"ore aperçues. — Comment s'appelle la fille, chez [Mme Ménard] ? J'avais demandé avec indifférence en achetant,"
+Emma,Person,PER,934,938,,", savez-vous son nom. — Bien sûr, elle s'appelle [Emma]. Emma, c'est un joli nom ; au moins je le trouva"
+Emma,Person,PER,941,945,,"-vous son nom. — Bien sûr, elle s'appelle Emma. [Emma], c'est un joli nom ; au moins je le trouvais char"
+Lisois,Person,PER,1010,1016,,"nom ; au moins je le trouvais charmant. Mon ami [Lisois], que Mme Bouteloup n'éfrayait sans doute plus, ve"
+Mme Bouteloup,Person,PER,1022,1035,,"ins je le trouvais charmant. Mon ami Lisois, que [Mme Bouteloup] n'éfrayait sans doute plus, venait maintenant plu"
+Paul,Person,PER,1172,1176,,"de causerie. Il aimait bien la musique, ce cher [Paul], surtout la flûte, et il ne manquait pas de me pr"
+Joconde,Person,PER,1315,1322,,"és ; il avait une prédilection pour la romance de [Joconde], et à chaque visite il me la réclamait. — Tu la"
+Mes yeux,Product,MISC,1435,1443,,"en, disait-il, on ne se lasse pas de l'entendre. [Mes yeux], attirés naturellement de l'autre côté de la plac"
+Mme Emma,Person,PER,1641,1649,,"se de ne rien voir, jamais, du reste la figure de [Mme Emma] n'apparaissait que lorsque j'étais seul ; alors l"
+Enhardi,Person,PER,1782,1789,,"et les blonds cheveux se montraient un instant. [Enhardi] par cet encouragement, je me risquai à un salut ;"
+Emma,Person,PER,2271,2275,,"p servi et qui me sembla géniale. Elle s'appelle [Emma], me dis-je, fais un acrostiche sur son nom. Et b"
+Boileau,Person,PER,2435,2442,,"cet acrostiche ! Enchérissant sur le précepte de [Boileau], j'avais non pas vingt fois, mais cent fois remis"
+zéphyre,Location,LOC,2740,2747,,"ur vermeille, Étant son doux parfum au souffle du [zéphyre]. Sur cœur à ton aspect tressaille de plaisir, Ins"
+Insinuant,Product,MISC,2794,2803,,"yre. Sur cœur à ton aspect tressaille de plaisir, [Insinuant] que l'oiseau chante à l'aube qui s'éveille. Main"
+Adieu mon idylle !,Product,MISC,3704,3722,,Décidément je ne mordais pas aux mathématiques. [Adieu mon idylle !] et de fait je n'y pensai pas longtemps ; je n'y a
+Paul Lisois,Person,PER,3811,3822,,"; je n'y aurais peut-être pas songé sans mon ami [Paul Lisois]. Dix mois après mon départ, il m'annonçait son ma"
+Mme Hélène Ménard,Person,PER,3883,3900,,"après mon départ, il m'annonçait son mariage avec [Mme Hélène Ménard] et m'invitait à la noce. Hélène Ménard ! sans do"
+Hélène Ménard,Person,PER,3927,3940,,"avec Mme Hélène Ménard et m'invitait à la noce. [Hélène Ménard] ! sans doute la sœur, pensai-je, pourtant je n'av"
+Mme Emma,Person,PER,4028,4036,,tant je n'avais jamais vu d'autre jeune fille que [Mme Emma] dans la maison. C'était une occasion de la voir ;
+"Bonjour, monsieur",Product,MISC,4115,4132,,"occasion de la voir ; j'acceptai l'invitation. — [Bonjour, monsieur], me dit Mme Ménard en me tendant la main. Jouez-v"
+Mme Ménard,Person,PER,4141,4151,,"ceptai l'invitation. — Bonjour, monsieur, me dit [Mme Ménard] en me tendant la main. Jouez-vous toujours de la"
+Joconde !,Person,PER,4226,4235,,ouez-vous toujours de la flûte ? — La romance de [Joconde !] ajouta mon ami. Et tous deux se mirent à rire. —
+Chut !,Product,MISC,4286,4292,,"ajouta mon ami. Et tous deux se mirent à rire. — [Chut !] voici ma belle-mère. Je vais t'expliquer, me dit"
+Lisois,Person,PER,4342,4348,,"voici ma belle-mère. Je vais t'expliquer, me dit [Lisois] en voyant mon air ahuri. Alors il me raconta son"
+Mme Ménard,Person,PER,4491,4501,,"était un signal convenu entre les deux amoureux. [Mme Ménard] visitait fréquemment sa tante, qui demeurerait à"
+Irez,Location,LOC,4585,4589,,i demeurerait à l'autre extrémité de la ville. — [Irez]-vous ? disait Joconde. Le rideau soulevé une ou
+Joconde,Person,PER,4604,4611,,utre extrémité de la ville. — Irez-vous ? disait [Joconde]. Le rideau soulevé une ou plusieurs fois lui don
+Mme Ménard,Person,PER,4943,4953,,"norais. — Mais je pensais, dis-je à mon ami, que [Mme Ménard] s'appelait Emma. — Emma ? où diable as-tu été pê"
+Emma,Person,PER,4965,4969,,"sais, dis-je à mon ami, que Mme Ménard s'appelait [Emma]. — Emma ? où diable as-tu été pêcher ce nom-là ?"
+Emma,Person,PER,4974,4978,,"-je à mon ami, que Mme Ménard s'appelait Emma. — [Emma] ? où diable as-tu été pêcher ce nom-là ? Emma, E"
+Emma,Person,PER,5021,5025,,"— Emma ? où diable as-tu été pêcher ce nom-là ? [Emma], Emma ! mais c'était le nom de la petite bonne p"
+Emma !,Product,MISC,5027,5033,,"a ? où diable as-tu été pêcher ce nom-là ? Emma, [Emma !] mais c'était le nom de la petite bonne pendant t"
+Bouteloup,Person,PER,5102,5111,,"m de la petite bonne pendant ton séjour chez les [Bouteloup]. — Ah !... fis-je interrompu. Depuis, je n'ai p"
+Ah !,Product,MISC,5116,5120,,"bonne pendant ton séjour chez les Bouteloup. — [Ah !]... fis-je interrompu. Depuis, je n'ai plus jamai"
+Joconde,Person,PER,5191,5198,,". Depuis, je n'ai plus jamais joué la romance de [Joconde]. Camille GRAMACCINI. LA MODE du Petit Journal d"
+Camille GRAMACCINI,Product,MISC,5201,5219,,"je n'ai plus jamais joué la romance de Joconde. [Camille GRAMACCINI]. LA MODE du Petit Journal donne cette semaine, g"
+LA MODE du Petit Journal,Product,MISC,5222,5246,,"joué la romance de Joconde. Camille GRAMACCINI. [LA MODE du Petit Journal] donne cette semaine, gratuitement, à toutes ses l"
+BLOUSE ÉLÉGANTE,Product,MISC,5332,5347,,"à toutes ses lectrices et abonnées, un patron de [BLOUSE ÉLÉGANTE] Ce très gracieux modèle est entièrement plissé p"
+La manche,Location,LOC,5523,5532,,lée avec incrustations de lo-sanges en dentelle. [La manche] est garnie dans le même esprit que la pèlerine.
+Emma,Person,PER,5627,5631,,"ne. EN VENTE PARTOUT LE BRACELET — C'est bien, [Emma], vous pouvez aller. Dites à Monsieur que je suis"
+Monsieur,Person,PER,5660,5668,,"T — C'est bien, Emma, vous pouvez aller. Dites à [Monsieur] que je suis prête ; mais, d'abord, éteignez quelq"
+-veugle,Person,PER,5749,5756,,"ord, éteignez quelque chose, cette électricité m'a[-veugle]. La femme de chambre obéit. Les fleurs lumineuse"
+Mme Raven,Person,PER,6232,6241,,inissable flottait dans l'air. Il faisait chaud. [Mme Raven] rejeta sur le dossier de sa chaise la sortie de b
+Louis Raven,Person,PER,6916,6927,,"ariée. Chaque trente et un décembre, fidèlement, [Louis Raven] offre à sa femme des étrennes qui toutes les anné"
+Madeleine,Person,PER,7012,7021,,toutes les années augmentent de valeur. Pourtant [Madeleine] regarde sans sourire le merveilleux bijou. Aucun
+Louis,Person,PER,7198,7203,,"que peut donner l'argent. \\\ Quand elle épousa [Louis], employé chez un agent de change, elle n'escompta"
+Louis,Person,PER,7828,7833,,"que, riches, peut-être ils s'aimeraient moins. Si [Louis] ne l'avait pas moins aimée, il s'était davantage"
+Louis,Person,PER,8072,8077,,ntait toujours et la joie de s'enrichir absorbait [Louis] de plus en plus. Madeleine pensivement regarda l
+Madeleine,Person,PER,8096,8105,,e de s'enrichir absorbait Louis de plus en plus. [Madeleine] pensivement regarda l'image que lui renvoyait la
+Louis,Person,PER,8358,8363,,gnait à s'épanouir en un cadre digne d'elle. Mais [Louis] ne la regardait plus guère ; distrairement affect
+Mme Raven,Product,MISC,8534,8543,,"chapeau seyant, puis retournait à ses chiffres. [Mme Raven] soupira. Lentement, elle attira un coffre que fer"
+ri-vières,Location,LOC,8666,8675,,"et. Elle l'ouvrit, étala devant elle des bijoux : [ri-vières], fleurs scintillantes, aigrettes, peignes, bagues"
+fleurs scintillantes,Product,MISC,8677,8697,,"ouvrit, étala devant elle des bijoux : ri-vières, [fleurs scintillantes], aigrettes, peignes, bagues et boucles ; elle les"
+Madeleine,Person,PER,9189,9198,,"elle année. Comme ce soir, en se mettant à table, [Madeleine] avait trouvé, sous sa serviette, un écrin. Mais"
+Louis,Person,PER,9543,9548,,"é leur soirée !... Alors, pour rien au monde, ni [Louis] ni elle n'auraient consenti à rompre la tendre i"
+Louis,Person,PER,10154,10159,,"sant les joies de tendresse... Ce soir, à minuit, [Louis] et Madeleine se trouveront au milieu d'indifféren"
+Madeleine,Person,PER,10163,10172,,"joies de tendresse... Ce soir, à minuit, Louis et [Madeleine] se trouveront au milieu d'indifférents, et trop b"
+Madeleine,Person,PER,10334,10343,,"e l'autre, ils n'échangeront même pas un regard. [Madeleine] avait attaché à son poignet, près du bracelet nou"
+Madeleine,Person,PER,10449,10458,,"la très simple gourmette d'or. — Puis-je entrer, [Madeleine] ? M. Raven paraissait, prêt au départ. Confuse"
+Confuse,Product,MISC,10500,10507,,"adeleine ? M. Raven paraissait, prêt au départ. [Confuse] d'être surprise en sa songerie sentimentale, la j"
+Louis,Person,PER,10668,10673,,"ssa parmi les autres. — Vous êtes charmante, dit [Louis]. Avez-vous fait à mes opales l'honneur de vous en"
+Oh !,Product,MISC,10847,10851,,", ma chère ? Elle abaissa les yeux et rougit. — [Oh !] je me suis trompée... J'ai quitté l'autre, croyan"
+Louis,Person,PER,10923,10928,,"J'ai quitté l'autre, croyant défaire celui-ci ! [Louis] retint le fin poignet où l'unique diamant scintil"
+Surpris,Product,MISC,11093,11100,,"? — Depuis quand ? répéta-t-elle avec reproche. [Surpris] de l'émotion de sa voix, il regarda la jeune femm"
+Louis,Person,PER,11176,11181,,"il regarda la jeune femme. — Vous l'avez oublié, [Louis] ? Ce sont vos premières étrennes. Des larmes mon"
+Des larmes,Product,MISC,11217,11227,,"oublié, Louis ? Ce sont vos premières étrennes. [Des larmes] montaient dans ses yeux et son sourire tremblait."
+Ah !,Product,MISC,11311,11315,,"urire tremblait. Alors, lui aussi se souvint. — [Ah !] dit-il, que c'est loin déjà ! mais je me rappele."
+Madeleine,Person,PER,11439,11448,,"oir-là tous les deux seuls, comme des amoureux... [Madeleine]... pourquoi pleurez-vous, mon Dieu ? Impuissante"
+Avait,Person,PER,11881,11886,,"e et d'avouer ses regrets. D'abord, il s'étonna. [Avait]-il donc changé ? Il ne le croyait pas. Et s'il s'"
+Madeleine,Person,PER,12101,12110,,"ce et plus belle ? Mais la digue était rompue... [Madeleine] osait dire ce que depuis de si longs mois, depuis"
+Louis,Person,PER,12461,12466,,"voix que jadis, égrena les douze coups de minuit, [Louis] se pencha vers Madeleine. Oubliant l'heure du dép"
+Madeleine,Person,PER,12482,12491,,"a les douze coups de minuit, Louis se pencha vers [Madeleine]. Oubliant l'heure du départ, côte à côte, ils ava"
+Madeleine,Person,PER,12735,12744,,"nt ils échangeaient durant que sonnaient l'heure, [Madeleine] sentit passer tout un renouveau d'amour qui refle"
+Marie THIÉRY,Person,PER,12822,12834,,"veau d'amour qui refleurissait les joies mortes. [Marie THIÉRY]. FARINE DUTAUT, le meilleur aliment des enfants"
+"Jean
+
+",Person,PER,12907,12913,,illeur aliment des enfants La « petite mère » de [Jean ]Le médecin était parti ne laissant à André Meynier
+André Meynier,Person,PER,12950,12963,,e » de Jean Le médecin était parti ne laissant à [André Meynier] penché sur son fils qu'un fragile espoir avec de
+Claude,Person,PER,13180,13186,,"aient : — Je voudrais maman... ma chère maman ! [Claude] en écoutant les syllabes qui tombaient lentement,"
+Jean,Person,PER,13497,13501,,"ière adoucie de la lampe, de visage pâle du petit [Jean] apparaissait tout menu, aminci, dévoré par deux g"
+André,Product,MISC,13700,13705,,"porte, anxieux. Dans le cœur étroit d'angoisse d'[André] cette figure rappelait le visage de la mère, de C"
+Claire Meynier,Person,PER,13754,13768,,"é cette figure rappelait le visage de la mère, de [Claire Meynier], dont il était divorcé depuis un an. Le triste so"
+Claire,Person,PER,13949,13955,,"Certes, il avait été longtemps payé de retour et [Claire] l'avait aimé autant du moins que la puérile jeune"
+Ah !,Product,MISC,14266,14270,,rré plus fortement à la naissance d'un enfant... [Ah !] l'exquise chose que ce bébé... A peine en état de
+Jean,Person,PER,14374,14378,,"prendre ce qui se passait autour de lui, le petit [Jean] s'attacha violemment à sa mère avec une sorte de"
+"acca-
+
+pareuse",Product,MISC,14446,14460,,"ent à sa mère avec une sorte de passion idolâtre, [acca- pareuse], qui flattait la jeune femme... André ne connut p"
+André,Product,MISC,14493,14498,,"e, acca- pareuse, qui flattait la jeune femme... [André] ne connut pas la jalousie : il était ravi lorsque"
+Claire,Person,PER,14611,14617,,"ès avoir baisé sans se laisser les mains fines de [Claire] si belle dans quelque robe de soie, pleurait de v"
+Claire,Person,PER,14873,14879,,"xe, fait la vie un peu mesquine, presque gênée... [Claire], privée de son cadre de richesse, se crut diminué"
+André,Product,MISC,15729,15734,,ours comme une blessure saignante et la douleur d'[André] s'augmenta de la douleur de son enfant. A huit an
+Jean,Person,PER,15787,15791,,"augmenta de la douleur de son enfant. A huit ans, [Jean], séparé de sa mère, tomba soudain dans une langue"
+André,Product,MISC,16123,16128,,"aimait pourtant, prononcer le nom de l'absente ; [André], d'ailleurs, avait détourné des confidences trop"
+Jean,Person,PER,16443,16447,,"miracles avec lesquels la science ne compte pas, [Jean] était condamné !... \\\ L'enfant, dont la poitr"
+Papa,Person,PER,16725,16729,,"n au-delà mystérieux, murmura confidentielle : — [Papa]... pardonne-moi !... Bois-tu, je ne pouvais plus"
+André,Product,MISC,16951,16956,,"ui, c'était là le mal dont mourait l'enfant et qu'[André] avait à peine soupçonné... La mère manquait à cet"
+Jean,Person,PER,17164,17168,,omme l'ange gardien d'un paradis perdu : le petit [Jean] avait fait des caresses des joies mères maternell
+Claire,Person,PER,17295,17301,,"îcheur des baisers d'autrefois... En s'en allant, [Claire] avait emporté toute l'âme de son fils !... Au dé"
+irrévocabile séparation,Product,MISC,17450,17473,,"eures fixées par le tribunal qui avait prononcé l'[irrévocabile séparation], mais Jean revenait de ces entrevues dans un tel"
+Jean,Person,PER,17480,17484,,"ui avait prononcé l'irrévocabile séparation, mais [Jean] revenait de ces entrevues dans un tel état de cri"
+André,Product,MISC,17578,17583,,"de crise nerveuse que, sur le conseil du médecin, [André] dut s'opposer à ces visites, et Claire, soit par"
+Claire,Person,PER,17616,17622,,"du médecin, André dut s'opposer à ces visites, et [Claire], soit par orgueil ou insouciance, soit par l'entr"
+"...
+
+A",Product,MISC,17770,17776,,"longs mois, n'avait pas cherché à revoir son fils[... A] cette heure, André s'accusait de tout le mal : Cl"
+André,Product,MISC,17790,17795,,"pas cherché à revoir son fils... A cette heure, [André] s'accusait de tout le mal : Claire n'était pas se"
+Claire,Person,PER,17824,17830,,"A cette heure, André s'accusait de tout le mal : [Claire] n'était pas seulement épouse, elle était mère !.."
+Claire,Person,PER,18395,18401,,Une pensée lui vint... Il sava-t où se trouvait [Claire] et tout dernièrement il avait entendu parler pour
+Jean,Person,PER,18920,18924,,"ter l'enfant et, se penchant, il dit tout bas : — [Jean], je vais chercher « petite mère » !... Elle viend"
+André,Product,MISC,19189,19194,,"nt, pressé : — Oui, maman, maman !... \\\ Déjà [André] était dehors... Le froid de décembre, par une nui"
+avenue d'Antin,Location,LOC,19346,19360,,"acre... Au premier étage d'une riche maison de l'[avenue d'Antin], un domestique, auprès duquel il s'informait, lui"
+Madame,Person,PER,19424,19430,,"e, auprès duquel il s'informait, lui répondit : « [Madame] vient de partir... Elle prend ce soir le rapide d"
+l'Italie,Location,LOC,19498,19506,,". Elle prend ce soir le rapide de dix heures pour [l'Italie]... » Encore une heure !... Affolé, avec la visio"
+Affolé,Person,PER,19535,19541,,"heures pour l'Italie... » Encore une heure !... [Affolé], avec la vision de l'enfant qui attend, André ava"
+André,Product,MISC,19582,19587,,".. Affolé, avec la vision de l'enfant qui attend, [André] avait repris sa course... La gare de Lyon !... p"
+gare de Lyon,Location,LOC,19618,19630,,"t qui attend, André avait repris sa course... La [gare de Lyon] !... plus qu'un quart d'heure avant le départ du"

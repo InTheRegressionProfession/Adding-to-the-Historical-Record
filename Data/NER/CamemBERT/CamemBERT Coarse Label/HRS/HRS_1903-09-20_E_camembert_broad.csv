@@ -1,0 +1,78 @@
+﻿entity,coarse_type,model_label,start,end,confidence,context
+une semaine,Time,DATE,637,648,0.995,"la paix profonde du désert environnant. Pendant [une semaine], fidèle au rendez-vous, je fus en proie aux senti"
+un mois dans,Time,DATE,989,1001,0.9907,"us riez messieurs ? Si vous aviez comme moi passé [un mois dans] le milieu que j'ai essayé d'évoquer à vos yeux, c"
+Un,Time,DATE,1492,1494,0.8296,"qui devait brusquer le dénouement de l'aventure. [Un] soir, l'un des volets légèrement entr'ouvert par"
+capitaine Parmentier,Person,PER,2481,2501,0.8931,t à tout hasard que je demandai hardiment : — Le [capitaine Parmentier] du 3e tireailleurs sollicite l'honneur de déposer
+Aoh!,Person,PER,2608,2612,0.7617,mmages aux pieds de la maîtresse de la maison. — [Aoh!] répondit une voix avec un léger accent britanniqu
+lord Cockerill,Person,PER,3631,3645,0.9614,". — Excusez de n'avoir pas encore présenté moi : [lord Cockerill], commodore de la flotte de sa Majesté Britannique"
+Majesté Britannique,Location,LOC,3676,3695,0.7794,"oi : lord Cockerill, commodore de la flotte de sa [Majesté Britannique]. — Ah ! par exemple, m'écriai-je involontairemen"
+l'Anglais,Location,LOC,3868,3877,0.7056,"J'étais amoureux de vous. — Aoh ! shocking, fit [l'Anglais]. — Je m'explique, mylord. J'étais amoureux de l'"
+Ye,Person,PER,3983,3985,0.4676,"le rossignol qui charmait les nuits du désert. — [Ye]s, vraiment ? Je avais une voix de... comment dite"
+lord Cockerill,Person,PER,4196,4210,0.8769,"Vô voulez entendre moi ? Et sans plus de façon, [lord Cockerill], commodore de la flotte de sa Majesté Britannique"
+sa Majesté,Person,PER,4238,4248,0.5029,"façon, lord Cockerill, commodore de la flotte de [sa Majesté] Britannique, se mit au piano. Je fermai instinct"
+Britannique,Location,LOC,4249,4260,0.6875,"d Cockerill, commodore de la flotte de sa Majesté [Britannique], se mit au piano. Je fermai instinctivement les"
+lord Cockerill,Person,PER,4460,4474,0.9279,"chantait avec une voix divine. Très aimablement, [lord Cockerill] m'offrit un doigt de whiskey que j'acceptai, et e"
+lord Cockerill,Person,PER,5272,5286,0.9516,"onde. Depuis lors, ai-je besoin de vous le dire, [lord Cockerill], aujourd'hui amiral, est devenu un de mes meilleu"
+aujourd'hui ,Time,DATE,5288,5300,0.8803,"rs, ai-je besoin de vous le dire, lord Cockerill, [aujourd'hui ]amiral, est devenu un de mes meilleurs amis, et so"
+Maintenant,Time,DATE,5658,5668,0.929,"apote et la jeta sur les épaules de la petite. — [Maintenant], reprit-il après avoir ramassé son fusil et en en"
+ans,Time,DATE,5901,5904,0.6023,ication ne fut pas longue... L'enfant avait seize [ans] et se nommait Marie. Elle était fille d'une vivan
+Marie,Person,PER,5919,5924,0.9036,longue... L'enfant avait seize ans et se nommait [Marie]. Elle était fille d'une vivandière du corps d'arm
+Murat,Person,PER,5980,5985,0.9836,"était fille d'une vivandière du corps d'armée de [Murat]. Quatre jours auparavant, à la suite d'une rencon"
+Quatre jours,Time,DATE,5987,5999,0.9951,"fille d'une vivandière du corps d'armée de Murat. [Quatre jours] auparavant, à la suite d'une rencontre entre les"
+Naples,Location,LOC,6067,6073,0.8387,"suite d'une rencontre entre les troupes du roi de [Naples] et celles du général Konownitzin, amis et ennemis"
+Konownitzin,Person,PER,6095,6106,0.9908,"les troupes du roi de Naples et celles du général [Konownitzin], amis et ennemis s'étaient trouvés un moment conf"
+Français,Location,LOC,6169,6177,0.5652,emis s'étaient trouvés un moment confondus et les [Français] avaient dû se retirer promptement devant des hord
+Cosaques,Product,MISC,6233,6241,0.9465,"nt dû se retirer promptement devant des hordes de [Cosaques] accourus au secours des Russes. Alors, les femmes"
+Russes,Product,MISC,6266,6272,0.6123,"nt des hordes de Cosaques accourus au secours des [Russes]. Alors, les femmes NOS BATEAUX DE PLAISIR Clich"
+BATEAUX DE PLAISIR,Product,MISC,6297,6315,0.619,"rus au secours des Russes. Alors, les femmes NOS [BATEAUX DE PLAISIR] Cliché de M. André TABARY. Les excursionnistes"
+André TABARY,Person,PER,6330,6342,0.9919,les femmes NOS BATEAUX DE PLAISIR Cliché de M. [André TABARY]. Les excursionnistes du Petit Journal débarquant
+Petit Journal,Product,MISC,6368,6381,0.9058,liché de M. André TABARY. Les excursionnistes du [Petit Journal] débarquant au Pecq — Une duchesse ? ne manque ja
+Pecq,Location,LOC,6396,6400,0.9793,es excursionnistes du Petit Journal débarquant au [Pecq] — Une duchesse ? ne manque jamais d'intéresser q
+Parmentier,Person,PER,6709,6719,0.9885,"à penser, messieurs, conclut en riant le colonel [Parmentier], la tête que font les auditeurs la première fois"
+EAU DE JAVEL,Person,PER,6781,6793,0.716,e font les auditeurs la première fois ! THÉANO. [EAU DE JAVEL] blanchit le linge sans l'altérer. JOLI-CŒUR Un
+Mar-seillaise,Person,PER,7258,7271,0.5579,"ent morte. Soudain, les paroles enflammées de la [Mar-seillaise] passent à travers la bise glaciale qui souffle lu"
+Moskowa,Product,MISC,7577,7584,0.8858,"vétéran de vingt-huit ans, blessé la veille à la [Moskowa] et laissé pour mort sur le champ de bataille. Re"
+Empereur,Person,PER,7868,7876,0.9268,"e, bien persuadé qu'il finirait par retrouver son [Empereur]. Il s'en allait, toujours chantant, quand il s'a"
+Trois secondes après,Time,DATE,8547,8567,0.9874,"sarmant son fusil, j'allais faire un beau coup ! [Trois secondes après], il tenait entre ses bras robustes une jeune fill"
+Joli-Cœur,Person,PER,9474,9483,0.9622,"; car, dans la garde, tous savaient ce que valait [Joli-Cœur], décoré à Wagram de la main même de l'Empereur !"
+Wagram,Location,LOC,9494,9500,0.9129,", tous savaient ce que valait Joli-Cœur, décoré à [Wagram] de la main même de l'Empereur ! Il s'agissaient"
+l'Empereur,Person,PER,9520,9530,0.9664,"ait Joli-Cœur, décoré à Wagram de la main même de [l'Empereur] ! Il s'agissaient maintenant un petit mamelon à"
+maintenant un,Time,DATE,9550,9563,0.9302,"de la main même de l'Empereur ! Il s'agissaient [maintenant un] petit mamelon à la crête rocheuse et accidentée,"
+Joli-Cœur,Person,PER,9616,9625,0.916,"tit mamelon à la crête rocheuse et accidentée, où [Joli-Cœur] comptait attendre le jour suivant, car la nuit ve"
+Marie,Person,PER,9915,9920,0.9785,"à boire, dit-il alors en caressant sa moustache. [Marie], qui connaissait de longue date la réputation don"
+Joli-Cœur,Person,PER,10066,10075,0.9355,"t fini par se rassurer complètement au contact de [Joli-Cœur]. Aussi, ce fut en esquissant un gentil sourire qu"
+Joli-Cœur,Person,PER,10532,10541,0.9435,"enadier ; et ne craignez rien, il y en a encore. [Joli-Cœur] prit le verre, l'éleva à la hauteur de ses lèvres"
+Marie,Person,PER,10810,10815,0.93,e venait briser le verre qu'il tenait à la main. [Marie] jeta un cri d'effroi. — N'ayez donc pas peur ! l
+Joli-Cœur,Person,PER,10881,10890,0.959,ffroi. — N'ayez donc pas peur ! lui dit vivement [Joli-Cœur] en sautant sur son fusil et s'agenouillant derriè
+Cosaques,Product,MISC,11000,11008,0.7713,"er, face à l'ennemi. Au loin, des silhouettes de [Cosaques] s'agitaient confusément... Tout de suite, Joli-Cœ"
+Joli-Cœur,Person,PER,11051,11060,0.9536,"osaques s'agitaient confusément... Tout de suite, [Joli-Cœur] envoya une balle dans le tas !... Un homme tomba."
+Marie,Person,PER,11477,11482,0.894,"usillade crépita et plusieurs balles sifflèrent. [Marie] se pelotonna, peureuse... Joli-Cœur éclata de rir"
+Joli-Cœur,Person,PER,11509,11518,0.9465,"lles sifflèrent. Marie se pelotonna, peureuse... [Joli-Cœur] éclata de rire, visa et fit feu ! — Un de moins"
+Austerlitz,Product,MISC,11801,11811,0.975,"tres !... Tenez, tel que vous me voyez, j'étais à [Austerlitz]... Ah ! ça n'a pas été long : l'armée bordait le"
+Rhin,Location,LOC,11861,11865,0.9923,... Ah ! ça n'a pas été long : l'armée bordait le [Rhin] depuis Strasbourg jusqu'à Mayence ; l'Empereur ar
+Strasbourg,Location,LOC,11873,11883,0.9945,"n'a pas été long : l'armée bordait le Rhin depuis [Strasbourg] jusqu'à Mayence ; l'Empereur arrive, fait exécute"
+Mayence,Location,LOC,11892,11899,0.9939,"l'armée bordait le Rhin depuis Strasbourg jusqu'à [Mayence] ; l'Empereur arrive, fait exécuter, par une conve"
+l'Empereur,Person,PER,11902,11912,0.9756,"rdait le Rhin depuis Strasbourg jusqu'à Mayence ; [l'Empereur] arrive, fait exécuter, par une conversion à droit"
+Une demi-heure après,Time,DATE,12022,12042,0.8703,"vaste changement de front qu'on ait jamais vu... [Une demi-heure après], la ligne entière était en feu et notre cavalerie"
+Joli-Cœur,Person,PER,12348,12357,0.9856,ente mille prisonniers !... La nuit était venue. [Joli-Cœur] ne pouvait plus compter que sur les détonations p
+Joli-Cœur,Person,PER,12671,12680,0.9706,"emi à terre. — Vous n'êtes pas blessée ? demanda [Joli-Cœur] tout en rechargeant son fusil. — Pas du tout, ré"
+Iéna,Location,LOC,12850,12854,0.9507,"me rappelle le brouillard qui nous enveloppait à [Iéna], quand nous avons commencé la fusillade. Encore u"
+Eylau,Location,LOC,13044,13049,0.9502,"e généraux tués, blessés ou prisonniers !... Et à [Eylau], quelle purge ! Je suis sûr que le roi de Prusse"
+Prusse,Location,LOC,13092,13098,0.9555,"à Eylau, quelle purge ! Je suis sûr que le roi de [Prusse] court encore ! À partir de ce moment, l'ennemi s"
+Joli-Cœur,Person,PER,13253,13262,0.9516,"t sans interruption. Abrité derrière son rocher, [Joli-Cœur] rendait de son mieux leur politesse aux assaillan"
+Friedland,Location,LOC,13369,13378,0.5817,"s sans interrompre le récit de ses exploits. — A [Friedland], continua-t-il, les Russes ont laissé sur le terr"
+Russes,Location,LOC,13399,13405,0.6647,"ses exploits. — A Friedland, continua-t-il, les [Russes] ont laissé sur le terrain vingt-quatre généraux,"
+Cosaques,Product,MISC,13555,13563,0.8593,"canon !... Là-has, dans le noir de la nuit, les [Cosaques] tiraient toujours, au hasard, bien certains qu'un"
+Joli-Cœur,Person,PER,13745,13754,0.9555,tenir tête. — Nom d'une pipe !... hurla soudain [Joli-Cœur] en secouant sa main gauche dont le petit doigt ve
+Joli-Cœur,Person,PER,14698,14707,0.834,", que l'allure martiale et l'insouciance brave de [Joli-Cœur] avaient déjà fait rêver. — Alors, je continue..."
+Friedland,Person,PER,14801,14810,0.9197,"nue... Voyons, j'en étais... — Vous me parliez de [Friedland]. — C'est vrai. Je venais de tuer vingt-quatre gé"
+Rrrrran,Person,PER,14936,14943,0.7915,"hommes ! Une nouvelle décharge cingla l'air. — [Rrrrran] !... goguenarda Joli-Cœur, qui réplicha aussitôt"
+Joli-Cœur,Person,PER,14960,14969,0.9829,"décharge cingla l'air. — Rrrrran !... goguenarda [Joli-Cœur], qui réplicha aussitôt par l'envoï d'une balle..."
+Eckmühl,Person,PER,15035,15042,0.987,"ussitôt par l'envoï d'une balle... Ça me rappelle [Eckmühl], ajouta-t-il, reprenant ainsi l'histoire de son o"
+Autrichiens,Location,LOC,15104,15115,0.967,"l, reprenant ainsi l'histoire de son odyssée. Les [Autrichiens] étaient si pressés de filer, qu'ils ont oublié su"
+trois mois après et,Time,DATE,15357,15376,0.9461,cela ne les a pas empêchés de revenir à la charge [trois mois après et] de nous laisser encore sur les bras trois générau
+Masséna,Person,PER,15572,15579,0.9905,"Moi, je n'ai jamais tant ri !... Figurez-vous que [Masséna], sous le prétexte qu'il s'était blessé la veille"
+l'Empereur,Person,PER,15817,15827,0.971,"vu, quitte à y laisser sa peau !... C'est là que [l'Empereur] m'a décoré !... conclut-il fièrement. Une lueur"
+Joli-Cœur,Person,PER,15970,15979,0.9701,"orizon ! Appuyé sur son rempart de rocs neigeux, [Joli-Cœur], penché en avant, essayait de percer l'ombre épai"
+Grande Armée,Product,MISC,16855,16867,0.5778,"ue continuait le morne défilé. La retraite de la [Grande Armée] commençait, éclairée par les dernières flammes de"
+l'incendie de Moscou,Product,MISC,16918,16938,0.8393,"commençait, éclairée par les dernières flammes de [l'incendie de Moscou] !"

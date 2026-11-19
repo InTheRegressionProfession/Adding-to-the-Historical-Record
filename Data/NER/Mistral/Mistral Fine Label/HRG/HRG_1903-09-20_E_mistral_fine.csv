@@ -1,0 +1,42 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+opéra-comique,prod.media,Product,prod.media,96,109,,"ouïr une voix jeune et fraîche, chantant un air d'[opéra-comique] connu. Je n'étais pas revenu de la stupéfaction"
+la maison close,loc.fac,Location,loc.fac,1423,1438,,"j'avais peur, en cherchant à percer le mystère de [la maison close], de faire s'évanouir l'enchantement. Vous riez me"
+capitaine Parmentier,pers.ind,Person,pers.ind,3019,3039,,st à tout hasard que je demandai hardiment: — Le [capitaine Parmentier] du 3e tireailleurs sollicite l'honneur de déposer
+3e tireailleurs,org.adm,Organization,org.adm,3043,3058,,demandai hardiment: — Le capitaine Parmentier du [3e tireailleurs] sollicite l'honneur de déposer ses hommages aux p
+lord Cockerill,pers.ind,Person,pers.ind,4164,4178,,"e. — Excusez de n'avoir pas encore présenté moi: [lord Cockerill], commodore de la flotte de sa Majesté Britannique"
+commodore de la flotte de sa Majesté Britannique,org.adm,Organization,org.adm,4180,4228,,"n'avoir pas encore présenté moi: lord Cockerill, [commodore de la flotte de sa Majesté Britannique]. — Ah! par exemple, m'écriai-je involontairement"
+capitaine,pers.ind,Person,pers.ind,4572,4581,,"ment? Je avais une voix de... comment dites-vous, [capitaine]... Ténor, je crois. — Ténor, ténor... Si vous di"
+lord Cockerill,pers.ind,Person,pers.ind,4721,4735,,"? Vô vôlez entendre moi? Et sans plus de façon, [lord Cockerill], commodore de la flotte de sa Majesté Britannique"
+sa Majesté Britannique,org.adm,Organization,org.adm,4763,4785,,"façon, lord Cockerill, commodore de la flotte de [sa Majesté Britannique], se mit au piano. Je fermai instinctivement les"
+"miss aux yeux verts d'émeraude, aux cheveux d'or",pers.ind,Person,pers.ind,4879,4927,,"t les yeux, et je crus ouïr à nouveau une exquise [miss aux yeux verts d'émeraude, aux cheveux d'or], qui chantait avec une voix divine. Très aimable"
+whiskey,prod.media,Product,prod.media,5019,5026,,"aimablement, lord Cockerill m'offrit un doigt de [whiskey] que j'acceptai, et en choquant mon verre contre l"
+M. André TABARY,pers.ind.articleauthor,Person,pers.ind.articleauthor,6078,6093,,té aimé par... NOS BATEAUX DE PLAISIR Cliché de [M. André TABARY]. Les excursionnistes du Petit Journal débarquant
+Petit Journal,prod.media,Product,prod.media,6119,6132,,liché de M. André TABARY. Les excursionnistes du [Petit Journal] débarquant au Pecq — Une duchesse? ne manque jam
+duchesse,pers.ind,Person,pers.ind,6159,6167,,nistes du Petit Journal débarquant au Pecq — Une [duchesse]? ne manque jamais d'intéresser quelque flatteur.
+reine,pers.ind,Person,pers.ind,6247,6252,,"r quelque flatteur. — Mieux que cela. — Oh! Une [reine] alors? — Non, vous ne trouverez pas. Il vaut mie"
+colonel Parmentier,pers.ind,Person,pers.ind,6453,6471,,"s laisse à penser, messieurs, conclut en riant le [colonel Parmentier], la tête que font les auditeurs la première fois!"
+THEANO,prod.media,Product,prod.media,6523,6529,,la tête que font les auditeurs la première fois! [THEANO]. EAU DE JAVEL blanchit le linge sans l'altérer.
+EAU DE JAVEL,prod.media,Product,prod.media,6532,6544,,ue font les auditeurs la première fois! THEANO. [EAU DE JAVEL] blanchit le linge sans l'altérer. JOLI-CŒUR Un
+JOLI-CŒUR,prod.media,Product,prod.media,6580,6589,,"EAU DE JAVEL blanchit le linge sans l'altérer. [JOLI-CŒUR] Un ciel bas et gris, nuancé de rouille, une imme"
+la Moskowa,loc.adm.nat,Location,loc.adm.nat,7325,7335,,"de, vétéran de vingt-huit ans, blessé la veille à [la Moskowa] et laissé pour mort sur le champ de bataille. Re"
+l'armée,org.adm,Organization,org.adm,7562,7569,,", il s'était tranquillement mis à la recherche de [l'armée], bien persuadé qu'il finirait par retrouver son E"
+son Empereur,pers.ind,Person,pers.ind,7614,7626,,"armée, bien persuadé qu'il finirait par retrouver [son Empereur]. Il s'en allait, toujours chantant, quand il s'a"
+Murat,pers.ind,Person,pers.ind,9066,9071,,"était fille d'une vivandière du corps d'armée de [Murat]. Quatre jours auparavant, à la suite d'une rencon"
+Austerlitz,loc.adm.town,Location,loc.adm.town,9481,9491,,"utres!... Tenez, tel que vous me voyez, j'étais à [Austerlitz]... Ah! ça n'a pas été long: l'armée bordait le Rh"
+Strasbourg,loc.adm.town,Location,loc.adm.town,9551,9561,,"n'a pas été long: l'armée bordait le Rhin depuis [Strasbourg] jusqu'à Mayence; l'Empereur arrive, fait exécuter"
+Mayence,loc.adm.town,Location,loc.adm.town,9570,9577,,"l'armée bordait le Rhin depuis Strasbourg jusqu'à [Mayence]; l'Empereur arrive, fait exécuter, par une conver"
+l'Empereur,pers.ind,Person,pers.ind,9579,9589,,"ordait le Rhin depuis Strasbourg jusqu'à Mayence; [l'Empereur] arrive, fait exécuter, par une conversion à droit"
+Iéna,loc.adm.town,Location,loc.adm.town,10534,10538,,"me rappelle le brouillard qui nous enveloppait à [Iéna], quand nous avons commencé la fusillade. Encore u"
+Eylau,loc.adm.town,Location,loc.adm.town,10726,10731,,"te généraux tués, blessés ou prisonniers!... Et à [Eylau], quelle purge! Je suis sûr que le roi de Prusse c"
+roi de Prusse,pers.ind,Person,pers.ind,10766,10779,,"!... Et à Eylau, quelle purge! Je suis sûr que le [roi de Prusse] court encore! A partir de ce moment, l'ennemi se"
+Friedland,loc.adm.town,Location,loc.adm.town,11049,11058,,"s sans interrompre le récit de ses exploits. — A [Friedland], continua-t-il, les Russes ont laissé sur le terr"
+Cosaques,pers.coll,Person,pers.coll,11234,11242,,"e canon!... Là-bas, dans le noir de la nuit, les [Cosaques] tiraient toujours, au hasard, bien certains qu'un"
+Joli-Cœur,pers.ind,Person,pers.ind,12376,12385,,"ue l'allure martiale et l'insouciance bravoure de [Joli-Cœur] avaient déjà fait rêver. — Alors, je continue..."
+Joli-Cœur,pers.ind,Person,pers.ind,12376,12385,,"ue l'allure martiale et l'insouciance bravoure de [Joli-Cœur] avaient déjà fait rêver. — Alors, je continue..."
+Friedland,loc.adm.town,Location,loc.adm.town,12480,12489,,"ue... Voyons, j'en étais... — Vous me parliez de [Friedland]. — C'est vrai. Je venais de tuer vingt-quatre gé"
+Eckmühl,loc.adm.town,Location,loc.adm.town,12712,12719,,"ussitôt par l'envoi d'une balle... Ça me rappelle [Eckmühl], ajouta-t-il, renarrant ainsi l'histoire de son o"
+Masséna,pers.ind,Person,pers.ind,13245,13252,,"Moi, je n'ai jamais tant ri!... Figurez-vous que [Masséna], sous le prétexte qu'il s'était blessé la veille"
+l'Empereur,pers.ind,Person,pers.ind,13488,13498,,"e vu, quitte à y laisser sa peau!... C'est là que [l'Empereur] m'a décoré!... conclut-il fièrement. Une lueur s"
+cosaques,pers.coll,Person,pers.coll,13845,13853,,"r la nature. — Que se passe-t-il donc? voilà les [cosaques] qui filent au galop, murmurait-il par instant, in"
+Grande Armée,org.adm,Organization,org.adm,14523,14535,,"ue continuait le morne défilé. La retraite de la [Grande Armée] commençait, éclairée par les dernières flammes de"
+Moscou,loc.adm.town,Location,loc.adm.town,14600,14606,,lairée par les dernières flammes de l'incendie de [Moscou]!

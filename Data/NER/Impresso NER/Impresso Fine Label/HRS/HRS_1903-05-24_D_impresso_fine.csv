@@ -1,0 +1,79 @@
+﻿entity,fine_type,coarse_type,model_label,start,end,confidence,context
+Jean,pers.ind,Person,pers.ind,267,271,0.8341,"la jeune femme avait reculé, comme pris d'effroi. [Jean] se meurt!... se hâte de dire André sourdement. Il"
+André,pers.ind,Person,pers.ind,301,306,0.8799,"pris d'effroi. Jean se meurt!... se hâte de dire [André] sourdement. Il veut vous voir... Cette fois, l'a"
+André,pers.ind,Person,pers.ind,374,379,0.877,"ut vous voir... Cette fois, l'accent déchirant d'[André], ses paroles oppressées, l'angoisse de son regard"
+André,pers.ind,Person,pers.ind,702,707,0.9473,!... — Mais vous n'avez donc pas de cœur? s'écria [André]. Déjà vous devriez avoir bondi hors de ce wagon.
+André,pers.ind,Person,pers.ind,1355,1360,0.9442,"rmes perlèrent à ses cils... — Mon Dieu! implora [André], on ferme les portières!... Au nom de votre bonhe"
+André,pers.ind,Person,pers.ind,1665,1670,0.9669,"ssa entre lui et le wagon et ferma la portière... [André] se hissa sur le marchepied, s'accrocha à la poign"
+Claire,pers.ind,Person,pers.ind,1729,1735,0.9361,"sur le marchepied, s'accrocha à la poignée... — [Claire], Claire, répétait-il, si vous venez, le petit Jea"
+Claire,pers.ind,Person,pers.ind,1737,1743,0.9489,"marchepied, s'accrocha à la poignée... — Claire, [Claire], répétait-il, si vous venez, le petit Jean ne mou"
+petit Jean,pers.ind,Person,pers.ind,1776,1786,0.962,"— Claire, Claire, répétait-il, si vous venez, le [petit Jean] ne mourra pas... Votre présence va le sauver!..."
+PIERRE VERNOU,pers.ind,Person,pers.ind,2599,2612,0.9234,habilitée par la minute exquisite de son retour. [PIERRE VERNOU]. Une Exposition capillaire Les journaux scienti
+professeur Busch,pers.ind,Person,pers.ind,2732,2748,0.9561,e du monde entier ont relaté la découverte par le [professeur Busch] des curieuses propriétés que possède un alcaloïde
+illustre Jenner,pers.ind,Person,pers.ind,3551,3566,0.9697,"les premières manifestations du phonographe, et l'[illustre Jenner] lui-même, qui découvrit la vaccine, n'est-il pas"
+professeur Busch,pers.ind,Person,pers.ind,3686,3702,0.9678,st pour convaincre les derniers incrédules que le [professeur Busch] s'est décidé à une grande manifestation. A parti
+Paris,loc.adm.town,Location,loc.adm.town,3799,3804,0.8908,"rtir de ce jour, il ouvre dans son laboratoire de [Paris], 10, rue des Bons-Enfants, une Exposition publiqu"
+des Bons,loc.oro,Location,loc.oro,3814,3822,0.2717,", il ouvre dans son laboratoire de Paris, 10, rue [des Bons]-Enfants, une Exposition publique des milliers d'a"
+-Enfants,loc.adm.town,Location,loc.adm.town,3822,3830,0.2979,"re dans son laboratoire de Paris, 10, rue des Bons[-Enfants], une Exposition publique des milliers d'attestati"
+professeur Busch,pers.ind,Person,pers.ind,4148,4164,0.9775,"mondaines ou de situation, n'ont pu autoriser le [professeur Busch] à exposer le témoignage écrit de leur reconnaissa"
+professeur Busch,pers.ind,Person,pers.ind,4400,4416,0.9766,rire leur cas avec le plus de détails possible au [professeur Busch]; il leur enverra gratuitement le moyen de conquér
+Docteur RIOU-DELMET,pers.ind,Person,pers.ind,4528,4547,0.9732,rouver rapidement une chevelure digne d'Absalon. [Docteur RIOU-DELMET]. SI VOUS TOUSSEZ ne prenez que les tablettes COQ
+inventeur JOHN TAVERNIER,pers.ind,Person,pers.ind,4627,4651,0.8764,"ue les tablettes COQUELIGOTS marquées au nom de l'[inventeur JOHN TAVERNIER], seules efficaces contre le rhume. MOTS POUR RIR"
+X..,pers.ind,Person,pers.ind,4742,4745,0.8385,"POUR RIRE Entre amis : — Tu sais, il paraît que [X..]. a attrapé la fièvre typhoïde après avoir mangé u"
+docteur Daudolat,pers.ind,Person,pers.ind,5000,5016,0.9417,"? demandait une cuisinière à une autre. — Chez le [docteur Daudolat], un spirite. — Qu'est-ce que c'est que ça, un spi"
+M. Pasteur,pers.ind,Person,pers.ind,5464,5474,0.9715,"E GUÉRIE sans opération et sans souffrance Quand [M. Pasteur] découvrit le vaccin de la rage, on ne voulut pas"
+M. Claverie,pers.ind,Person,pers.ind,5642,5653,0.967,"tre en doute sa bonne foi. Il en a été de même de [M. Claverie], de Paris. Il a inventé, pour contenir et guérir"
+Paris,loc.adm.town,Location,loc.adm.town,5658,5663,0.9068,"bonne foi. Il en a été de même de M. Claverie, de [Paris]. Il a inventé, pour contenir et guérir les hernie"
+Monsieur Claverie,pers.ind,Person,pers.ind,6731,6748,0.9637,"r de vos appareils perfectionnés. « Recevez, cher [Monsieur Claverie], mes hommages et mon admiration pour cette œuvre"
+Enson VAUTIER,pers.ind,Person,pers.ind,6836,6849,0.8291,"cette œuvre humanitaire car je suis bien guéri. » [Enson VAUTIER], « (Cuisinier), Villa des Pins, à Lamotte-Beuvron"
+Cuisinier,loc.adm.reg,Location,loc.adm.reg,6854,6863,0.2145,"taire car je suis bien guéri. » Enson VAUTIER, « ([Cuisinier]), Villa des Pins, à Lamotte-Beuvron (Loir-et-Cher"
+Villa,loc.adm.reg,Location,loc.adm.reg,6866,6871,0.262,"suis bien guéri. » Enson VAUTIER, « (Cuisinier), [Villa] des Pins, à Lamotte-Beuvron (Loir-et-Cher). Aprè"
+des Pins,loc.adm.town,Location,loc.adm.town,6872,6880,0.3723,"bien guéri. » Enson VAUTIER, « (Cuisinier), Villa [des Pins], à Lamotte-Beuvron (Loir-et-Cher). Après un semb"
+Lamotte-Beuvron,loc.adm.town,Location,loc.adm.town,6884,6899,0.8128,"» Enson VAUTIER, « (Cuisinier), Villa des Pins, à [Lamotte-Beuvron] (Loir-et-Cher). Après un semblable témoignage, n"
+Loir,loc.adm.reg,Location,loc.adm.reg,6901,6905,0.3964,"« (Cuisinier), Villa des Pins, à Lamotte-Beuvron ([Loir]-et-Cher). Après un semblable témoignage, nous so"
+-et-,loc.adm.town,Location,loc.adm.town,6905,6909,0.2888,"uisinier), Villa des Pins, à Lamotte-Beuvron (Loir[-et-]Cher). Après un semblable témoignage, nous sommes"
+Cher,loc.adm.reg,Location,loc.adm.reg,6909,6913,0.3473,"nier), Villa des Pins, à Lamotte-Beuvron (Loir-et-[Cher]). Après un semblable témoignage, nous sommes per"
+M. Claverie,pers.ind,Person,pers.ind,7329,7340,0.9553,"ment et sans frais à tous ceux qui le demandent à [M. Claverie], 234, Faubourg Saint-Martin, à Paris. Visite et a"
+234,pers.ind,Person,pers.ind,7342,7345,0.4093,"frais à tous ceux qui le demandent à M. Claverie, [234], Faubourg Saint-Martin, à Paris. Visite et applic"
+Faubourg,pers.ind,Person,pers.ind,7347,7355,0.34,"à tous ceux qui le demandent à M. Claverie, 234, [Faubourg] Saint-Martin, à Paris. Visite et application tous"
+Saint-Martin,loc.adm.town,Location,loc.adm.town,7356,7368,0.3013,"eux qui le demandent à M. Claverie, 234, Faubourg [Saint-Martin], à Paris. Visite et application tous les jours, m"
+Paris,loc.adm.town,Location,loc.adm.town,7372,7377,0.8841,"dent à M. Claverie, 234, Faubourg Saint-Martin, à [Paris]. Visite et application tous les jours, même les d"
+M. Vincent,pers.ind,Person,pers.ind,7997,8007,0.9582,"e d'un vœu. Écrire par lettre ou carte postale à [M. Vincent], 8, place Victor-Hugo, à Grenoble, qui répondra g"
+place,loc.adm.reg,Location,loc.adm.reg,8012,8017,0.1058,"rire par lettre ou carte postale à M. Vincent, 8, [place] Victor-Hugo, à Grenoble, qui répondra gratis et f"
+Victor,loc.oro,Location,loc.oro,8018,8024,0.2458,"ar lettre ou carte postale à M. Vincent, 8, place [Victor]-Hugo, à Grenoble, qui répondra gratis et franco p"
+-Hugo,loc.adm.town,Location,loc.adm.town,8024,8029,0.2581,"tre ou carte postale à M. Vincent, 8, place Victor[-Hugo], à Grenoble, qui répondra gratis et franco par co"
+Grenoble,loc.adm.town,Location,loc.adm.town,8033,8041,0.8899,"rte postale à M. Vincent, 8, place Victor-Hugo, à [Grenoble], qui répondra gratis et franco par courrier, et e"
+Monsieur Prud'homme,pers.ind,Person,pers.ind,9001,9020,0.8298,"avé, ce doit être le pas d'une femme... Alors?... [Monsieur Prud'homme] qui, par hasard, prenait encore l'air à sa fenêtr"
+Jeanne Bertin,pers.ind,Person,pers.ind,9297,9310,0.9509,"gaz, il reconnaît les traits doux et fatigués de [Jeanne Bertin], Jeanne la vertueuse et jolie couturière, la peti"
+M. Prud'homme,pers.ind,Person,pers.ind,9375,9388,0.9635,"tueuse et jolie couturière, la petite orpheline. [M. Prud'homme] eut un soubresaut d'inquiétude, puis il se rappel"
+Jeanne,pers.ind,Person,pers.ind,9724,9730,0.5578,ma sans bruit sa fenêtre et s'en fut se coucher. [Jeanne] marchait vite. Elle avait hâte de se retrouver en
+"Monsieur Henri VIDAL,
+Rédacteur en chef de l'Echo des Poètes",pers.ind,Person,pers.ind,10383,10443,0.9156,"amina sa trouvaille. Elle lut une souscription : [Monsieur Henri VIDAL, Rédacteur en chef de l'Echo des Poètes] (En ville.) Ce devait être quelque manuscrit per"
+ville,pers.ind,Person,pers.ind,10448,10453,0.5834,"VIDAL, Rédacteur en chef de l'Echo des Poètes (En [ville].) Ce devait être quelque manuscrit perdu par un"
+Jeanne,pers.ind,Person,pers.ind,11371,11377,0.6799,olitaires de deux jeunes gens éperdus d'amour... [Jeanne] continua de tourner les feuillets... Oh! la bonne
+Pierrot,pers.ind,Person,pers.ind,12359,12366,0.8383,naît peut-être. La ville n'est pas si grande... « [Pierrot]! » C'est un pseudonyme... Pas de chance. Le pauvr
+miss Kinsley,pers.ind,Person,pers.ind,12705,12717,0.9759,mme l'enveloppe du rouleau prince qui va épouser [miss Kinsley]. Pauvre homme! Il mourra sans savoir ce que c'est
+Bertrand,pers.ind,Person,pers.ind,13252,13260,0.9619,"elle, se joignait une instruction solide. Quant à [Bertrand], il avait fini par trouver un cheval à peu près m"
+Bordighera,loc.adm.town,Location,loc.adm.town,13427,13437,0.908,"la côte. Mais, le second dimanche de son séjour à [Bordighera], il fit une rencontre qui devait lui procurer des"
+LÉON DE TINSEAU,pers.ind,Person,pers.ind,14284,14299,0.7547,ment la consolation sortie d'une bouche humaine! [LÉON DE TINSEAU]. (La suite au prochain numéro.) FEUILLETON DU S
+"FONTLUCE
+
+IX",pers.ind,Person,pers.ind,14394,14406,0.5495,"DU SUPPLÉMENT ILLUSTRÉ du Petit Journal — 24 — [FONTLUCE IX] — Si je demandais à rester, expliqua-t-il en sou"
+rue,loc.adm.reg,Location,loc.adm.reg,14587,14590,0.1165,"idées subversives. Revenue dans son hôtel de la [rue] de Monceau qu'elle tenait de son père, la marquis"
+de Monceau,loc.adm.town,Location,loc.adm.town,14591,14601,0.3768,"es subversives. Revenue dans son hôtel de la rue [de Monceau] qu'elle tenait de son père, la marquise, en dépit"
+Bertrand,pers.ind,Person,pers.ind,14737,14745,0.971,"des invitations pour un dîner. La date arrivée, [Bertrand] eut la migraine et resta couché jusqu'au lendemai"
+Bertrand,pers.ind,Person,pers.ind,14944,14952,0.9708,"e fois que j'aurai du monde? — J'avoue, répondit [Bertrand], que je suis moins fort cette année qu'à l'ordina"
+Midi,loc.adm.nat,Location,loc.adm.nat,15118,15122,0.2719,"santé est le premier des biens: un hiver dans le [Midi] remettra la vôtre. Aux premières gelées, nous par"
+Nice,loc.adm.town,Location,loc.adm.town,15182,15186,0.9064,"la vôtre. Aux premières gelées, nous parlons pour [Nice]. Mme de Fontluc, en parlant ainsi, faisait contr"
+Mme de Fontluc,pers.ind,Person,pers.ind,15189,15203,0.9701,"e. Aux premières gelées, nous parlons pour Nice. [Mme de Fontluc], en parlant ainsi, faisait contre mauvaise fortun"
+Mme de Fontluc,pers.ind,Person,pers.ind,15976,15990,0.9681,"dre parti pour lui et se souvenir un peu trop que [Mme de Fontluc] était entrée dans le faubourg Saint-Germain, comm"
+faubourg,loc.adm.reg,Location,loc.adm.reg,16012,16020,0.2157,"peu trop que Mme de Fontluc était entrée dans le [faubourg] Saint-Germain, comme elle était entrée dans l'égl"
+Saint-Germain,loc.adm.town,Location,loc.adm.town,16021,16034,0.4189,"que Mme de Fontluc était entrée dans le faubourg [Saint-Germain], comme elle était entrée dans l'église militante:"
+Flora Kinsley,pers.ind,Person,pers.ind,16385,16398,0.9516,"s, la consola quand il fallut se mettre en route: [Flora Kinsley] et sa tante passaient régulièrement tous leurs hi"
+Nice,loc.adm.town,Location,loc.adm.town,16455,16459,0.9456,tante passaient régulièrement tous leurs hivers à [Nice]. Une nouvelle chance s'offrait. Hélas! en mettan
+Bertrand,pers.ind,Person,pers.ind,16549,16557,0.9729,"en mettant le pied sur la promenade des Anglais, [Bertrand] et sa mère furent salués par la grande nouvelle d"
+Europe,loc.adm.nat,Location,loc.adm.nat,16805,16811,0.9011,"esse, qui passe pour la plus méchante langue de l'[Europe]. Et, permettez-moi de vous le dire, vous arrivez"
+Bordighera,loc.adm.town,Location,loc.adm.town,17087,17097,0.9014,aire mes malles. J'ai une petite maison retenue à [Bordighera]; j'y couche demain et je compte bien que vous vie
+Bertrand,pers.ind,Person,pers.ind,17565,17573,0.9634,"Tant mieux! L'ennui, parfois est un bon remède. [Bertrand], de son côté, se consolait par cette réflexion:"
+Paris,loc.adm.town,Location,loc.adm.town,17711,17716,0.9263,", ma mère n'en pourra plus, et nous reviendrons à [Paris]. C'est presque la banlieue des Bretons. Ainsi, p"
+Bertrand,pers.ind,Person,pers.ind,18030,18038,0.9576,"tenta une sortie, c'est-à-dire qu'elle entreprit [Bertrand] sur ses amours: — Voyons! parlez franchement. Vo"

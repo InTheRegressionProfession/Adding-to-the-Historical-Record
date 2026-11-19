@@ -1,0 +1,24 @@
+﻿entity,fine_type,coarse_type,impresso_type,change,model_label,start,end,confidence,context
+M. LEPINE,pers.ind,Person,pers.ind,confirmed,pers.ind,0,9,,"[M. LEPINE] était lacérée, elle en mit une autre sur laquell"
+l'Écho des poètes,prod.media,Product,,added,prod.media,277,294,,"garçons de bureau de garde dans l'antichambre de [l'Écho des poètes] à parler au rédacteur en chef. L'huissier, en pe"
+Jeanne,pers.ind,Person,pers.ind,confirmed,pers.ind,479,485,,"e nom, mademoiselle, et l'objet de votre visite. [Jeanne], très troublée, obéit à cette injonction et écriv"
+Jeanne Bertin,pers.ind,Person,pers.ind,confirmed,pers.ind,543,556,,"roublée, obéit à cette injonction et écrivit : « [Jeanne Bertin] désire remettre à M. le rédacteur en chef un manu"
+M. Henri Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,910,924,,"onne marquait une coquetterie efféminée : c'était [M. Henri Vidal]. — Mademoiselle, dit-il, en voyant entrer Jeanne"
+Pierrot,pers.ind,Person,pers.ind,confirmed,pers.ind,1944,1951,,"s votre manuscrit ; mais vous avez tort de signer [Pierrot], mettez plutôt Pierrette ; vous aurez plus de suc"
+Pierrette,pers.ind,Person,pers.ind,confirmed,pers.ind,1967,1976,,"s vous avez tort de signer Pierrot, mettez plutôt [Pierrette] ; vous aurez plus de succès, on est au féminisme."
+M. Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,2262,2270,,"si curieusement tourné, Jeanne recevait un mot de [M. Vidal] qui l'invitait à se présenter à son bureau... El"
+M. Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,2636,2644,,"es. » Dans l'antichambre, elle donna son nom. — [M. Vidal] est occupé, mademoiselle. Il vous — Oh ! non, pa"
+Jeanne,pers.ind,Person,pers.ind,confirmed,pers.ind,2843,2849,,"e. Ceci fut dit avec une emphase qui fit sourire [Jeanne]. — Et tenez, voici une poésie qui est de moi, pu"
+Loin du monde,prod.media,Product,,added,prod.media,3020,3033,,"d'accepter cet exemplaire... Mon Dieu ! c'est « [Loin du monde] ». Serait-ce possible ? Que dire, que faire ?..."
+M. PUIBARAUD,pers.ind,Person,pers.ind,confirmed,pers.ind,3856,3868,,se sauver sans rien dire et de laisser le jeune [M. PUIBARAUD] DIRECTEUR DU SERVICE DES RECHERCHES garder plus
+Jeanne,pers.ind,Person,pers.ind,confirmed,pers.ind,4780,4786,,"ontre... — Vous aviez raison de croire en moi... [Jeanne], je vous aime... Depuis longtemps nos âmes se che"
+le Mail,loc.oro,Location,,added,loc.oro,5035,5042,,"issait, et que leurs pas les avaient conduits sur [le Mail], sous les grands arbres ombreux, il murmura : —"
+Paul ANDRÉ,pers.ind,Person,pers.ind,confirmed,pers.ind,5548,5558,,"de la jeune fille, le poète mit un long baiser. [Paul ANDRÉ]. LE CRIME DE LA RUE CHALGRIN Arrestation de l'a"
+RUE CHALGRIN,loc.oro,Location,,added,loc.oro,5576,5588,,mit un long baiser. Paul ANDRÉ. LE CRIME DE LA [RUE CHALGRIN] Arrestation de l'assassin à Glasgow présente se
+Glasgow,loc.adm.town,Location,loc.adm.town,confirmed,loc.adm.town,5618,5625,,"E DE LA RUE CHALGRIN Arrestation de l'assassin à [Glasgow] présente ses excuses, il vous prie de l'attendre"
+M. Vidal,pers.ind,Person,pers.ind,confirmed,pers.ind,6289,6297,,"ement, monsieur, et... — Vous désirez voir aussi [M. Vidal] ? Cet aussi fit tressaillir la jeune fille. — O"
+Pierrette,pers.ind,Person,pers.ind,confirmed,pers.ind,6630,6639,,"que je ne comprends pas non plus, c'est ce nom de [Pierrette] par lequel ils ont remplacé mon pseudonyme de Pie"
+Pierrot,pers.ind,Person,pers.ind,confirmed,pers.ind,6686,6693,,tte par lequel ils ont remplacé mon pseudonyme de [Pierrot]... Enfin la signature importe peu... Être imprimé
+Mademoiselle Pierrette,pers.ind,Person,pers.ind,confirmed,pers.ind,6839,6861,,"ichambre ; il s'inclina devant la jeune fille. — [Mademoiselle Pierrette], voulez-vous me suivre ?... Quand ils furent dan"
+M. HAMARD,pers.ind,Person,pers.ind,confirmed,pers.ind,7342,7351,,"us, mademoiselle... Pardonnez-moi de ne pas vous [M. HAMARD] M. BERTILLON CHEF DU SERVICE D'IDENTIFICATION"
+M. BERTILLON,pers.ind,Person,pers.ind,confirmed,pers.ind,7353,7365,,selle... Pardonnez-moi de ne pas vous M. HAMARD [M. BERTILLON] CHEF DU SERVICE D'IDENTIFICATION
