@@ -1,0 +1,7 @@
+﻿engine,source,source_name,docs,micro_cer,micro_wer,macro_cer,macro_wer
+Chandra-2,HRG,High Rez Gallica,45,0.043309,0.062086,0.047688,0.06729
+Chandra-2,HRS,High Rez ScanTent,45,0.076831,0.106689,0.082937,0.113855
+Chandra-2,LRS,Low Rez ScanTent,10,0.122631,0.157262,0.123543,0.156948
+Tesseract,HRG,High Rez Gallica,45,0.137774,0.265784,0.151787,0.28255
+Tesseract,HRS,High Rez ScanTent,45,0.486534,0.701465,0.495631,0.7148
+Tesseract,LRS,Low Rez ScanTent,10,0.484624,0.66725,0.489411,0.673931

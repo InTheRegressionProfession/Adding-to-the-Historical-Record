@@ -1,0 +1,47 @@
+OCR Quality Assessment
+Engines: Chandra-2, Tesseract   Sources: High Rez Gallica, High Rez ScanTent, Low Rez ScanTent   Gold pages: 45
+Matrix: each cell on all its pages (n shown). Comparisons below use only shared pages.
+
+Micro CER
+                 High Rez Gallica     High Rez ScanTent      Low Rez ScanTent
+Chandra-2           0.0433 (n=45)         0.0768 (n=45)         0.1226 (n=10)
+Tesseract           0.1378 (n=45)         0.4865 (n=45)         0.4846 (n=10)
+
+Micro WER
+                 High Rez Gallica     High Rez ScanTent      Low Rez ScanTent
+Chandra-2           0.0621 (n=45)         0.1067 (n=45)         0.1573 (n=10)
+Tesseract           0.2658 (n=45)         0.7015 (n=45)         0.6673 (n=10)
+
+Engine vs engine, same source (paired):
+  engines on High Rez Gallica: Chandra-2 vs Tesseract, 45 shared page(s)
+      CER 0.0433 vs 0.1378   WER 0.0621 vs 0.2658   -> lower CER: Chandra-2
+      pages with lower CER: Chandra-2 43, Tesseract 2, tied 0
+  engines on High Rez ScanTent: Chandra-2 vs Tesseract, 45 shared page(s)
+      CER 0.0768 vs 0.4865   WER 0.1067 vs 0.7015   -> lower CER: Chandra-2
+      pages with lower CER: Chandra-2 45, Tesseract 0, tied 0
+  engines on Low Rez ScanTent: Chandra-2 vs Tesseract, 10 shared page(s)
+      CER 0.1226 vs 0.4846   WER 0.1573 vs 0.6673   -> lower CER: Chandra-2
+      pages with lower CER: Chandra-2 9, Tesseract 1, tied 0
+
+Source vs source, same engine (paired):
+  sources with Chandra-2: High Rez Gallica vs High Rez ScanTent, 45 shared page(s)
+      CER 0.0433 vs 0.0768   WER 0.0621 vs 0.1067   -> lower CER: High Rez Gallica
+      pages with lower CER: High Rez Gallica 42, High Rez ScanTent 3, tied 0
+  sources with Chandra-2: High Rez Gallica vs Low Rez ScanTent, 10 shared page(s)
+      CER 0.0912 vs 0.1226   WER 0.1143 vs 0.1573   -> lower CER: High Rez Gallica
+      pages with lower CER: High Rez Gallica 8, Low Rez ScanTent 2, tied 0
+  sources with Chandra-2: High Rez ScanTent vs Low Rez ScanTent, 10 shared page(s)
+      CER 0.1066 vs 0.1226   WER 0.1385 vs 0.1573   -> lower CER: High Rez ScanTent
+      pages with lower CER: High Rez ScanTent 4, Low Rez ScanTent 6, tied 0
+  sources with Tesseract: High Rez Gallica vs High Rez ScanTent, 45 shared page(s)
+      CER 0.1378 vs 0.4865   WER 0.2658 vs 0.7015   -> lower CER: High Rez Gallica
+      pages with lower CER: High Rez Gallica 42, High Rez ScanTent 3, tied 0
+  sources with Tesseract: High Rez Gallica vs Low Rez ScanTent, 10 shared page(s)
+      CER 0.1728 vs 0.4846   WER 0.3028 vs 0.6673   -> lower CER: High Rez Gallica
+      pages with lower CER: High Rez Gallica 9, Low Rez ScanTent 1, tied 0
+  sources with Tesseract: High Rez ScanTent vs Low Rez ScanTent, 10 shared page(s)
+      CER 0.5067 vs 0.4846   WER 0.7238 vs 0.6673   -> lower CER: Low Rez ScanTent
+      pages with lower CER: High Rez ScanTent 5, Low Rez ScanTent 5, tied 0
+
+Micro = pooled over all characters/words. Per-page and macro
+Figures are in the CSV files.

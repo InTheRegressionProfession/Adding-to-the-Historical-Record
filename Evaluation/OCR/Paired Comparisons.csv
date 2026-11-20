@@ -1,0 +1,19 @@
+﻿comparison,metric,a,b,docs,a_micro,b_micro,difference_b_minus_a,a_macro,b_macro,pages_a_better,pages_b_better,ties
+engines on High Rez Gallica,CER,Chandra-2,Tesseract,45,0.043309,0.137774,0.094465,0.047688,0.151787,43,2,0
+engines on High Rez Gallica,WER,Chandra-2,Tesseract,45,0.062086,0.265784,0.203698,0.06729,0.28255,44,1,0
+engines on High Rez ScanTent,CER,Chandra-2,Tesseract,45,0.076831,0.486534,0.409703,0.082937,0.495631,45,0,0
+engines on High Rez ScanTent,WER,Chandra-2,Tesseract,45,0.106689,0.701465,0.594776,0.113855,0.7148,45,0,0
+engines on Low Rez ScanTent,CER,Chandra-2,Tesseract,10,0.122631,0.484624,0.361993,0.123543,0.489411,9,1,0
+engines on Low Rez ScanTent,WER,Chandra-2,Tesseract,10,0.157262,0.66725,0.509988,0.156948,0.673931,9,1,0
+sources with Chandra-2,CER,High Rez Gallica,High Rez ScanTent,45,0.043309,0.076831,0.033522,0.047688,0.082937,42,3,0
+sources with Chandra-2,WER,High Rez Gallica,High Rez ScanTent,45,0.062086,0.106689,0.044603,0.06729,0.113855,39,6,0
+sources with Chandra-2,CER,High Rez Gallica,Low Rez ScanTent,10,0.091164,0.122631,0.031467,0.095237,0.123543,8,2,0
+sources with Chandra-2,WER,High Rez Gallica,Low Rez ScanTent,10,0.114257,0.157262,0.043005,0.119524,0.156948,7,3,0
+sources with Chandra-2,CER,High Rez ScanTent,Low Rez ScanTent,10,0.106644,0.122631,0.015987,0.111475,0.123543,4,6,0
+sources with Chandra-2,WER,High Rez ScanTent,Low Rez ScanTent,10,0.138454,0.157262,0.018808,0.142312,0.156948,4,6,0
+sources with Tesseract,CER,High Rez Gallica,High Rez ScanTent,45,0.137774,0.486534,0.34876,0.151787,0.495631,42,3,0
+sources with Tesseract,WER,High Rez Gallica,High Rez ScanTent,45,0.265784,0.701465,0.435681,0.28255,0.7148,42,3,0
+sources with Tesseract,CER,High Rez Gallica,Low Rez ScanTent,10,0.172813,0.484624,0.311811,0.179427,0.489411,9,1,0
+sources with Tesseract,WER,High Rez Gallica,Low Rez ScanTent,10,0.302821,0.66725,0.364429,0.306871,0.673931,9,1,0
+sources with Tesseract,CER,High Rez ScanTent,Low Rez ScanTent,10,0.506678,0.484624,-0.022054,0.51536,0.489411,5,5,0
+sources with Tesseract,WER,High Rez ScanTent,Low Rez ScanTent,10,0.723847,0.66725,-0.056597,0.732215,0.673931,3,7,0
