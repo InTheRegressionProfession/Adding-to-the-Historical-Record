@@ -1,0 +1,1 @@
+Broad/Coarse are used interchangeably to describe the basic tier of NER entity labeling (e.g. PERS, LOC, ORG, TIME, and PROD).
