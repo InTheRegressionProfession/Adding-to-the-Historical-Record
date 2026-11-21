@@ -1,0 +1,2201 @@
+﻿group,document,entity,Mistral+imp_type,Qwen+imp_type,gold_type,verdict
+HRG,1892-12-10_C,Asie,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRG,1892-12-10_C,de Vaugirard,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1892-12-10_C,Gros-Rocher,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1892-12-10_C,Louis XIII,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRG,1892-12-10_C,Mecque,loc.fac,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1892-12-10_C,Myon,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1892-12-10_C,ONCLE SÉBASTIEN,pers.ind|prod.media,pers.ind,pers.ind,both right
+HRG,1892-12-10_C,Orient,loc.adm.reg|loc.adm.sup,loc.adm.sup,(not in gold),both wrong
+HRG,1892-12-10_C,Père Eternel,prod.doctr,pers.ind,pers.ind,only Qwen+imp right
+HRG,1892-12-10_C,Riou,,loc.phys.hydro,loc.phys.hydro,only Qwen+imp right
+HRG,1892-12-10_C,rue du Mail,,loc.oro,loc.oro,only Qwen+imp right
+HRG,1892-12-10_C,Tripolitaine,loc.adm.nat,loc.adm.reg,loc.adm.nat,only Mistral+imp right
+HRG,1895-08-04_B,Beni-Ghill,loc.adm.town,pers.coll,org.ent,both wrong
+HRG,1895-08-04_B,Midi,loc.adm.reg,loc.adm.reg|loc.adm.sup,loc.adm.reg,both right
+HRG,1895-08-04_B,Nord,org.adm,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1895-08-04_B,Opéra,,loc.fac,(not in gold),only Mistral+imp right
+HRG,1895-08-04_C,Allah,prod.doctr,pers.ind,pers.ind,only Qwen+imp right
+HRG,1895-08-04_C,Clairefontaine,loc.adm.town,loc.fac,loc.fac,only Qwen+imp right
+HRG,1895-08-04_C,Cévennes,loc.adm.reg,loc.phys.geo,loc.adm.reg,only Mistral+imp right
+HRG,1895-08-04_C,Poujol,loc.adm.reg|loc.adm.town,loc.adm.town,loc.adm.town,both right
+HRG,1895-08-04_C,Rouvre,loc.adm.town,loc.adm.town|loc.fac,loc.adm.town,both right
+HRG,1895-11-10_C,blonde Germaine,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1895-11-10_C,Bourse,,org.ent,(not in gold),only Mistral+imp right
+HRG,1895-11-10_C,brick la Junon,org.ent,,(not in gold),only Qwen+imp right
+HRG,1895-11-10_C,Chine,,loc.adm.nat,(not in gold),only Mistral+imp right
+HRG,1895-11-10_C,de Kairon,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1895-11-10_C,Granvillais,,pers.coll,(not in gold),only Mistral+imp right
+HRG,1895-11-10_C,Joseph Montfrin,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1895-11-10_C,Junon,org.ent,loc.unk|org.ent,prod,both wrong
+HRG,1895-11-10_C,Kairon,loc.adm.town,loc.adm.town|loc.phys.hydro,loc.adm.town,both right
+HRG,1895-11-10_C,khan,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1895-11-10_C,la Chine,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1895-11-10_C,Nord,loc.adm.sup,,(not in gold),only Qwen+imp right
+HRG,1895-11-10_C,prince,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1895-11-10_C,Roger de Sartines,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1895-11-10_C,"Roger de Sartines, secrétaire de toutes les Sociétés artistiques de France",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1895-11-10_C,Soir de banlieue,,prod.media,(not in gold),only Mistral+imp right
+HRG,1895-11-10_C,Terre-Neuve,loc.adm.reg|loc.adm.town,loc.adm.nat,loc.adm.reg,only Mistral+imp right
+HRG,1901-12-15_C,Bonenfant,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1901-12-15_C,COQUELICOTS,,org.ent,(not in gold),only Mistral+imp right
+HRG,1901-12-15_C,Le Casque,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1901-12-15_C,Louis Saturnien,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1901-12-15_C,Marne,loc.adm.reg,loc.phys.hydro,loc.adm.reg,only Mistral+imp right
+HRG,1901-12-15_C,"monsieur On,",pers.ind,,pers.ind,only Mistral+imp right
+HRG,1901-12-15_C,"rue du Colombier, n° 106",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1901-12-15_C,Samaritain,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-02-01_E,Conservatoire,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-02-01_E,Dieu,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-02-01_E,Juliettes,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-02-01_E,le Roy,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-02-01_E,Manons,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-02-01_E,Marguerites,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-02-01_E,Marie THIÉRY,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRG,1903-02-01_E,porte Saint-Antoine,loc.oro,loc.fac,loc.oro,only Mistral+imp right
+HRG,1903-02-01_E,Rosenn,org.ent,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-02-01_E,rue des Faures,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-02-01_E,Rue Lafayette,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-02-01_E,Timide,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_B,Cross-Country national,org.ent,prod.media,(not in gold),both wrong
+HRG,1903-03-15_B,Empire allemand,org.adm|org.ent,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRG,1903-03-15_B,ferme Van den Neucker,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_B,forêt de Reinwald,,loc.phys.geo,(not in gold),only Mistral+imp right
+HRG,1903-03-15_B,frontière bulgare,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRG,1903-03-15_B,la dame blanche,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_B,La lune,loc.phys.astro,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_B,la muraille,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_B,la tonnelle,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_B,la villa invisible,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_B,Linkst,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_B,Reinwald,loc.adm.town|loc.phys.geo,loc.phys.geo,loc.phys.geo,both right
+HRG,1903-03-15_B,royaume d'Unbekanntreich,loc.adm.nat,loc.adm.reg,loc.adm.nat,only Mistral+imp right
+HRG,1903-03-15_B,Unbekanntreich,loc.adm.nat|loc.adm.town,loc.adm.nat,loc.adm.nat,both right
+HRG,1903-03-15_B,Union,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-03-15_B,Van den Neucker,,pers.ind,pers.coll,both wrong
+HRG,1903-03-15_B,vieux Freitag,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-03-15_B,vieux Peeter,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_B,Vorwärts,org.ent|pers.ind,pers.ind|prod.media,(not in gold),both wrong
+HRG,1903-03-15_D,1903,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-03-15_D,Ar Men,loc.adm.town,loc.phys.geo,(not in gold),both wrong
+HRG,1903-03-15_D,Bordeaux,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1903-03-15_D,Bouc,loc.fac,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-03-15_D,CARNAVAL,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_D,Chevre,loc.fac,loc.phys.geo,(not in gold),both wrong
+HRG,1903-03-15_D,Chevreau,loc.fac,loc.phys.geo,(not in gold),both wrong
+HRG,1903-03-15_D,Douarnenez,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1903-03-15_D,"Douarnenez, 1903",loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_D,Gironde,loc.adm.nat,loc.adm.reg,loc.adm.nat,only Mistral+imp right
+HRG,1903-03-15_D,Goff,org.ent|pers.ind,pers.ind,(not in gold),both wrong
+HRG,1903-03-15_D,HALEINE,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_D,JOHN TAVERNIER,org.ent,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-03-15_D,l'Ar Men,loc.fac,,loc.fac,only Mistral+imp right
+HRG,1903-03-15_D,Menez-hom,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-03-15_D,MENTHE EXCELSIOR,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_D,MER,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_D,moussé Pierrik,pers.ind,,pers.ind,only Mistral+imp right
+HRG,1903-03-15_D,Océan,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRG,1903-03-15_D,Pierres Noires,loc.fac,loc.phys.geo,loc.fac,only Mistral+imp right
+HRG,1903-03-15_D,Pierrik,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-03-15_D,Pont des Chats,loc.fac,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-03-15_D,r. des Faures,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-03-15_D,Raz de Sein,loc.adm.town,loc.phys.hydro,loc.phys.hydro,only Qwen+imp right
+HRG,1903-03-15_D,Rue Lafayette,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-03-15_D,van,loc.fac,loc.phys.geo,(not in gold),both wrong
+HRG,1903-03-15_D,île de Sein,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-03-22_G,"15, Rue de la Paix",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,"25, Avenue de la Grande-Armée",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,"5, Passage Verdeau",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,"61, r. Blanche",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,"89, Rue du Marché-aux-Herbes",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,A. M.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,A. PINARD,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-03-22_G,"A. PINARD, ingénieur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,ALLEM,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Amérique,loc.adm.nat,loc.adm.sup,(not in gold),both wrong
+HRG,1903-03-22_G,ANGLAIS,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,BARBE,org.ent|pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,BARY,pers.ind,org.ent,(not in gold),both wrong
+HRG,1903-03-22_G,BIJOUX TRIBAUDEAU,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Blanche,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,BLOND,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,BRIATTE-PIÉRIN,pers.ind,org.ent,pers.ind,only Mistral+imp right
+HRG,1903-03-22_G,BRUN,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Cheu,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,CHEVEUX,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,chim.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Cils,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,COMPTOIR DE MUSIQUE,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,Crème Loris,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,de la Grande-Armée,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,DEPENSIER,pers.ind,org.ent,(not in gold),both wrong
+HRG,1903-03-22_G,DIRECT,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,E. U. D'A.,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,ELECTRIC BELTS,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,ESP. RUSS,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Faculté de Paris,org.adm,org.ent,org.ent,only Qwen+imp right
+HRG,1903-03-22_G,Farine hongroise,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,Faubourg St-Denis,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,Filles-du-Calvaire,loc.adm.town,loc.oro,(not in gold),both wrong
+HRG,1903-03-22_G,Fontaine de Jouvence,,loc.unk,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,G. Rigolet,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-03-22_G,H. SARDA,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-03-22_G,HERCULEX,pers.ind,prod.media,(not in gold),both wrong
+HRG,1903-03-22_G,HUILE FRISANTINE,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,INSTITUT DYNAMOTHÉRAPIQUE,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,ITAL,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,J. FIEGHE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-03-22_G,J. FIEGHE chim.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,J. GATTY,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-03-22_G,"J. GATTY anc. juge de paix, directr, memb. fondat., memb. d'hon.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,LL. D.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,loi,loc.adm.town,loc.adm.reg,(not in gold),both wrong
+HRG,1903-03-22_G,mer,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Montholon,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Motte Sage,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,MOUSTACHE,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,N. Y.,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-03-22_G,NOIR,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Passage Verdeau,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Ph. D.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,PORTU,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,RENOM,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,"RENOM, ing, 23",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Rue du Marché-aux-Herbes,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Saint-Antoine,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Sainte Bible,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-03-22_G,St-Denis,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,St-Sabin,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,TRIBAUDEAU,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-03-22_G,Vétérans des Armées de Terre,org.adm,,(not in gold),only Qwen+imp right
+HRG,1903-03-22_G,Vétérans des Armées de Terre et de Mer,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-04-12_C,Aigle,org.ent,loc.fac,prod,both wrong
+HRG,1903-04-12_C,Babors,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-04-12_C,Gave,loc.adm.town,loc.phys.hydro,loc.phys.hydro,only Qwen+imp right
+HRG,1903-04-12_C,Khalifat,pers.ind,loc.adm.town|pers.ind,(not in gold),both wrong
+HRG,1903-04-12_C,La Blanche,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-04-12_C,le creux de vallon,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRG,1903-04-12_C,Légion d'honneur,,org.ent,prod,both wrong
+HRG,1903-04-12_C,Tunis,loc.adm.town,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRG,1903-05-10_E,5,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-05-10_E,américain,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-05-10_E,Cheval noir,org.ent,loc.fac,(not in gold),both wrong
+HRG,1903-05-10_E,d'Arel,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-10_E,Docteur H. MARCELINS,pers.ind,pers.ind.articleauthor,pers.ind.articleauthor,only Qwen+imp right
+HRG,1903-05-10_E,Jean REIBRACH,pers.ind,pers.ind.articleauthor,pers.ind.articleauthor,only Qwen+imp right
+HRG,1903-05-10_E,Lizeuil,loc.adm.town|pers.coll,loc.adm.town|pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-10_E,rue de Berlin,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-05-10_E,rue des Bons-Enfants,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-05-10_E,rue Gasnierguy,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-05-24_B,cousin René Dubrail,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_B,Dubrail,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-05-24_B,Ecosse,loc.adm.nat,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-05-24_B,Figaro,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-05-24_B,Figaro à la mode,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_B,Filles de la charité,,org.ent,org.ent,only Qwen+imp right
+HRG,1903-05-24_B,JOCONDE,prod.media,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-24_B,l'officier,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_B,L'OUVRIER,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-05-24_B,M. Mesureur,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-24_B,"M. Mesureur, le nouveau directeur de l'Assistance publique",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_B,Normandie,loc.adm.nat,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-05-24_B,Patrie,,loc.adm.nat,(not in gold),only Mistral+imp right
+HRG,1903-05-24_B,Portugal,,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRG,1903-05-24_B,Prussiens,,pers.coll,(not in gold),only Mistral+imp right
+HRG,1903-05-24_B,royaume de Portugal,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_B,Saint-Cyr,loc.adm.town|org.ent,loc.adm.town,loc.adm.town,both right
+HRG,1903-05-24_B,Socia'e-Lucullus,prod.doctr,org.ent,(not in gold),both wrong
+HRG,1903-05-24_B,Sous-lieutenant du génie,org.adm,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_C,ami Paul Lisois,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_C,FARINE DUTAUT,prod.media,org.ent,(not in gold),both wrong
+HRG,1903-05-24_C,"Jean
+
+Le médecin",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_C,Joconde,pers.ind,pers.ind|prod.media,pers.ind,both right
+HRG,1903-05-24_C,Lyon,loc.fac,loc.adm.town,(not in gold),both wrong
+HRG,1903-05-24_C,Marie THIÉRY,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRG,1903-05-24_C,Paul Lisois,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-24_D,"234, Faubourg Saint-Martin",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-05-24_D,"8, place Victor-Hugo",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-05-24_D,Absalon,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-24_D,Brettes,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1903-05-24_D,COQUELICOTS,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-05-24_D,faubourg Saint-Germain,loc.adm.reg,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1903-05-24_D,illustre Jenner,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_D,inventeur JOHN TAVERNIER,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_D,jaborandi,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_D,Jenner,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-24_D,JOHN TAVERNIER,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-24_D,Loin du Monde,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-05-24_D,M. Prud'homme,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-24_D,Midi,loc.adm.nat,loc.adm.sup,loc.adm.reg,both wrong
+HRG,1903-05-24_D,PIERRE VERNOU,,pers.ind.articleauthor,pers.ind.articleauthor,only Qwen+imp right
+HRG,1903-05-24_D,place Victor-Hugo,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_D,promenade des Anglais,,loc.oro,loc.oro,only Qwen+imp right
+HRG,1903-05-24_D,rue de Monceau,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-05-24_D,Villa des Pins,loc.fac,loc.oro,loc.fac,only Mistral+imp right
+HRG,1903-05-24_D,ville,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_D,X..,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_E,CHEF DE LA SURETÉ,org.adm,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_E,CHEF DU SERVICE D'IDENTIFICATION,org.adm,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_E,Loin du monde,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-05-24_E,mademoiselle,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-24_E,Paul ANDRÉ,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRG,1903-05-24_E,RUE CHALGRIN,,loc.oro,loc.oro,only Qwen+imp right
+HRG,1903-05-31_B,Afrique,loc.adm.reg|loc.adm.sup,loc.adm.sup,loc.adm.sup,both right
+HRG,1903-05-31_B,Antilles,loc.adm.reg,loc.adm.sup,loc.adm.reg,only Mistral+imp right
+HRG,1903-05-31_B,Aurore,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-31_B,Bretons,,pers.coll,(not in gold),only Mistral+imp right
+HRG,1903-05-31_B,Côte-d'Ivoire,loc.adm.reg,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRG,1903-05-31_B,DE PORTUGAL,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_B,est,loc.adm.nat,loc.adm.sup,(not in gold),both wrong
+HRG,1903-05-31_B,fille Aurore,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_B,fort de Lucey,loc.fac,,loc.fac,only Mistral+imp right
+HRG,1903-05-31_B,Jardin d'Acclimatation,org.ent,loc.fac,loc.fac,only Qwen+imp right
+HRG,1903-05-31_B,La Saharienne,,prod.media,prod,both wrong
+HRG,1903-05-31_B,Midi,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_B,Montmorency,org.ent,loc.fac,prod,both wrong
+HRG,1903-05-31_B,Normands,,pers.coll,(not in gold),only Mistral+imp right
+HRG,1903-05-31_B,père Hémon,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-31_B,Saharien,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_B,Saharienne,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_B,Tage,,loc.phys.hydro,loc.phys.hydro,only Qwen+imp right
+HRG,1903-05-31_B,Terre-Neuvais,loc.adm.town|pers.coll,pers.coll,(not in gold),both wrong
+HRG,1903-05-31_B,TERRE-NEUVE,loc.adm.nat,loc.adm.town,loc.adm.reg,both wrong
+HRG,1903-05-31_B,Théodora,org.ent,loc.fac,prod,both wrong
+HRG,1903-05-31_F,"21, rue Michel-le-Comte",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-05-31_F,27 avril 1839,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,4 juillet 1837,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,Algarve,loc.adm.town,loc.adm.reg,(not in gold),both wrong
+HRG,1903-05-31_F,Amérique,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRG,1903-05-31_F,Angoulême,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1903-05-31_F,Bagasse,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,Bouchaud,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-31_F,Bouchaud Angoulême,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,Cannebière,,loc.oro,loc.adm.town,both wrong
+HRG,1903-05-31_F,Celse,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,Chevron,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,colonel,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,du 27 avril 1839,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-05-31_F,du 4 juillet 1837,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-05-31_F,G. Derfla,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-31_F,G. Derfla Monampleuil,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,Gamache,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-31_F,"M. Parapoul, enfant de la Cannebière",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,"M. Salvador, riche planteur de Santarem",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,M. Souvenir,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-31_F,"M. Souvenir, pharmacien",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,MM. Monnot-Bartholin,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-05-31_F,"Mme Haramel, citoyenne de la rue de Rivoli",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,Monampleuil,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1903-05-31_F,Para,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,Poudres de Santé de Cock,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-05-31_F,rue de Rivoli,,loc.oro,loc.oro,only Qwen+imp right
+HRG,1903-05-31_F,rue Neuve,,loc.oro,loc.oro,only Qwen+imp right
+HRG,1903-05-31_F,Santé de Cock,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-05-31_F,zouaves,org.adm,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,"93, Rue de Richelieu",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-06-14_F,A nier sa Belle,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,ALLOZOGRE,loc.unk,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,baron de la Vivandière,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-06-14_F,"baron de la Vivandière, président de la Société des courses plates",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,Brionnais,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,Burgonde,pers.coll,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,en 1895,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1903-06-14_F,Epoque,loc.unk,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,eure,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,Goth,pers.coll,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,Grand-Prix,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-06-14_F,Grand-Prix de Paris,,prod.media,org.ent,both wrong
+HRG,1903-06-14_F,Hun,pers.coll,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,Jeanson,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_F,L'AGRICULTURE MODERNE,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-06-14_F,l'Eure,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-06-14_F,l'Odéon,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-06-14_F,Le Sanglier-des-Ardennes,loc.adm.town,pers.ind,(not in gold),both wrong
+HRG,1903-06-14_F,Mot Carré,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,Myosotis,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_F,Médecine Végétale,org.ent,prod.media,(not in gold),both wrong
+HRG,1903-06-14_F,Oriéans,loc.unk,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1903-06-14_F,Perroquet,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,Pierregot,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_F,Rue de Richelieu,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,Sanglier-des-Ardennes,loc.adm.town,pers.ind,(not in gold),both wrong
+HRG,1903-06-14_F,Société des courses plates,,org.ent,org.ent,only Qwen+imp right
+HRG,1903-06-14_F,TIREBOUCHON II,pers.ind,loc.unk|pers.ind,(not in gold),both wrong
+HRG,1903-06-14_F,Vandale,pers.coll,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_F,Z,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,"1, rue de Compiègne",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-06-14_G,"23, rue St-Sabin",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-06-14_G,3,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,"8, Rue St-Joseph",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,83,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,"83, Rue Lafayette",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-06-14_G,"90, rue des Boulets",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-06-14_G,Barbe,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Be Filles-du-Calvaire,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Bougainville,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_G,BRIATTE-PIÉRIN,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-06-14_G,BUREAU,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Caramel,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,"che Bd Filles-du-Calvaire, 20",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-06-14_G,COMPAGNIE INTERNATIONALE MACHINES DE LUXE,,org.ent,org.ent,only Qwen+imp right
+HRG,1903-06-14_G,CYCLES MÉRICANT MAISON de CONFIANCE,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,D. CASSIGNEL,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_G,"D. CASSIGNEL, Imprimeur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,des Amandiers,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,des Boulets,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Dr R. SANDEN,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_G,"Dr R. SANDEN, ELECTRIC BELTS",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Dépt,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,détective,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,E. DUPAS,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_G,"E. DUPAS, Directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Encres Lorilleux,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Filles-du-Calvaire,loc.adm.town,loc.oro,(not in gold),both wrong
+HRG,1903-06-14_G,Flatters,org.ent,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_G,FORWARD,pers.ind,org.ent,(not in gold),both wrong
+HRG,1903-06-14_G,GUILLOU,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-06-14_G,H. SARDA,,org.ent,org.ent,only Qwen+imp right
+HRG,1903-06-14_G,HERCULEX,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,J. PIERRE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_G,J. PIERRE chim.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,"J. Posel, chim.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,J. RATIE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_G,"J. RATIE, phie",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,LA NATIONALÉ,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,LA SANTÉ RETROUVÉE DANS LA NATURE,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,Lafayette,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Lupérine,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,LUXE,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,M. LE GERANT,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,MARTINON,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-06-14_G,MÉRICANT,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,Oise,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,Papeterie du Petit Journal,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Passy,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Photographie,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,PORTU.,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,POUJADE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-06-14_G,"POUJADE, chimiste à",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,r. Boursault,pers.ind,loc.oro,(not in gold),both wrong
+HRG,1903-06-14_G,r. de Passy,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,rue de Compiègne,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Rue Mozart,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-06-14_G,Rue St-Joseph,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,RUSS.,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,Seine,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,Seine-et-Oise,loc.adm.reg,,loc.adm.reg,only Mistral+imp right
+HRG,1903-06-14_G,St-Sabin,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-06-14_G,TERRES MYSTÉRIEUSES,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-06-14_G,TRIBAUDEAU,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-08-30_F,Arcoli,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-08-30_F,Attique,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-08-30_F,Candien,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-08-30_F,Concile de Pise,org.adm,org.ent,(not in gold),both wrong
+HRG,1903-08-30_F,Cordelier,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-08-30_F,du XIVe siècle,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1903-08-30_F,duc de Valparaiso,pers.coll,pers.ind,(not in gold),both wrong
+HRG,1903-08-30_F,duc de Villaciosa,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-08-30_F,ducs de Villaciosa,pers.coll,,(not in gold),only Qwen+imp right
+HRG,1903-08-30_F,Frère,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-08-30_F,grecque,,loc.adm.nat,(not in gold),only Mistral+imp right
+HRG,1903-08-30_F,jeune Arcoli,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-08-30_F,Navarin,loc.adm.town,loc.unk,loc.adm.town,only Mistral+imp right
+HRG,1903-08-30_F,Satan,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-08-30_F,Vierge,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-08-30_F,VILLACIOSA,loc.adm.town|org.ent|pers.coll|pers.ind,loc.fac|pers.coll|pers.ind,(not in gold),both wrong
+HRG,1903-08-30_F,XIVe siècle,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-09-20_B,1er juin,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-09-20_B,20 mai,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-09-20_B,Afrique,loc.adm.reg,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRG,1903-09-20_B,Amérique,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRG,1903-09-20_B,bijoutiers,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_B,château de la Perdrivière,,loc.fac,loc.fac,only Qwen+imp right
+HRG,1903-09-20_B,couturiers,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_B,fourreur,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_B,Frasquita,loc.adm.nat|org.ent,loc.fac|loc.unk,prod,both wrong
+HRG,1903-09-20_B,Galilée,org.ent,loc.fac,prod,both wrong
+HRG,1903-09-20_B,Liberté,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_B,Maures,,pers.coll,(not in gold),only Mistral+imp right
+HRG,1903-09-20_B,modiste,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_B,Mon cher Picard,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_B,Opéra,,loc.fac,loc.fac,only Qwen+imp right
+HRG,1903-09-20_B,P.,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_B,P.-S,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-09-20_B,Pampas,org.ent,loc.fac,prod,both wrong
+HRG,1903-09-20_B,Picard,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-09-20_B,République,,loc.adm.nat,(not in gold),only Mistral+imp right
+HRG,1903-09-20_B,République française,org.adm,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRG,1903-09-20_B,s,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_B,Sahara,loc.adm.nat,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-09-20_E,Cosaques,,pers.coll,(not in gold),only Mistral+imp right
+HRG,1903-09-20_E,Empereur,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-09-20_E,Grande Armée,org.ent,org.adm,org.adm,only Qwen+imp right
+HRG,1903-09-20_E,la maison close,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_E,M. André TABARY,pers.ind.articleauthor,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-09-20_E,Majesté Britannique,,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRG,1903-09-20_E,Marie,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-09-20_E,Moskowa,loc.adm.town,loc.phys.hydro,loc.adm.town,only Mistral+imp right
+HRG,1903-09-20_E,Murat,org.ent,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-09-20_E,opéra-comique,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_E,Rrrrran,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-09-20_E,Russes,,pers.coll,(not in gold),only Mistral+imp right
+HRG,1903-10-11_B,1880,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-10-11_B,30 Juillet,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-10-11_B,Afghanistan,org.ent,loc.unk,loc.adm.nat,both wrong
+HRG,1903-10-11_B,Afrique,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRG,1903-10-11_B,Amiral-Gueydon,org.ent,loc.fac,prod,both wrong
+HRG,1903-10-11_B,Crimée,loc.adm.nat,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-10-11_B,Galtier,pers.coll|pers.ind,pers.coll,pers.coll,both right
+HRG,1903-10-11_B,ilot de Socotra,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-10-11_B,Lucy,org.ent|pers.ind,loc.fac|loc.unk|pers.ind,prod,both wrong
+HRG,1903-10-11_B,M.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-11_B,M. et Mme Liseret,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-11_B,M. Léon,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-10-11_B,Mme Liseret,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-11_B,Occident,loc.adm.sup,,(not in gold),only Qwen+imp right
+HRG,1903-10-11_B,Paris,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1903-10-11_B,Petit Journal,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-10-11_D,Bois-Roux,loc.adm.town|loc.fac,loc.fac,loc.fac,both right
+HRG,1903-10-11_D,capitaine,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-11_D,CITÉ BONNELLE,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-10-11_D,Dan'el,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-11_D,DUTAUT,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-10-11_D,FARINE DUTAUT,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-10-11_D,Forestier,pers.coll|pers.ind,pers.ind,(not in gold),both wrong
+HRG,1903-10-11_D,Mont-Blanc,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRG,1903-10-11_D,Vaugiron,loc.adm.town|pers.coll,pers.coll,(not in gold),both wrong
+HRG,1903-10-18_F,ACHILLE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_F,"ACHILLE, chimiste",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,ALLOBROGE,loc.adm.nat,pers.coll,(not in gold),both wrong
+HRG,1903-10-18_F,Athènes,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1903-10-18_F,Ballu,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,Batterie Electrique Portative,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,Bouchaud,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_F,Bresse,loc.adm.town,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-10-18_F,Brie,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_F,des Sens,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,Dr R. SANDEN,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,"Dr R. SANDEN ""HERCULEX""",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,Electricité,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,Gablin et Co,,org.ent,org.ent,only Qwen+imp right
+HRG,1903-10-18_F,"Gablin et Co, Phen",org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,GRACIA,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,HERCULEX,org.ent,org.ent|prod.media,(not in gold),both wrong
+HRG,1903-10-18_F,Institut de la Surdité,loc.fac,org.ent,org.ent,only Qwen+imp right
+HRG,1903-10-18_F,J. PIERRE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_F,"J. PIERRE, chim.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,J. RATIE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_F,"J. RATIE, phen",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,J.A. VINCENT,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_F,"J.A. VINCENT, Pharmacien de 1re classe",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,L'AGRICULTURE MODERNE,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-10-18_F,la Charité,,loc.adm.town,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,La Médecine,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,La Médecine des Sens,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-10-18_F,LA SANTÉ RETROUVÉE DANS LA NATURE,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-10-18_F,Lafayette,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,Montmartre,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,passage Verdeau,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,PENTAGONE,,loc.unk,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,Photo-Withe,,org.ent,org.ent,only Qwen+imp right
+HRG,1903-10-18_F,Pilules Orientales,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,POMMADE EXOTIQUE,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,r. Lafayette,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,r. Montmartre,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,RENOM,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,"RENOM, ingr",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,Rue Ballu,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,Rue de la Paix,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_F,rue de la Pépinière,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-10-18_F,Rue Ferdinand,,loc.oro,loc.oro,only Qwen+imp right
+HRG,1903-10-18_F,rue Saint-Sabin,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-10-18_F,rue St-Sabin,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-10-18_F,Sage,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,St-Sabin,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,Sœur,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,TUE-GIBIER,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_F,Verdeau,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,1er Juillet 1901,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-10-18_G,20,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,22 Janv. 1903,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1903-10-18_G,"8, r. St-Joseph, Paris",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-10-18_G,"90, rue des Boulets",loc.add.phys,,loc.add.phys,only Mistral+imp right
+HRG,1903-10-18_G,A. JANSEN,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_G,"A. JANSEN, invr, 15, r. du Sentier",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,A. TANQUEREY,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_G,"A. TANQUEREY, Directeur.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Bamboche,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,barbe,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Bd Filles-du-Calvaire,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,Be Filles-du-Calvaire,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,BLEOND,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,BLUN,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Bluze,loc.adm.town|pers.ind,org.ent|pers.ind,(not in gold),both wrong
+HRG,1903-10-18_G,Boursault,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,BRIATTE Fils,pers.ind,org.ent,(not in gold),both wrong
+HRG,1903-10-18_G,COMPTOIR NATIONAL D'HORLOGERIE,,org.ent,org.ent,only Qwen+imp right
+HRG,1903-10-18_G,COMPTOIR UNIVERSEL de FRANCE,,org.ent,prod.media,both wrong
+HRG,1903-10-18_G,Connaissances Utiles,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Corneville,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,D. CASSIGNEUL,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_G,"D. CASSIGNEUL, Imprimeur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,des Boulets,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,du 1er Juillet 1901,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,du 22 Janv. 1903,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,E. DUPAS,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_G,"E. DUPAS, Directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,E. GIRARD & A. BOITTE,pers.coll,org.ent,org.ent,only Qwen+imp right
+HRG,1903-10-18_G,Eustorga,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Filles-du-Calvaire,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Forgeron,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,FRANCE,loc.adm.nat|org.ent,loc.adm.nat,loc.adm.nat,both right
+HRG,1903-10-18_G,Gendrilon,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Germaine,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Gonet,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Inv.-Fab.,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,J. Pierre,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_G,"J. Pierre, Chimiste",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,"J. Posel, chim.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,LA NATIONALLE,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,Lafayette,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Lupér,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Lupérine,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,LUXE,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,m.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,M. A. TANQUEREY,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-10-18_G,"M. A. TANQUEREY, Directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,MERIMONT,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-10-18_G,Montholon,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Monté-Léone,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,MOUSTACHE,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,MÉRICANT,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,N.-D.-de-Nazareth,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,NOIR,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,P.S.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Passy,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,Peigne Merveilleux,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,Province,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,r. Bayen,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,r. de Passy,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,r. du Sentier,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,r. Gonet,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,R. N.-D.-de-Nazareth,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,r. St-Joseph,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,rue des Boulets,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,Rue du Temple,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,"Rue du Temple, 26",loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,rue Lafayette,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,St-Joseph,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,STOMACHIQUE SERRETTE,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,TUE-GIBIER,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-10-18_G,VIGOURAL,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-10-18_G,XOUR,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-12-06_B,Amérique du Sud,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRG,1903-12-06_B,Avril,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1903-12-06_B,Dagobert,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-06_B,des Oseraies,,loc.adm.town,(not in gold),only Mistral+imp right
+HRG,1903-12-06_B,Dumont-d'Urville,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-06_B,Durieu,org.ent|pers.coll,pers.coll,(not in gold),both wrong
+HRG,1903-12-06_B,Falkland,loc.adm.reg,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-12-06_B,France,loc.adm.nat|loc.adm.reg,loc.adm.nat,loc.adm.nat,both right
+HRG,1903-12-06_B,illustre compatriote Dumont-d'Urville,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_B,Juin,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1903-12-06_B,Klondike,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-12-06_B,M.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_B,M. le maire des Oseraies,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-06_B,Madame Durieu,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-12-06_B,mai,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1903-12-06_B,maire des Oseraies,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_B,Mars,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1903-12-06_B,navire argentin Uruguay,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_B,Noirs,,pers.coll,(not in gold),only Mistral+imp right
+HRG,1903-12-06_B,Nord,loc.adm.nat|loc.adm.reg|loc.phys.geo,loc.adm.reg|loc.adm.sup,loc.adm.reg,both right
+HRG,1903-12-06_B,Oseraies,loc.adm.town,loc.adm.town|loc.unk,loc.adm.town,both right
+HRG,1903-12-06_B,outre-Vosges,loc.unk,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-12-06_B,roi Dagobert,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_B,République argentine,org.adm,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRG,1903-12-06_B,second Empire,time.date.abs,org.adm,loc.adm.nat,both wrong
+HRG,1903-12-06_B,Sud,loc.phys.geo,loc.adm.sup,(not in gold),both wrong
+HRG,1903-12-06_B,Terre de Feu,loc.adm.nat,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-12-06_B,Terre Louis-Philippe,loc.adm.nat,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-12-06_B,Uruguay,,loc.fac,loc.adm.nat,both wrong
+HRG,1903-12-06_B,village des Oseraies,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_B,île Seymour,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-12-06_B,îles de la Géorgie du Sud,loc.adm.reg,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-12-06_D,"3 bis, rue Marbeuf",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-12-06_D,Annam,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-12-06_D,Beaux-Arts,org.ent,loc.fac,loc.fac,only Qwen+imp right
+HRG,1903-12-06_D,Brusselière,loc.adm.town,loc.unk,loc.adm.town,only Mistral+imp right
+HRG,1903-12-06_D,charmante Jane,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,cher Labruyère,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,Cour des comptes,,org.adm,(not in gold),only Mistral+imp right
+HRG,1903-12-06_D,de Lesia,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,"docteur Brunier, de Marseille, ancien interne des hôpitaux",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,Eden,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,Etoile,,loc.fac,(not in gold),only Mistral+imp right
+HRG,1903-12-06_D,Farec,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,Faubourg Saint-Martin,loc.adm.town,loc.oro,(not in gold),both wrong
+HRG,1903-12-06_D,hernie,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,L'Etoile,,loc.fac,(not in gold),only Mistral+imp right
+HRG,1903-12-06_D,Labruyère,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-06_D,Lesia,,pers.coll,pers.coll,only Qwen+imp right
+HRG,1903-12-06_D,"M. Claverie, le plus grand spécialiste de Paris",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,M. de Lesia,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-06_D,"M. de Lesia, conseiller à la Cour des comptes",org.adm,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,Marbeuf,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,Mme Dereims,pers.coll|pers.ind,pers.ind,pers.ind,both right
+HRG,1903-12-06_D,Mme Le Farec,pers.coll|pers.ind,pers.ind,pers.ind,both right
+HRG,1903-12-06_D,mère Le Farec,pers.coll|pers.ind,pers.ind,pers.ind,both right
+HRG,1903-12-06_D,Palais-Royal,,loc.fac,(not in gold),only Mistral+imp right
+HRG,1903-12-06_D,Palais-Royal-Etoile,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,pauvre Jane,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-06_D,Teille,loc.adm.town,pers.coll,pers.coll,only Qwen+imp right
+HRG,1903-12-13_G,"134, r. Réaumur",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-12-13_G,"19, Rue de la Pépinière",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-12-13_G,"23, rue St-Sabin",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,26,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,"53, Old Broad Street",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-12-13_G,"54 et 56, rue de Provence",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-12-13_G,"6, rue de Sèvres",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-12-13_G,"90, Rue des Boulets",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1903-12-13_G,A. DUPUY,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-12-13_G,ACHEILLE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-13_G,"ACHEILLE, chimiste",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Ad Alta,pers.ind,,prod.media,both wrong
+HRG,1903-12-13_G,Administrateur de l'Académie Dermothérapique,pers.ind.articleauthor,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Beauharnais,loc.adm.town,pers.ind,(not in gold),both wrong
+HRG,1903-12-13_G,Ch.,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Ch. de fer,,org.ent,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,Connaissances,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,CYCLES MÉRICANT Fros,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,D. CASSIGNEL,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-13_G,"D. CASSIGNEL, Imprimeur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,des Fabricants,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,DES TOUCHES,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-13_G,DONADEY,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-13_G,Doub.,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1903-12-13_G,E. DUPAS,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-13_G,"E. DUPAS, Directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,E. GIRARD & A. BOITTE,pers.coll,org.ent,org.ent,only Qwen+imp right
+HRG,1903-12-13_G,Eer. Luper,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Etranger,,loc.adm.sup,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,H. SARDÀ,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-12-13_G,Inv.-Fab.,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,J. Pierre,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-13_G,J. PIERRE chim.,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,"J. Pierre, Chimiste",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,J. Posel,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-13_G,"J. Posel, chie",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Journal de Médecine Française,,prod.media,prod.media,only Qwen+imp right
+HRG,1903-12-13_G,L'Avenir,,prod.media,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,Lafayette,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Luper,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,M.,pers.ind.articleauthor,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,M. l'Administrateur de l'Académie Dermothérapique,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-12-13_G,Maître Populaire,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1903-12-13_G,Médecine,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,MÉRICANT,,org.ent,org.ent,only Qwen+imp right
+HRG,1903-12-13_G,Napoleon,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,Old Broad Street,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Oural,loc.adm.nat,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1903-12-13_G,Papeterie du Petit Journal,prod.media,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,place de la Bourse,,loc.oro,loc.oro,only Qwen+imp right
+HRG,1903-12-13_G,POMMADE ROYER,prod.media,org.ent,(not in gold),both wrong
+HRG,1903-12-13_G,PONT-JEST,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1903-12-13_G,Pouvoir Magnétique,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Province,loc.adm.town,loc.adm.reg,(not in gold),both wrong
+HRG,1903-12-13_G,r. Lafayette,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,R. N. D.-de-Nazareth,loc.fac,loc.oro,(not in gold),both wrong
+HRG,1903-12-13_G,RENOM,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,"RENOM, ing.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Rue de la Pépinière,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,rue de Provence,loc.add.phys|loc.oro,loc.oro,(not in gold),both wrong
+HRG,1903-12-13_G,rue de Sèvres,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Rue des Boulets,loc.add.phys|loc.oro,loc.oro,(not in gold),both wrong
+HRG,1903-12-13_G,Rue du Temple,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-12-13_G,rue Lafayette,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,rue St-Joseph,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1903-12-13_G,Réaumur (place de la Bourse),loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Seine,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,st,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,St-Sabin,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Stéphanie,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1903-12-13_G,Stéphanie de Beauharnais,pers.ind,,prod.media,both wrong
+HRG,1903-12-13_G,TUE-MOINEAUX,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Utiles,org.ent,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,XIXe,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1903-12-13_G,Zibeline,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1911-01-08_F,"18, rue Crillon",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1911-01-08_F,AUDIOPHONEX,,org.ent,(not in gold),only Mistral+imp right
+HRG,1911-01-08_F,AUDIOPHONEX Lucq,org.ent,,org.ent,only Mistral+imp right
+HRG,1911-01-08_F,E.C.,org.ent,,(not in gold),only Qwen+imp right
+HRG,1911-01-08_F,F. 661,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1911-01-08_F,No 34,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1911-01-08_F,Pharmacie Gablin,loc.fac,org.ent,org.ent,only Qwen+imp right
+HRG,1911-01-08_F,pièce d'eau des Suisses,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRG,1911-01-08_F,place Victor-Hugo,loc.add.phys,loc.oro,(not in gold),both wrong
+HRG,1911-01-08_F,rue Crillon,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1911-01-08_F,Seine,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1911-01-08_F,tunnel de la gare des Chantiers,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1911-01-08_F,Wm. S. Rice,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-01-08_F,"Wm. S. Rice, Spécialiste",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_D,Justice,org.adm,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_D,la Cruche cassée,,prod.media,prod.media,only Qwen+imp right
+HRG,1911-06-25_D,la Principauté,,loc.adm.town,(not in gold),only Mistral+imp right
+HRG,1911-06-25_D,Palais de Justice,,loc.fac,loc.fac,only Qwen+imp right
+HRG,1911-06-25_D,Petit Journal,,prod.media,prod.media,only Qwen+imp right
+HRG,1911-06-25_D,père Liran,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-06-25_D,rue Bellechasse,loc.add.phys,loc.oro,loc.oro,only Qwen+imp right
+HRG,1911-06-25_D,vieil Antoine,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,"11, rue Lacharrière",loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,"112, rue Beaumarchais",loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,"2, rue Amelet",loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,"234, Faubourg Saint-Martin",loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,28 avril 1838,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1911-06-25_G,"5, passage Verneau",loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,A. Décey,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,Afrique,,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRG,1911-06-25_G,ANGLAIS,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,Av. des Moulins,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,Ballu,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,C. MARTY,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-06-25_G,"C. MARTY, imp.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,Cartier,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,Cas. crim.,,org.adm,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,Cass,org.adm,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,Cass. civ.,,org.adm,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,Cass. crim.,,org.adm,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,Chabannes,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1911-06-25_G,Chabannes le Cheylard,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,Cheylard,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1911-06-25_G,Corr,prod.media,org.adm,(not in gold),both wrong
+HRG,1911-06-25_G,CYCLES MERICANT,,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,d'Afrique,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,des Moulins,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,du 28 avril 1816,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,du 28 avril 1838,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,ESP,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,Etr.,loc.adm.nat,loc.adm.sup,(not in gold),both wrong
+HRG,1911-06-25_G,Faubourg Saint-Martin,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,Fou-le-romps,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,G. LASSEUR,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-06-25_G,G. LASSEUR IMPRIMERIE,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,Gablin,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,Jorin,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,Laboratoire OLBÉ,,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,Lagarçois,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,Laroche,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,LORILLEUX,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,Midi,,loc.adm.sup,loc.adm.reg,both wrong
+HRG,1911-06-25_G,NICOLET,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,OLBÉ,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,passage Verneau,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,Petit Journal,org.ent.pressagency,prod.media,prod.media,only Qwen+imp right
+HRG,1911-06-25_G,Ph. Franco Inglesa,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,Ph. MODERNE,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,Ph. St-Michel,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,Pharmacie Gablin,,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,PHOTO - VULGARISATrice,,org.ent,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,PORTU.,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,rue Amelet,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,rue Ballu,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,rue Beaumarchais,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,RUSS,prod.doctr,,(not in gold),only Qwen+imp right
+HRG,1911-06-25_G,Régie,,org.adm,(not in gold),only Mistral+imp right
+HRG,1911-06-25_G,Seine,loc.adm.reg|prod.media,loc.adm.reg,loc.adm.reg,both right
+HRG,1911-06-25_G,TRIBAUDEAU,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-06-25_G,V.-A. CLAVERIE,pers.ind,org.ent,(not in gold),both wrong
+HRG,1911-06-25_G,Va Vite,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_E,Charles CLERC,pers.ind,pers.ind.articleauthor,pers.ind.articleauthor,only Qwen+imp right
+HRG,1911-07-16_E,directeur des « Petites Marionnettes »,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_E,Ichthyologie,org.ent,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_E,Néris,loc.adm.town|pers.ind,pers.ind,pers.ind,both right
+HRG,1911-07-16_E,Petites Marionnettes,,loc.fac|org.ent,org.ent,only Qwen+imp right
+HRG,1911-07-16_E,Roussillon,loc.adm.town,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1911-07-16_E,soleil,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_F,112,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_F,APIOL JORET,pers.ind,prod.media,(not in gold),both wrong
+HRG,1911-07-16_F,BOISSON,prod.media,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_F,Congrès,org.ent,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_F,cuirassiers,org.adm,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_F,Mlle RITA CENOZ de R..,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-07-16_F,Mont-Valérien,loc.phys.geo,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1911-07-16_F,"PHOTO - JULGARISATRICE ""INCROYABLE""",org.ent,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_F,préfet,org.adm,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_F,RITA CENOZ de R..,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_F,Rueil,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1911-07-16_F,SEVERING,,org.ent,(not in gold),only Mistral+imp right
+HRG,1911-07-16_F,SEVERING & Ce,org.ent,,org.ent,only Mistral+imp right
+HRG,1911-07-16_F,Sève capillaire OLBÉ,org.ent,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,12 avril 1910,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1911-07-16_G,"13, Av. des Moulineaux",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1911-07-16_G,16 juillet 1909,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1911-07-16_G,191 ...,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1911-07-16_G,3 mars 1909,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1911-07-16_G,"61, Rue Lafayette",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1911-07-16_G,9 août 1906,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1911-07-16_G,Afrique,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRG,1911-07-16_G,B.-P.,loc.unk,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,C. MARTY,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-07-16_G,"C. MARTY, imp.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,Cass. Reg.,prod.media,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,Chauquettes,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,CHAÎNE SUPÉRIEURE,org.ent,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,CYCLES MERICANT,,org.ent,org.ent,only Qwen+imp right
+HRG,1911-07-16_G,Fou-je-romps,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,G. LIÉBERT,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-07-16_G,"G. LIÉBERT, directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,HOTEL DU « PETIT JOURNAL »,,org.ent,loc.fac,both wrong
+HRG,1911-07-16_G,IMPRIMERIE DU Petit Journal,,org.ent,(not in gold),only Mistral+imp right
+HRG,1911-07-16_G,LORILLEUX,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-07-16_G,Léopold POUJADE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-07-16_G,"Léopold POUJADE, Chimiste",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,M. Passerieux,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-07-16_G,"M. Passerieux, pharmacien-spécialiste",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-07-16_G,"MARQUE
+
+NOTA",org.ent,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,Nestor,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-07-16_G,PARIS-BILLANCOURT,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1911-07-16_G,PETIT JOURNAL AGRICOLE,,prod.media,prod.media,only Qwen+imp right
+HRG,1911-07-16_G,Périgueux,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1911-07-16_G,Raoul VERNEUIL,pers.ind.articleauthor,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-07-16_G,rue Lafayette,loc.add.phys|loc.oro,loc.oro,(not in gold),both wrong
+HRG,1911-07-16_G,Trib. civ.,org.ent,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,TRIBAUDEAU,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1911-07-16_G,VALSER,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-07-16_G,Xe Arrt,org.ent,loc.adm.town,(not in gold),both wrong
+HRG,1911-08-20_C,Baron,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-08-20_C,Bois-André,loc.adm.town,loc.adm.town|loc.unk,loc.adm.town,both right
+HRG,1911-08-20_C,château du Bois-André,,loc.fac,loc.fac,only Qwen+imp right
+HRG,1911-08-20_C,DRANER,pers.ind.articleauthor,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-08-20_C,Eclair,prod.media,pers.ind,(not in gold),both wrong
+HRG,1911-08-20_C,gros industriel de Puteaux,pers.coll,,(not in gold),only Qwen+imp right
+HRG,1911-08-20_C,monsieur le baron,org.adm,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-08-20_C,Puteaux,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1911-12-03_F,Butte,loc.oro,loc.phys.geo,(not in gold),both wrong
+HRG,1911-12-03_F,cimetière Montmartre,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1911-12-03_F,collègue Courtaud,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-12-03_F,Courtaud,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-12-03_F,le 28 août dernier,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1911-12-03_F,le président,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1911-12-03_F,M. et Mme Morlier,pers.coll,,(not in gold),only Qwen+imp right
+HRG,1911-12-03_F,M. Morlier,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-12-03_F,Mme Morlier,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1911-12-03_F,Montmartre,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1911-12-03_F,Normandie,loc.adm.nat,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRG,1911-12-03_F,Paris,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1911-12-03_F,rue des Jeuneurs,,loc.oro,loc.oro,only Qwen+imp right
+HRG,1912-01-07_C,Cie,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_C,Claudin,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRG,1912-01-07_C,DRANER,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRG,1912-01-07_C,LA SEMAINE FANTAISISTE,,prod.media,(not in gold),only Mistral+imp right
+HRG,1912-01-07_C,LES JOURNAUX,prod.media,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_C,Marocain-Congo,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_C,P. C.,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_C,Paul BONHOMME,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRG,1912-01-07_C,Ploquin,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_C,salmis,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_C,Salmis Marocain-Congo,,prod.media,(not in gold),only Mistral+imp right
+HRG,1912-01-07_C,Sicambres,,pers.coll,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,1,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,"10, rue de Villebois-Mareuil",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,"11, r. Eupatoire",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,"11, rue Lacharrière",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,"112, rue Réaumur",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,13-2 r. Montholon,,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,1819,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1912-01-07_G,"194, rue Lafayette",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,"31, rue Matabiau",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1912-01-07_G,"5, passage Verdeau",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,A. Decaer,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,Amelot,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,AMIS RIRE,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,APIL,pers.ind,org.ent,(not in gold),both wrong
+HRG,1912-01-07_G,article 674,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Av. des Moulineaux,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,B. LEFORT,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,B.-P.,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,baron de Senay,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,C. MARTY,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-01-07_G,"C. MARTY, imp.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,canton,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Cartier,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,commune,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Corr.,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,CYCLES MERIOANT,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,d'Assurances,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,depuis 1819,time.date.abs,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Dr KATZ,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-01-07_G,"Dr KATZ, chirurgien des hôpitaux",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,du Dispensaire,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,département,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Faubourg Saint-Denis,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,FONS,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1912-01-07_G,Franco-Inglese,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Gard,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRG,1912-01-07_G,Gauloise,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,HERFELD,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,HERFELD et Ce,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,Italiens,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,J. Hasié,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-01-07_G,"J. Hasié, phac",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Jorin,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,La Gauloise,prod.media,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,LAILLET,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-01-07_G,"LAILLET, Ingénieur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,LEONOLDE POUJADE,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-01-07_G,"LEONOLDE POUJADE, Chiste",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,LORILLFUX,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,MALTE,loc.adm.town,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRG,1912-01-07_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,MILINE LEFEVRE,pers.ind,org.ent,(not in gold),both wrong
+HRG,1912-01-07_G,Moulineaux,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Niolet,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-01-07_G,"Niolet, chimist-parfumeur",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,N° 31,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,N° 91,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,PARMOIS,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,passage Verdeau,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Phac Franco-Inglese,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,Phac St-Michel,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,Pharmacie du Dispensaire,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,r. Eupatoire,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,r. Montholon,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,rue de Villebois-Mareuil,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,rue Matabiau,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,SAGE-FEME,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,Saint-Denis,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,SAINT-YVES,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,St-Michel,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,TRIBAUDEAU,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-01-07_G,VALSER,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,VIN ROMAN,prod.media,,(not in gold),only Qwen+imp right
+HRG,1912-01-07_G,XXe,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,auberges,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,Banquet de la Saint-Charlemagne,org.adm,org.ent,(not in gold),both wrong
+HRG,1912-01-14_C,cabaret,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,chaume,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,cochon,prod.media,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,cour,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,douves,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,DRANER,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRG,1912-01-14_C,ferme,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,foires,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,fossés,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,grès,prod.media,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,haies,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,l'hôtel de ville,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,la grand'route,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,le maire,org.adm,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,lièvre,prod.media,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,monsieur le maire,org.adm,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-01-14_C,niche,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,notaire,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,place Victor-Hugo,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1912-01-14_C,ruisseaux,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,Saint-Charlemagne,loc.adm.town,,pers.ind,both wrong
+HRG,1912-01-14_C,tonneau,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,trois-six,prod.media,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,trèfle,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,veau,prod.media,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,Victor-Hugo,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,village,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,ville,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-01-14_C,écuelle,loc.fac,,(not in gold),only Qwen+imp right
+HRG,1912-02-11_E,"8, place Victor-Hugo",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1912-02-11_E,Alfred MÉRIC,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRG,1912-02-11_E,Arcol,loc.adm.town,loc.unk,loc.adm.town,only Mistral+imp right
+HRG,1912-02-11_E,Arcène Brantôme,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-02-11_E,"cavalier, Arcène Brantôme",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-02-11_E,Confédération du Rhin,loc.adm.reg,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRG,1912-02-11_E,duc de Dantzig,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1912-02-11_E,Franconi,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-02-11_E,Ingolstadt,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1912-02-11_E,Latour-d'Auvergne,loc.fac,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-02-11_E,Lefebvre,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-02-11_E,"Lefebvre, duc de Dantzig",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-02-11_E,Malte,loc.adm.nat|loc.adm.reg|loc.adm.town,loc.adm.nat,loc.adm.nat,both right
+HRG,1912-02-11_E,Nord,loc.adm.nat,loc.adm.reg,(not in gold),both wrong
+HRG,1912-02-11_E,place Victor-Hugo,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1912-02-11_E,pont du Danube,loc.oro,loc.fac,loc.fac,only Qwen+imp right
+HRG,1912-02-11_E,tante Arsène,pers.coll|pers.ind,pers.ind,pers.ind,both right
+HRG,1912-02-11_E,ville d'Ingolstadt,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-02-25_F,182e,org.adm,,(not in gold),only Qwen+imp right
+HRG,1912-02-25_F,Hiche life,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-02-25_F,LE PETIT JOURNAL AGRICOLE,,prod.media,prod.media,only Qwen+imp right
+HRG,1912-02-25_F,Ph. BERTHELIER,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRG,1912-08-04_F,15 juillet 1880,time.date.abs,,time.date.abs,only Mistral+imp right
+HRG,1912-08-04_F,1809,time.date.abs,,time.date.abs,only Mistral+imp right
+HRG,1912-08-04_F,21 avril 1832,time.date.abs,,time.date.abs,only Mistral+imp right
+HRG,1912-08-04_F,Algérien,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-08-04_F,de 1809,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1912-08-04_F,du 15 juillet 1880,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1912-08-04_F,du 21 avril 1832,,time.date.abs,(not in gold),only Mistral+imp right
+HRG,1912-08-04_F,FIANCÉE,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-08-04_F,Galérien,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-08-04_F,l'Atlas,,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1912-08-04_F,"Mar-
+
+seille",,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRG,1912-08-04_F,Mont-Blanc,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1912-08-04_F,Nortrop,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-08-04_F,PRÉTENDANT,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-08-04_F,Régalien,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-08-04_F,Salze,loc.adm.town,pers.ind,(not in gold),both wrong
+HRG,1912-08-04_F,Terre-de-Feu,loc.adm.reg,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRG,1912-08-18_F,"10, rue Richelieu",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRG,1912-08-18_F,11 mars,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1912-08-18_F,16 avril,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1912-08-18_F,"19, rue Cadet",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-08-18_F,21 avril,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1912-08-18_F,3 mars,,time.date.abs,time.date.abs,only Qwen+imp right
+HRG,1912-08-18_F,BLONDINETTE,pers.ind,,prod.media,both wrong
+HRG,1912-08-18_F,JEP,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1912-08-18_F,LE CODE POUR TOUS,prod.media,,(not in gold),only Qwen+imp right
+HRG,1912-08-18_F,Monsieur H. LINDEUX,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-08-18_F,"Monsieur H. LINDEUX, pharmacien",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-08-18_F,rue Cadet,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-08-18_F,rue Richelieu,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,"10, Rue Mont-Thabor",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-09-08_G,"13, Av. des Moulinaux",,loc.add.phys,(not in gold),only Mistral+imp right
+HRG,1912-09-08_G,A.-M.,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,ALLEM,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,ANGLAIS,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,Av. des Moulinaux,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,BOUILLON,loc.adm.town,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,C. MARTY,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-09-08_G,"C. MARTY, imp.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,Encre LORILLUX,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,EPILATEUR NIL,,org.ent,(not in gold),only Mistral+imp right
+HRG,1912-09-08_G,esp,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,GRAND COMPTOIR NATIONAL D'HORLOGERIE,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-09-08_G,HOTEL DU « PETIT JOURNAL »,,loc.fac,loc.fac,only Qwen+imp right
+HRG,1912-09-08_G,ital,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,J. Ratié,,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-09-08_G,"J. Ratié, ph.",pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,L'INSTITUT JURIDIQUE de PARIS,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-09-08_G,LORILLUX,,org.ent,org.ent,only Qwen+imp right
+HRG,1912-09-08_G,M. T,,pers.ind,(not in gold),only Mistral+imp right
+HRG,1912-09-08_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-09-08_G,NIL,pers.ind,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,Ph. Franco-Inglese,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-09-08_G,Ph. St-Michel,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRG,1912-09-08_G,PHOTO-VULGA,org.ent,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,Place de Valois,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1912-09-08_G,Place de Valois - PARIS,loc.add.phys,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,PORTU,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,r. Montmartre,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1912-09-08_G,rue Amelot,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,Rue de l'Oasis,,loc.oro,(not in gold),only Mistral+imp right
+HRG,1912-09-08_G,Rue Mont-Thabor,loc.oro,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,RUSS,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRG,1912-09-08_G,VERDEILLE,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRG,1912-09-08_G,Vosges,loc.adm.nat,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1892-12-10_C,Asie,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRS,1892-12-10_C,Durancettes,,loc.phys.hydro,loc.phys.hydro,only Qwen+imp right
+HRS,1892-12-10_C,Gros-Rocher,loc.adm.town,loc.adm.town|loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1892-12-10_C,Louis XIII,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRS,1892-12-10_C,Mecque,loc.fac,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1892-12-10_C,Myon,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRS,1892-12-10_C,ONCLE SÉBASTIEN,pers.ind|prod.media,pers.ind,pers.ind,both right
+HRS,1892-12-10_C,Orient,loc.adm.nat|loc.adm.sup,loc.adm.sup,(not in gold),both wrong
+HRS,1892-12-10_C,Rion,,loc.phys.hydro,(not in gold),only Mistral+imp right
+HRS,1892-12-10_C,rue du Mai,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1892-12-10_C,Tripolitaine,loc.adm.nat,loc.adm.reg,loc.adm.nat,only Mistral+imp right
+HRS,1895-08-04_B,Beni-Ghili,loc.adm.town,pers.coll,(not in gold),both wrong
+HRS,1895-08-04_B,Conservatoire national,org.ent,,(not in gold),only Qwen+imp right
+HRS,1895-08-04_B,Conservatoire national de musique et de déclamation,,org.ent,org.ent,only Qwen+imp right
+HRS,1895-08-04_B,Nord,org.adm,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1895-08-04_B,Supplément illustré EN COULEURS,prod.media,,(not in gold),only Qwen+imp right
+HRS,1895-08-04_C,Bésy,pers.ind,pers.coll,pers.coll,only Qwen+imp right
+HRS,1895-08-04_C,Clairefontaine,loc.adm.town,loc.fac,loc.fac,only Qwen+imp right
+HRS,1895-08-04_C,Cévennes,loc.adm.reg,loc.phys.geo,loc.adm.reg,only Mistral+imp right
+HRS,1895-08-04_C,Dieu,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1895-08-04_C,monsieur Balaruc,pers.ind,,pers.ind,only Mistral+imp right
+HRS,1895-08-04_C,Poujol,loc.adm.reg|loc.adm.town,loc.adm.town,loc.adm.town,both right
+HRS,1895-11-10_C,Bourse,,org.ent,(not in gold),only Mistral+imp right
+HRS,1895-11-10_C,brick la Junon,org.ent,,(not in gold),only Qwen+imp right
+HRS,1895-11-10_C,Chine,,loc.adm.nat,(not in gold),only Mistral+imp right
+HRS,1895-11-10_C,Granvillais,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1895-11-10_C,Joseph Montfrin,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1895-11-10_C,Junon,org.ent,loc.fac|loc.unk,prod,both wrong
+HRS,1895-11-10_C,Kairon,loc.adm.town,loc.adm.town|loc.phys.hydro,loc.adm.town,both right
+HRS,1895-11-10_C,khan,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1895-11-10_C,le fils de la veuve,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1895-11-10_C,mare de Kairon,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRS,1895-11-10_C,Nord de la Chine,loc.adm.reg,,loc.adm.reg,only Mistral+imp right
+HRS,1895-11-10_C,Notre prince,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1895-11-10_C,prince,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1895-11-10_C,Roger de Sartines,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1895-11-10_C,"Roger de Sartines, secrétaire de toutes les Sociétés artistiques de France",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1895-11-10_C,Saint-Bernard,org.ent,loc.fac,prod,both wrong
+HRS,1895-11-10_C,Soir de banlieue,,prod.media,(not in gold),only Mistral+imp right
+HRS,1895-11-10_C,Terre-Neuve,loc.adm.nat|loc.adm.reg,loc.adm.nat,loc.adm.reg,only Mistral+imp right
+HRS,1895-11-10_C,Un soir de banlieue,,prod.media,(not in gold),only Mistral+imp right
+HRS,1895-11-10_C,Xavier MARMIER,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1901-12-15_C,bon Samaritain,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1901-12-15_C,Bonenfant,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1901-12-15_C,compatriote Saturnien,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1901-12-15_C,de Salolles,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1901-12-15_C,Le Casque,prod.media,,(not in gold),only Qwen+imp right
+HRS,1901-12-15_C,M.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1901-12-15_C,"M. Aperasse, chef de bureau au ministère des Formalités",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1901-12-15_C,M. de Salolles,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1901-12-15_C,M. Louis Saturnien,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1901-12-15_C,Marne,,loc.phys.hydro,loc.adm.reg,both wrong
+HRS,1901-12-15_C,"rue du Colombier, n° 106",loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1901-12-15_C,Samaritain,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-02-01_E,abbé Coquet,pers.ind|prod.media,pers.ind,pers.ind,both right
+HRS,1903-02-01_E,Conservatoire,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-02-01_E,Juliettes,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-02-01_E,Manons,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-02-01_E,Marguerites,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-02-01_E,Marie THIÉRY,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1903-02-01_E,porte Saint-Antoine,loc.oro,loc.fac,loc.oro,only Mistral+imp right
+HRS,1903-02-01_E,Rosenn,org.ent,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-02-01_E,Rue Lafayette,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-02-01_E,salle Drouot,,loc.fac,loc.fac,only Qwen+imp right
+HRS,1903-02-01_E,Timide,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_B,Cross-Country national,org.ent,prod.media,(not in gold),both wrong
+HRS,1903-03-15_B,Dreistirnen,loc.adm.town|pers.coll,loc.adm.town,loc.adm.town,both right
+HRS,1903-03-15_B,Empire allemand,org.adm|org.ent,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1903-03-15_B,ferme Van den Neucker,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_B,forêt de Reinwald,,loc.phys.geo,(not in gold),only Mistral+imp right
+HRS,1903-03-15_B,frontière bulgare,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRS,1903-03-15_B,Groupe militaire du Nord-Est,org.adm,org.ent,org.ent,only Qwen+imp right
+HRS,1903-03-15_B,la dame blanche,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_B,La lune,loc.phys.astro,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_B,la muraille,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_B,la tonnelle,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_B,la vieille femme que me servait,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_B,la villa invisible,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_B,le bouquet de roses blanches,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_B,Peeter,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-03-15_B,Unbekantreich,loc.adm.nat|loc.adm.town,loc.adm.nat,(not in gold),both wrong
+HRS,1903-03-15_B,Union,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-03-15_B,Van den Neucker,,pers.ind,pers.coll,both wrong
+HRS,1903-03-15_B,vieux Freitag,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-03-15_B,Vorwärts,pers.ind|prod.media,pers.ind,(not in gold),both wrong
+HRS,1903-03-15_D,1908,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1903-03-15_D,Ar Men,loc.adm.town|loc.fac,loc.phys.geo,(not in gold),both wrong
+HRS,1903-03-15_D,Atlantique,loc.adm.nat|loc.phys.hydro,loc.phys.hydro,loc.phys.hydro,both right
+HRS,1903-03-15_D,Bordeaux,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1903-03-15_D,Bouc,loc.fac,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-03-15_D,CARNAVAL,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_D,Chevreau,loc.fac,loc.phys.geo,(not in gold),both wrong
+HRS,1903-03-15_D,Chèvre,loc.fac,loc.phys.geo,(not in gold),both wrong
+HRS,1903-03-15_D,Douarnenez,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1903-03-15_D,"Douarnenez, 1908",time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_D,FONTLUCE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-03-15_D,Février,loc.adm.town,time.date.abs,(not in gold),both wrong
+HRS,1903-03-15_D,Gironde,loc.adm.nat,loc.adm.reg,loc.adm.nat,only Mistral+imp right
+HRS,1903-03-15_D,Goff,org.ent|pers.ind,pers.ind,(not in gold),both wrong
+HRS,1903-03-15_D,HALEINE,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_D,Journal,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_D,Menez-hom,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-03-15_D,MENTHE EXCELSIOR,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_D,moussa Pierrick,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_D,Océan,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRS,1903-03-15_D,Petit Journal,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-03-15_D,Pierres Noires,loc.fac,loc.phys.geo,loc.fac,only Mistral+imp right
+HRS,1903-03-15_D,Pierrick,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-03-15_D,Pont des Chats,loc.fac,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-03-15_D,r. des Faures,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-03-15_D,Raz de Sein,loc.adm.town,loc.phys.hydro,loc.phys.hydro,only Qwen+imp right
+HRS,1903-03-15_D,Rue Lafayette,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-03-15_D,van,loc.fac,loc.phys.geo,(not in gold),both wrong
+HRS,1903-03-15_D,île de Sein,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-03-22_G,"15, Rue de la Paix",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,1870-71,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,89,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,"89, Rue du Marché-aux-Herbes",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,8e Filles-du-Calvaire,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,A. M,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Amérique,loc.adm.nat,loc.adm.sup,(not in gold),both wrong
+HRS,1903-03-22_G,Avenue de la Grande-Armee,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,BARBE,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,BARY,pers.ind,org.ent,(not in gold),both wrong
+HRS,1903-03-22_G,Blanche,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,BLOND,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Boul' Safat-Marcel,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Boulets,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Boursault,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,BRIATTE-PIÉRIN,pers.ind,org.ent,pers.ind,only Mistral+imp right
+HRS,1903-03-22_G,BRUN,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Chev.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,CHEVRUX,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Cils,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,COMPTOIR DE MUSIQUE,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,de la République,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,DÉPENSIER,pers.ind,org.ent,(not in gold),both wrong
+HRS,1903-03-22_G,E. U. D'A.,org.ent,loc.adm.nat,(not in gold),both wrong
+HRS,1903-03-22_G,ELECTRIC BELTS,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,faubg Saint-Antoine,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,faubg Saint-Antoine (Xe),loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Faubourg St-Denis,loc.adm.town,loc.oro,(not in gold),both wrong
+HRS,1903-03-22_G,Filles-du-Calvaire,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,G. BARY,pers.ind,org.ent,pers.ind,only Mistral+imp right
+HRS,1903-03-22_G,G. Rigolet,pers.ind.articleauthor,pers.ind,org.ent,both wrong
+HRS,1903-03-22_G,H. SARDA,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1903-03-22_G,INSTITUT DYNAMOTHERAPIQUE,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,J. GATTY,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-03-22_G,"J. GATTY anc. juge (paix, direct memb.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,J. PIERRE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,J. PIERRE chim.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,J. Posel,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,"J. Posel, chim.",pers.ind.articleauthor,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,J. RATIE,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-03-22_G,"J. RATIE, ph.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,L'EXTRAIT CAPILLAIRE VÉGÉTAL,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,L.L.D.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,LE ROCHER,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1903-03-22_G,loi,loc.adm.town,loc.adm.reg,(not in gold),both wrong
+HRS,1903-03-22_G,Lotion végétale,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,M. LE DIRECTEUR,pers.ind,,pers.ind,only Mistral+imp right
+HRS,1903-03-22_G,Mer 1870-71,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Monheton,loc.adm.town,loc.unk,(not in gold),both wrong
+HRS,1903-03-22_G,Motte Sage,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,MOUSTACHE,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Passage Verdeau,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,Ph. D.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,POUJAUE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,"POUJAUE, chimiste à",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,r. Boursault,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,r. Saigon,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-03-22_G,RENOM,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,"RENOM, ing.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,rue Cadet,loc.add.phys,loc.oro,loc.oro,only Qwen+imp right
+HRS,1903-03-22_G,Rue de la Paix,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,rue de la République,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,rue des Boulets,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-03-22_G,Rue du Marché-aux-Herbes,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,rue Saint-Pantaleon,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-03-22_G,RUSS,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,République,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,SPLENDIDE,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,St-Sabin,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Terre,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,TRIBAUDEAU,loc.adm.town,org.ent,org.ent,only Qwen+imp right
+HRS,1903-03-22_G,Verdeau,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-03-22_G,Vétérans des Armées de Terre et de Mer,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-03-22_G,Vétérans des Armées de Terre et de Mer 1870-71,org.adm,,org.ent,both wrong
+HRS,1903-03-22_G,Xe,loc.unk,,(not in gold),only Qwen+imp right
+HRS,1903-04-12_C,Aigle,org.ent,loc.fac,prod,both wrong
+HRS,1903-04-12_C,Babors,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-04-12_C,Gave,loc.adm.town,loc.phys.hydro,loc.phys.hydro,only Qwen+imp right
+HRS,1903-04-12_C,Khalifat,pers.ind,loc.adm.town|pers.ind,(not in gold),both wrong
+HRS,1903-04-12_C,la Blanche,loc.fac,pers.ind,(not in gold),both wrong
+HRS,1903-04-12_C,le creux de vallon,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRS,1903-04-12_C,Légion d'honneur,,org.ent,prod,both wrong
+HRS,1903-04-12_C,Toulon,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1903-04-12_C,vieux Lurat,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-10_E,5,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-05-10_E,Arrel,loc.adm.town|pers.ind,pers.ind,(not in gold),both wrong
+HRS,1903-05-10_E,d'Arrel,loc.adm.town,pers.ind,(not in gold),both wrong
+HRS,1903-05-10_E,FARINE DUTAUT,prod.media,org.ent,(not in gold),both wrong
+HRS,1903-05-10_E,LA SCIENCE FRANÇAISE,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-05-10_E,Lizeuil,loc.adm.town|pers.coll|pers.ind,pers.coll|pers.ind,pers.ind,both right
+HRS,1903-05-10_E,Oculiste américain,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-05-10_E,rue Gasnierguy,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-05-10_E,"rue Gasnierguy, 5",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1903-05-24_B,Bertillon,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-05-24_B,Chambre,,org.adm,(not in gold),only Mistral+imp right
+HRS,1903-05-24_B,Ecosse,loc.adm.nat,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1903-05-24_B,Figaro,,prod.media,prod.media,only Qwen+imp right
+HRS,1903-05-24_B,Figaro à la mode,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_B,Filles de la charité,,org.ent,org.ent,only Qwen+imp right
+HRS,1903-05-24_B,hôtel Swan,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_B,JOCONDE,prod.media,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-24_B,L'OUVRIER,,prod.media,prod.media,only Qwen+imp right
+HRS,1903-05-24_B,M. Hamard,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-24_B,"M. Hamard, le distingué et habile chef de la sûreté",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_B,"M. Mesureur, le nouveau directeur de l'Assistance publique",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_B,Normandie,loc.adm.nat,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1903-05-24_B,Patrie,,loc.adm.nat,(not in gold),only Mistral+imp right
+HRS,1903-05-24_B,Portugal,,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1903-05-24_B,Prussiens,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-05-24_B,royaume de Portugal,org.adm,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_B,Saint-Cyr,loc.adm.town|org.ent,loc.adm.town,loc.adm.town,both right
+HRS,1903-05-24_B,Sous-lieutenant du génie,org.adm,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_C,ami Paul Lisois,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_C,FARINE DUTAUT,prod.media,org.ent,(not in gold),both wrong
+HRS,1903-05-24_C,"Jean
+
+Le médecin",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_C,Joconde,pers.ind,pers.ind|prod.media,pers.ind,both right
+HRS,1903-05-24_C,Lyon,loc.fac,loc.adm.town,(not in gold),both wrong
+HRS,1903-05-24_C,Marie THIÉRY,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1903-05-24_C,Paul Lisois,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-24_D,234,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_D,"234, Faubourg Saint-Martin",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1903-05-24_D,"8, place Victor-Hugo",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1903-05-24_D,COQUELIGOTS,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-05-24_D,Cuisinier,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_D,Dieu,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-05-24_D,faubourg Saint-Germain,loc.add.phys,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1903-05-24_D,Faubourg Saint-Martin,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_D,FONTLUCE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-05-24_D,"FONTLUCE
+
+IX",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_D,Institut,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-05-24_D,inventeur JOHN TAVERNIER,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_D,JOHN TAVERNIER,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-24_D,l'Echo des Poètes,,prod.media,prod.media,only Qwen+imp right
+HRS,1903-05-24_D,Midi,loc.adm.reg,loc.adm.sup,loc.adm.reg,only Mistral+imp right
+HRS,1903-05-24_D,Petit Journal,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-05-24_D,place Victor-Hugo,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_D,promenade des Anglais,,loc.oro,loc.oro,only Qwen+imp right
+HRS,1903-05-24_D,rue de Monceau,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-05-24_D,Traité de la Hernie,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-05-24_D,Villa des Pins,loc.fac,loc.add.phys,loc.fac,only Mistral+imp right
+HRS,1903-05-24_D,ville,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_D,X..,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-05-24_E,l'Écho des poètes,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-05-24_E,le Mail,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-05-24_E,Loin du monde,,prod.media,prod.media,only Qwen+imp right
+HRS,1903-05-24_E,M.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-24_E,Mademoiselle Pierrette,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-24_E,Paul ANDRÉ,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1903-05-24_E,RUE CHALGRIN,,loc.oro,loc.oro,only Qwen+imp right
+HRS,1903-05-31_B,Afrique,loc.adm.reg,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRS,1903-05-31_B,Antilles,loc.adm.reg,loc.adm.sup,loc.adm.reg,only Mistral+imp right
+HRS,1903-05-31_B,Aurore,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-31_B,Bretons,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-05-31_B,comte de Paris,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-05-31_B,Côte d'Afrique,loc.adm.reg,loc.phys.geo,(not in gold),both wrong
+HRS,1903-05-31_B,Côte-d'Ivoire,loc.adm.town,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1903-05-31_B,DE PORTUGAL,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_B,est,loc.adm.reg,loc.adm.sup,(not in gold),both wrong
+HRS,1903-05-31_B,fille Aurore,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_B,Jardin d'Acclimatation,org.ent,loc.fac,loc.fac,only Qwen+imp right
+HRS,1903-05-31_B,La Saharienne,,prod.media,prod,both wrong
+HRS,1903-05-31_B,Meurthe-et-Moselle,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1903-05-31_B,Montmorency,org.ent,loc.fac,prod,both wrong
+HRS,1903-05-31_B,Normands,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-05-31_B,père Hémon,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-31_B,Saharienne,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_B,Silünгарin,loc.adm.town,loc.unk,(not in gold),both wrong
+HRS,1903-05-31_B,Tage,,loc.phys.hydro,loc.phys.hydro,only Qwen+imp right
+HRS,1903-05-31_B,Terre-Neuvais,loc.adm.town|pers.coll,pers.coll,(not in gold),both wrong
+HRS,1903-05-31_B,TERRE-NEUVE,loc.adm.nat,loc.adm.town,loc.adm.reg,both wrong
+HRS,1903-05-31_B,Théodora,org.ent|pers.ind|prod.media,loc.fac,prod,both wrong
+HRS,1903-05-31_F,"21, rue chel-le-Comte",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1903-05-31_F,27 avril 1839,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,4 juillet 1837,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,A. C. F,org.ent,org.ent|pers.ind,(not in gold),both wrong
+HRS,1903-05-31_F,Algarve,loc.adm.town,loc.adm.reg,(not in gold),both wrong
+HRS,1903-05-31_F,Amazonie,loc.phys.hydro,loc.adm.reg|loc.phys.hydro,(not in gold),both wrong
+HRS,1903-05-31_F,Amérique,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRS,1903-05-31_F,Angoulême,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1903-05-31_F,belle-mère,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,Bouchaud,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-31_F,Bouchaud Angoulême,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,Cannebière,,loc.oro,loc.adm.town,both wrong
+HRS,1903-05-31_F,Celse,loc.adm.town,pers.ind,(not in gold),both wrong
+HRS,1903-05-31_F,Chevron,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,colonel,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,du 27 avril 1839,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1903-05-31_F,du 4 juillet 1837,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1903-05-31_F,Gamache,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-31_F,Jardin zoologique,org.ent,loc.fac,(not in gold),both wrong
+HRS,1903-05-31_F,"M. Parapoul, enfant de la Cannebière",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,"M. Salvador, riche planteur de Santarem",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,MM. Monnot-Bartholin,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-31_F,"Mme Haramel, citoyenne de la rue de Rivoli",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,P. GUICHARD,pers.ind.articleauthor,pers.ind,(not in gold),both wrong
+HRS,1903-05-31_F,Para,loc.adm.town,pers.ind,(not in gold),both wrong
+HRS,1903-05-31_F,Poudres de Santé de Cock,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-05-31_F,rue de Rivoli,,loc.oro,loc.oro,only Qwen+imp right
+HRS,1903-05-31_F,rue Neuve,,loc.oro,loc.oro,only Qwen+imp right
+HRS,1903-05-31_F,Santé de Cock,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-05-31_F,Vianne,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-05-31_F,zouaves,org.adm,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,"93, Rue de Richelieu",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1903-06-14_F,baron de la Vivandière,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-06-14_F,"baron de la Vivandière, président de la Société des courses plates",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,Bookwell,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-06-14_F,Brionnais,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,Burgonde,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,en 1895,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1903-06-14_F,Epoque,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,Goth,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,Grand-Prix de Paris,,prod.media,org.ent,both wrong
+HRS,1903-06-14_F,gros Bookwell,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,Hun,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,l'Odéon,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-06-14_F,Le Sanglier-des-Ardennes,loc.adm.town,pers.ind,(not in gold),both wrong
+HRS,1903-06-14_F,Myosotis,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-06-14_F,Médecine Végétale,org.ent|prod.media,prod.media,(not in gold),both wrong
+HRS,1903-06-14_F,Perroquet,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,Rue de Richelieu,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,Sanglier-des-Ardennes,loc.adm.town,pers.ind,(not in gold),both wrong
+HRS,1903-06-14_F,Société des courses plates,,org.ent,org.ent,only Qwen+imp right
+HRS,1903-06-14_F,TIREBOUCHON II,pers.ind,loc.unk|pers.ind,(not in gold),both wrong
+HRS,1903-06-14_F,Vandal,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_F,Z,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,"8, Rue St-Joseph",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,Appareil DÉTECTIVE,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,B. Filles-du-Calvaire,,loc.add.phys|loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,BRIATTE-PIÉRIN,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1903-06-14_G,BUREAU,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Caramel,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Ch.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,CONFIANCE,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,D. CASSIGNEL,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-06-14_G,"D. CASSIGNEL, Imprimeur",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,de Compiègne,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,de la Fayette,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,de Passy,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,des Amandiers,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,des Boulets,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Dr R. SANDEN,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-06-14_G,Dr R. SANDEN ELECTRIC BELTS,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,E. DUPAS,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-06-14_G,"E. DUPAS, Directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Filles-du-Calvaire,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,H. SARDA,,org.ent,org.ent,only Qwen+imp right
+HRS,1903-06-14_G,HERCULEX,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,J. PIERRE,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-06-14_G,"J. PIERRE, chim.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,J. Posel,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-06-14_G,"J. Posel, chim.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,"J. Posel, chim., B.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,L'EXTRAIT CAPILLAIRE VÉGÉTAL,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,LA SANTÉ RETROUVÉE DANS LA NATURE,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,LIBRAIRE des CONNAISSANCES UTILES,,org.ent,org.ent,only Qwen+imp right
+HRS,1903-06-14_G,Lupérine,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,M. LE GERANT,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,MARINON,pers.ind,org.ent,(not in gold),both wrong
+HRS,1903-06-14_G,MÉRICANT,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,NÉCESSAIRE COMPLET de Photographie,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Oise,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,Passage Verdean,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-06-14_G,Ph.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Pivoit,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,PORTU.,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,POUIADE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,"POUIADE, chimiste à",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Quai Veil-Picard,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-06-14_G,r. Boursault,pers.ind,loc.oro,(not in gold),both wrong
+HRS,1903-06-14_G,r. de Passy,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,r. Montmartre,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,RENOM,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,"RENOM, ing.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Rue,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,rue de Compiègne,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,Rue de la Fayette,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,rue des Boulets,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,Rue des Petites-Ecuries,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-06-14_G,Rue Mozart,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-06-14_G,RUSS.,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Seine,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRS,1903-06-14_G,SIROP SOUVERAIN PIVOIT,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,Société Industrielle,,org.ent,org.ent,only Qwen+imp right
+HRS,1903-06-14_G,Société Industrielle 83,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,St-Joseph,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,St-Sabin,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-06-14_G,TISANE BONNARD,prod.doctr,prod.media,(not in gold),both wrong
+HRS,1903-08-30_F,Arcoli,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-08-30_F,Attique,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1903-08-30_F,Candie,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-08-30_F,Candien,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-08-30_F,Concile de Pise,org.adm,org.ent,(not in gold),both wrong
+HRS,1903-08-30_F,Cordelier,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-08-30_F,duc de Villaciosa,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-08-30_F,Frère,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-08-30_F,grecque,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-08-30_F,jeune Arcoli,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-08-30_F,Navarin,loc.adm.town,loc.unk,loc.adm.town,only Mistral+imp right
+HRS,1903-08-30_F,Satan,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-08-30_F,Signor,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-08-30_F,Vierge,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-08-30_F,VILLACIOSA,loc.adm.town|org.ent|pers.coll|pers.ind,loc.fac|pers.coll|pers.ind,(not in gold),both wrong
+HRS,1903-08-30_F,xive,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_B,Afrique,loc.adm.reg,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRS,1903-09-20_B,Amérique,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRS,1903-09-20_B,bijoutiers,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_B,couturiers,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_B,fourreur,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_B,Frasquila,org.ent,loc.fac|loc.unk,(not in gold),both wrong
+HRS,1903-09-20_B,Galilée,org.ent,loc.fac,prod,both wrong
+HRS,1903-09-20_B,Le 20 Septembre 1792,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1903-09-20_B,Liberté,org.adm,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_B,Marocain,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-09-20_B,Maures,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-09-20_B,modiste,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_B,Mon cher Picard,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_B,Opéra,,loc.fac,loc.fac,only Qwen+imp right
+HRS,1903-09-20_B,Pampas,org.ent,loc.fac,prod,both wrong
+HRS,1903-09-20_B,Picard,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-09-20_B,place de la Concorde,loc.fac,loc.oro,loc.oro,only Qwen+imp right
+HRS,1903-09-20_B,République,org.adm,loc.adm.nat,(not in gold),both wrong
+HRS,1903-09-20_B,République française,org.adm,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1903-09-20_B,Sahara,loc.adm.nat,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-09-20_E,Cosaques,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-09-20_E,Grande Armée,org.ent,org.adm,org.adm,only Qwen+imp right
+HRS,1903-09-20_E,"lord Cockerill, commodore de la flotte de sa Majesté Britannique",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_E,maison close,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_E,Mar,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_E,Mar-seillaise,,loc.adm.town,prod.media,both wrong
+HRS,1903-09-20_E,milady,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_E,opéra-comique,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_E,Rrrrran,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-09-20_E,-seillaise,loc.unk,,(not in gold),only Qwen+imp right
+HRS,1903-10-11_B,1880,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1903-10-11_B,30 Juillet,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1903-10-11_B,60 centimètres,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1903-10-11_B,Afghanistan,loc.adm.nat,loc.unk,loc.adm.nat,only Mistral+imp right
+HRS,1903-10-11_B,Afrique,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRS,1903-10-11_B,Amiral-Guydon,org.ent,loc.fac,(not in gold),both wrong
+HRS,1903-10-11_B,Arabes,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-10-11_B,Crimée,loc.adm.nat,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1903-10-11_B,Fernand Noat,pers.ind,pers.ind.articleauthor,pers.ind,only Mistral+imp right
+HRS,1903-10-11_B,Liseret,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-10-11_B,Lucy,org.ent|pers.ind,loc.fac|loc.unk|pers.ind,prod,both wrong
+HRS,1903-10-11_B,M. e Mme Liseret,pers.coll,pers.ind,(not in gold),both wrong
+HRS,1903-10-11_B,M. Léon,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-10-11_B,Occident,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1903-10-11_B,Paris,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1903-10-11_B,Somalis,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-10-11_B,île de Socotora,loc.adm.town,loc.phys.geo,(not in gold),both wrong
+HRS,1903-10-11_D,Bois-Roux,loc.adm.town,loc.adm.town|loc.fac,loc.fac,only Qwen+imp right
+HRS,1903-10-11_D,capitaine,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-11_D,CHARRETTE FLEURIE,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-10-11_D,Chevardaye,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-10-11_D,CITÉ BONNELLE,loc.fac,loc.oro,(not in gold),both wrong
+HRS,1903-10-11_D,FARINE DUTAUT,prod.media,org.ent,(not in gold),both wrong
+HRS,1903-10-11_D,Frédéric BERTHOLD,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1903-10-11_D,Le Farec,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-10-11_D,Mont-Blanc,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRS,1903-10-11_D,place Victor-Hugo,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-10-11_D,Vaugiron,loc.adm.town|pers.coll,pers.coll,(not in gold),both wrong
+HRS,1903-10-18_F,ACHILLE,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-10-18_F,"ACHILLE, chimiste",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,Athènes,org.adm,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1903-10-18_F,Ballu,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,Batterie Electrique Portative,org.ent,prod.media,(not in gold),both wrong
+HRS,1903-10-18_F,Bresse,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1903-10-18_F,Brig-four,pers.ind,,pers.ind,only Mistral+imp right
+HRS,1903-10-18_F,Came,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,Champagne,loc.adm.reg,,loc.adm.reg,only Mistral+imp right
+HRS,1903-10-18_F,G. Rigolet,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-10-18_F,H.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,In sodar di Tionet,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,J. RATIE,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-10-18_F,"J. RATIE, Pho",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,journal La Médecine des Sens,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,la Charité,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-10-18_F,La Médecine des Sens,,prod.media,prod.media,only Qwen+imp right
+HRS,1903-10-18_F,La Santé retrouvée dans la Nature,,prod.media,prod.media,only Qwen+imp right
+HRS,1903-10-18_F,Maison G. Rigolet,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,moussé,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,p. 1903,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,PENTAGONE,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,Pilules Pink,org.ent,org.ent|prod.media,(not in gold),both wrong
+HRS,1903-10-18_F,RENOM,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-10-18_F,"RENOM, ing.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,Rubempré,pers.ind,loc.adm.town,(not in gold),both wrong
+HRS,1903-10-18_F,Rue Ballu,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-10-18_F,Rue de la Paix,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-10-18_F,Rue du Marché-aux-Herbes,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-10-18_F,Rue Ferdinand,,loc.oro,loc.oro,only Qwen+imp right
+HRS,1903-10-18_F,sage,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,St-Sabin,loc.adm.town,loc.oro,(not in gold),both wrong
+HRS,1903-10-18_F,Sœur,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,Tionet,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-10-18_F,TUE - GIBIER,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_F,TUE - MOINEAUX,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,20,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,"3, Rue de Mogador",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1903-10-18_G,"42, Rue de l'Échiquier",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,"42, Rue de l'Échiquier, PARIS",loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,"8, r. St-Joseph",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,"8, r. St-Joseph, Paris",loc.add.phys,,loc.add.phys,only Mistral+imp right
+HRS,1903-10-18_G,A. TANQUEREY,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-10-18_G,"A. TANQUEREY, Directeur.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,Association,org.adm,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,Association des Rentiers,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,Bluze,loc.adm.town|pers.ind,pers.ind,(not in gold),both wrong
+HRS,1903-10-18_G,BRIATTE Fils,pers.ind,org.ent,(not in gold),both wrong
+HRS,1903-10-18_G,Cendrier,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,COMPAGNIE INTERNATIONALE MACHINES DE LUXE,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,COMPTOIR NATIONAL D'HORLOGERIE,,org.ent,org.ent,only Qwen+imp right
+HRS,1903-10-18_G,COMPTOIR UNIVERSEL DE FRANCE,,org.ent,prod.media,both wrong
+HRS,1903-10-18_G,Connaissances,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,DONADEY,pers.ind,org.ent,pers.ind,only Mistral+imp right
+HRS,1903-10-18_G,du comptoir d'agriculture à,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,E. DUPAS,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-10-18_G,"E. DUPAS, Directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,E. GIRARD & A. BOITTE,pers.coll,org.ent,org.ent,only Qwen+imp right
+HRS,1903-10-18_G,Forgeron,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,FRANCE,org.ent,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1903-10-18_G,GEORGES,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,"GEORGES, fab.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,Inv.-Fab.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,"J. Posol, chim.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,L'Avenir,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,LA SÈVE CAPILLAIRE,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,Loris,org.ent,prod.media,(not in gold),both wrong
+HRS,1903-10-18_G,Luper,pers.ind,org.ent,(not in gold),both wrong
+HRS,1903-10-18_G,LUXE,org.ent,prod.media,(not in gold),both wrong
+HRS,1903-10-18_G,M.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,M. A. TANQUEREY,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-10-18_G,"M. A. TANQUEREY, Directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,MERION,pers.ind,org.ent,(not in gold),both wrong
+HRS,1903-10-18_G,Monté-Léone,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,MÉRICANT,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,NE VARIETUR,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,R.,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,r. de Passy,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,r. Montmartre,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,r. Moulignon,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,r. St-Joseph,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,r. St-S. bin,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,RIGAUT,pers.ind,org.ent,(not in gold),both wrong
+HRS,1903-10-18_G,Rirolade Modano,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,Rue de Mogador,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,Rue de Turin,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,Siège,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,Société Artistique DE PORTRAITS,,org.ent,org.ent,only Qwen+imp right
+HRS,1903-10-18_G,St-Joseph,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,TUE-GIBIER,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,TUE-MOINEAUX,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-10-18_G,VIGOURAL,,prod.media,(not in gold),only Mistral+imp right
+HRS,1903-10-18_G,XOUR,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-12-06_B,Amérique du Sud,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRS,1903-12-06_B,Chambre des députés,,org.adm,(not in gold),only Mistral+imp right
+HRS,1903-12-06_B,colonel Rousset,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-12-06_B,Dagobert,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-12-06_B,des députés,org.adm,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_B,des Oseraies,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-12-06_B,Dumont-d'Urville,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-12-06_B,Durieu,loc.adm.town|pers.coll,pers.coll,(not in gold),both wrong
+HRS,1903-12-06_B,Falkland,loc.adm.reg,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-12-06_B,France,loc.adm.nat|loc.adm.reg,loc.adm.nat,loc.adm.nat,both right
+HRS,1903-12-06_B,illustre compatriote Dumont-d'Urville,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_B,Juin,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1903-12-06_B,Klondike,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-12-06_B,Louis-Philippe,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_B,M. le maire des Oseraies,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-12-06_B,Madame Durieu,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-12-06_B,mai,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1903-12-06_B,maire des Oseraies,org.adm,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_B,navire argentin Uruguay,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_B,Noirs,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1903-12-06_B,Nord,loc.adm.nat|loc.adm.reg|loc.phys.geo,loc.adm.reg|loc.adm.sup,loc.adm.reg,both right
+HRS,1903-12-06_B,Oseraies,loc.adm.town,loc.adm.town|loc.unk,loc.adm.town,both right
+HRS,1903-12-06_B,outre-Vosges,loc.unk,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1903-12-06_B,roi Dagobert,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_B,République argentine,org.adm,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1903-12-06_B,Sud,loc.phys.geo,loc.adm.sup,(not in gold),both wrong
+HRS,1903-12-06_B,Terre de Feu,loc.adm.nat,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-12-06_B,Terre Louis-Philippe,loc.adm.nat|loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-12-06_B,Uruguay,,loc.fac,loc.adm.nat,both wrong
+HRS,1903-12-06_B,île Seymour,loc.adm.town,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-12-06_B,îles de la Géorgie du Sud,loc.adm.reg,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-12-06_D,"234, Faubourg Saint-Martin",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1903-12-06_D,"3 bis, rue Marbeuf",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1903-12-06_D,"80, Cours Lieutaud,",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1903-12-06_D,Annam,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1903-12-06_D,Beaux-Arts,org.ent,loc.fac,loc.fac,only Qwen+imp right
+HRS,1903-12-06_D,Brusseière,loc.adm.town,loc.unk,(not in gold),both wrong
+HRS,1903-12-06_D,cher Labruyère,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,Conde,pers.ind,org.ent,(not in gold),both wrong
+HRS,1903-12-06_D,Cour des comptes,,org.adm,(not in gold),only Mistral+imp right
+HRS,1903-12-06_D,Cours Lieutaud,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,de l'Echelle,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-12-06_D,"docteur Brunier, de Marseille, ancien interne des hôpitaux",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,Etoile,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-12-06_D,Faubourg Saint-Martin,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,hernie,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,L'Etoile,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-12-06_D,Labruyère,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-12-06_D,M. de Lesta,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-12-06_D,"M. de Lesta, conseiller à la Cour des comptes",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,MENTHE,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-12-06_D,MENTHE-EXCELSIOR,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,Palais-Royal,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-12-06_D,Palais-Royal-Etoile,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,pauvre Jane,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,Ripiers,pers.ind,org.ent,(not in gold),both wrong
+HRS,1903-12-06_D,rue de l'Echelle,loc.add.phys,,loc.oro,both wrong
+HRS,1903-12-06_D,Saint-Martin,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-12-06_D,Teille,loc.adm.town,pers.coll,pers.coll,only Qwen+imp right
+HRS,1903-12-06_D,THÉÂNO,prod.media,pers.ind,(not in gold),both wrong
+HRS,1903-12-13_G,"23, rue St-Sabin",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,32,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,"90, Rue des Boulets",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1903-12-13_G,Académie Dermothérapique,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,ACHILLE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,"ACHILLE, chimiste",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,Ad Alra,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,Administrateur de l'Académie Dermothérapique,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,barbe,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,Bd. Filles-du-Calvaire,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,BLOND,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,BRUN,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,ch.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,Ch. de fer,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,"COMPTOIR NATIONAL D'ORLOGERIE de BESANCON (Doub.) - E. DUPAS, Directeur",org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,CYCLES MÉRICANT FROB,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,D. CASSIGNEUL,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,"D. CASSIGNEUL, Imprimeur",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,DONADEY,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-12-13_G,"DONADEY, 53, R. N.-O.-de-Nazareth",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,E. DUPAS,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-12-13_G,"E. DUPAS, Directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,Encrex Lorilleux,org.ent,loc.unk,(not in gold),both wrong
+HRS,1903-12-13_G,Etranger,loc.adm.nat,loc.adm.sup,(not in gold),both wrong
+HRS,1903-12-13_G,Filles-du-Calvaire,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,J. Pierre,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1903-12-13_G,"J. Pierre, Chimiste à BOUAIN (Aisne)",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,J. PIRAUÉ,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,J. PIRAUÉ chim.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,lav. Fab. 26,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,m.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1903-12-13_G,Maître Populaire,org.ent,,org.ent,only Mistral+imp right
+HRS,1903-12-13_G,Mme Pas d'Amour,pers.ind,,prod.media,both wrong
+HRS,1903-12-13_G,Montlhon,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,MÉRICANT FROB,,org.ent,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,Old Broad Street,org.ent,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,Oural,loc.adm.nat,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1903-12-13_G,Passage Verdeau,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,PATRELLE,pers.ind,,pers.ind,only Mistral+imp right
+HRS,1903-12-13_G,Photo-With,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,Pouvoir Magnétique,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,PREMONT (Aisne),pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,r.,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,r. Boursault,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,r. Eupatoria,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,r. Lafayette,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,r. Montmartre,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,R. N.-O.-de-Nazareth,loc.adm.town,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,r. Réaumur,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,r. St-Sabin,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,RAINCY,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,RAINCY (S-O),loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,RATIE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,RATIE (1er m. de 1er cl.),pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,RENOM,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,"RENOM, ing.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,Rue de la Pépinière,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,rue de Provence,loc.add.phys|loc.oro,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,Rue des Boulets,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,Rue du Temple,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,"Rue du Temple, 26",loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,rue Lafayette,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,rue Saint-Pantaléon,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,rue St-Joseph,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,rue St-Sabin,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1903-12-13_G,RUSS.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,Réaumur,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,S-O,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,Saint-Cado,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,Seine,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,SOCIÉTÉ ANONYME,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,St-Sabin,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,TUE-MOINEAUX,prod.media,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,TURQUAN,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1903-12-13_G,Union des Fabricants,org.ent,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,Verdeau,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1903-12-13_G,XIXe,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1911-01-08_F,"18, rue Crillon",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1911-01-08_F,AUDIOPHONEX,,org.ent,(not in gold),only Mistral+imp right
+HRS,1911-01-08_F,AUDIOPHONEX Lucq,org.ent,,org.ent,only Mistral+imp right
+HRS,1911-01-08_F,Boulevard St-Martin,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1911-01-08_F,Comp.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-01-08_F,E.C.,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1911-01-08_F,Hierfeld,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-01-08_F,Hierfeld & Comp.,,org.ent,(not in gold),only Mistral+imp right
+HRS,1911-01-08_F,Max REBOUL,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1911-01-08_F,Mlle Dufex,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1911-01-08_F,Pharmacie Gablin,loc.fac,org.ent,org.ent,only Qwen+imp right
+HRS,1911-01-08_F,pièce d'eau des Suisses,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRS,1911-01-08_F,place Victor-Hugo,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1911-01-08_F,Rhône,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1911-01-08_F,rue Crillon,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1911-01-08_F,Seine,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1911-01-08_F,tunnel de la gare des Chantiers,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1911-01-08_F,Wm. S. Rice,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-01-08_F,"Wm. S. Rice, Spécialiste",pers.ind.articleauthor,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_D,Bellechasse,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_D,boulevard,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_D,monsieur Duhamel,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-06-25_D,Palais de Justice,org.adm,loc.fac,loc.fac,only Qwen+imp right
+HRS,1911-06-25_D,rue Bellechasse,,loc.oro,loc.oro,only Qwen+imp right
+HRS,1911-06-25_G,"11, rue Lacharrière",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,"112, rue Réaumur",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,12,loc.add.phys,loc.adm.town,(not in gold),both wrong
+HRS,1911-06-25_G,13-2 r. Menthon,,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,"194, rue Lapayette",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,"2, rue Amelot",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,"22, Rue des Martyrs",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,"23, rue Ballu",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,28 avril 1838,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1911-06-25_G,"41, Rue de l'Oasis",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1911-06-25_G,"5, passage Verdoux",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,"87, rue de Richelieu",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1911-06-25_G,Afrique,loc.adm.reg,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRS,1911-06-25_G,ALLEM,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,ANGLAIS,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Ardèche,loc.adm.town,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1911-06-25_G,Ballu,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,C. La Prévoyante,,org.ent,org.ent,only Qwen+imp right
+HRS,1911-06-25_G,C. MARTY,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-06-25_G,"C. MARTY, imp.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Corr.,prod.media,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,CYCLES MERICANT,,org.ent,org.ent,only Qwen+imp right
+HRS,1911-06-25_G,Célèbre Sève Capillaire OLBÉ,org.ent,prod.media,(not in gold),both wrong
+HRS,1911-06-25_G,dermatologue Olbé,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,des Martyrs,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,des Petites-Ecuries,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Douai,prod.media,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1911-06-25_G,du 28 avril 1816,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,du 28 avril 1838,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Encre LORILLEUX,org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,ESP,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Fou-le-romps,loc.adm.town,pers.ind,(not in gold),both wrong
+HRS,1911-06-25_G,France,,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1911-06-25_G,G. LASSEUR,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-06-25_G,G. LASSEUR IMPRIMERIE,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,GLAVIERIE,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,ITAL,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Laboratoire OLBÉ,,org.ent,org.ent,only Qwen+imp right
+HRS,1911-06-25_G,Lagarçois,loc.adm.town,pers.ind,(not in gold),both wrong
+HRS,1911-06-25_G,LORILLEUX,,org.ent,org.ent,only Qwen+imp right
+HRS,1911-06-25_G,M. LEZINA,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-06-25_G,"M. LEZINA, 11",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1911-06-25_G,Menthon,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,OLBÉ,org.ent|pers.ind,pers.ind,(not in gold),both wrong
+HRS,1911-06-25_G,PARNON,loc.adm.town,org.ent,(not in gold),both wrong
+HRS,1911-06-25_G,passage Verdoux,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Ph. MODERNE,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1911-06-25_G,PORTU,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,ROUX,pers.ind,org.ent,pers.ind,only Mistral+imp right
+HRS,1911-06-25_G,rue Amelot,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Rue de l'Oasis,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,rue de Richelieu,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Rue des Martyrs,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Rue des Petites-Ecuries,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,rue Lapayette Ville R.,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,rue Réaumur,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,RUSS,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,Seine.,prod.media,org.adm,loc.adm.reg,both wrong
+HRS,1911-06-25_G,Seine except,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,TRIBAUDEAU,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1911-06-25_G,V.-A.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-06-25_G,V.-A. GLAVIERIE,,org.ent,(not in gold),only Mistral+imp right
+HRS,1911-06-25_G,Va Vite,loc.adm.town,pers.ind,(not in gold),both wrong
+HRS,1911-07-16_E,Charles CLERC,pers.ind,pers.ind.articleauthor,pers.ind.articleauthor,only Qwen+imp right
+HRS,1911-07-16_E,directeur des « Petites Marionnettes »,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_E,Edmond Rostand,pers.ind.articleauthor,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-07-16_E,Ichthyologie,org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_E,M. Eusèbe Lampluche,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-07-16_E,M. Miguel Zamacois,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-07-16_E,Néris,loc.adm.town|pers.ind,pers.ind,pers.ind,both right
+HRS,1911-07-16_E,Petites Marionnettes,,org.ent,org.ent,only Qwen+imp right
+HRS,1911-07-16_E,Pyrénées,,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1911-07-16_E,Roussillon,loc.adm.town,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1911-07-16_E,Ruyt de Don César,pers.ind,prod.media,(not in gold),both wrong
+HRS,1911-07-16_E,soleil,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,A.-M.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,ACHILLE,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-07-16_F,ACHILLE chimiste,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,BENIT,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,"BENIT, pharmacien",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,Castel,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,Congrès,org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,cuirassiers,org.adm,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,des Martyrs,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,Franco-inglesa,org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,HOMOLLE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,J. Ratié,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,"J. Ratié, phac, 5",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,Maison Gresil,pers.ind,org.ent,(not in gold),both wrong
+HRS,1911-07-16_F,Marseillaise,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,Matabiau,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,Mont-Valérien,loc.phys.geo,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1911-07-16_F,passage,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,passage Verneau,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,Phac Franco-inglesa,,org.ent,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,préfet,org.adm,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,r.,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,r. Castel,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,ROUX,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,Rue,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,Rue des Petites-Ecuries,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,"Rue des Petites-Ecuries, 12",loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_F,rue Matabiau,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1911-07-16_F,Verneau,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,"13, Av. des Moulineaux",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1911-07-16_G,"61, Rue Lafayette",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1911-07-16_G,Afrique,loc.adm.nat,loc.adm.sup,loc.adm.sup,only Qwen+imp right
+HRS,1911-07-16_G,Av. des Moulineaux,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1911-07-16_G,C. MARTY,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-07-16_G,"C. MARTY, imp.",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,Cass. Reg.,org.ent.pressagency,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,CHAÎNE SUPÉRIEURE,org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,Fou-je-romps,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,G. LIEBERT,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1911-07-16_G,"G. LIEBERT, directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,HOTEL DU « PETIT JOURNAL »,,org.ent,loc.fac,both wrong
+HRS,1911-07-16_G,IMPRIMERIE DU Petit Journal,,org.ent,(not in gold),only Mistral+imp right
+HRS,1911-07-16_G,LORILLEUX,loc.adm.town,org.ent,org.ent,only Qwen+imp right
+HRS,1911-07-16_G,Lot,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRS,1911-07-16_G,Léopold POUDADE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1911-07-16_G,"Léopold POUDADE, Chimiste",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,M. Passerieux,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-07-16_G,"M. Passerieux, pharmacien-spécialiste",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1911-07-16_G,MERICANT,,org.ent,(not in gold),only Mistral+imp right
+HRS,1911-07-16_G,Nestor,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-07-16_G,PETIT JOURNAL AGRICOLE,,prod.media,prod.media,only Qwen+imp right
+HRS,1911-07-16_G,Périgueux,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1911-07-16_G,Raoul VERNEUIL,pers.ind.articleauthor,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-07-16_G,Trib. civ.,org.adm|org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,TRIBAUDEAU,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1911-07-16_G,Un Allobroge,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,vieux Nestor,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1911-07-16_G,Xe Arrt,org.ent,,(not in gold),only Qwen+imp right
+HRS,1911-08-20_C,Bois-André,loc.adm.town,loc.adm.town|loc.unk,loc.adm.town,both right
+HRS,1911-08-20_C,Eclair,prod.media,pers.ind,(not in gold),both wrong
+HRS,1911-08-20_C,gros industriel de Puteaux,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1911-08-20_C,Justin,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-08-20_C,Monsieur le Baron,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-08-20_C,Puteaux,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1911-12-03_F,Butte,loc.oro,loc.phys.geo,(not in gold),both wrong
+HRS,1911-12-03_F,Cent mille regrets,,org.ent,(not in gold),only Mistral+imp right
+HRS,1911-12-03_F,collègue Courtaud,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-12-03_F,Courtaud,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-12-03_F,le 28 août dernier,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1911-12-03_F,le président,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1911-12-03_F,M. et Mme Morlier,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1911-12-03_F,M. Morlier,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-12-03_F,Mme Morlier,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1911-12-03_F,Normandie,loc.adm.nat,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1911-12-03_F,Paris,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1911-12-03_F,rue des Jeuneurs,,loc.oro,loc.oro,only Qwen+imp right
+HRS,1912-01-07_C,Cie,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_C,Claudin,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1912-01-07_C,DRANER,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1912-01-07_C,LA SEMAINE FANTAISISTE,prod.media,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_C,Marocain-Congo,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_C,P. C.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_C,Paul BONHOMME,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1912-01-07_C,Ploquin,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_C,Ploquin et Cie,,org.ent,(not in gold),only Mistral+imp right
+HRS,1912-01-07_C,"Ploquin et Cie, couturiers",org.ent,,org.ent,only Mistral+imp right
+HRS,1912-01-07_C,salmis,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_C,Salmis Marocain-Congo,,org.ent,(not in gold),only Mistral+imp right
+HRS,1912-01-07_C,Sicambres,,pers.coll,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,1819,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1912-01-07_G,ALLEM,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,Amelot,pers.ind,loc.oro,(not in gold),both wrong
+HRS,1912-01-07_G,ANGLAIS,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,APIL,pers.ind,prod.media,(not in gold),both wrong
+HRS,1912-01-07_G,article 674,loc.fac|prod.media,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,Av.,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,AV. LEDRU-BOLLAN,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1912-01-07_G,B LEFORT,pers.ind,org.ent,(not in gold),both wrong
+HRS,1912-01-07_G,Baume De KATZ,,prod.media,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,"Baume De KATZ, chirurgien des hôpitaux",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,canton,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,Code civil,prod.doctr,prod.media,(not in gold),both wrong
+HRS,1912-01-07_G,commune,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,Corr.,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,CYCLES MERICANT,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,d'Assurances,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,depuis 1819,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,des Moulineaux,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,du Dispensaire,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,département,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,Edipe,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-01-07_G,Faubourg Saint-Denis,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1912-01-07_G,Gard,,loc.adm.reg,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,Gauloise,prod.media,org.ent,org.ent,only Qwen+imp right
+HRS,1912-01-07_G,HERFELD & Ce,pers.ind,org.ent,(not in gold),both wrong
+HRS,1912-01-07_G,ITAL ESP,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,Italiens,pers.coll,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,Joffre,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,KATZ,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,Kloklo,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-01-07_G,Lacharrière,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,Levallois,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,Léopold POUJADE,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,"Léopold POUJADE, Chimiste",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,maires,org.adm,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,mairie,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,MALTE,loc.adm.town,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1912-01-07_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1912-01-07_G,MERICANT,,org.ent,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,MILINE LEFEVRE,pers.ind,prod.media,(not in gold),both wrong
+HRS,1912-01-07_G,monsieur Tombelle,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-01-07_G,Montolon,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,Montré,,prod.media,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,N° 31,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,N° 91,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,Paris-Levallois,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,PARMOIS,,org.ent,org.ent,only Qwen+imp right
+HRS,1912-01-07_G,Petit Journal,prod.media,org.ent|prod.media,prod.media,both right
+HRS,1912-01-07_G,Pharmacie du Dispensaire,,org.ent,org.ent,only Qwen+imp right
+HRS,1912-01-07_G,PORTU,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,préfets,org.adm,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,r Montolon,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,rue de Richelieu,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1912-01-07_G,rue de Villebois-Mareuil,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1912-01-07_G,rue Lapartey,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1912-01-07_G,Rue Roanur,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1912-01-07_G,RUSS,prod.doctr,,(not in gold),only Qwen+imp right
+HRS,1912-01-07_G,TRIBAUDEAU,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1912-01-07_G,VALSE,,prod.media,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,VALSER,,prod.media,(not in gold),only Mistral+imp right
+HRS,1912-01-07_G,VIN ROMAN,,prod.media,(not in gold),only Mistral+imp right
+HRS,1912-01-14_C,Banquet,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,Banquet de la Saint-Charlemagne,,org.ent,(not in gold),only Mistral+imp right
+HRS,1912-01-14_C,"Bernard, notaire",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,cabaret,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,chaume,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,douves,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,foires,org.adm,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,fossés,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,haies,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,hôtel de ville,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,la grand'route,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,lièvre,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,maire,org.adm,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,monsieur,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,monsieur le maire,org.adm,,pers.ind,both wrong
+HRS,1912-01-14_C,novembre,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,Octave MIRBEAU,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1912-01-14_C,ruisseaux,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRS,1912-01-14_C,Saint-Charlemagne,loc.adm.town,,pers.ind,both wrong
+HRS,1912-01-14_C,trèfle,loc.phys.geo,,(not in gold),only Qwen+imp right
+HRS,1912-02-11_E,16 avril 1809,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1912-02-11_E,Confédération du Rhin,loc.adm.reg,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1912-02-11_E,Croisette,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-02-11_E,du Danube,loc.phys.hydro,,(not in gold),only Qwen+imp right
+HRS,1912-02-11_E,duc de Dantzig,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1912-02-11_E,Ingolstadt,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1912-02-11_E,Latour-d'Auvergne,loc.adm.town,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-02-11_E,le 16 avril 1809,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1912-02-11_E,Lefebvre,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-02-11_E,"Lefebvre, duc de Dantzig",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-02-11_E,Malte,loc.adm.town,loc.adm.nat,loc.adm.nat,only Qwen+imp right
+HRS,1912-02-11_E,Nord,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRS,1912-02-11_E,Parisien,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1912-02-11_E,place Victor-Hugo,loc.add.phys,loc.oro,(not in gold),both wrong
+HRS,1912-02-11_E,tante Arsène,pers.coll,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-02-11_E,ville d'Ingolstadt,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-02-25_F,colonel,org.adm,,(not in gold),only Qwen+imp right
+HRS,1912-02-25_F,du 182e,loc.fac,,(not in gold),only Qwen+imp right
+HRS,1912-02-25_F,Hiche life,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-02-25_F,marchand,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,13 juillet 1903,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1912-08-04_F,15 juillet 1880,time.date.abs,,time.date.abs,only Mistral+imp right
+HRS,1912-08-04_F,"19, rue Cadei, Paris",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1912-08-04_F,21 avril 1832,time.date.abs,,time.date.abs,only Mistral+imp right
+HRS,1912-08-04_F,Atlas,,loc.phys.geo,(not in gold),only Mistral+imp right
+HRS,1912-08-04_F,Charles QUINEL,pers.ind.articleauthor,pers.ind,pers.ind.articleauthor,only Mistral+imp right
+HRS,1912-08-04_F,conseil de préfecture,,org.adm,(not in gold),only Mistral+imp right
+HRS,1912-08-04_F,de 1809,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,du 13 juillet 1903,time.date.abs,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,du 15 juillet 1880,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1912-08-04_F,du 21 avril 1832,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1912-08-04_F,FIANCÉE,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,général de division,org.adm,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,Instantané François-Meunier,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,JEP,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,M. Lehart père,,pers.ind,(not in gold),only Mistral+imp right
+HRS,1912-08-04_F,Paris,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,PRÉTENDANT,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,rue Cadei,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-08-04_F,Terre-de-Feu,loc.adm.reg,loc.phys.geo,loc.phys.geo,only Qwen+imp right
+HRS,1912-08-18_F,"10, rue Richelieu",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1912-08-18_F,11 mars,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1912-08-18_F,15 avril,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1912-08-18_F,17 avril,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1912-08-18_F,"19, rue Cadet",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1912-08-18_F,24 avril,,time.date.abs,(not in gold),only Mistral+imp right
+HRS,1912-08-18_F,3 mars,,time.date.abs,time.date.abs,only Qwen+imp right
+HRS,1912-08-18_F,Angles,,loc.adm.town,(not in gold),only Mistral+imp right
+HRS,1912-08-18_F,BLONDINETTE,prod.media,,prod.media,only Mistral+imp right
+HRS,1912-08-18_F,dermatologiste F. OLBÉ,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-08-18_F,F. OLBÉ,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-08-18_F,LE CODE POUR TOUS,prod.media,,(not in gold),only Qwen+imp right
+HRS,1912-08-18_F,Mme Sophie Mil...,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-08-18_F,"Mme Sophie Mil... 58 ans, propriétaire",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-08-18_F,Monsieur H. LINDEUX,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-08-18_F,"Monsieur H. LINDEUX, pharmacien",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-08-18_F,OLBÉ,org.ent,pers.ind,(not in gold),both wrong
+HRS,1912-08-18_F,Province,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRS,1912-08-18_F,rue Cadet,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-08-18_F,rue Richelieu,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,10,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,"10, rue Richelieu",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,"12, Rue des Petites-Ecuries",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,"41, Rue de l'Oasis",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1912-09-08_G,5,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,"6, Place de Valois",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,"61, Rue Lafayette",,loc.add.phys,loc.add.phys,only Qwen+imp right
+HRS,1912-09-08_G,"75, r. Montmartre",,loc.add.phys,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,A. Ducey,pers.ind,org.ent,(not in gold),both wrong
+HRS,1912-09-08_G,A.-M.,org.ent,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,ACHILLE,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-09-08_G,ACHILLE chimiste,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,ALLEM,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,AMIS RIRE,pers.ind,org.ent,(not in gold),both wrong
+HRS,1912-09-08_G,ANGLAIS,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,av.,loc.adm.reg,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Av. des Moulinaux,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,Besançon,,loc.adm.town,loc.adm.town,only Qwen+imp right
+HRS,1912-09-08_G,Besançon (Doubs),loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,BOUILLON,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Cartier,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1912-09-08_G,des Moulinaux,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Doubs,,loc.adm.reg,loc.adm.reg,only Qwen+imp right
+HRS,1912-09-08_G,Encres LORILLEUX,,org.ent,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,esp,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Faubourg Saint-Denis,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,France,,loc.adm.nat,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,G. LIÉBERT,,pers.ind,pers.ind,only Qwen+imp right
+HRS,1912-09-08_G,"G. LIÉBERT, directeur",pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,GRAND COMPTOIR NATIONAL D'HORLOGERIE,,org.ent,org.ent,only Qwen+imp right
+HRS,1912-09-08_G,GRANIT,,org.ent,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,HOTEL DU « PETIT JOURNAL »,,loc.fac,loc.fac,only Qwen+imp right
+HRS,1912-09-08_G,Jorin,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1912-09-08_G,L'INSTITUT JURIDIQUE,,org.ent,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,L'INSTITUT JURIDIQUE de PARIS,org.ent,,org.ent,only Mistral+imp right
+HRS,1912-09-08_G,LORILLEUX,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,MARINONI,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1912-09-08_G,MERICAMT,pers.ind,org.ent,(not in gold),both wrong
+HRS,1912-09-08_G,Montholon,loc.adm.town,loc.oro,(not in gold),both wrong
+HRS,1912-09-08_G,NIL,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,passage,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,passage Verdeau,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,PATRELLE,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Petit Journal,prod.media,org.ent|prod.media,prod.media,both right
+HRS,1912-09-08_G,Ph. Franco-Inglese,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1912-09-08_G,Ph. St-Michel,pers.ind,org.ent,org.ent,only Qwen+imp right
+HRS,1912-09-08_G,Place de Valois - PARIS,loc.add.phys,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,PORTU.,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,r. Castel,,loc.oro,(not in gold),only Mistral+imp right
+HRS,1912-09-08_G,r. Montmartre,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Romain,pers.ind,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Rue de l'Oasis,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Rue des Petites-Ecuries,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Rue Lafayette,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,rue Richelieu,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,RUSS,loc.adm.nat,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Saint-Denis,loc.adm.town,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,Verdeau,loc.oro,,(not in gold),only Qwen+imp right
+HRS,1912-09-08_G,"VERDEILLE, Ph.",pers.ind,org.ent,(not in gold),both wrong
+HRS,1912-09-08_G,Vosges,loc.adm.nat,loc.phys.geo,loc.phys.geo,only Qwen+imp right
