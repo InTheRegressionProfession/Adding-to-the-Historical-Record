@@ -86,7 +86,7 @@ def read_csv_rows(path):
 
 
 def read_entity_csv(path, is_gold):
-    """-> (set of (normalised entity, coarse type), {normalised entity: text as written})"""
+    """-> (set of (normalized entity, coarse type), {normalized entity: text as written})"""
     entities, display, bad = set(), {}, 0
     fieldnames, rows = read_csv_rows(path)
     ent_col = _col(fieldnames, "entity", "surface", "text")
@@ -107,7 +107,7 @@ def read_entity_csv(path, is_gold):
         entities.add((n, t))
         display.setdefault(n, text.strip())
     if bad and is_gold:
-        print(f"  Warning: {path.name}: {bad} row(s) with no recognisable type were ignored")
+        print(f"  Warning: {path.name}: {bad} row(s) with no recognizable type were ignored")
     return entities, display
 
 
