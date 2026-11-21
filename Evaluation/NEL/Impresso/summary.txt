@@ -1,0 +1,87 @@
+impresso NEL on the NER outputs
+
+Model impresso-project/nel-mgenre-multilingual @ e1190e564a9f5affbcafd2308dbf5b7504e1b268; beams 5, context 15 words each side, min confidence 0.0, candidates tried in rank order
+Documents: HRG 45, HRS 45 
+Counts are distinct entity texts per document, summed over documents. Skipped (not linked): Time.
+
+1. How many entities could be linked to Wikidata?
+
+  HRG
+                  entities     linked        NIL   % linked    Pers %    Orga %    Loca %    Prod %   via search distinct QID    mean conf   type issue   date issue
+  gold                2053       1465        588      71.4%     60.2%     49.7%     91.0%     61.8%          113         1365        0.911          231          152
+  impresso            2800       2106        694      75.2%     63.6%     79.5%     90.6%     97.6%          143         1881        0.903          603          231
+  Mistral             2446       1744        702      71.3%     61.7%     65.8%     89.7%     55.3%          120         1637        0.903          361          185
+  Qwen                2406       1726        680      71.7%     62.0%     55.0%     90.8%     62.0%          130         1603        0.910          358          183
+  Mistral+imp         2443       1783        660      73.0%     60.8%     68.8%     89.9%     86.1%          138         1656        0.907          385          198
+  Qwen+imp            2356       1707        649      72.5%     62.1%     57.6%     91.1%     68.8%          130         1594        0.910          333          183
+
+  HRS
+                  entities     linked        NIL   % linked    Pers %    Orga %    Loca %    Prod %   via search distinct QID    mean conf   type issue   date issue
+  gold                2053       1450        603      70.6%     59.2%     49.7%     90.1%     63.7%          106         1349        0.911          228          158
+  impresso            2783       2066        717      74.2%     63.7%     75.9%     89.7%     94.7%          141         1831        0.905          570          232
+  Mistral             2374       1688        686      71.1%     61.4%     63.8%     88.7%     62.3%          119         1577        0.905          331          190
+  Qwen                2384       1721        663      72.2%     62.5%     54.9%     89.8%     71.5%          122         1591        0.906          344          188
+  Mistral+imp         2442       1746        696      71.5%     59.9%     65.8%     88.3%     80.6%          135         1621        0.909          369          207
+  Qwen+imp            2364       1696        668      71.7%     61.5%     55.0%     90.4%     72.1%          133         1587        0.911          336          186
+
+  via search = no generated Wikipedia page existed; the item came from a Wikidata text search on
+  the top title (less reliable; --no-search turns it off).
+  type issue = Person not linked to a human / Location without coordinates / Organization linked to
+  a human; date issue = person born or organization founded after the newspaper's date. Both are
+  likely wrong links (see type_check / date_check in entity_links.csv).
+
+2. Do the methods reach the same Wikidata items as the gold entities? (gold documents only)
+
+  HRG
+                 gold QIDs      found      extra     missed  precision     recall         F1
+  impresso            1365       1202        679        163      0.639      0.881      0.741
+  Mistral             1365       1091        546        274      0.666      0.799      0.727
+  Qwen                1365       1231        372        134      0.768      0.902      0.830
+  Mistral+imp         1365       1198        458        167      0.723      0.878      0.793
+  Qwen+imp            1365       1270        324         95      0.797      0.930      0.858
+
+  HRS
+                 gold QIDs      found      extra     missed  precision     recall         F1
+  impresso            1349       1105        726        244      0.603      0.819      0.695
+  Mistral             1349        993        584        356      0.630      0.736      0.679
+  Qwen                1349       1124        467        225      0.706      0.833      0.765
+  Mistral+imp         1349       1091        530        258      0.673      0.809      0.735
+  Qwen+imp            1349       1153        434        196      0.727      0.855      0.785
+
+
+3. Which Wikidata items does each method reach that the others don't?
+
+  HRG  2500 item(s) reached by at least one method; 1085 by all 5 (43.4%)
+        only by: impresso 273, Mistral 235, Qwen 96, Mistral+imp 39, Qwen+imp 11
+  HRS  2413 item(s) reached by at least one method; 1079 by all 5 (44.7%)
+        only by: impresso 246, Mistral 204, Qwen 88, Mistral+imp 33, Qwen+imp 13
+  (qid_matrix.csv shows, for every item, which methods reached it and through which surface;
+   entity_matrix.csv shows, for every entity text, which methods found it and what it linked to)
+
+4. Entities most often left NIL
+
+    80  G. LASSEUR  (Person)
+    70  Maître Populaire  (Organization)
+    58  C. Desserville  (Person)
+    58  E. Terrion  (Person)
+    53  MARINONI  (Organization)
+    43  M. REVERDY  (Person)
+    40  O. Clin  (Person)
+    38  FARINE DUTAUT  (Person)
+    36  F. Crémont  (Person)
+    34  Q. de Meigneux  (Person)
+    32  G. Rigolet  (Organization)
+    30  Cécile  (Person)
+    30  M. Passerieux  (Person)
+    30  J. Posel  (Person)
+    30  Kloklo  (Person)
+    30  DRANER  (Person)
+    27  Dr R. SANDEN  (Person)
+    27  René Lambert  (Person)
+    26  Cannebière  (Location)
+    25  Luper  (Person)
+    24  Sidi-Macklouff  (Person)
+    24  Pharmacie Girard  (Organization)
+    24  J. RATIE  (Person)
+    24  Claire  (Person)
+    24  Petite-Barbare  (Location)
